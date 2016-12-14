@@ -376,7 +376,7 @@
 <lb/>know what clever people you have
 <lb/>in <placeName><country>Angola</country></placeName>- calculating longitudes to thirds
 <lb/>of time - <space extent="3" unit="chars"/>The <persName><term type="occupation"><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice></term> <choice><abbr>J.</abbr><expan></expan></choice> Challis</persName>, (<term type="occupation">professor <!-- Do we know what the expansion is of the first initial J? HB -->
-<lb/>of astronomy</term> (I believe -) of <placeName><settlement type="city"><orgName>Cambridge</orgName></settlement></placeName><!-- University as an org? MB --><!-- OK. AW -->
+<lb/>of astronomy</term> (I believe -) of <placeName><settlement type="town"><orgName>Cambridge</orgName></settlement></placeName><!-- University as an org? MB --><!-- OK. AW -->
 <lb/>gives in the <bibl>Nautical Almanac</bibl> for <choice><sic>for</sic><corr/></choice> <date when="1854"><choice><abbr>/54</abbr><expan>1854</expan></choice></date>
 <lb/>an easy mathematical way for calculating
 <lb/>a Longitude from a Lunar distance
@@ -392,7 +392,7 @@
 <lb/>mean of a number of distances <del>.</del><!-- unsure how to encode this marking. MB --><!-- Fixed. AW --> Well
 <lb/>by this improved method of calculation
 <lb/>he ^<add place="above"><persName>M<hi rend="sup underline">r</hi> Challis</persName></add>that he is only <measure>4 seconds</measure> from
-<lb/>the true longitude of the <placeName><placeName><settlement type="city">Cambridge</settlement></placeName> observatory</placeName><!-- also org? MB --><!-- OK as is. AW --><!-- Added in placeName and settlement tags. HB -->
+<lb/>the true longitude of the <placeName><placeName><settlement type="town">Cambridge</settlement></placeName> observatory</placeName><!-- also org? MB --><!-- OK as is. AW --><!-- Added in placeName and settlement tags. HB -->
 <lb/>while by the usual method he would have
 <lb/>been <measure>24 seconds distant</measure>- <persName>M<hi rend="sup">r</hi> Challis</persName> does
 <lb/>not pretend to thirds as my friend <persName>M<hi rend="sup">r</hi> Costa</persName>
