@@ -295,7 +295,7 @@
 <lb/>General of <placeName><country><choice><orig>Mosambique</orig><reg>Mozambique</reg></choice></country></placeName> though I once
 <lb/>thought of enclosing it to you. There
 <lb/>is one too for <add place="above"><persName>Mr Sehut</persName></add><del type="strikethrough"><placeName><country><choice><orig>Mosambique</orig><reg>Mozambique</reg></choice></country></placeName></del> - a <persName>Captain
-<lb/>Bobsein</persName> of <placeName><settlement type="city">Hamburgh</settlement></placeName> is here and knows
+<lb/>Bobsein</persName> of <placeName><settlement type="city"><orig>Hamburgh</orig><reg>Hamburg</reg></settlement></placeName> is here and knows
 <lb/><persName>M<hi rend="sup">r</hi> Sehut</persName> - He lost his ship on the Bar
 <lb/>I send this to <placeName><country><choice><orig>Mosambique</orig><reg>Mozambique</reg></choice></country></placeName> because a 
 <lb/><term type="nationality">French</term> vessel is there which will tour

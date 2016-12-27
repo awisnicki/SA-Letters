@@ -241,7 +241,7 @@
 	<ab>
 <lb/><gap agent="hole"/>
 	<address>
-<addrLine>Care of <persName><choice><abbr>Rev.</abbr><expan>Reverend</expan></choice> D<hi rend="sup underline">r</hi> Philip</persName>. <placeName><hi rend="underline">Cape Town</hi></placeName></addrLine>
+<addrLine>Care of <persName><choice><abbr>Rev.</abbr><expan>Reverend</expan></choice> D<hi rend="sup underline">r</hi> Philip</persName>. <placeName><settlement type="town"><hi rend="underline">Cape Town</hi></settlement></placeName></addrLine>
 	</address>
 	<addSpan hand="#U2" spanTo="#paste-on"/>
 <lb/>An Original letter of Dr. <choice><orig><persName>Livingston</persName></orig><reg><persName>Livingstone</persName></reg></choice>'s

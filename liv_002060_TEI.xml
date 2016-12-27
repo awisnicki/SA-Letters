@@ -83,7 +83,7 @@
 	<!-- Start each page with a <pb> formatted as above -->
 <!-- If this is a letter or similar with an opener (with content such as dateline and/or salute) add it. For example: -->
 <opener>
-<lb/><add place="margintop" rend="left gray small" hand="#U"><!-- diagonal -->5-6-9</add> <dateline rend="center"><placeName><settlement type="town">Hamilton</settlement></placeName> <add place="margintop" rend="right gray small">MS 8/12</add>     
+<lb/><add place="margintop" rend="left gray small" hand="#U"><!-- diagonal -->5-6-9</add> <dateline rend="center"><placeName><settlement type="city">Hamilton</settlement></placeName> <add place="margintop" rend="right gray small">MS 8/12</add>     
 <lb rend="right"/><date when="1864-09-01">1<hi rend="sup underline">st</hi> <choice><abbr>Sept</abbr><expan>September</expan></choice> 
 <lb rend="right"/>1864</date></dateline>
 <lb/>

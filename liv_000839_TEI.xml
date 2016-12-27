@@ -339,13 +339,13 @@
 <lb/>Well, from feelings of pity and a wish 
 <lb/>to enable him to make a good <bibl>map</bibl> I
 <lb/>gave him a number of paints, but not
-<lb/>being quite satisfied with <placeName><settlement>Golungo Alto</settlement></placeName>
+<lb/>being quite satisfied with <placeName><settlement type="town">Golungo Alto</settlement></placeName>
 <lb/>I reserved at for further observations
 <lb/>From a short glance I had of his <bibl>map</bibl>
 <lb/>I perceived it was enormously wrong <!-- DL frequently misspells perceive, so can we check copy to confirm? HB -->
 <lb/>I had a feeling of compassion for he
 <lb/>had evidently laboured hard upon it
-<lb/><placeName><settlement>Cassange</settlement></placeName> for instance was considerably
+<lb/><placeName><settlement type="village">Cassange</settlement></placeName> for instance was considerably
 <lb/>more than <measure>120 miles</measure> too far North
 <lb/>and many other places were equally 
 <lb/>misplaced, so I recommended to begin
@@ -353,7 +353,7 @@
 <lb/>I had given- all <space extent="2" unit="chars"/>I expected or wished
 <lb/>being to acknowledge whence these
 <lb/>points had been derived. <space extent="2" unit="chars"/>When I reached
-<lb/><placeName><settlement>Golungo</settlement></placeName> and had made additional
+<lb/><placeName><settlement type="town">Golungo</settlement></placeName> and had made additional
 <lb/>observations I wrote him and gave
 <lb/><subst><del><gap extent="1" unit="chars"/></del><add place="over-text">some</add></subst> hints as to his measurements
 
@@ -427,7 +427,7 @@
 <lb/><p>He had a great portion of the <placeName><geogName type="river">Quango</geogName></placeName>
 <lb/>down in <bibl>his map</bibl> and asserted it
 <lb/>was from actual observation having
-<lb/>gone from <placeName><settlement>Cassange</settlement></placeName> down the river <!-- geog: Quango -->
+<lb/>gone from <placeName><settlement type="village">Cassange</settlement></placeName> down the river <!-- geog: Quango -->
 <lb/>to <placeName><settlement>Ambriz</settlement></placeName> <space extent="2" unit="chars"/>As all the <term type="people">Portuguese</term> assert
 <lb/>that no <orgName>white man</orgName><!-- ? MB. --><!-- OK. AW --> ever went 
 <lb/>down the <placeName><geogName type="river">Quango</geogName></placeName> and I feel an interest
@@ -437,9 +437,9 @@
 <lb/>former assertion. He went from
 
 	<pb facs="liv_000839_0015" n="0015"/>
-<lb/><placeName><settlement>Cassange</settlement></placeName> to some point near the ford at <!-- geog: ford on the Cassange -->
-<lb/>which I crossed <add place="below">^</add> <add place="above">probably not so far it took me <measure>3 days</measure></add> <!-- addition continues on next line. MB --><add place="below" rend="left">to reach <placeName><settlement>Cassange</settlement></placeName></add> that river bought some <!-- geog: Quango, I think. HB -->
-<lb/><orgName>slaves</orgName> &amp; took them back to <placeName><settlement>Cassange</settlement></placeName>
+<lb/><placeName><settlement type="village">Cassange</settlement></placeName> to some point near the ford at <!-- geog: ford on the Cassange -->
+<lb/>which I crossed <add place="below">^</add> <add place="above">probably not so far it took me <measure>3 days</measure></add> <!-- addition continues on next line. MB --><add place="below" rend="left">to reach <placeName><settlement type="village">Cassange</settlement></placeName></add> that river bought some <!-- geog: Quango, I think. HB -->
+<lb/><orgName>slaves</orgName> &amp; took them back to <placeName><settlement type="village">Cassange</settlement></placeName>
 <lb/>thence went to <placeName><settlement>Malange</settlement></placeName> or<!-- or on? MB --><!-- or is OK. AW --> <placeName><settlement type="village">Ambaca</settlement></placeName>
 <lb/>and followed the only route known 
 <lb/>to <term type="occupation"><orgName>slave</orgName> dealers</term> to <placeName><settlement>Ambriz</settlement></placeName>- <space extent="2" unit="chars"/><persName>Arsenio</persName> sent
@@ -506,7 +506,7 @@
 <lb/>on as small rations as I could the 
 <lb/>constant drain during my visit 
 <lb/>to <placeName><settlement type="town">Cazengo</settlement></placeName> and subsequently during 
-<lb/>my long sojourn at <placeName><settlement>Golungo Alto</settlement></placeName>
+<lb/>my long sojourn at <placeName><settlement type="town">Golungo Alto</settlement></placeName>
 
 	<pb facs="liv_000839_0018" n="0018"/>
 <lb/>and <placeName><settlement>Pungo Adongo</settlement></placeName> reduced the sum 
@@ -538,14 +538,14 @@
 <lb/>asmany or more months. Thy left
 <lb/>during the night - I have not the smallest
 <lb/>idea of what they thought: the <term type="people">Portuguese</term>
-<lb/>believed they would go to <placeName><settlement>Cassange</settlement></placeName> at 
+<lb/>believed they would go to <placeName><settlement type="village">Cassange</settlement></placeName> at 
 <lb/>least. Everything went on <choice><sic>agreably</sic><corr>agreeably</corr></choice> 
 <lb/>except the grumbling of the <foreign xml:lang="pt"><orgName><term type="occupation">Carregadores</term></orgName></foreign>
 <lb/>of which I only heard incidentally too
 <lb/>yet off they went and they <w><del><gap extent="1" unit="chars"/></del>were</w> welcome
 <lb/>We met <orgName>half blood</orgName> in the <placeName><region><placeName><region>Londa</region></placeName> 
 <lb/>country</region></placeName> who told <orgName>my people</orgName> I should
-<lb/>never reach <placeName><settlement>Loanda</settlement></placeName> or <placeName><settlement>Cassange</settlement></placeName>
+<lb/>never reach <placeName><settlement>Loanda</settlement></placeName> or <placeName><settlement type="village">Cassange</settlement></placeName>
 <lb/>even unless I waited for him and
 <lb/>took him as a <term type="occupation">guide</term> - We met one
 
@@ -687,7 +687,7 @@
 <lb/>the distiller in a quill - also a little
 <lb/>bit of the rock forming the descent
 <lb/>at <placeName><settlement>Tala Mongongo</settlement></placeName> and most of 
-<lb/>the <placeName><geogName type="basin"><settlement>Cassange</settlement> basin</geogName></placeName><!-- this coded correctly? MB --><!-- Fixed. AW --></p>
+<lb/>the <placeName><geogName type="basin"><settlement type="village">Cassange</settlement> basin</geogName></placeName><!-- this coded correctly? MB --><!-- Fixed. AW --></p>
 <lb/><p>I have not needed much coaxing
 <lb/>to loiter on the way for when one
 <lb/>receives the exciting news of the near <!-- Again, can we check receives to confirm DL spelled correctly? HB -->
@@ -738,7 +738,7 @@
 <lb/>no more than <placeName><settlement type="village">Ambaca</settlement></placeName> indeed at present</p>
 <lb/><p><persName><term type="occupation"><choice><abbr><w>Capt<hi rend="sup underline">n</hi></w></abbr><expan>Captain</expan></choice></term> Neves</persName> has published a 
 <lb/><bibl>small journal of the expedition to 
-<lb/><placeName><settlement>Cassange</settlement></placeName></bibl> which contains some
+<lb/><placeName><settlement type="village">Cassange</settlement></placeName></bibl> which contains some
 <lb/>information worth looking at I believe
 <lb/>though I have not read it - A <bibl>few copies</bibl> <!-- Neves expedition journal --> <!-- Adrian not sure if I should note the bibl tag ref here if we know it, like we do with geog? HB -->
 <lb/>have come to <placeName><settlement>Loanda</settlement></placeName> to <persName>D<hi rend="sup underline">r</hi> Begende</persName>
@@ -748,7 +748,7 @@
 	<pb facs="liv_000839_0029" n="0029"/>
 <lb/><p><add place="margintop marginleft">IV.</add> <persName><w>M<hi rend="sup">r</hi>.</w> Neves</persName> informs me that <persName>Arsenio</persName>
 <lb/>mentioned to him that "I had been cheated
-<lb/>by a <term type="occupation">trader</term> in <placeName><settlement>Cassange</settlement></placeName> in the affair
+<lb/>by a <term type="occupation">trader</term> in <placeName><settlement type="village">Cassange</settlement></placeName> in the affair
 <lb/>of the ivory and that I had told him
 <lb/>so" Now as I never understood the
 <lb/>price of the ivory we received I never <!-- Again a check on receive. HB -->
@@ -769,7 +769,7 @@
 	<pb facs="liv_000839_0030" n="0030"/>
 <lb/>I was first visited by <persName><w>M<hi rend="sup">r</hi></w> Schut</persName> he
 <lb/>enquired how much they gave for
-<lb/>ivory in <placeName><settlement>Cassange</settlement></placeName> and I could
+<lb/>ivory in <placeName><settlement type="village">Cassange</settlement></placeName> and I could
 <lb/>not tell - I am not aware at 
 <lb/>this moment how much per <choice><abbr>lb.</abbr><expan>pound</expan></choice>
 <lb/>we got nor how much we got at

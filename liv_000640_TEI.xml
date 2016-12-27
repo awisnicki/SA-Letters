@@ -258,7 +258,7 @@
 <lb/>the language - It will be well to direct to your attention to the system of <hi rend="underline">signs</hi> the
 <lb/>frequent repetition of which forms a remarkable feature in all the dialects - Probably that
 <lb/>and the changes effected by prefixes <w>form<gap extent="1" unit="chars" agent="blot"/></w> its distiguishing characteristics as a tongue <space extent="1" unit="chars"/><persName>D<hi rend="sup underline">r</hi>
-<lb/>Adamson</persName> of <placeName><settlement type="city">Cape Town</settlement></placeName> thinks that the principle of repetition of signs explains <w>the<del type="strikethrough">ir</del></w>
+<lb/>Adamson</persName> of <placeName><settlement type="town">Cape Town</settlement></placeName> thinks that the principle of repetition of signs explains <w>the<del type="strikethrough">ir</del></w>
 <lb/>apparent complexity found in the tongues of barbarous nations, and that there is no
 <lb/>necessity for the supposition that such complexity is an evidence that these tribes were
 <lb/>formerly in a state of civilization - Nearly all the complexity of the <choice><orig>Sicuana</orig><reg>Setswana</reg></choice>
@@ -357,7 +357,7 @@
 	<cb rend="vertical"/>
 	<ab>
 	<address>
-<addrLine><hi rend="underline">Care of <persName>T. J. Mathew <choice><abbr>Esq<hi rend="sup">re</hi></abbr><expan>Esquire</expan></choice></persName> <placeName><settlement type="city">Cape Town</settlement></placeName></hi></addrLine>
+<addrLine><hi rend="underline">Care of <persName>T. J. Mathew <choice><abbr>Esq<hi rend="sup">re</hi></abbr><expan>Esquire</expan></choice></persName> <placeName><settlement type="town">Cape Town</settlement></placeName></hi></addrLine>
 <space dim="vertical" extent="5" unit="lines"/> 
 <addrLine><persName>M<hi rend="sup">r</hi> Robert Moffat</persName></addrLine>
 <addrLine>Care of <persName><unclear>Miss</unclear> Eisdell</persName></addrLine>
