@@ -311,7 +311,7 @@
 <lb/>The Highland region in which the Lake is situated is so <!-- geog: Lake Shirwa -->
 <lb/>appropriate as a mission field that I have written to the 
 <lb/><orgName>Church <term type="occupation">Missionary</term> Society</orgName> recommending it - they have long
-<lb/>been trying to find a field in <geogName><region>Eastern Africa</region></geogName>
+<lb/>been trying to find a field in <geogName><region>Eastern <bloc>Africa</bloc></region></geogName>
 	</ab>
 
 	<pb facs="liv_001443_0010" n="0010"/>
@@ -600,7 +600,7 @@
 <address>
 <addrLine><add place="marginleft" hand="#U" rend="diagonal brown"><lb/>Per <choice><abbr>HMS</abbr><expan>Her Majesty's Ship</expan></choice> <lb/><term type="animal">Buffalo</term> <lb/><milestone unit="section" rend="quarter-line"/></add> <persName>Edmund Gabriel, Esquire.</persName></addrLine>
 <addrLine rend="center">At <placeName><settlement type="city"><choice><abbr>St<hi rend="underline">.</hi></abbr><expan>Saint</expan></choice> Paul de <choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></addrLine>
-<addrLine rend="right"><add place="marginleft"><persName>D<hi rend="sup">r</hi> Livingstone</persName></add> <placeName><region>West Coast of Africa</region></placeName></addrLine>
+<addrLine rend="right"><add place="marginleft"><persName>D<hi rend="sup">r</hi> Livingstone</persName></add> <placeName><region>West Coast of <bloc>Africa</bloc></region></placeName></addrLine>
 <!-- Red wax seal. MB -->
 	</address>
 	</ab>

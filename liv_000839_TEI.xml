@@ -821,7 +821,7 @@
 <lb/>the <persName><term type="occupation">Prince</term> of <placeName><country>Congo</country></placeName></persName> - An honour was
 <lb/>conferred upon him for it - He
 <lb/>says they have 12 churches<!-- or too general for orgName? MB, EM --><!-- Yes. AW --> in the 
-<lb/><placeName><region>Kingdom of <country>Congo</country></region></placeName><!-- or is Congo a region? MB, EM --><!-- Kind of grey as to how to code this. AW --> ! but no <foreign xml:lang="pt"><term type="occupation">padres</term></foreign>
+<lb/><placeName><region>Kingdom of Congo</region></placeName><!-- or is Congo a region? MB, EM --><!-- Kind of grey as to how to code this. AW --> ! but no <foreign xml:lang="pt"><term type="occupation">padres</term></foreign>
 <lb/>He is said to be a man of good
 <lb/>morals - <orgName>black</orgName> &amp; about 45 years or
 <lb/>upwards - I believe he lives in

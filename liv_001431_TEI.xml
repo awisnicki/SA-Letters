@@ -88,7 +88,7 @@
 	<pb facs="liv_001431_0001" n="0001"/><!-- Change both @facs and @n -->
 	
 <opener>
-<lb/><add place="margintop" rend="gray right" hand="#U">MS 1011</add> <dateline rend="right"><placeName><geogName type="river">River Zambesi</geogName><region>East Africa</region></placeName> 
+<lb/><add place="margintop" rend="gray right" hand="#U">MS 1011</add> <dateline rend="right"><placeName><geogName type="river">River Zambesi</geogName><region>East <bloc>Africa</bloc></region></placeName> 
 <lb/><date when="1859-05-27">27 May 1859</date></dateline>    
 <lb/><persName>Professor Sedgewick</persName>
 <lb/><salute>My Dear Friend</salute><!-- Change line info as appropriate -->

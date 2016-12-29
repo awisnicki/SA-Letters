@@ -83,7 +83,7 @@
 	<pb facs="liv_000892_0001" n="0001"/>
     <opener>
 <lb/><dateline><hi rend="right"><placeName><settlement type="village">Tete</settlement></placeName>, on the <placeName><geogName type="river">Zambesi</geogName></placeName></hi>
-<lb rend="right"/><placeName><region>East Africa</region></placeName>
+<lb rend="right"/><placeName><region>East <bloc>Africa</bloc></region></placeName>
 <lb rend="right"/>His Excellency <persName>Jose R. <choice><abbr>C.</abbr><expan>Coelho</expan></choice> do Amaral</persName>, <date when="1856-03-25"/>25<hi rend="sup underline">th</hi> March 1856</dateline>
 <lb rend="right"/>The <term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> and its Dependencies
 <lb rend="right"/><salute>May it please your excellency</salute>
