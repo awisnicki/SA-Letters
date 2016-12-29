@@ -89,12 +89,12 @@
                
 	<pb facs="liv_000898_0001" n="0001"/><!-- Change both @facs and @n -->
 <!-- missionaries an orgName or an occupation? Check throughout. MB --><!-- All reviewed. AW -->
-<lb/><dateline><add rend="gray" hand="#U">6</add><placeName><settlement type="village"><choice><sic>Tete</sic><corr>Tette</corr></choice></settlement></placeName> <date when="1856-04-04">4<hi rend="sub underline">th</hi> April 1856</date></dateline>
+<lb/><dateline><add rend="gray" hand="#U">6</add><placeName><settlement type="village">Tete</settlement></placeName> <date when="1856-04-04">4<hi rend="sub underline">th</hi> April 1856</date></dateline>
 <lb/>    
 <lb/><salute>My Dear M<hi rend="sup underline">r</hi> Gabriel</salute><!-- Change line info as appropriate -->
 <lb/><p rend="center">Herewith I send a <bibl>letter</bibl> to the
 <lb/><term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> - a mere repitition of that
-<lb/>sent from the town of <placeName><settlement type="town">Sekeletu</settlement></placeName>, and another for
+<lb/>sent from the <placeName><settlement type="village">town of <persName>Sekeletu</persName></settlement></placeName>, and another for
 <lb/>the merchants though addressed to <persName>M<hi rend="sup">r</hi> Schut</persName>, and
 <lb/>I hope I have now done my duty in the way of
 <lb/>acknowledgement. There are also <bibl>letters</bibl> to <persName>M<hi rend="sup underline">rs</hi> 
@@ -114,13 +114,13 @@
 <lb/>arrival. This is intended to be nothing but gossip,
 <lb/>so you need not read farther unless you
 <lb/>make up your mind to be a sort of accomplice
-<lb/>in it. I intended on reaching <placeName><settlement type="village"><choice><sic>Tete</sic><corr>Tette</corr></choice></settlement></placeName> to move
+<lb/>in it. I intended on reaching <placeName><settlement type="village">Tete</settlement></placeName> to move
 <lb/>down the river in <measure>3 or 4 days</measure>. but though
 <lb/>I soon began to recover flesh I felt <term type="ailment">something
 <lb/>wrong with the kidneys</term> - <term type="ailment">Urine thick &amp; full of
 <lb/>sediment, yet in small quantity</term> - <term type="ailment">pain in the back</term>.<!-- encode this as ailment? MB -->
 <lb/>I suspect it is what you had when at home.
-<lb/>As <placeName><settlement type="city">Quilimane</settlement></placeName> is reported very deadly and the
+<lb/>As <placeName><settlement type="village">Quilimane</settlement></placeName> is reported very deadly and the
 <lb/><term type="occupation">Governor Mayor</term> <persName><choice><abbr><choice><sic>T.AA</sic><corr>T.A.A.</corr></choice></abbr><expan>Tito Augosto d'Araujo</expan></choice><!-- Not sure what the expanded version might be -EM --><!-- Fixed. AW --> Secard</persName> kindly advised
 <lb/>me to remain with him till this month which
 <lb/>is more salubrious. I thought my duty to <unclear cert="high">accede</unclear></p>
@@ -136,7 +136,7 @@
 <lb/><p>I have no anxiety about the men for food
 <lb/>is extremely abundant. The <term type="occupation">Mayor</term> is very liberal
 <lb/>and they work as briskly at <term type="occupation">wood bringing</term> here as
-<lb/>the others did at <placeName><settlement type="city">Loanda</settlement></placeName> - I expect some too will be
+<lb/>the others did at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> - I expect some too will be
 <lb/>employed as <term type="occupation">boatmen</term>, and I intend to leave as
 <lb/>soon as the new moon appears for the sake of
 <lb/>observations, which will happen in four or five
@@ -145,7 +145,7 @@
 <lb/>this was much in my favour, and I feel
 <lb/>abundantly thankful to you and all concerned in
 <lb/>the matter - I expect a rich treat in <bibl>letters</bibl> when
-<lb/>I get there - But <placeName><settlement type="city">Quilimane</settlement></placeName> has such a bad
+<lb/>I get there - But <placeName><settlement type="village">Quilimane</settlement></placeName> has such a bad
 <lb/>name I hope to get quickly past it. They can give
 <lb/>no information except that there is an instrument
 <lb/>and some luggage - I suppose <bibl>Newspapers</bibl>
@@ -223,7 +223,7 @@
 <lb/>I was sufficiently irate, but in revenge took <term type="foodstuff">curry
 <lb/>powder</term> when I got a fowl and that did as well-
 <lb/>Query. Would going up the centre of the continent
-<lb/><add place="above">East of <placeName><settlement>Matiamivo</settlement></placeName></add><!-- Not sure what this is -EM --><!-- Fixed. AW -->
+<lb/><add place="above">East of <placeName><settlement type="village"><persName>Matiamvo</persName></settlement></placeName></add><!-- Not sure what this is -EM --><!-- Fixed. AW -->
 <lb/>and besides preaching good will to man 
 <lb/>inducing the tribes to trade to the coast be feasible
 <lb/>in your estimation. I intend first of all to

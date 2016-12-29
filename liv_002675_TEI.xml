@@ -86,7 +86,7 @@
 	
 <opener>
 <lb/><add place="above marginleft">Copy</add><add place="above marginright" rend="gray" hand="#U">(<choice><abbr>Nav Arch Rhod.</abbr><expan>Naval Archives Rhodesia</expan></choice>) <seg rend="diagonal">32</seg></add>
-<lb/><add place="marginleft" rend="gray"><choice><abbr>No</abbr><expan>Number</expan></choice> 1</add><dateline rend="right"><placeName><settlement type="town">Kuruman</settlement></placeName> <date when="1852-12-13">13<hi rend="sup underline">th</hi> December 1852</date></dateline>
+<lb/><add place="marginleft" rend="gray"><choice><abbr>No</abbr><expan>Number</expan></choice> 1</add><dateline rend="right"><placeName><settlement type="village">Kuruman</settlement></placeName> <date when="1852-12-13">13<hi rend="sup underline">th</hi> December 1852</date></dateline>
 <lb/><persName><choice><abbr>Thos</abbr><expan>Thomas</expan></choice> Maclear <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice></persName>   
 <lb/><salute>My Dear Sir,</salute>
 </opener>

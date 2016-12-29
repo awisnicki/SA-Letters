@@ -168,10 +168,10 @@
 <lb/>This <persName>Marianno</persName> was sentenced to three years
 <lb/>imprisonment for rebellion and murder,
 <lb/>but on returning became a guest of the <term type="occupation">Governor
-<lb/>of <placeName><settlement type="village">Quillimane</settlement></placeName></term> till he "ran away" and <term type="occupation">His
+<lb/>of <placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName></term> till he "ran away" and <term type="occupation">His
 <lb/>Excellency</term><!-- Unsure if his Excellency and the governor are the same person; see below--> ran after him but of course could
 <lb/>not catch him. Supplies of arms &amp; ammunition
-<lb/>are sent from <placeName><settlement type="village">Quillimane</settlement></placeName> regularly, and the
+<lb/>are sent from <placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName> regularly, and the
 <lb/><term type="occupation">Governor</term> complained to his <term type="occupation">Excellency of
 <lb/><placeName><country><choice><sic>Mosambique</sic><corr>Mozambique</corr></choice></country></placeName></term> that so many arms and 
 <lb/>so much ammunition were introduced by 
@@ -179,20 +179,20 @@
 <lb/>commerce of the country was damaged.
 <lb/>The <placeName><geogName type="harbor">Kongone</geogName></placeName><!-- unsure what this word is --><!-- Fixed. AW --> is never used by any but 
 <lb/>ourselves, and the <orgName>Mission of the Universities</orgName>
-<lb/>The <term type="occupation">Governor of <placeName><settlement type="village">Tette</settlement></placeName></term> connives<!--not sure that this is right--> at and derives
+<lb/>The <term type="occupation">Governor of <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName></term> connives<!--not sure that this is right--> at and derives
 <lb/>profits from the <term type="occupation"><orgName>slave</orgName> hunting</term> on the <placeName><geogName type="river">Shire</geogName></placeName>.
 <lb/>When the <orgName>captives</orgName> reach that village the 
 <lb/>men are retained while the women and children
 <lb/>are sent up the <placeName><geogName type="river">Zambesi</geogName></placeName> to buy ivory.
 <lb/>When an opportunity occurs either at 
-<lb/><placeName><settlement type="village">Quillimane</settlement></placeName>, <placeName><settlement type="village">Sofala</settlement></placeName>, or <placeName><settlement type="village"><w>Mbamba<gap agent="blot" extent="1" unit="chars"/><supplied cert="medium">n</supplied>e</w></settlement></placeName>, these
+<lb/><placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName>, <placeName><settlement type="village">Sofala</settlement></placeName>, or <placeName><settlement type="village"><w>Mbamba<gap agent="blot" extent="1" unit="chars"/><supplied cert="medium">n</supplied>e</w></settlement></placeName>, these
 <lb/>men are speedily sent to the coast. We
 <lb/>saw very little of the system which has
 <lb/>made the country between <placeName><geogName type="cape">Cape Delgado</geogName></placeName>
 <lb/>and <placeName><geogName type="bay">Delagoa Bay</geogName></placeName><!-- I'm having trouble reading this. MB --><!-- Fixed. AW --> simply a <orgName>slave</orgName> "Preserve"
 <lb/>because all the "<orgName><term type="nationality">French</term> Free Emigrants</orgName><add place="above">"</add>
 <lb/>were supplied by forays in the North &amp;
-<lb/>North West of <placeName><settlement type="village">Quillimane</settlement></placeName> - very few
+<lb/>North West of <placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName> - very few
 <lb/>went from the <placeName><geogName type="river">lower Zambesi</geogName></placeName> - It had
 <lb/>already been depopulated - but now we
 <lb/>see that in one year the <placeName><geogName type="river">lower Shire</geogName></placeName>. 

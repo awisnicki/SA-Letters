@@ -102,7 +102,7 @@
 <lb/>at the town of <persName>Sekeletu</persName> and sent it by the
 <lb/><orgName>Arab</orgName> <persName>Ben Habib</persName> of <placeName><geogName type="island">Zanzibar</geogName></placeName> who was
 <lb/>appointed to head another party with ivory
-<lb/>for <placeName><settlement type="city">Loanda</settlement></placeName>. This letter may appear as
+<lb/>for <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>. This letter may appear as
 <lb/>a repitition of the information contained
 <lb/>in that, but such is the case only because
 <lb/>of my earnest desire to be certain that
@@ -113,7 +113,7 @@
     
     <pb facs="liv_000892_0002" n="0002"/>
 <lb/>from a savage nation. The presents of both
-<lb/>the <orgName>Government</orgName> and <orgName><term type="occupation">merchants</term> of <placeName><settlement type="city">Loanda</settlement></placeName></orgName>
+<lb/>the <orgName>Government</orgName> and <orgName><term type="occupation">merchants</term> of <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></orgName>
 <lb/>were delivered in presence of a large concourse 
 <lb/>of people including some strangers, and
 <lb/>translations of the <bibl>letters</bibl> to <persName>Sekeletu</persName> read aloud
@@ -131,14 +131,14 @@
 <lb/>thankfulness for the frienship of the head
 <lb/>of the <orgName>Provisional Government</orgName>, and joy
 <lb/>in prospect of being able to trade with
-<lb/><placeName><settlement type="city">Loanda</settlement></placeName> expressed over and over again
+<lb/><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> expressed over and over again
 <lb/>must be considered as the answer
 <lb/>to the letters of <orgName>Government</orgName> and the <term type="occupation">Merchants</term>
 <lb/>for when I asked afterwards what I
 <lb/>should say in my letter the same expression
 <lb/>was made use of. I consider the
 <lb/>prompt dispatch of another party with, 
-<lb/>it is said, forty tusks for <placeName><settlement type="city">Loanda</settlement></placeName>, 
+<lb/>it is said, forty tusks for <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>, 
 <lb/>as more valuable evidence of confidence 
     
     <pb facs="liv_000892_0003" n="0003"/>
@@ -207,7 +207,7 @@
 <lb/>The settlement of <unclear cert="medium"><placeName><settlement type="village">Zumbo</settlement></placeName></unclear> is not far
 <lb/>distant, not more than <measure>200 miles</measure>, 
 <lb/>and the <term type="people">Portuguese</term> of those days in
-<lb/>which <placeName><settlement type="town">Zumbo</settlement></placeName> flourished were not
+<lb/>which <placeName><settlement type="village">Zumbo</settlement></placeName> flourished were not
 <lb/>wanting in energy. But I believe the
 <lb/>savage customs of the tribes around
 <lb/>the falls were sufficient to account
@@ -246,7 +246,7 @@
 <lb/>times when there was no communication by the <placeName><geogName type="sea">Red Sea</geogName></placeName> and <placeName><country>Egypt</country></placeName></note></add>
 
 <lb/>and if it still appears desirable I may
-<lb/>suggest the way from <placeName><settlement type="village">Pungo Andongo</settlement></placeName>
+<lb/>suggest the way from <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName>
 <lb/>to <placeName><settlement type="village">Bihe</settlement></placeName>. From <placeName><settlement type="village">Bihe</settlement></placeName> to the nearest
 <lb/><term type="tribe">Makololo</term> on the <placeName><geogName type="river">Zambesi</geogName></placeName>, say to
 <lb/><persName>Mpololo</persName> the uncle of <persName>Sekeletu</persName> who
@@ -263,7 +263,7 @@
     
     <pb facs="liv_000892_0007" n="0007"/>
 <lb/>a suggestion at present.<add place="above margintop" hand="#U">7</add> And I mention <add place="above margintop" hand="#U">ms 22</add>
-<lb/><placeName><settlement type="village">Pungo Andongo</settlement></placeName> and <placeName><settlement type="village">Bihe</settlement></placeName> because of
+<lb/><placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName> and <placeName><settlement type="village">Bihe</settlement></placeName> because of
 <lb/>the well known public spirit of <persName><choice><abbr>S<hi rend="underline">t</hi></abbr><expan>Saint</expan></choice>
 <lb/>Pires</persName> who has trade relations with all that
 <lb/>country. There would be more difficulty
@@ -307,7 +307,7 @@
 <addrLine>the <term type="occupation">Governor General</term></addrLine>
 <addrLine>of <placeName><country>Angola</country></placeName> &amp;c. &amp;c. &amp;c.</addrLine>
 <addrLine><hi rend="left"><placeName><region>West Coast</region></placeName></hi></addrLine>
-<addrLine><hi rend="left"><hi rend="double-underline">of</hi> <placeName><bloc>Africa</bloc></placeName></hi> <hi rend="center"> <placeName><settlement type="city">Loanda</settlement></placeName></hi> </addrLine>
+<addrLine><hi rend="left"><hi rend="double-underline">of</hi> <placeName><bloc>Africa</bloc></placeName></hi> <hi rend="center"> <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></hi> </addrLine>
     </address>
     </ab>
 			</div>

@@ -104,7 +104,7 @@
 <lb/>for our son <persName>Robert
 <lb/>Moffat Livingstone</persName>
 <lb/>who I hear has come
-<lb/>out to <placeName><settlement><region>Natal</region></settlement></placeName> in
+<lb/>out to <placeName><region>Natal</region></placeName> in
 <lb/>order to join me
 <lb/>We are recalled by
 <lb/>to <choice><abbr>M.</abbr><expan>Majesty's</expan></choice> Government
@@ -112,7 +112,7 @@
 <lb/>when we found
 <lb/>that the <term type="nationality">Portuguese</term>
 <lb/><term type="occupation">slave hunters</term> of 
-<lb/><placeName><settlement type="town">Tette</settlement></placeName> 
+<lb/><placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> 
 <lb/>aided by a drought
 <lb/>had completely
 <lb/>depopulated the
@@ -149,7 +149,7 @@
 <lb/>should <persName>Robert</persName> not
 <lb/>have an opportunity
 <lb/>of coming up to
-<lb/><placeName><settlement type="town">Quillimane</settlement></placeName>, <placeName><country>Mozambique</country></placeName>, 
+<lb/><placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName>, <placeName><country>Mozambique</country></placeName>, 
 <lb/>or <placeName><geogName type="island">Johanna</geogName></placeName> before
 <lb/>that will you direct
 <lb/>him, to any situation

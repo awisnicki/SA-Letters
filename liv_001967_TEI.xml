@@ -244,10 +244,10 @@
 
 <pb facs="liv_001967_0006" n="0006"/>	
 <add place="margintop" rend="left gray small" hand="#U1">6</add>
-<lb/>colony to <placeName><settlement type="village">Tette</settlement></placeName> - procured
+<lb/>colony to <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> - procured
 <lb/>ploughs &amp; other implements
 <lb/>for them and when the
-<lb/><term type="occupation">colonists</term> arrived at <placeName><settlement type="village">Tette</settlement></placeName>
+<lb/><term type="occupation">colonists</term> arrived at <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName>
 <lb/>for them and when the
 <lb/>The <term type="occupation">Governor</term> informed me
 <lb/>that the king had been

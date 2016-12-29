@@ -89,7 +89,7 @@
 
 <opener>
 <lb/><add place="inline" rend="gray" hand="#U">5) -</add> <add place="inline" rend="right gray" hand="#U">33.1</add>
-<lb/><dateline rend="right"><placeName>Near <placeName><settlement type="town">Tete</settlement></placeName> or <placeName>Nyunkwe</placeName></placeName> on
+<lb/><dateline rend="right"><placeName>Near <placeName><settlement type="village">Tete</settlement></placeName> or <placeName>Nyunkwe</placeName></placeName> on
 <lb/>the river<placeName><geogName type="river"> Zambesi</geogName></placeName> <date when="1856-02-15">15<hi rend="sup underline">th</hi> <choice><abbr>Feby</abbr><expan>February</expan></choice> 1856</date></dateline>
 <lb/>    
 <lb/><salute rend="center"><persName>Thomas Maclear, Esquire</persName>
@@ -100,20 +100,20 @@
 
 <lb/><p><space extent="7" unit="words"/>If a note sent by way of
 <lb/><placeName><region>Angola</region></placeName> reached its destination you will be aware of my having
-<lb/>returned again to <placeName><settlement type="town">Linyanti</settlement></placeName> - so little time was allowed by
+<lb/>returned again to <placeName><settlement type="village">Linyanti</settlement></placeName> - so little time was allowed by
 <lb/>my <orgName>Arab</orgName> <term type="occupation">postman</term> for writing I could not send all the
 <lb/>observations made in the <placeName><region>North</region></placeName>. But those which remained
 <lb/>unsent refer chiefly to places of little interest as <placeName><settlement type="town">Bango</settlement></placeName>,
 <lb/>a town South East of <placeName>Kabango</placeName> - <placeName><settlement type="town">Town of <persName>Shinté</persName></settlement></placeName> or
-<lb/><placeName>Kabompo</placeName> - confluences of the <placeName><geogName type="river">Loéti</geogName></placeName> &amp; <placeName><geogName type="river">Njoko</geogName></placeName> - <add place="below">^</add> <add place="above"><placeName><settlement type="town">Town of</settlement></placeName></add> <placeName><settlement type="town">Sesheké</settlement></placeName> - &amp;c -
+<lb/><placeName>Kabompo</placeName> - confluences of the <placeName><geogName type="river">Loéti</geogName></placeName> &amp; <placeName><geogName type="river">Njoko</geogName></placeName> - <add place="below">^</add> <add place="above"><placeName><settlement type="town">Town of</settlement></placeName></add> <placeName><settlement type="village">Sesheké</settlement></placeName> - &amp;c -
 <lb/>the present letter is therefore intended to give you some
-<lb/>idea of the <placeName><region>country East of <placeName><settlement type="town">Linyanti</settlement></placeName></region></placeName>, so that
+<lb/>idea of the <placeName><region>country East of <placeName><settlement type="village">Linyanti</settlement></placeName></region></placeName>, so that
 <lb/>performing your dry calculations you may have
 <lb/>something else for the imagination than the very
 <lb/>interesting powers of p = x<hi rend="sup">2</hi> &amp;c. &amp;c.</p>
-<lb/><p>We descended the <placeName><geogName type="river">Leeambye</geogName></placeName> from <placeName><settlement type="town">Sesheke</settlement></placeName> in <date when="1855-11">November
+<lb/><p>We descended the <placeName><geogName type="river">Leeambye</geogName></placeName> from <placeName><settlement type="village">Sesheke</settlement></placeName> in <date when="1855-11">November
 <lb/>last</date> in company with a large convoy of <term type="tribe">Makololo</term> - the
-<lb/>confluence of the <placeName><geogName type="river">Chobe</geogName></placeName> and it is about <add place="below">^</add> <add place="above"><measure>15</measure> or</add> <measure>20 miles</measure> below <placeName><settlement type="town">Sesheké</settlement></placeName>
+<lb/>confluence of the <placeName><geogName type="river">Chobe</geogName></placeName> and it is about <add place="below">^</add> <add place="above"><measure>15</measure> or</add> <measure>20 miles</measure> below <placeName><settlement type="village">Sesheké</settlement></placeName>
 <lb/>but I could get no observation - the new moon peeped out
 <lb/>from among the clouds enough only to let us know it must
 <lb/>have been visible but for clouds the night before. <measure>About ten
@@ -255,7 +255,7 @@
 <lb/>were fashionable here too - and that the <term type="people">Portuguese</term>
 <lb/>being unable to make the mother country foot the
 <lb/>bills they had been for the last two years shut up
-<lb/>in their fort at <placeName><settlement type="town">Tete</settlement></placeName>. I cannot pretend to a
+<lb/>in their fort at <placeName><settlement type="village">Tete</settlement></placeName>. I cannot pretend to a
 <lb/>knowledge of the causes of this uncomfortable
 <lb/>state of things - "Uncomfortable" rather for me
 <lb/>for I have unwittingly lugged myself into the
@@ -294,7 +294,7 @@
 <lb/>that he has travelled or lived among <orgName>people</orgName> equal
 <lb/>to those who have <unclear cert="medium">bangled</unclear> about the brave <term type="nationality">British</term>
 <lb/><term type="occupation">soldier</term> <unclear cert="medium">so roughly</unclear> - It is noticeable that the tribe
-<lb/>which drove the <orgName>good men of <placeName><settlement type="town">Tete</settlement></placeName></orgName> into their fort is
+<lb/>which drove the <orgName>good men of <placeName><settlement type="village">Tete</settlement></placeName></orgName> into their fort is
 <lb/>of the real <orgName>Caffre</orgName> or <orgName>Zulah</orgName> tribe - And firearms &amp;
 <lb/>gunpowder are now contraband all along the coast.
 <lb/>as at the <placeName><region>Cape</region></placeName>. The <term type="occupation">missionaries</term> <del type="strikethrough">too</del> have had no
@@ -396,7 +396,7 @@
 <lb/>of at least <measure>a thousand feet</measure> into the valley of
 <lb/>the <placeName><geogName type="river">Quango</geogName></placeName> seemed to confirm the idea - But
 <lb/>having hopes of meeting an <w>Ane<subst><del><gap extent="6" unit="chars"/></del><add place="above">roid</add></subst></w> or Barometer
-<lb/>at <placeName><settlement type="town">Loanda</settlement></placeName> I did not try my only other resource 
+<lb/>at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> I did not try my only other resource 
 <lb/>for measuring elevations <foreign xml:lang="und"><choice><abbr>viz.</abbr><expan>videlicet</expan></choice></foreign> the point of ebullition
 <lb/>of water - Being disappointed by the <term type="occupation">autocrat</term> of
 <lb/>all the <placeName><bloc>Russias</bloc></placeName> requiring the presence of my friend
@@ -435,7 +435,7 @@
 
 <lb/><item><space extent="6" unit="chars"/>Confluence of <placeName><geogName type="river">Leeba</geogName></placeName> &amp; <placeName><geogName type="river">Leeambye</geogName></placeName> ------<!-- horizontal line of about 6 characters AM --><seg rend="right"><hi rend="gray">(4741)</hi></seg><seg rend="right"><w>20<gap extent="1" unit="chars" agent="illegible"/></w></seg></item>
 
-<lb/><item><space extent="6" unit="chars"/>Average of many <choice><abbr>obs<hi rend="sup">ns</hi></abbr><expan>observations</expan></choice> at <placeName><settlement type="town">Linyanti</settlement></placeName> <seg rend="right"><hi rend="gray">(<subst><del>3839<hi rend="sup">3571</hi></del><add place="below"><hi rend="underline">4051</hi></add></subst>)</hi></seg><seg rend="right"><w>20<gap extent="1" unit="chars" agent="illegible"/></w></seg></item>
+<lb/><item><space extent="6" unit="chars"/>Average of many <choice><abbr>obs<hi rend="sup">ns</hi></abbr><expan>observations</expan></choice> at <placeName><settlement type="village">Linyanti</settlement></placeName> <seg rend="right"><hi rend="gray">(<subst><del>3839<hi rend="sup">3571</hi></del><add place="below"><hi rend="underline">4051</hi></add></subst>)</hi></seg><seg rend="right"><w>20<gap extent="1" unit="chars" agent="illegible"/></w></seg></item>
 
 <lb/><item><note>Quoted from <lb/>memory <lb/><hi rend="underline">doubtful</hi></note><metamark/><!-- start of curly bracket linking the next 2 lines AM --><placeName><geogName type="lake">Lake Ngami</geogName></placeName> ------<!-- horizontal line of about 6 characters AM --><seg rend="right"><hi rend="gray">(2624)</hi></seg><seg rend="right">- 207°</seg><space extent="3" unit="chars"/><seg rend="right"><hi rend="gray">(?)<add place="below">3151</add></hi></seg><seg rend="right"><w>20<gap extent="1" unit="chars" agent="illegible"/></w></seg></item>
 
@@ -521,7 +521,7 @@
 <lb/>or we may say the ancient bed of the <placeName><geogName type="river">Zambesi</geogName></placeName>
 <lb/>to have suffered little or no change of elevation by
 <lb/>formation of the <choice><orig>fizzure</orig><reg>fissure</reg></choice> then the elevation being one
-<lb/>a little more than that of <placeName><settlement type="town">Linyanti</settlement></placeName> we see the <w>machin<supplied>ery</supplied></w>
+<lb/>a little more than that of <placeName><settlement type="village">Linyanti</settlement></placeName> we see the <w>machin<supplied>ery</supplied></w>
 <lb/>by which a vast lake was collected which embraced
 <lb/>in its bosom, most of the <add place="below">^</add> <add place="above">bed of the</add> <placeName><geogName type="river">Chobe</geogName></placeName> - <placeName><geogName type="lake">Lake Ngami</geogName></placeName> and
 <lb/>much of the country from <placeName>Nchokotsa</placeName> Eastwards - this
@@ -549,7 +549,7 @@
 <lb/>Information got from <orgName>Arabs</orgName> from <placeName><geogName type="island">Zanzibar</geogName></placeName>
 <lb/>and the <term type="tribe">Makololo</term> who went on a <subst><del>trading</del> <add place="above">marauding</add></subst> <w>expeditio<supplied>n</supplied></w>
 <lb/>to the <placeName><region>East</region></placeName> or <placeName><region><choice><abbr>E N E</abbr><expan>East Northeast</expan></choice></region></placeName> of <placeName>Masiko</placeName> while we <w>wer<supplied>e</supplied></w>
-<lb/>at <placeName><settlement type="town">Loanda</settlement></placeName> may be cited as next best to
+<lb/>at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> may be cited as next best to
 <lb/>actual observation - the <orgName>Arabs</orgName> say a large <w>rive<supplied>r</supplied></w>
 <lb/>flows from the East or country of <placeName><region>Banyassa</region></placeName>
 <lb/>(<placeName><region>N'yassa</region></placeName>) to the South West and passing near
@@ -635,7 +635,7 @@
 <lb/>may be honoured to do some good to this poor
 <lb/>degraded <choice><sic>trodden down</sic><corr>trodden-down</corr></choice> <placeName><bloc>Africa</bloc></placeName> is a wish in
 <lb/>which you will I doubt not cordially join -</p>
-<lb/><p>Reached <placeName><settlement type="town">Tette</settlement></placeName> <date when="1856-03-02">2<hi rend="sup">d</hi> March</date> pretty well tired from
+<lb/><p>Reached <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> <date when="1856-03-02">2<hi rend="sup">d</hi> March</date> pretty well tired from
 <lb/><term type="occupation">marching</term> through a rough stoney country without path
 <lb/><term type="people">Portuguese</term> very very kind, thanks to <persName>M<hi rend="sup">r</hi> Duprat</persName> -</p>
 <closer>

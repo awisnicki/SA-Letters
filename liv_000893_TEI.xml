@@ -104,6 +104,7 @@
 			<!-- Note that @who initials are taken from <respStmt> above -->
 			<!-- Add new <change> elements below as needed. -->
 			<!-- Note that the most recent <change> should always be placed first, at the top -->
+			<change when="2016-12-29" who="#MB">Corrected minor error</change>
 			<change when="2015-10-21" who="#AW">Coding reveiw</change>
             <change when="2015-09-29" who="#MB">Initial transcription and XML encoding</change>
         </revisionDesc>
@@ -225,7 +226,7 @@
 	<ab><address rend="right">
 <lb/><addrLine><persName>Alfred Duprat, Esquire</persName></addrLine>
 <lb/><addrLine>H. F. M's Commissioner</addrLine>
-<lb/><addrLine/><hi rend="underline"><placeName><region>Cape of Good Hope</region></placeName></hi>
+<lb/><addrLine rend="underline"/><placeName><region>Cape of Good Hope</region></placeName><!-- fixed hi rend issue to make this a valid TEI document. MB -->
 <!-- wax seal -->
 	</address></ab>
 

@@ -218,7 +218,7 @@
 <ab>
 <lb/>If you could send me a bag of <term type="plant">Palm tree</term> <term type="foodstuff">nuts</term> - you 
 <lb/>would confer a benefit - Here there are none - I am about
-<lb/>to send <term type="plant">Buarye trees and seeds</term> to <placeName><settlement>Mora</settlement></placeName> - also another tree
+<lb/>to send <term type="plant">Buarye trees and seeds</term> to <placeName><settlement type="village"><choice><orig>Mora</orig><reg>Morambala</reg></choice></settlement></placeName> - also another tree
 
 	<pb facs="liv_001443_0007" n="0007"/>
 <!-- The following lines are in the right margin are are a continuation of text added to the proceeding page. MB -->
@@ -301,7 +301,7 @@
 <lb/>well, though not densely peopled
 <lb/>with <term type="tribe">Mang-anja</term> who inhabit
 <lb/>both banks of the <placeName><geogName type="river">Shire</geogName></placeName> from
-<lb/><placeName><settlement>Morambala</settlement></placeName> up to <placeName><settlement type="village">Ihibisa</settlement></placeName><!-- This could be referring to Chibisa's village and so should be encoded as a person's name, but I am not sure. JM -->; 
+<lb/><placeName><settlement type="village">Morambala</settlement></placeName> up to <placeName><settlement type="village">Ihibisa</settlement></placeName><!-- This could be referring to Chibisa's village and so should be encoded as a person's name, but I am not sure. JM -->; 
 <lb/>but the Eastern bank and 
 <lb/>adjacent mountains beyond</p>
 
@@ -324,7 +324,7 @@
 <lb/>it with the "<placeName><geogName type="lake">Lake Maravi</geogName></placeName>"
 <lb/>of the <bibl>maps</bibl>;<!-- bibl here? --><!-- Yes. AW --> nor can we
 <lb/>set it down as that mentioned by
-<lb/><persName>Sehor Candido</persName> of <placeName><settlement>Tette</settlement></placeName> as <measure>forty five
+<lb/><persName>Sehor Candido</persName> of <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> as <measure>forty five
 <lb/>days</measure> <choice><abbr>S.S.W.</abbr><expan>South South West</expan></choice> of that point.
 <lb/>No <term type="people">Portuguese</term> even pretends to
 <lb/>know anything about it. I think
@@ -336,7 +336,7 @@
 <lb/>("<foreign xml:lang="pt"><hi rend="underline">feirantes pretos</hi></foreign>" according to the 
 <lb/><bibl>History of Angola</bibl> &amp; <term type="nationality">Portuguese</term> Archives)
 <lb/>who in the memory of a lady
-<lb/>now living at <placeName><settlement type="village">Tette</settlement></placeName> came thither
+<lb/>now living at <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> came thither
 <lb/>but proceeded no further - They
 <lb/>failed by <measure>300 miles</measure> of what was
 <lb/>claimed for them, and had they 
@@ -566,8 +566,8 @@
 <lb/>of <placeName><country><choice><orig>Mosambique</orig><reg>Mozambique</reg></choice></country></placeName> - How is it that these
 <lb/><foreign xml:lang="pt">feirantes pretos</foreign> as the <bibl>History of Angola</bibl>
 <lb/>calls them did not cross or come near
-<lb/>it - <space extent="2" unit="chars"/>An old lady at <placeName><settlement type="village">Tette</settlement></placeName> remembers
-<lb/><persName>Baptisla</persName> &amp; <persName>Jose</persName> coming to <placeName><settlement type="village">Tette</settlement></placeName> - <orgName>black
+<lb/>it - <space extent="2" unit="chars"/>An old lady at <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> remembers
+<lb/><persName>Baptisla</persName> &amp; <persName>Jose</persName> coming to <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> - <orgName>black
 <lb/>men</orgName> with the wool dressed <term type="tribe">Londa</term> <w>fashi<gap agent="hole" extent="2" unit="chars"/></w>
 <lb/>and Lond swords on their shoulders I<gap agent="hole" extent="4" unit="chars"/>
 <lb/>must know farther cousequently failed
@@ -599,7 +599,7 @@
 	<ab>
 <address>
 <addrLine><add place="marginleft" hand="#U" rend="diagonal brown"><lb/>Per <choice><abbr>HMS</abbr><expan>Her Majesty's Ship</expan></choice> <lb/><term type="animal">Buffalo</term> <lb/><milestone unit="section" rend="quarter-line"/></add> <persName>Edmund Gabriel, Esquire.</persName></addrLine>
-<addrLine rend="center">At <placeName><settlement><choice><abbr>St<hi rend="underline">.</hi></abbr><expan>Saint</expan></choice> Paul de Loanda</settlement></placeName></addrLine>
+<addrLine rend="center">At <placeName><settlement type="city"><choice><abbr>St<hi rend="underline">.</hi></abbr><expan>Saint</expan></choice> Paul de <choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></addrLine>
 <addrLine rend="right"><add place="marginleft"><persName>D<hi rend="sup">r</hi> Livingstone</persName></add> <placeName><region>West Coast of Africa</region></placeName></addrLine>
 <!-- Red wax seal. MB -->
 	</address>

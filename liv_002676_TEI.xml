@@ -80,7 +80,7 @@
                
 	<pb facs="liv_002676_0001" n="0001"/>
 <opener>
-<lb/><add place="margintop" rend="right" hand="#U">35</add> <dateline rend="right"><placeName><settlement type="town">Tette</settlement></placeName> <date when="1856-03-04">4 March 1856</date></dateline>
+<lb/><add place="margintop" rend="right" hand="#U">35</add> <dateline rend="right"><placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> <date when="1856-03-04">4 March 1856</date></dateline>
 <lb/>
 <lb/>Alfredo Duprat <choice><abbr>Esqu.</abbr><expan>Esquire</expan></choice> 
 <lb/><salute>My dear Sir,</salute>
@@ -93,7 +93,7 @@
 <lb/>with the usual politeness and generosity
 <lb/>of your nation. The <term type="occupation">governor</term> kindly
 <lb/>proposed to send an express forward
-<lb/>to <unclear cert="medium"><persName>Senna</persName></unclear> with letters and I have
+<lb/>to <settlement type="village"><unclear cert="medium">Senna</unclear></settlement> with letters and I have
 <lb/>been constantly employed in writing
 <lb/>ever since. The enclosed you will see
 <lb/>is intended to show the <persName><term type="occupation">King of
@@ -142,7 +142,7 @@
 <lb/>superior iron too. What fools! not
 <lb/>to have a small flat bottomed
 <lb/>steamer flying between this and 
-<lb/><placeName><settlement type="village"><persName>Senna</persName></settlement></placeName>. Two swivels would keep
+<lb/><placeName><settlement type="village">Senna</settlement></placeName>. Two swivels would keep
 <lb/>off all robbers and in six months
 <lb/>her price would be paid. The only
 <lb/>impediments I have seen besides

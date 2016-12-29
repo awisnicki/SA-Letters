@@ -128,7 +128,7 @@
 <lb/>letters &amp; newspapers. I could scarcely
 <lb/>believe my eyes when turning everything
 <lb/>over &amp; over again not a scrap appeared
-<lb/>from <placeName><settlement type="city">Loanda</settlement></placeName>. I had many fears
+<lb/>from <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>. I had many fears
 <lb/>imagining you had become ill and
 <lb/>had gone home, and a mournful
 <lb/>event which happened after days
@@ -167,11 +167,11 @@
 	<pb facs="liv_000908_0003" n="0003"/>	
 <lb/>me to <placeName><settlement type="village">Cabango</settlement></placeName> and not having gone to
 <lb/><persName>Matamvo</persName> I suppose it must have
-<lb/>been returned to <placeName><settlement type="city">Loanda</settlement></placeName>. I suppose
+<lb/>been returned to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>. I suppose
 <lb/>you <choice><sic>recieved</sic><corr>received</corr></choice> the map from <placeName><settlement type="village">Cassange</settlement></placeName>
 <lb/>and letter with sketch from <placeName><settlement type="village">Cabango</settlement></placeName> too
 <lb/>I wrote also from the <term type="tribe">Barotse</term> and 
-<lb/>from <persName>Sekeletu</persName>'s town. Also from <placeName><settlement type="town">Lete</settlement></placeName>
+<lb/>from <persName>Sekeletu</persName>'s town. Also from <placeName><settlement>Lete</settlement></placeName>
 <lb/>as soon as I came there. Writing to
 <lb/><choice><sic>to</sic><corr/></choice> you is somewhat different from
 <lb/>addressing many others. It feels as
@@ -299,7 +299,7 @@
 <lb/><persName>M<hi rend="sup">r</hi> Sehut</persName> - He lost his ship on the Bar
 <lb/>I send this to <placeName><country><choice><orig>Mosambique</orig><reg>Mozambique</reg></choice></country></placeName> because a 
 <lb/><term type="nationality">French</term> vessel is there which will tour
-<lb/>at <placeName><settlement type="city">Loanda</settlement></placeName>. They seem to be reviving
+<lb/>at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>. They seem to be reviving
 <lb/>a sort of <orgName>slave</orgName> trade between this coast
 <lb/>and the <placeName><geogName type="island">Isle of Bourbon</geogName></placeName>. </p>  
 

@@ -115,7 +115,7 @@
 <lb/>language I very soon set off in order to obtain knowledge
 <lb/>of the country &amp; people for myself. I have had three long
 <lb/>journies into the interior, two of them occupied no less
-<lb/>than 4 months each, yet I did not reach <placeName><settlement type="city"><choice><sic>Timbuctoo</sic><corr>Timbuktu</corr></choice></settlement></placeName> nor
+<lb/>than 4 months each, yet I did not reach <placeName><settlement type="town"><choice><sic>Timbuctoo</sic><corr>Timbuktu</corr></choice></settlement></placeName> nor
 <lb/>did I see anyone who had been much farther than myself
 <lb/>A great fresh water lake lying a little beyond my farthest
 <lb/>point north is the great barrier to penetrating far in that
@@ -343,7 +343,7 @@
 	<addSpan spanTo="#add1" hand="#U3" rend="large"/><add place="over-text" rend="diagonal red" hand="#U4">6/1</add><address>
 <addrLine><placeName>11 Church St</placeName></addrLine>
 <addrLine><placeName>Paddington Green</placeName></addrLine>
-<addrLine><placeName><settlement type="town">London</settlement></placeName></addrLine>
+<addrLine><placeName><settlement type="city">London</settlement></placeName></addrLine>
 	</address>
 	<anchor xml:id="add1"/>
 	</ab>

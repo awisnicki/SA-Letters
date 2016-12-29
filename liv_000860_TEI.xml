@@ -94,7 +94,7 @@
 <lb/>of sending <bibl>notes</bibl> to
 <lb/><placeName><country>Angola</country></placeName> and having
 <lb/>recommended some
-<lb/>friends in <placeName><settlement type="city">Loanda</settlement></placeName>
+<lb/>friends in <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>
 <lb/>to procure and plant
 <lb/>the seeds of the berry wax
 <lb/>I have to beg your
@@ -131,7 +131,7 @@
 	<pb facs="liv_000860_0003" n="0003"/>
 <lb/>berry wax. Its introduction
 <lb/>on the sands around
-<lb/><placeName><settlement type="city">Loanda</settlement></placeName> would be a boon
+<lb/><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> would be a boon
 <lb/>to the county</p>
 <lb/><p>As you appeared to be
 <lb/><gap extent="1" unit="words"/> friend of the

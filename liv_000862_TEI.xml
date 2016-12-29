@@ -91,14 +91,14 @@
 <!-- Portuguese tagged as orgName througout. Changed to term type="nationality" or "people." MB--><!-- OK. AW -->
 <!-- Check encoding of Cape throughout. MB --><!-- OK. AW -->
 <!-- Is town a settlement type? If so, check Cape Town and Naliele MB--><!-- OK. AW -->
-<lb/><dateline><hi rend="underline"><persName><choice><abbr>Ed<hi rend="sup">m</hi></abbr><expan>Edmund</expan></choice> Gabriel Esqui<hi rend="sup underline">re</hi></persName></hi> <add place="margintop" rend="gray" hand="#U">4</add> Town of <placeName><settlement type="town">Sekeletu</settlement></placeName>, on 
+<lb/><dateline><hi rend="underline"><persName><choice><abbr>Ed<hi rend="sup">m</hi></abbr><expan>Edmund</expan></choice> Gabriel Esqui<hi rend="sup underline">re</hi></persName></hi> <add place="margintop" rend="gray" hand="#U">4</add> <placeName><settlement type="village">Town of <persName>Sekeletu</persName></settlement></placeName>, on 
 <lb/>the <placeName><geogName type="river">River Chobe</geogName></placeName> 
 <lb/><date when="1855-09-12">12<hi rend="sup underline">th</hi> <choice><abbr>Sep<hi rend="sup underline">r</hi></abbr><expan>September</expan></choice> 1855</date></dateline>
 <lb/>    
 <lb/><salute>My Dear Friend</salute><!-- Change line info as appropriate -->
 <lb/><p rend="center">A <term type="people">Moor</term> of <placeName><geogName type="island">Zanzibar</geogName></placeName> called <persName>Rya 
 <lb/>Syde ben Habib</persName> and a <term type="nationality">Portuguese</term> subject of 
-<lb/><placeName><settlement type="vilalge">Bihé</settlement></placeName> leave this <date when="1855-09-13">tomorrow</date> for <placeName><settlement type="city">Loanda</settlement>, and
+<lb/><placeName><settlement type="vilalge">Bihé</settlement></placeName> leave this <date when="1855-09-13">tomorrow</date> for <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement>, and
 <lb/>I am glad of the opportunity to send a few
 <lb/>lines to inform you of our progress and
 <lb/>welfare. We reached the <placeName><term type="tribe">Barotse</term> country</placeName> about
@@ -107,7 +107,7 @@
 <lb/>Newspapers <term type="foodstuff">meal biscuits</term> &amp;c &amp;c had been
 <lb/>brought to the fall, in the river called <placeName><geogName type="river">Mosioatunya</geogName></placeName>
 <lb/>by the tribe called <term type="tribe">Matibele</term> - the mortal
-<lb/>enemies of <orgName><placeName><settlement type="town">Skeletu</settlement></placeName>'s people</orgName> and as the <!-- orname for Sekeletu's people? MB --><!-- OK. AW -->
+<lb/>enemies of <orgName><placeName><settlement type="village"><persName>Sekeletu</persName></settlement></placeName>'s people</orgName> and as the <!-- orname for Sekeletu's people? MB --><!-- OK. AW -->
 <lb/>latter refused to go near them, they were
 <lb/>left on a rock in the </placeName><unclear>Leeamby</unclear>. After due
 <lb/>deliberation and divination my goods were
@@ -186,7 +186,7 @@
 <lb/>newspaper which will give you an
 <lb/>idea of the aiffair - I have it appears become <!-- This transcription appears correct, but the sentence makes little sense. MB -->
 <lb/>obnoxious to the <orgName>Boers</orgName>. though when
-<lb/>living at <placeName><settlement type="city">Kolobeng</settlement></placeName>, they came to me for
+<lb/>living at <placeName><settlement type="village">Kolobeng</settlement></placeName>, they came to me for
 <lb/>advice in all severe cases of disease &amp;
 <lb/>I prescribed frankly without in any
 <lb/>instance asking the price of the medicines
@@ -257,7 +257,7 @@
 <lb/>practical plants &amp; grass with <term type="plant"><term type="nationality">Australian</term>
 <lb/>gum trees</term> on that cheary sea of white sand
 <lb/>which constituted the scenery in your
-<lb/>time - The lands <choice><sic>ajacent</sic><corr>adjacent</corr></choice> to <placeName><settlement type="city">Loanda</settlement></placeName>
+<lb/>time - The lands <choice><sic>ajacent</sic><corr>adjacent</corr></choice> to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>
 <lb/>are greatly superior to that weary waste
 <lb/>&amp; the berry would prove a boon to
 <lb/>the <orgName>black</orgName> population of your city. If</p>
@@ -270,7 +270,7 @@
 
 	<pb facs="liv_000862_0006" n="0006"/>
 <lb/><p>any <term type="nationality">Portuguese</term> ship of war coming round
-<lb/>to <placeName><settlement type="city">Loanda</settlement></placeName> from <placeName><country><choice><sic>Mosambique</sic><corr>Mozambique</corr></choice></country></placeName> would
+<lb/>to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> from <placeName><country><choice><sic>Mosambique</sic><corr>Mozambique</corr></choice></country></placeName> would
 <lb/>touch at the <placeName><region>cape</region></placeName> <persName>M<hi rend="sup">r</hi> Duprat</persName> would
 <lb/>I believe gladly send a bushel or two
 <lb/>of the seed. It would afterwards propagate
@@ -279,7 +279,7 @@
 <lb/>delight him to promote the prosperity of
 <lb/>the colony of <placeName><country>Angola</country></placeName> <!-- colony an org? MB -->- I shall write him
 <lb/>on the subject by the present opportunity
-<lb/>and surely the gentlemen of <placeName><settlement type="city">Loanda</settlement></placeName> would
+<lb/>and surely the gentlemen of <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> would
 <lb/>not consider it beneath their notice
 <lb/>to secure an article of export by
 <lb/>requesting their home <orgName>government</orgName>
@@ -304,7 +304,7 @@
 <lb/>any observations by this person as I
 <lb/>am not sure that they will reach you
 <lb/>I remain here one month and will
-<lb/>then go down the <placeName><geogName type="river">Zambesi</geogName></placeName> to <placeName><settlement type="city">Quilimane</settlement></placeName>
+<lb/>then go down the <placeName><geogName type="river">Zambesi</geogName></placeName> to <placeName><settlement type="village">Quilimane</settlement></placeName>
 <lb/>in canoes. I could go to <placeName><geogName type="lake">Lake Nyassa</geogName></placeName>
 <lb/>but as the object I have in view <!-- I was unsure about this word too. MB--><!-- OK. AW -->is to
 <lb/>secure a passagbe to the coast by which
@@ -314,7 +314,7 @@
 <lb/>that which I clearly see to be my duty -
 <lb/>the path would be opened opposite to
 <lb/><placeName><geogName type="island">Zanzibar</geogName></placeName> but it would only be a
-<lb/>repetition of that to <placeName><settlement type="city">Loanda</settlement></placeName> - <hi rend="underline">a land</hi> journey
+<lb/>repetition of that to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> - <hi rend="underline">a land</hi> journey
 <lb/>and such is not desirable as all the
 <lb/>goods we brought were expended before
 <lb/>we reached the <term type="tribe">Barotse</term>.<!-- or tribe? MB --><!-- OK as is. AW --> My men brought

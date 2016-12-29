@@ -84,7 +84,7 @@
 
 <!-- If this is a letter or similar with an opener (with content such as dateline and/or salute) add it. For example: -->
 <opener>
-<lb/><dateline rend="right"><placeName><settlement type="town">Manchester</settlement></placeName> <add place="margintop" rend="right gray small" hand="#U">MS 004</add>
+<lb/><dateline rend="right"><placeName><settlement type="city">Manchester</settlement></placeName> <add place="margintop" rend="right gray small" hand="#U">MS 004</add>
 <lb/><date when="1858-01-28">28<choice><abbr>Jan y</abbr><expan>January</expan></choice>1858</date></dateline> 
 <lb/><salute>Sir</salute><!-- Change line info as appropriate -->
 </opener>

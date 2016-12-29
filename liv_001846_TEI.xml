@@ -80,7 +80,7 @@
                
 	<pb facs="liv_001846_0001" n="0001"/>
 <opener>
-<lb/><add place="margintop" rend="left gray small" hand="#U">5-6-9</add><!-- diagonal --> <dateline rend="right"><placeName><settlement type="town">Quillimane</settlement></placeName> <date when="1862-11-19">19<hi rend="sup underline">th</hi> <choice><abbr>Nov<hi rend="sup">r</hi></abbr><expan>November</expan></choice> <add place="margintop" rend="right gray small" hand="#U">MS 8/8</add>
+<lb/><add place="margintop" rend="left gray small" hand="#U">5-6-9</add><!-- diagonal --> <dateline rend="right"><placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName> <date when="1862-11-19">19<hi rend="sup underline">th</hi> <choice><abbr>Nov<hi rend="sup">r</hi></abbr><expan>November</expan></choice> <add place="margintop" rend="right gray small" hand="#U">MS 8/8</add>
 <lb/>1862</date></dateline>   
 <lb/><salute>My Dear Sunley</salute>
 </opener>

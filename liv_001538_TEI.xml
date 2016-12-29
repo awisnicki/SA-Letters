@@ -80,7 +80,7 @@
                
 	<pb facs="liv_001538_0001" n="0001"/>
 <opener>
-<lb/><dateline rend="right"><placeName><settlement type="town">Tette</settlement></placeName> <date when="1860-02-08">8<hi rend="sup underline">th</hi> <choice><abbr>Feby</abbr><expan>February</expan></choice>
+<lb/><dateline rend="right"><placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> <date when="1860-02-08">8<hi rend="sup underline">th</hi> <choice><abbr>Feby</abbr><expan>February</expan></choice>
 <lb/> 1860</date></dateline>
 <lb/>    
 <lb/> 	
@@ -111,7 +111,7 @@
   	<pb facs="liv_001538_0004" n="0004"/>         	
 <address>
 <addrLine/><persName>M<hi rend="sup underline">r</hi> Thornton</persName>
-<addrLine/><placeName><settlement type="town">Tette</settlement></placeName>
+<addrLine/><placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName>
 </address>
 </closer>
             

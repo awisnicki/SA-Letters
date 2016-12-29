@@ -194,7 +194,7 @@
 <lb/>published my letter.  This subject
 <lb/>has occupied my time of late
 <lb/>and is the most disagreeable I ever attempted -</p>
-<lb/><p>Well I tried to come in to <placeName><settlement type="town"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>
+<lb/><p>Well I tried to come in to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>
 <lb/>but could not honestly do it - as
 <lb/>you will have heard from 
 <lb/><placeName><country>Sierra Leone</country></placeName> <space extent="1" unit="chars"/>I have got the 
@@ -207,7 +207,7 @@
 <lb/>to send off the Pearl which brought us
 <lb/>out we have been slowly working
 <lb/>our luggage up river by this Launch
-<lb/>I have been to <placeName><settlement type="town">Tette</settlement></placeName> and found my
+<lb/>I have been to <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> and found my
 <lb/>men waiting in anxious expectation
 <lb/>of my return but <term type="ailment">small pox</term> had
 <lb/>cut off thirty of them and six had
@@ -244,10 +244,10 @@
 <lb/>half our time woodcutting - It is with
 <lb/>great grief I tell you these things for
 <lb/>I know your good opinion of him as you
-<lb/>remarked to me on his leaving <placeName><settlement type="town"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>
+<lb/>remarked to me on his leaving <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>
 <lb/>"he is A. I." &amp; that induced me to appoint him - </p>
 <lb/><p>We get a ton and a half of coals
-<lb/>at <placeName><settlement type="town">Tette</settlement></placeName> the first even taken out of 
+<lb/>at <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> the first even taken out of 
 <lb/>the ground in this country and it is
 <lb/>very good coal too more like the <term type="nationality">Welsh</term>
 <lb/>than any other though what we got had
