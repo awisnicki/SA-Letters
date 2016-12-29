@@ -82,7 +82,7 @@
 	<pb facs="liv_002626_0001" n="0001"/><!-- Change both @facs and @n -->
 	
 <opener>
-<lb/><dateline><placeName><region>South Central Africa</region></placeName> 
+<lb/><dateline><placeName><region>South Central <bloc>Africa</bloc></region></placeName> 
 <lb rend="right"/><date when="1872-11-21">21<hi rend="sup underline">st</hi> <choice><abbr>Nov<hi rend="sup underline">r</hi></abbr><expan>November</expan></choice> 1872</date></dateline>
 <lb/>    
 <lb/><salute>My Dear Sir</salute><!-- Change line info as appropriate -->

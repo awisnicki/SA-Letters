@@ -289,7 +289,7 @@
 <lb/>The road from <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName> to <placeName><settlement type="village">Lombe</settlement></placeName>
 <lb/>runs along the bank of the <placeName><geogName type="river">Coanya</geogName></placeName> and
 <lb/>the <unclear cert="high">straggling</unclear> forest gives the exact picture
-<lb/>of the country near the <placeName><region>Casai</region></placeName> or <placeName><region>Kasye</region></placeName>
+<lb/>of the <placeName><region>country near the <geogName type="river"><choice><orig>Casai</orig><reg>Kasai</reg></choice></geogName> or <geogName type="river"><orig>Kasye</orig><reg>Kasai</reg></geogName></region></placeName>
 <lb/>most of the trees are identical. <measure>A few
 <lb/>miles</measure> from <placeName><geogName type="river">Lombe</geogName></placeName> there is a fine <placeName><geogName type="waterfall">fall
 <lb/>of the <placeName><geogName type="river">Coanya</geogName></placeName></geogName></placeName> as deep as your house

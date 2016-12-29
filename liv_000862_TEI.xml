@@ -144,7 +144,7 @@
 <lb/><p>In contrast to the above a <term type="occupation">doctor of divinity</term> <!-- occupation appropriate here? MB --><!-- OK. AW -->
 <lb/>of the <orgName><term type="nationality">Dutch</term> church</orgName> (a <term type="people">scotchman</term>!) collected
 <lb/>some tales of scandal among the <orgName>Boers</orgName> who
-<lb/>live beyong the <placeName><region><geogName>Colony</geogName></region></placeName>. <!-- or region? MB --><!-- OK. AW -->and retailed them
+<lb/>live beyond the <placeName><region>Colony</region></placeName>. <!-- or region? MB --><!-- OK. AW --><!-- changed in coding review. MB -->and retailed them
 <lb/>to my brother in land who listened to all &amp;
 <lb/>to his dumbfounderment told him of our
 <lb/>relationship - He apologized but did not
@@ -169,7 +169,7 @@
 	<pb facs="liv_000862_0003" n="0003"/>
 <lb/><p rend="no-indent">outrage the aforementioned <orgName>clergyman</orgName> was
 <lb/>engaged in recieving them <add place="below">^</add> <add place="above">in synod assembled</add> into the bossom <!-- Synod an org? MB --><!-- OK. AW -->
-<lb/><add place="above">at the <placeName><region>cape</region></placeName></add> of the <orgName><term type="nationality">Dutch</term>church</orgName> as <term type="faith">Christian</term> bretheren.
+<lb/><add place="above">at the <placeName><region><choice><orig>cape</orig><reg>Cape</reg></choice></region></placeName></add> of the <orgName><term type="nationality">Dutch</term>church</orgName> as <term type="faith">Christian</term> bretheren.
 <lb/>The marauding <orgName>expedition</orgName> by which I lost
 <lb/>about £300 of value was the first act of their
 <lb/>Independence and <term type="faith">Christian</term> membership -
@@ -271,7 +271,7 @@
 	<pb facs="liv_000862_0006" n="0006"/>
 <lb/><p>any <term type="nationality">Portuguese</term> ship of war coming round
 <lb/>to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> from <placeName><country><choice><sic>Mosambique</sic><corr>Mozambique</corr></choice></country></placeName> would
-<lb/>touch at the <placeName><region>cape</region></placeName> <persName>M<hi rend="sup">r</hi> Duprat</persName> would
+<lb/>touch at the <placeName><region><choice><orig>cape</orig><reg>Cape</reg></choice></region></placeName> <persName>M<hi rend="sup">r</hi> Duprat</persName> would
 <lb/>I believe gladly send a bushel or two
 <lb/>of the seed. It would afterwards propagate
 <lb/>itself. <space extent="1" unit="chars"/>I know <persName>M<hi rend="sup">r</hi> Duprat</persName> to be a

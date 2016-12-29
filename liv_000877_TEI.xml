@@ -99,7 +99,7 @@
 
 
 <lb/><p><space extent="7" unit="words"/>If a note sent by way of
-<lb/><placeName><region>Angola</region></placeName> reached its destination you will be aware of my having
+<lb/><placeName><country>Angola</country></placeName> reached its destination you will be aware of my having
 <lb/>returned again to <placeName><settlement type="village">Linyanti</settlement></placeName> - so little time was allowed by
 <lb/>my <orgName>Arab</orgName> <term type="occupation">postman</term> for writing I could not send all the
 <lb/>observations made in the <placeName><region>North</region></placeName>. But those which remained
@@ -333,7 +333,7 @@
 <lb/>have such an eminent forerunner I have now
 <lb/>no hesitation in expressing them - In <date when="1843">1843</date> I sent
 <lb/><bibl>a paper</bibl> to the <persName>Rev<hi rend="sup underline">d</hi> D<hi rend="sup underline">r</hi> Buckland</persName> in  which I trace
-<lb/>the gradual desiccation of the <placeName><region><orgName>Bechuana</orgName> country</region></placeName>
+<lb/>the gradual desiccation of the <placeName><region><term type="tribe">Bechuana</term> country</region></placeName>
 <lb/>to the elevation of the country to the westward, And
 <lb/>indicated the course of a large river which
 <lb/>flowed from North to South exactly as the
@@ -533,7 +533,7 @@
 <lb/><term type="insect">anteater</term> digs his burrow shells are thrown up
 <lb/>identical with those now living in the <placeName><geogName type="river">Zambesi</geogName></placeName> &amp;
 <lb/><placeName><geogName type="river">Zouga</geogName></placeName> It is also pretty certain the waters <add place="below">^</add> <add place="above">pent up</add> in
-<lb/><placeName><region>Barotse Valley</region></placeName> were discharged by the <choice><orig>fizzure</orig><reg>fissure</reg></choice> of <placeName>Gonye</placeName>
+<lb/><placeName><geogName type="valley">Barotse Valley</geogName></placeName> were discharged by the <choice><orig>fizzure</orig><reg>fissure</reg></choice> of <placeName>Gonye</placeName>
 <lb/>and there are other <add place="below">^</add> <add place="above"><choice><orig>fizzure</orig><reg>fissure</reg></choice></add> falls in the country as one in
 <lb/>the <placeName><geogName type="river">Kabompo</geogName></placeName> or <placeName><geogName type="river">Leeambye</geogName></placeName> beyond <placeName><persName>Masiko</persName>'s</placeName> and
 <lb/>another in the <placeName><geogName type="river">Bashukulompo river</geogName></placeName> -</p>
@@ -551,7 +551,7 @@
 <lb/>to the <placeName><region>East</region></placeName> or <placeName><region><choice><abbr>E N E</abbr><expan>East Northeast</expan></choice></region></placeName> of <placeName>Masiko</placeName> while we <w>wer<supplied>e</supplied></w>
 <lb/>at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> may be cited as next best to
 <lb/>actual observation - the <orgName>Arabs</orgName> say a large <w>rive<supplied>r</supplied></w>
-<lb/>flows from the East or country of <placeName><region>Banyassa</region></placeName>
+<lb/>flows from the East or <placeName><region>country of <term type="tribe">Banyassa</term></region></placeName>
 <lb/>(<placeName><region>N'yassa</region></placeName>) to the South West and passing near
 
 
@@ -602,7 +602,7 @@
 <lb/>undergoing a much severer punishment than those
 <lb/>who were sentenced to transportation to the coast But
 <lb/>these same rocks are now known to be in the healthiest
-<lb/>District in <placeName><region>Angola</region></placeName> - And <placeName>Bihé</placeName> still farther in is
+<lb/>District in <placeName><country>Angola</country></placeName> - And <placeName>Bihé</placeName> still farther in is
 <lb/>more salubrious still. It is the same with the
 <lb/><placeName><region>Eastern ridge</region></placeName> - We saw neither a marsh nor a <w>fount<gap extent="3" unit="chars" agent="illegible"/><supplied>ain</supplied></w>
 <lb/>on it, and though I have been for a month on the
@@ -625,7 +625,7 @@
 <lb/>I anticipate water carriage to within <measure>2°</measure> of the <term type="tribe"><w>Makolo<supplied>lo</supplied></w></term>
 <lb/>by means of <choice><sic>flat bottomed</sic><corr>flat-bottomed</corr></choice> boats - the chief obstruction
 <lb/>are rapids and I have seen none yet equal to those
-<lb/>below the <placeName><region>Barotse valley</region></placeName>. And if this can be effected
+<lb/>below the <placeName><geogName type="valley">Barotse valley</geogName></placeName>. And if this can be effected
 <lb/>during a healthy part of the year I expect to be able to
 <lb/>pursue our plans in good health - I am not so
 <lb/>much elated by the feat of crossing the continent
