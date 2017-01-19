@@ -105,7 +105,7 @@
             <div>
                
 	<pb facs="liv_000640_0001" n="0001"/><!-- term type="language"? check throughout. MB --><!-- Done. AW -->
-<lb/><opener><dateline><placeName><settlement type="village">Kolobeng</settlement></placeName>, <placeName><region>Bakwain Country</region></placeName><!-- Did I handle this correctly? EM --><!-- Fixed. AW --> <date when="1847-08-13">13 August <lb/>1847</date></dateline>
+<lb/><opener><dateline><placeName><settlement type="village">Kolobeng</settlement></placeName>, <placeName><region><term type="tribe">Bakwain</term> Country</region></placeName><!-- Did I handle this correctly? EM --><!-- Fixed. AW --> <date when="1847-08-13">13 August <lb/>1847</date></dateline>
 <lb/>    
 <lb/><salute>My Dear Brother</salute></opener><!-- Change line info as appropriate -->
 <lb/><p>We <choice><sic>recieved</sic><corr>received</corr></choice> your favour dated <date when="1846-08"><choice><abbr>Aug<hi rend="sup">t</hi></abbr><expan>August</expan></choice> /46</date> while at <placeName><settlement type="village">Kuruman</settlement></placeName> and returned at least in
