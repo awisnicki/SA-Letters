@@ -131,7 +131,7 @@
 <lb/>readers</orgName> know that <date when="1867">about five years ago</date>
 <lb/>I undertook at the instigation of my very dear
 <lb/>old friend <persName>Sir Roderick <unclear cert="high">Murchison</unclear> Bart</persName> - The
-<lb/>task of examining <unclear cert="high">the</unclear><!-- There is a tear in the paper here. EM --> <placeName><region>Watershed</region></placeName><!-- Correct? EM --><!-- OK. AW --> of <placeName><region>South Central <placeName><bloc>Africa</bloc></placeName></region></placeName> - The work had a charm for my mind
+<lb/>task of examining <unclear cert="high">the</unclear><!-- There is a tear in the paper here. EM --> <placeName><geogName type="watershed">Watershed</geogName></placeName><!-- Correct? EM --><!-- OK. AW --> of <placeName><region>South Central <placeName><bloc>Africa</bloc></placeName></region></placeName> - The work had a charm for my mind
 <lb/>because the dividing line between <placeName><region>North</region></placeName> &amp; <placeName><region>South</region></placeName>
 <lb/>was unknown and a fit object <unclear cert="high">for</unclear> exploration
 <lb/>Having <del type="strikethrough">another</del> work in hand I at first <w>recom-
@@ -143,7 +143,7 @@
 <lb/>the real <term type="occupation">discoverer</term> of the <placeName><geogName type="source">sources of the <placeName><geogName type="river">Nile</geogName></placeName></geogName></placeName> -"
 <lb/>I thought that two years would be sufficient
 <lb/>to go from <placeName><region>the coast</region></placeName> in land across the head
-<lb/>of <placeName><geogName type="lake">Lake Nyassa</geogName></placeName> to the <placeName><region>Watershed</region></placeName> wherever
+<lb/>of <placeName><geogName type="lake">Lake Nyassa</geogName></placeName> to the <placeName><geogName type="watershed">Watershed</geogName></placeName> wherever
 <lb/>that might be and after examination try to
 <lb/>begin a benevolent <orgName>mission</orgName> with <orgName>some
 <lb/>Tribe</orgName> on the slope back to <placeName><region>the coast</region></placeName> - Had I
@@ -505,7 +505,7 @@
 <lb/>a very large country called <placeName><region><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></region></placeName> but 
 <lb/>by the <orgName>Arabs</orgName> it is shortened into <placeName><region><choice><orig>Manyema</orig><reg>Maniema</reg></choice></region></placeName> - 
 <lb/>It is but recently known - the reputation
-<lb/>which the <term type="tribe">Manyuema</term> enjoyed of being
+<lb/>which the <term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> enjoyed of being
 <lb/><orgName>cannibals</orgName><!--any tags for cannibals? MB--><!-- OK. AW --> prevented the <orgName><orgName>half caste Arab</orgName> <term type="occupation">traders</term></orgName>
 <lb/>from venturing among the - the circumstantial 
 <lb/>details of the practices of the <orgName>men eaters</orgName> given
@@ -541,14 +541,14 @@
 <lb/>in order to be landed if you <choice><sic>dont</sic><corr>don't</corr></choice> break
 <lb/>your neck where your neck ought to be
 <lb/>broken? This makes me turn back to the
-<lb/><placeName><region>Watershed</region></placeName> as I promised - It is a broad
+<lb/><placeName><geogName type="watershed">Watershed</geogName></placeName> as I promised - It is a broad
 <lb/>belt of tree covered upland some <measure>seven
 <lb/>hundred miles</measure> in length from West to
 <lb/>East - the general altitude is between <measure>4000
 <lb/>and 5000 feet</measure> above the sea - and
 <lb/>mountains stand on it at various points
 <lb/>which are between <measure>6000 &amp; 7000 feet</measure> above
-<lb/>the ocean level - on this <placeName><region>watershed</region></placeName>
+<lb/>the ocean level - on this <placeName><geogName type="watershed">watershed</geogName></placeName>
 <lb/>springs arise which are well nigh <w>innumer<supplied>-</supplied>
 <lb break="no"/>-able</w> - That is, it would take half a man's
 <lb/>lifetime to count them - these springs
@@ -608,7 +608,7 @@
 <!-- Blank Page. EM -->
 
 	<pb facs="liv_002603_0025" n="0025"/>
-<lb/><add place="above marginleft" rend="gray" hand="#U"><gap extent="3" unit="chars"/></add><!-- Not sure on this. EM --><!-- Someone's initials but I can't read them. AW -->But though I <add place="above">(13)</add> friend the <placeName><region>Watershed</region></placeName> <measure>between
+<lb/><add place="above marginleft" rend="gray" hand="#U"><gap extent="3" unit="chars"/></add><!-- Not sure on this. EM --><!-- Someone's initials but I can't read them. AW -->But though I <add place="above">(13)</add> friend the <placeName><geogName type="watershed">Watershed</geogName></placeName> <measure>between
 <lb/>10° - 20° South</measure>, that is, a long way further up
 <lb/>the valley than any one had dreamed - and
 <lb/>saw the streams of some <measure>600 miles</measure> of it <w>con-
@@ -665,7 +665,7 @@
 <lb/>But besides all this in which it is
 <lb/>quite possible I may be mistaken, we have
 <lb/>two fountains on probably the <measure>seventh
-<lb/>hundred miles</measure> of the <placeName><region>Watershed</region></placeName> and giving
+<lb/>hundred miles</measure> of the <placeName><geogName type="watershed">Watershed</geogName></placeName> and giving
 <lb/>rise to two rivers - the <placeName><geogName type="river">Liambai</geogName></placeName> or Upper
 <lb/><placeName><geogName type="river">Zambesi</geogName></placeName> - and the <placeName><geogName type="river">Kafue</geogName></placeName> which flow
 <lb/>into <placeName><region>Inner <placeName><country>Ethiopia</country></placeName></region></placeName> - and two fountains
@@ -720,7 +720,7 @@
 <lb/>far the worst <orgName>cannibals</orgName> in all <placeName><bloc>Africa</bloc></placeName> -
 <lb/>They compass by means of <orgName><orgName>Arab</orgName> <term type="occupation">agents</term></orgName> the
 <lb/>destruction of more human lives for gain
-<lb/>in one year than the <term type="tribe">Manyuema</term> do for
+<lb/>in one year than the <term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> do for
 <lb/>their flesh pots in ten - the matter of supplies
 <lb/>and men was unwittingly committed to these
 <lb/>our <orgName><term type="nationality">Indian</term> fellow subjects</orgName> who hate to see me
@@ -781,7 +781,7 @@
 <lb/>I have seen <orgName>parties</orgName> return with so much ivory
 <lb/>they carried it by three relays of hundreds of
 <lb/><orgName>slaves</orgName> - But even this did not satisfy human
-<lb/>greed - the <term type="tribe"><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></term><!-- There have been variations of spelling and as to whether this is referring to tribes or a region. EM --><!-- Fixed. AW --> were found to be terrified
+<lb/>greed - the <term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term><!-- There have been variations of spelling and as to whether this is referring to tribes or a region. EM --><!-- Fixed. AW --> were found to be terrified
 <lb/>by the report of guns - some I know believed
 <lb/>them to be supernatural for when the effects
 <lb/>of a musket ball was <choice><orig>shewn</orig><reg>shown</reg></choice> on a <term type="animal">goat</term> they
@@ -790,7 +790,7 @@
 <lb/>was drawn down - When a village was
 <lb/>assaulted the men fled in terror and women
 <lb/>and children were captured - Many of the
-<lb/><orgName><term type="tribe"><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></term> women</orgName> especially far down the
+<lb/><orgName><term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> women</orgName> especially far down the
 <lb/><placeName><geogName type="river">Lualaba</geogName></placeName> are very pretty light coloured and
 <lb/>lovely - It was common to hear the <orgName><placeName><geogName type="island">Zanzibar</geogName></placeName>
 <lb/><orgName>slaves</orgName></orgName>, whose faces resemble the features
@@ -806,12 +806,12 @@
 <lb/>fellows with but little of what we think
 <lb/>distinctive of the <orgName>negro</orgName> about them - If one
 <lb/>relied on the teachings of phrenology the
-<lb/><term type="tribe"><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></term> men would take a high place
+<lb/><term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> men would take a high place
 <lb/>in the human family = They felt their superiority
 <lb/>and often said truly - "were it not for <unclear cert="low"><subst><del>the</del><add place="over-text">your</add></subst></unclear>
 <lb/>firearms not one of the strangers would
 <lb/>ever leave our country" - If a comparison
-<lb/>were instituted and <term type="tribe"><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></term> taken at
+<lb/>were instituted and <term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> taken at
 
 	<pb facs="liv_002603_0034" n="0034"/>
 <!-- Blank Page. EM -->
@@ -879,7 +879,7 @@
 <lb/>had killed all their <term type="animal">gigantic birds</term> (<term type="animal">Moabe</term>)
 <lb/>and they were connected from the man
 <lb/>eating persuasion by the introduction of
-<lb/><term type="animal">pigs</term> - But the <term type="tribe"><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></term> have plenty of
+<lb/><term type="animal">pigs</term> - But the <term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> have plenty of
 <lb/><term type="animal">pigs</term> &amp; other domestic animals and yet
 <lb/>they are <orgName>cannibals</orgName> - Into the reasons for
 <lb/>their <orgName>cannibalism</orgName> I do not enter - They
@@ -910,7 +910,7 @@
 <lb/>better than the <orgName>Heathen</orgName> but often <choice><sic>dont</sic><corr>don't</corr></choice> know
 <lb/>it and they are all immeasurably better
 <lb/>than they believe each other to be -</p>
-<lb/><p>The <orgName><term type="tribe"><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></term></orgName> women especially far
+<lb/><p>The <orgName><term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term></orgName> women especially far
 <lb/>down the <placeName><geogName type="river">Lualaba</geogName></placeName> are very pretty and very
 <lb/>industrious - The market is with them a
 <lb/>great institution and they work hard and carry
@@ -936,7 +936,7 @@
 <lb/>and <term type="animal">fish</term> for farinaceous food from the
 <lb/>women on the East of the <placeName><geogName type="river">Lualaba</geogName></placeName> who
 <lb/>prefer cultivating the soil to fishery - the
-<lb/><term type="tribe"><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></term> have always told us that
+<lb/><term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> have always told us that
 <lb/>women going to market were never
 <lb/>molested - When the men of two districts
 <lb/>were engaged in actual hostilities

@@ -409,7 +409,7 @@
 <lb/>the same I hope the results may be taken as an
 <lb/>approximation - As I have not a table for reducing
 <lb/>the degrees to feet I must give you the degrees <w>them<supplied>-</supplied>
-<lb break="no"/>-selves</w>. Well, the highest point of <placeName><region>Pungo Andongo</region></placeName>
+<lb break="no"/>-selves</w>. Well, the highest point of <placeName><settlement type="village">Pungo Andongo</settlement></placeName>
 <lb/>is the most westerly observation in measuring
 <lb/>an oblong ridge which lies parallel to and
 <lb/><measure>about 300 miles</measure> from the <placeName><region>West coast</region></placeName> - It <w>canno<supplied>t</supplied></w>
@@ -421,7 +421,7 @@
 <lb/><placeName><geogName type="river">Casai</geogName></placeName> and its many feeders on the <placeName><region>East</region></placeName></p>
 <lb/><p><hi rend="right">Brisk <choice><abbr>Ebull</abbr><expan cert="medium">Ebullition</expan></choice></hi></p>
 
-<lb/><list><item><space extent="6" unit="chars"/>Top of Rocks of <placeName><region>Pungo Andongo</region></placeName> <seg rend="right"><metamark/><hi rend="underline gray">4210</hi><!-- number encircled AM --><hi rend="sup gray">H</hi></seg><seg rend="right">204</seg></item>
+<lb/><list><item><space extent="6" unit="chars"/>Top of Rocks of <placeName><settlement type="village">Pungo Andongo</settlement></placeName> <seg rend="right"><metamark/><hi rend="underline gray">4210</hi><!-- number encircled AM --><hi rend="sup gray">H</hi></seg><seg rend="right">204</seg></item>
 
 <lb/><item><space extent="6" unit="chars"/>Top of <placeName>Tala Mungongo</placeName> ------<!-- horizontal line of about 6 characters AM --><seg rend="right"><hi rend="gray">(3151)</hi></seg><seg rend="right">206</seg></item>
 
@@ -552,7 +552,7 @@
 <lb/>at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> may be cited as next best to
 <lb/>actual observation - the <orgName>Arabs</orgName> say a large <w>rive<supplied>r</supplied></w>
 <lb/>flows from the East or <placeName><region>country of <term type="tribe">Banyassa</term></region></placeName>
-<lb/>(<placeName><region>N'yassa</region></placeName>) to the South West and passing near
+<lb/>(<placeName><geogName type="lake">N'yassa</geogName></placeName>) to the South West and passing near
 
 
 	<pb facs="liv_000877_0011" n="0011"/>
@@ -595,7 +595,7 @@
 <lb/>and <region>Western ridges</region></placeName> are decidedly salubrious <del type="strikethrough">While</del>
 <lb/>while the valley is as decidedly deadly. <orgName>Criminals</orgName>
 <lb/>who were doomed by the <term type="people">Portuguese</term> to the Black
-<lb/>rocks of <placeName><region>Pungo Andongo</region></placeName> were believed to be
+<lb/>rocks of <placeName><settlement type="village">Pungo Andongo</settlement></placeName> were believed to be
 
 
 	<pb facs="liv_000877_0012" n="0012"/>
