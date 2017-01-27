@@ -127,9 +127,9 @@
 <lb/><orgName>Expedition</orgName> should pass
 
 	<pb facs="liv_001290_0003" n="0003"/>
-<lb/>through the <term type="ailment">malarious</term> district
-<lb/>at the lower portion of the
-<lb/><placeName><geogName type="river">Zambesi river</geogName></placeName> as quickly
+<lb/>through the <placeName><region><term type="ailment">malarious</term> district</region></placeName>
+<lb/>at <placeName><region>the lower portion of the
+<lb/><placeName><geogName type="river">Zambesi river</geogName></placeName></region></placeName> as quickly
 <lb/>as possible, and it will
 <lb/>be necessary for you to
 <lb/>put into practice those
