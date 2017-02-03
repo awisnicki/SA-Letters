@@ -124,7 +124,7 @@
 <lb/>a great extent of country with very little trouble. The
 <lb/><orgName>natives</orgName> have canoes upon it and it is called from them
 <lb/>the <placeName><geogName type="lake">Lake of Mokhoro</geogName></placeName> (of the canoe) or according to the
-<lb/>names of different nations living on its banks as of the <unclear cert="medium"><term type="tribe">Botleth</term></unclear> <add place="below">&amp;c</add>
+<lb/>names of different nations living on its banks as of the <placeName><geogName type="river"><choice><orig>Botletli</orig><reg>Botleti</reg></choice></geogName></placeName> <add place="below">&amp;c</add>
 
 	<pb facs="liv_000538_0002" n="0002"/>
 <lb/><unclear cert="high">The</unclear> great drawback to travelling in the country is the slowness
@@ -137,7 +137,7 @@
 <lb/>had my people not been deterred from following me by
 <lb/>a dread of <persName>Mosilikatze</persName>. I saw some women who had been
 <lb/>taken captive by his men last. They escaped &amp; -
-<lb/>reached the <placeName><region><term type="tribe">Bakwain</term> country</region></placeName> (on the Tropic) during the time
+<lb/>reached the <placeName><region><term type="tribe"><choice><orig>Bakwain</orig><reg>Bakwena</reg></choice></term> country</region></placeName> (on the Tropic) during the time
 <lb/>I was there. It had taken them nearly <measure>two months</measure> to reach
 <lb/>it &amp; had subsisted by gathering the roots of the desert as <unclear cert="low">then</unclear>
 <lb/>food by day &amp; climbing a high rock for protection by night
@@ -146,7 +146,7 @@
 <lb/>buried their noses in the sand as if the <unclear cert="medium"><orgName>Arabian</orgName></unclear> <seg type="weather">simoon</seg>
 <lb/>had been passing &amp; declared it was madness to go a step
 <lb/>near the tyrant. I was then obliged to leave them &amp;
-<lb/>go forward on <term type="animal">ox</term> back with only the wild <term type="tribe">Bakwains</term> as
+<lb/>go forward on <term type="animal">ox</term> back with only the wild <term type="tribe"><choice><orig>Bakwains</orig><reg>Bakwena</reg></choice></term> as
 <lb/>my guides, our diet consisted of all kinds of flesh that
 <lb/>came within the range of any gun &amp; all sorts of roots
 <lb/>when meat was awanting. Sometimes we had plenty &amp;
@@ -211,7 +211,7 @@
 <lb/>standing by will gulp it down instantly. If a man is
 <lb/>guilty of stealing from his relatives they give him an
 <lb/>emetic in order to make him vomit his had propensity
-<lb/>and the <term type="occupation">chief</term> of the <term type="tribe">Bakwains</term> <choice><orig>shewed</orig><reg>showed</reg></choice> me a root which he
+<lb/>and the <term type="occupation">chief</term> of the <term type="tribe"><choice><orig>Bakwains</orig><reg>Bakwena</reg></choice></term> <choice><orig>shewed</orig><reg>showed</reg></choice> me a root which he
 <lb/>powdered &amp; sprinkled on his legs in order to cause
 <lb/>him to run fast. <space extent="3" unit="chars"/>The friends of another <term type="occupation">chief</term> were very
 <lb/>angry with me because having assisted him they asserted
@@ -219,7 +219,7 @@
 <lb/>given him some to change his heart. Some actually
 <lb/>believed that I could raise the dead and perhaps it is owning to
 <lb/>my supposed knowledge in the black art I have never
-<lb/>yet had any thing stolen since I came to the <term type="tribe">Bechuana</term>
+<lb/>yet had any thing stolen since I came to the <term type="tribe"><choice><orig>Bechuana</orig><reg>Batswana</reg></choice></term>
 <lb/>country, you will perceive by these details that their notions
 <lb/>of medicine are quite puerile, their knowledge on all
 <lb/>other subjects is quite as much limited, a few fables contain
@@ -232,8 +232,8 @@
 <lb/>though each woman has her husband who fathers her
 <lb/>children promiscuous intercourse is almost universal. Those
 <lb/>gentlemen who admire the morality of the heathen would do
-<lb/>well to examine before they sound its praises. The <term type="tribe"><w>Bechu<supplied>-</supplied>
-<lb break="no"/>-anas</w></term> are great cowards yet if they can kill when there is
+<lb/>well to examine before they sound its praises. The <term type="tribe"><choice><orig><w>Bechu<supplied>-</supplied>
+<lb break="no"/>-anas</w></orig><reg>Batswana</reg></choice></term> are great cowards yet if they can kill when there is
 <lb/>little chance of being themselves killed they murder without
 <lb/>compunction. <space extent="2" unit="chars"/>They make long incisions on their body
 <lb/>the scars of which are their "scars of honour" the memorial
@@ -283,7 +283,7 @@
 <lb/>the entrance being so small a dozen men could stand
 <lb/>&amp; defend it against the ingress of a single individual
 <lb/>&amp; he crawling on all fours. <space extent="2" unit="chars"/>These holes as well as
-<lb/>those in the <placeName><region><term type="tribe">Bakwain</term> country</region></placeName> are covered with a totally
+<lb/>those in the <placeName><region><term type="tribe"><choice><orig>Bakwain</orig><reg>Bakwena</reg></choice></term> country</region></placeName> are covered with a totally
 <lb/>different vegetation than that which exists on the plains
 <lb/>on the latter it is principally of a thorny stunted
 <lb/>character but as soon as you ascend the former
@@ -291,7 +291,7 @@
 
 	<pb facs="liv_000538_0007" n="0007"/>
 <lb/>The netile shoots up <term>tea tree</term> <measure>30 feet</measure> high &amp; more than <measure>two</measure>
-<lb/>in diameter. <space extent="1" unit="chars"/>The tree which yields the <term type="tribe">Bushman</term> poison
+<lb/>in diameter. <space extent="1" unit="chars"/>The tree which yields the <orgName>Bushman</orgName> poison
 <lb/>is also there very large. There it is a mere shrub.
 <lb/>I hear it is stated at home that <persName>M<hi rend="sup">r</hi> Moffat</persName> intends to go with
 <lb/>the interior on a sort of exploring journey, I

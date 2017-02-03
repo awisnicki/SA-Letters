@@ -144,7 +144,7 @@
 <lb/>be glad if you <del type="strikethrough">bel</del> let me know if you
 <lb/>believe they are really so very far sunk
 <lb/>as has been represented, I heard <unclear cert="low"><persName>M<hi rend="sup">r</hi> Moffat</persName></unclear><!-- Not sure on this name -EM --><!-- Fixed. AW -->
-<lb/>say in <placeName><country>England</country></placeName> that the <term type="tribe">Bechuanas</term> had
+<lb/>say in <placeName><country>England</country></placeName> that the <term type="tribe"><choice><orig>Bechuanas</orig><corr>Batswana</corr></choice></term> had
 <lb/>really no conscience until it was formed
 <lb/>by the <orgName><term type="occupation">missionaries</term></orgName>, Now although the
 <lb/>statement excited my <app><rdg cert="high">risible</rdg><rdg>visible</rdg></app><!-- Option reading? MB --><!-- OK. AW --> faculties a
@@ -157,7 +157,7 @@
 <lb/>as I understand inclines we now to believe
 <lb/>that it was meant as plain prose. What
 <lb/>do you say as to their belief? I mean of the
-<lb/><term type="tribe">Bechuanas</term> in relation to God. Futurely &amp;c.
+<lb/><term type="tribe"><choice><orig>Bechuanas</orig></choice><reg>Batswana</reg></term> in relation to God. Futurely &amp;c.
 <lb/>Besides other fragments of knowledge which
 <lb/>I have found among them they seem to have
 <lb/>had the idea of <del type="strikethrough">the</del> future existence clearly
@@ -185,14 +185,14 @@
 
 	<pb facs="liv_000521_0004" n="0004"/>
 <lb/>Now this <persName>Mocuana</persName> after <w>appeallin<gap agent="fading" extent="1" unit="chars"/><supplied cert="high">g</supplied></w> to his <w>audienc<supplied cert="high">e</supplied></w>
-<lb/>if this were not <choice><sic>reall</sic><corr>real</corr></choice> <term type="tribe">Bechuanas</term> belief of old
+<lb/>if this were not <choice><sic>reall</sic><corr>real</corr></choice> <term type="tribe"><choice><orig>Bechuanas</orig><reg>Batswana</reg></choice></term> belief of old
 <lb/>turned <unclear cert="low">to</unclear> <persName>M<hi rend="sup">r</hi> Edwards</persName> &amp; myself &amp; said, these
 <lb/>men are the <term type="animal"><choice><sic>cameleon</sic><corr>Chameleon</corr></choice></term>, The devil's messengers
 <lb/>came before them &amp; has destroyed both
 <lb/>us &amp; our fathers But now I beseech you
 <lb/>listen to the message of the <choice><sic>Cameleon</sic><corr>Chameleon</corr></choice> &amp; live
 <lb/>the same individual referred also in his
-<lb/>address to the <term type="tribe">Bechuana</term> idea of the soul &amp;
+<lb/>address to the <term type="tribe"><choice><orig>Bechuana</orig><reg>Batswana</reg></choice></term> idea of the soul &amp;
 <lb/>reasoned with his countrymen most <w>power<supplied>-</supplied>
 <lb break="no"/>-fully</w>, arguing that our doctrine was
 <lb/>not new even to the people he was <choice><sic><w>add<supplied>-</supplied>

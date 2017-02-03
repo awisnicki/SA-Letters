@@ -105,7 +105,7 @@
             <div>
                
 	<pb facs="liv_000640_0001" n="0001"/><!-- term type="language"? check throughout. MB --><!-- Done. AW -->
-<lb/><opener><dateline><placeName><settlement type="village">Kolobeng</settlement></placeName>, <placeName><region><term type="tribe">Bakwain</term> Country</region></placeName><!-- Did I handle this correctly? EM --><!-- Fixed. AW --> <date when="1847-08-13">13 August <lb/>1847</date></dateline>
+<lb/><opener><dateline><placeName><settlement type="village">Kolobeng</settlement></placeName>, <placeName><region><term type="tribe"><choice><orig>Bakwain</orig><reg>Bakwena</reg></choice></term> Country</region></placeName><!-- Did I handle this correctly? EM --><!-- Fixed. AW --> <date when="1847-08-13">13 August <lb/>1847</date></dateline>
 <lb/>    
 <lb/><salute>My Dear Brother</salute></opener><!-- Change line info as appropriate -->
 <lb/><p>We <choice><sic>recieved</sic><corr>received</corr></choice> your favour dated <date when="1846-08"><choice><abbr>Aug<hi rend="sup">t</hi></abbr><expan>August</expan></choice> /46</date> while at <placeName><settlement type="village">Kuruman</settlement></placeName> and returned at least in
@@ -114,7 +114,7 @@
 <lb/>in which I am at present placed and the object I have in view in writing at present are the following
 <lb/>The water of <placeName><settlement type="village">Chonuane</settlement></placeName><!-- Or is this a river? EM --><!-- OK as is. AW --><!-- I've left it as it is but I think it's a village AM --><!--changed to village in coding review. MB--> being scanty and bad, and it being impossible for us to revise the Staff of life in
 <lb/>that locality we felt it to be our duty to propose removal to a more salubrious situation. Many of the
-<lb/><term type="tribe">Bakwains</term> were opposed to it because <placeName><settlement type="village">Chonuane</settlement></placeName> afforded good garden ground for <orgName>native</orgName>
+<lb/><term type="tribe"><choice><orig>Bakwains</orig><reg>Bakwena</reg></choice></term> were opposed to it because <placeName><settlement type="village">Chonuane</settlement></placeName> afforded good garden ground for <orgName>native</orgName>
 <lb/><term type="plant">corn</term> <term type="plant_foodstuff">pumpkins</term><!-- add foodstuffs --> &amp;c. But <persName>Sechele</persName> declared he would cleave to us wherever we went and having
 <lb/>fixed on the <placeName><geogName type="stream">Kolobeñ</geogName></placeName><!-- Identified correctly? Mission? EM --><!-- Fixed. AW -->, a fine stream which drains that mass of <unclear cert="medium">hills</unclear><!-- unsure. Perhaps hills? MB --><!-- OK. AW --> which lies Eastward of
 <lb/><placeName>Kuakoe</placeName><!-- Not sure what this is. EM --><!-- ? AW -->, we are now in process of removal thither - Our new station is at the point where
@@ -137,7 +137,7 @@
 <lb/>to the benighted <orgName>inhabitants</orgName> of this region. I have heard it spoken by individuals who thought
 <lb/>they had acquired a knowledge of it yet using the English idiom they could only be understood
 <lb/>by <orgName>natives</orgName> who being accustomed to <orgName>Europeans</orgName> knew what was intended as well as the 
-<lb/>speakers themselves. Had they come to the <term type="tribe">Bakwains</term> or to any of the<!--ink spatter above. MB--> <placeName><region>interior</region></placeName> tribes they
+<lb/>speakers themselves. Had they come to the <term type="tribe"><choice><orig>Bakwains</orig><reg>Bakwena</reg></choice></term> or to any of the<!--ink spatter above. MB--> <placeName><region>interior</region></placeName> tribes they
 <lb/>would not be understood by a single individual - The Enlgish idioms here would be <choice><sic>unintelligble</sic><corr>unintelligible</corr></choice>
 <lb/>gibberish <space extent="1" unit="chars"/>In the following remarks I shall not attempt to follow <term type="occupation"><w>gr<del>i</del><add place="over-text">a</add>mmareans</w></term> - The endeavours  
 <lb/>of some to reduce the <choice><orig>Sicuana</orig><reg>Setswana</reg></choice> to the grammatical forms of Latin &amp; Greek &amp;c seem to me to have
@@ -351,7 +351,7 @@
 <lb break="no"/>-tals</w> had sunk and that the gospel had little or no effect in the <placeName><region>interior</region></placeName> even when preached
 <lb/>again &amp; again, I thought this stimulus enough to <choice><sic>any one</sic><corr>anyone</corr></choice> who longed <del type="strikethrough">for</del> <add place="above">that</add> the glory of Jehovah
 <lb/>should dispel the clouds of darkness &amp; death which cover the earth. But the longer one lives the
-<lb/>more one learns, All the success in <placeName><region><term type="tribe">Bechuana</term> land</region></placeName> belongs through the Divine favour to those
+<lb/>more one learns, All the success in <placeName><region><term type="tribe"><choice><orig>Bechuana</orig><reg>Batswana</reg></choice></term> land</region></placeName> belongs through the Divine favour to those
 <lb/>who preceded us in the field, We are beyond their line of things to have <add place="below">^</add> <add place="above">as</add> yet seen none</p>
 
 	<cb rend="vertical"/>
