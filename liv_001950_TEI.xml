@@ -83,7 +83,7 @@
 <lb/><salute>Dear Sir</salute></opener>
 <lb/><p><space extent="7" unit="chars"/>I have been
 <lb/>counselled by my
-<lb/><term type="tribe">Makololo</term> friends here
+<lb/><term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> friends here
 <lb/>to send for those
 <lb/>of you down about
 <lb/>the mission who

@@ -143,7 +143,7 @@
 <lb/>have its effect, and in the end of <date when="1859-03">March</date>
 <lb/>returned, and found the inhabitants so <w>frien<add place="over-text">dl</add>y</w>,
 <lb/>that we left the vessel with a <term type="occupation">chief</term> named
-<lb/><persName>Chibisa</persName>; <add place="above"><measure>(16º2')</measure></add><!-- Are these geo coordinants? MB --><!-- Looks like it. AW --> and with <persName>D<hi rend="sup underline">r</hi> Kirk</persName> and 15 <term type="tribe">Makololo</term>
+<lb/><persName>Chibisa</persName>; <add place="above"><measure>(16º2')</measure></add><!-- Are these geo coordinants? MB --><!-- Looks like it. AW --> and with <persName>D<hi rend="sup underline">r</hi> Kirk</persName> and 15 <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term>
 <lb/>proceeded Northwards on foot - Our course
 <lb/>lay along the banks of the <geogName type="river">Shire</geogName> which then
 <lb/>was found flowing in a mountainous region.
@@ -233,7 +233,7 @@
 <lb/>glory of God - We were obliged to wait for a
 <lb/>stronger vessel to take us up the rapids above
 <lb/><placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> - I would rather have gone up to make our
-<lb/>experiment in the <region><term type="tribe">Makololo</term> country</region> at once
+<lb/>experiment in the <region><term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> country</region> at once
 <lb/>but it has turned out for the opening of a
 <lb/>highland Lake region; and I pray that our
 <lb/>own <orgName><term type="faith">Christian</term> people</orgName> <!-- Tag with orgName? MB --><!-- Correct. AW -->may be permitted to

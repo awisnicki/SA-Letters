@@ -131,7 +131,7 @@
 <lb/>it may be well for me now to supply.</p>
 <lb/><p>I had no reason whatever for
 <lb/>not wishing your mission to go into
-<lb/>the <placeName><region><term type="tribe">Makololo</term> country</region></placeName>, except that the
+<lb/>the <placeName><region><term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> country</region></placeName>, except that the
 <lb/>way having lately been opened by the 
 <lb/>river <placeName><geogName type="river">Shire</geogName></placeName> to a much more inviting
 <lb/>field, and one specially adapted for
@@ -162,7 +162,7 @@
 <lb/>with an unreduced language, and among
 <lb/>a people who are entirely ignorant of what
 <lb/><term type="occupation"><orgName>missionaries</orgName></term> intend, are a litle more<!-- Heather, should we use <orgName> here? AW -->
-<lb/>formidable than those of the <placeName><region><term type="tribe">Makololo</term> country</region></placeName>
+<lb/>formidable than those of the <placeName><region><term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> country</region></placeName>
 <lb/>but then the field is you own, and
 <lb/>if your <orgName>University men</orgName> have not the pluck
 <lb/>and desire to go beyond other men's
@@ -198,7 +198,7 @@
 <lb/>everywhere -</p>
 <lb/><p>In ventureing to advise the mission
 <lb/>not to leave the <placeName><region>Cape</region></placeName> till <date when="1860-11">November</date> when
-<lb/>we return from the <placeName><region><term type="tribe">Makololo</term> country</region></placeName>,
+<lb/>we return from the <placeName><region><term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> country</region></placeName>,
 <lb/>or until they have a steamer as a temporary
 <lb/>home, I do not assume that we are
 <lb/>indispensible in any respect.  We can

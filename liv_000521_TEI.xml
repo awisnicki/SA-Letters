@@ -165,7 +165,7 @@
 <lb/>deduce from the fable of <hi rend="sup">the</hi> <term type="animal"><choice><sic>Cameleon</sic><corr>Chameleon</corr></choice></term> &amp; 
 <lb/>dark <term type="animal">lizard</term>, I heard <unclear cert="medium">Imokhuana</unclear><!-- Not sure what this is -EM --><!-- Modified slightly. AW --> in an
 <lb/>address reason thus, "Is it not a fact that
-<lb/>we <term type="tribe">Becuanas</term> of old believed that we should
+<lb/>we <term type="tribe"><choice><orig><choice><orig>Becuana</orig><reg>Bechuana</reg></choice></orig><reg>Batswana</reg></choice></term> of old believed that we should
 <lb/>not perish entirely at death.  I <choice><sic>dont</sic><corr>don't</corr></choice> speak
 <lb/>of the knowledge the white man had brought
 <lb/>I speak of the knowledge we had of old, God
@@ -199,8 +199,8 @@
 <lb break="no"/>-vising</w></sic><corr>advising</corr></choice>. <space extent="1" unit="chars"/>I was much pleased the other
 <lb/>day to hear from <unclear cert="low"><persName>M<hi rend="sup">r</hi> Lemus</persName></unclear> that the
 <lb/>word he made use of to express "soul"
-<lb/>is the same as the <term type="tribe">Ses<subst><del>u</del><add place="over-text">o</add></subst>uto</term><!-- Is this a tribe? -EM --><!-- Yes. AW --> namely
-<lb/><foreign xml:lang="und">Muruts</foreign> or shade, not "<foreign xml:lang="und">moea</foreign>" the breath
+<lb/>is the same as the Ses<subst><del>u</del><add place="over-text">o</add></subst>uto<!-- Is this a tribe? -EM --><!-- Yes. AW --><!--refers to the language Sesotho. MB--> namely
+<lb/><foreign xml:lang="st">Muruts</foreign> or shade, not "<foreign xml:lang="tn">moea</foreign>" the breath
 <lb/>which as been adopted by the <term type="occupation">missionary</term>
 <lb/>He <!-- We doesn't make sense in this context MB --><!-- Fixed. AW --> went so far as to describe the food
 <lb/>of souls in the <unclear cert="low">o<gap extent="1" unit="chars" agent="hole"/><supplied>t</supplied>her</unclear> would, namely

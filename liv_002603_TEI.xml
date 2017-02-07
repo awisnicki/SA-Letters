@@ -505,7 +505,7 @@
 <lb/>a very large country called <placeName><region><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></region></placeName> but 
 <lb/>by the <orgName>Arabs</orgName> it is shortened into <placeName><region><choice><orig>Manyema</orig><reg>Maniema</reg></choice></region></placeName> - 
 <lb/>It is but recently known - the reputation
-<lb/>which the <term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> enjoyed of being
+<lb/>which the <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> enjoyed of being
 <lb/><orgName>cannibals</orgName><!--any tags for cannibals? MB--><!-- OK. AW --> prevented the <orgName><orgName>half caste Arab</orgName> <term type="occupation">traders</term></orgName>
 <lb/>from venturing among the - the circumstantial 
 <lb/>details of the practices of the <orgName>men eaters</orgName> given
@@ -621,7 +621,7 @@
 <lb/>out where it actually did go that took me
 <lb/>into <placeName><region><choice><orig>Manyema</orig><reg>Maniema</reg></choice></region></placeName> - I could get no <w>inform<supplied>-</supplied>
 <lb break="no"/><supplied>-</supplied>ation</w> from <term type="occupation">traders</term> outside, and no light
-<lb/>could be obtained from the <term type="tribe">Manyema</term>
+<lb/>could be obtained from the <orgName>Manyema</orgName>
 <lb/>within - They never travel and it was so
 <lb/>of old - They consist of petty headmanships
 <lb/>and each <unclear cert="medium">brings</unclear> his grievance from some
@@ -720,7 +720,7 @@
 <lb/>far the worst <orgName>cannibals</orgName> in all <placeName><bloc>Africa</bloc></placeName> -
 <lb/>They compass by means of <orgName><orgName>Arab</orgName> <term type="occupation">agents</term></orgName> the
 <lb/>destruction of more human lives for gain
-<lb/>in one year than the <term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> do for
+<lb/>in one year than the <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> do for
 <lb/>their flesh pots in ten - the matter of supplies
 <lb/>and men was unwittingly committed to these
 <lb/>our <orgName><term type="nationality">Indian</term> fellow subjects</orgName> who hate to see me
@@ -781,7 +781,7 @@
 <lb/>I have seen <orgName>parties</orgName> return with so much ivory
 <lb/>they carried it by three relays of hundreds of
 <lb/><orgName>slaves</orgName> - But even this did not satisfy human
-<lb/>greed - the <term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term><!-- There have been variations of spelling and as to whether this is referring to tribes or a region. EM --><!-- Fixed. AW --> were found to be terrified
+<lb/>greed - the <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName><!-- There have been variations of spelling and as to whether this is referring to tribes or a region. EM --><!-- Fixed. AW --> were found to be terrified
 <lb/>by the report of guns - some I know believed
 <lb/>them to be supernatural for when the effects
 <lb/>of a musket ball was <choice><orig>shewn</orig><reg>shown</reg></choice> on a <term type="animal">goat</term> they
@@ -790,15 +790,15 @@
 <lb/>was drawn down - When a village was
 <lb/>assaulted the men fled in terror and women
 <lb/>and children were captured - Many of the
-<lb/><orgName><term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> women</orgName> especially far down the
+<lb/><orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice> women</orgName> especially far down the
 <lb/><placeName><geogName type="river">Lualaba</geogName></placeName> are very pretty light coloured and
 <lb/>lovely - It was common to hear the <orgName><placeName><geogName type="island">Zanzibar</geogName></placeName>
 <lb/><orgName>slaves</orgName></orgName>, whose faces resemble the features
 <lb/>of <placeName><settlement type="city">London</settlement></placeName> door knockers which some
 <lb/>atrocious iron founder thought were like those
 <lb/>of <term type="animal">lions</term>, say to each other "oh if we had
-<lb/><term type="tribe">Manyema</term> wives what pretty children
-<lb/>we should get" - <term type="tribe">Manyema</term> men and women
+<lb/><orgName>Manyema</orgName> wives what pretty children
+<lb/>we should get" - <orgName>Manyema</orgName> men and women
 <lb/>were all vastly superior to the <orgName>slaves</orgName> who
 <lb/>evidently felt the inferiority they had acquired
 <lb/>by wallowing in the mire of bondage -
@@ -806,12 +806,12 @@
 <lb/>fellows with but little of what we think
 <lb/>distinctive of the <orgName>negro</orgName> about them - If one
 <lb/>relied on the teachings of phrenology the
-<lb/><term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> men would take a high place
+<lb/><orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> men would take a high place
 <lb/>in the human family = They felt their superiority
 <lb/>and often said truly - "were it not for <unclear cert="low"><subst><del>the</del><add place="over-text">your</add></subst></unclear>
 <lb/>firearms not one of the strangers would
 <lb/>ever leave our country" - If a comparison
-<lb/>were instituted and <term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> taken at
+<lb/>were instituted and <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> taken at
 
 	<pb facs="liv_002603_0034" n="0034"/>
 <!-- Blank Page. EM -->
@@ -820,7 +820,7 @@
 <lb/><choice><sic>at</sic><corr/></choice> random placed <add place="above">(18)</add> opposite say the <orgName>members of
 <lb/>the <orgName>Anthropological society of <placeName><settlement type="city">London</settlement></placeName></orgName></orgName> clad like
 <lb/>them in kilts of grass cloth I should like to take
-<lb/>my place alongside the <term type="tribe">Manyema</term> on the principle
+<lb/>my place alongside the <orgName>Manyema</orgName> on the principle
 <lb/>of preferring the companion of my betters - the
 <lb/>philosophies would look woefully scrappy -
 <lb/>But though the "<orgName>inferior race</orgName>"  as we <w>com-
@@ -879,7 +879,7 @@
 <lb/>had killed all their <term type="animal">gigantic birds</term> (<term type="animal">Moabe</term>)
 <lb/>and they were connected from the man
 <lb/>eating persuasion by the introduction of
-<lb/><term type="animal">pigs</term> - But the <term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> have plenty of
+<lb/><term type="animal">pigs</term> - But the <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> have plenty of
 <lb/><term type="animal">pigs</term> &amp; other domestic animals and yet
 <lb/>they are <orgName>cannibals</orgName> - Into the reasons for
 <lb/>their <orgName>cannibalism</orgName> I do not enter - They
@@ -910,7 +910,7 @@
 <lb/>better than the <orgName>Heathen</orgName> but often <choice><sic>dont</sic><corr>don't</corr></choice> know
 <lb/>it and they are all immeasurably better
 <lb/>than they believe each other to be -</p>
-<lb/><p>The <orgName><term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term></orgName> women especially far
+<lb/><p>The <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> women especially far
 <lb/>down the <placeName><geogName type="river">Lualaba</geogName></placeName> are very pretty and very
 <lb/>industrious - The market is with them a
 <lb/>great institution and they work hard and carry
@@ -936,7 +936,7 @@
 <lb/>and <term type="animal">fish</term> for farinaceous food from the
 <lb/>women on the East of the <placeName><geogName type="river">Lualaba</geogName></placeName> who
 <lb/>prefer cultivating the soil to fishery - the
-<lb/><term type="tribe"><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></term> have always told us that
+<lb/><orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> have always told us that
 <lb/>women going to market were never
 <lb/>molested - When the men of two districts
 <lb/>were engaged in actual hostilities

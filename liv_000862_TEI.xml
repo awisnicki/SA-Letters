@@ -106,7 +106,7 @@
 <lb/>quite leizurely to <placeName><settlement type="village">Lesheke</settlement></placeName>. Some parcels of
 <lb/>Newspapers <term type="foodstuff">meal biscuits</term> &amp;c &amp;c had been
 <lb/>brought to the fall, in the river called <placeName><geogName type="river">Mosioatunya</geogName></placeName>
-<lb/>by the tribe called <term type="tribe">Matibele</term> - the mortal
+<lb/>by the tribe called <term type="tribe"><choice><orig>Matibele</orig><reg>Matebele</reg></choice></term> - the mortal
 <lb/>enemies of <orgName><persName>Sekeletu</persName>'s people</orgName> and as the <!-- orgName for Sekeletu's people? MB --><!-- OK. AW -->
 <lb/>latter refused to go near them, they were
 <lb/>left on a rock in the </placeName><unclear>Leeamby</unclear>. After due
@@ -331,7 +331,7 @@
 <lb/>going there</p>
 
 	<pb facs="liv_000862_0008" n="0008"/>
-<lb/><p>the <term type="tribe">Makololo</term> (<orgName><persName>Sekeletu</persName>'s people</orgName>) are
+<lb/><p>the <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> (<orgName><persName>Sekeletu</persName>'s people</orgName>) are
 <lb/>really delighted with the prospect of returning
 <lb/>they want words to express their thanks
 <lb/>for the prospective benefit of trade to the

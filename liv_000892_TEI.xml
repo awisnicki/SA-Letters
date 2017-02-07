@@ -92,7 +92,7 @@
 <lb rend="right"/><p>I was entrusted
 <lb/>with certain presents and a letter from the
 <lb/><orgName>Government of <placeName><country>Angola</country></placeName></orgName> for <persName>Sekeletu</persName> the
-<lb/><term type="occupation">chief</term> of the people called <term type="tribe">Makololo</term> living on the
+<lb/><term type="occupation">chief</term> of the people called <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> living on the
 <lb/><placeName><geogName type="river">Zambesi</geogName></placeName> near the centre of the continent, it
 <lb/>is my duty to give your excellency as full
 <lb/>an account of the manner in which the
@@ -165,8 +165,8 @@
 <lb/>is more than I expected from men who
 <lb/>underwent so much hunger and fatigue,
 <lb/>for they have all plenty of food and liquor
-<lb/>at home. Other tribes as those of <unclear cert="medium"><term type="tribe">Katema</term></unclear>
-<lb/>and <term type="tribe">Shinte</term> promised to send men with
+<lb/>at home. Other tribes as those of <unclear cert="medium"><persName>Katema</persName></unclear>
+<lb/>and <persName>Shinte</persName> promised to send men with
 <lb/>them for the same purposes, and I believe
 <lb/>if no untoward event transpires a brisk
     
@@ -248,10 +248,10 @@
 <lb/>and if it still appears desirable I may
 <lb/>suggest the way from <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName>
 <lb/>to <placeName><settlement type="village">Bihe</settlement></placeName>. From <placeName><settlement type="village">Bihe</settlement></placeName> to the nearest
-<lb/><term type="tribe">Makololo</term> on the <placeName><geogName type="river">Zambesi</geogName></placeName>, say to
+<lb/><term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> on the <placeName><geogName type="river">Zambesi</geogName></placeName>, say to
 <lb/><persName>Mpololo</persName> the uncle of <persName>Sekeletu</persName> who
 <lb/>lives at <placeName><settlement type="village">Naliele</settlement></placeName> (<choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 15º 24' South and 
-<lb/><choice><abbr>Long</abbr><expan>Longitude</expan></choice> 23º East.) The <term type="tribe">Makololo</term> would
+<lb/><choice><abbr>Long</abbr><expan>Longitude</expan></choice> 23º East.) The <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> would
 <lb/>send any letters or dispatches safely
 <lb/>down to my future dwelling place
 <lb/>which will probably be near the 

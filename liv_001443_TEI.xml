@@ -93,7 +93,7 @@
 <lb/>with a <term type="occupation">chief</term> named <persName>Chibisa</persName> <!-- Appears to be Chibisa on the following page. JM -->
 <lb/>(<choice><abbr>Lat.</abbr><expan>Latitude</expan></choice> 16°2' <choice><abbr>S. Long.</abbr><expan>South Longitude</expan></choice> 35° <choice><abbr>E.</abbr><expan>East</expan></choice>) and
 <lb/>with <persName>D<hi rend="sup underline">r</hi> Kirk</persName> and thirteen-
-<lb/><term type="tribe">Makololo</term> proceeded on foot
+<lb/><term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> proceeded on foot
 
 	<pb facs="liv_001443_0002" n="0002"/>
 <lb/><gap agent="hole"/><!-- Damage spans 3/4 of the page. MB -->chiefly North and along the
@@ -447,7 +447,7 @@
 <lb/><p rend="no-indent">before the rains commence or
 <lb/>insects come forth to damage
 <lb/>the crop.</p>
-<lb/><p>The <term type="tribe">Manganya</term> have no
+<lb/><p>The <term type="tribe">Manganja</term> have no
 <lb/>domestic animals except <term type="animal">sheep</term>
 <lb/><term type="animal">goats</term> and <term type="animal">fowls</term>. We get abundance
 <lb/>of provisions at a cheap rate -
@@ -478,7 +478,7 @@
 	<!-- This note is in the right margin and continues onto the next page. MB -->
 	<ab>
 <lb/>We caught a young <term type="animal">elephant</term> coming down the river 
-<lb/>but one of the <term type="tribe">Makololo</term> in excitement cut its proboscus so as at
+<lb/>but one of the <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> in excitement cut its proboscus so as at
 <lb/>last to cause its death - It lived two days and to use the language
 <lb/>of the Newspapers when tearfully pathetic. "In spite of the unwearied
 
@@ -521,7 +521,7 @@
 <lb/>see them. Some of the women
 
 	<pb facs="liv_001443_0016" n="0016"/>
-<lb/>told the <term type="tribe">Makololo</term> that <term type="tribe">Bajana</term>
+<lb/>told the <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> that <term type="tribe">Bajana</term>
 <lb/>said that <term type="people">English</term> would stop their
 <lb/>trade and no more foreign cloth
 <lb/>be brought into the country The
@@ -568,7 +568,7 @@
 <lb/>calls them did not cross or come near
 <lb/>it - <space extent="2" unit="chars"/>An old lady at <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> remembers
 <lb/><persName>Baptisla</persName> &amp; <persName>Jose</persName> coming to <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> - <orgName>black
-<lb/>men</orgName> with the wool dressed <term type="tribe">Londa</term> <w>fashi<gap agent="hole" extent="2" unit="chars"/></w>
+<lb/>men</orgName> with the wool dressed <placeName><region><term type="tribe">Londa</term></region></placeName> <w>fashi<gap agent="hole" extent="2" unit="chars"/></w>
 <lb/>and Lond swords on their shoulders I<gap agent="hole" extent="4" unit="chars"/>
 <lb/>must know farther cousequently failed
 <lb/>by <hi rend="underline">some</hi> <measure>400 miles</measure> of going across
