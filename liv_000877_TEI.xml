@@ -25,6 +25,11 @@
                     <resp>Transcription</resp>
                     <resp>Encoding</resp>
                 </respStmt>
+				<respStmt xml:id="MB">
+                    <name>Mary Borgo</name>
+                    <resp>Transcription</resp>
+                    <resp>Encoding</resp>
+                </respStmt>
                 <respStmt xml:id="AW">
                     <name>Adrian S. Wisnicki</name>
                     <resp>Coding review</resp>
@@ -67,7 +72,7 @@
         <profileDesc>
             <langUsage>
                 <language ident="en">English</language>
-                <language ident="und">undetermined</language>
+                <language ident="pt">Portuguese</language>
 				<!-- See LEAP encoding manual sect. 20 for language abbreviations. English should be first,
 				then add all other languages, as appropriate, in alphabetical order. -->
             </langUsage>
@@ -449,7 +454,7 @@
 <lb/>looking at the <term type="plant">Rhododendrons</term> we were nearly on
 <lb/>the crest of the ridge and the <placeName><geogName type="river">Quango</geogName></placeName> has given
 <lb/>us a section of it <choice><orig>shewing</orig><reg>showing</reg></choice> it is composed of
-<lb/>red clay slate (<foreign xml:lang="und">scotticé Keebe</foreign>) Then <placeName><geogName type="lake">Dilolo</geogName></placeName>
+<lb/>red clay slate (scotticé <foreign xml:lang="gd">Keebe</foreign>) Then <placeName><geogName type="lake">Dilolo</geogName></placeName>
 <lb/>forms a sort of partition in the valley which
 <lb/>exists between this the <placeName><region>Western</region></placeName> and a similar
 <lb/>ridge which we have found <measure>about 10° Eastward</measure>
@@ -527,7 +532,7 @@
 <lb/>much of the country from <placeName>Nchokotsa</placeName> Eastwards - this
 <lb/>is abundantly evident otherwise for the whole of the
 <lb/>space thus indicated is covered over with a thick
-<lb/>bed of soft calcareous <foreign xml:lang="und">tufa</foreign> <del type="strikethrough">with</del> which the <w>water<supplied>s</supplied></w>
+<lb/>bed of soft calcareous tufa <del type="strikethrough">with</del> which the <w>water<supplied>s</supplied></w>
 <lb/>formerly seem to have deposited most copiously -
 <lb/>and considerably to the <placeName><region>South West of <placeName><geogName type="lake">Ngami</geogName></placeName></region></placeName> if an
 <lb/><term type="insect">anteater</term> digs his burrow shells are thrown up
@@ -608,7 +613,7 @@
 <lb/>on it, and though I have been for a month on the
 <lb/><placeName><geogName type="river">Zambesi</geogName></placeName> I have <del type="strikethrough">had</del> suffered nothing from <term type="ailment">fever</term>
 <lb/>this however is partly owing to having had <term type="foodstuff">wheaten bread</term>
-<lb/>and not the mere starch of <placeName><region>Londa</region></placeName> <foreign xml:lang="und"><term type="plant_foodstuff">manioc</term></foreign> &amp; <term type="plant_foodstuff"><term type="animal">bird</term>'s seed</term>.
+<lb/>and not the mere starch of <placeName><region>Londa</region></placeName> <term type="plant_foodstuff"><foreign xml:lang="pt">manioc</foreign></term> &amp; <term type="plant_foodstuff"><term type="animal">bird</term>'s seed</term>.
 <lb/><placeName><settlement type="village">Zumbo</settlement></placeName> was healthy - not because it was elevated for
 <lb/>the country is all low - the ranges of hills which run
 <lb/>all along on each side of the river are not so high as

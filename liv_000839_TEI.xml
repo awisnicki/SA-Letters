@@ -208,7 +208,7 @@
 <lb/>which abounds but of different
 <lb/>colours and sizes all the way to
 <lb/><placeName><settlement type="village">Kolobeng</settlement></placeName>. I have heard it called
-<lb/><foreign xml:lang="und"><term type="plant">"Watsonia"</term></foreign> x<anchor xml:id="marginadd-1"/><!-- There is an x symbol here. JM --><!-- Indicating the note to the side. EM --> The specimens sent are
+<lb/><term type="plant">"Watsonia"</term> x<anchor xml:id="marginadd-1"/><!-- There is an x symbol here. JM --><!-- Indicating the note to the side. EM --> The specimens sent are
 <lb/>tied to the pole of the <unclear cert="high">Tepoia</unclear> and the
 <lb/>colours are very lovely. I had not
 <lb/>time to put up <term type="plant">wild vines</term> but
@@ -217,7 +217,7 @@
 <lb/>laden with other <term type="plant_foodstuff">fruit</term> or flowers
 <lb/>presenting a <unclear cert="medium">curious</unclear> contrast to</p>
 
-<cb rend="vertical"/><note><add place="marginleft" corresp="#marginadd-1">Have seen <foreign xml:lang="und"><term type="plant">Watsonia</term></foreign> since. it is different</add></note>
+<cb rend="vertical"/><note><add place="marginleft" corresp="#marginadd-1">Have seen <term type="plant">Watsonia</term> since. it is different</add></note>
         
     <pb facs="liv_000839_0006" n="0006"/>
 <lb/><p>the <term type="plant">vines</term> of <placeName><country>Portugal</country></placeName> and <placeName><country>Trinidad</country></placeName>
@@ -567,8 +567,8 @@
 <lb/><persName>M<hi rend="sup">r</hi> Pires</persName> suggests the probability of being 
 <lb/>able to send <bibl>letters</bibl> by such persons. 
 <lb/>either to his care or to that of his <term type="occupation">assistants</term>
-<lb/>in <placeName><settlement type="village">Bihé</settlement></placeName> "<foreign xml:lang="pt"><persName>Guilherme José Gonsalves</persName>, <term type="occupation">Asistente</term>
-<lb/>no <placeName><settlement type="village">Bihé</settlement></placeName></foreign>" who will forward them 
+<lb/>in <placeName><settlement type="village">Bihé</settlement></placeName> "<persName>Guilherme José Gonsalves</persName>, <term type="occupation">Asistente</term>
+<lb/>no <placeName><settlement type="village">Bihé</settlement></placeName>" who will forward them 
 <lb/>to him. If I see any one I shall
 
     <!-- mb, aw, em, aw -->
@@ -612,7 +612,7 @@
 <lb/>plants</term> with it as well. <term type="plant_foodstuff">Guavas</term>
 <lb/>they grow wild along the rivers
 <lb/>here. <space extent="2" unit="chars"/><foreign xml:lang="pt"><term type="plant_foodstuff">Fruita da Coude</term></foreign>. <term type="plant_foodstuff">Jambos</term>
-<lb/><term type="plant_foodstuff">Bananas</term>. <foreign xml:lang="pt"><term type="plant_foodstuff">Ananas</term></foreign>. and <term type="plant_foodstuff">orange
+<lb/><term type="plant_foodstuff">Bananas</term>. <term type="plant_foodstuff">Ananas</term>. and <term type="plant_foodstuff">orange
 <lb/>trees</term> even but here nearly <measure>300
 <lb/>miles</measure> inland Has it spread thus
 
@@ -655,7 +655,7 @@
 <lb/>pistil or stamina - The roots are nearly
 <lb/>fibrous - scarcely <term type="plant_foodstuff">onion</term> but approaching
 <lb/>that form - <space extent="2" unit="chars"/>Another is I believe
-<lb/>what I have called <foreign xml:lang="und"><term type="plant">watsonia</term></foreign> perhaps 
+<lb/>what I have called <term type="plant">watsonia</term> perhaps 
 <lb/>erroneously. <space extent="2" unit="chars"/>It may be propagated by
 <lb/>cutting the bulbes into parts. I learned 
 <lb/>this by cutting one by accident with a <add place="below">spade</add>
@@ -813,9 +813,9 @@
 <lb/>to do it even to myself - I suppose my
 <lb/>part of the contract is invalided thereby</p>
 <lb/><p>I met a <term type="occupation">missionary</term> at <placeName><settlement>Pungo 
-<lb/>Andongo</settlement></placeName> - <foreign xml:lang="pt"><persName>Antonio Franciso das <w>Ne<subst><del type="strikethrough">s</del><add place="inline">c</add></subst>essidades</w></persName>
+<lb/>Andongo</settlement></placeName> - <persName>Antonio Franciso das <w>Ne<subst><del type="strikethrough">s</del><add place="inline">c</add></subst>essidades</w></persName>
 <lb/>Visitador em Missaõ <w>f<hi rend="sup">n</hi></w> sua <w>Ex<hi rend="sup">a</hi></w> <w>Rev<hi rend="sup underline">a</hi></w>
-<lb/>et visitas the</foreign> - He is a <term type="occupation">Canon</term> of the 
+<lb/>et visitas the - He is a <term type="occupation">Canon</term> of the 
 <lb/><orgName><term type="faith"><choice><abbr>R. C.</abbr><expan>Roman Catholic</expan></choice></term> church</orgName><!-- RC Church an orgName? MB, EM --><!-- Yes. AW --> - lately returned from 
 <lb/><placeName><country>Portugal</country></placeName> whither he had conducted
 <lb/>the <persName><term type="occupation">Prince</term> of <placeName><country>Congo</country></placeName></persName> - An honour was
