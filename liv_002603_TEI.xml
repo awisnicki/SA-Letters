@@ -266,7 +266,7 @@
 <lb/>and others - and he <choice><orig>shewed</orig><reg>showed</reg></choice> himself
 <lb/>to be one of ourselves by habitually
 <lb/>indulging in copious potations of
-<lb/><term type="foodstuff">beer</term> called <term type="foodstuff"><foreign xml:lang="und"><hi rend="underline">pombre</hi></foreign></term> and had become
+<lb/><term type="foodstuff">beer</term> called <term type="foodstuff"><foreign xml:lang="und"><hi rend="underline">pombe</hi></foreign></term> and had become
 <lb/>what <persName>Nathaniel Hawthorne</persName> called
 <lb/>"bulbous" below the ribs - I <choice><sic>dont</sic><corr>don't</corr></choice> know
 <lb/>where the phrase "bloated Aristocracy"
@@ -344,7 +344,7 @@
 <lb/>usually do where the <orgName>natives</orgName> have no 
 <lb/>guns <persName>Syde bin Habib</persName>'s elder brother
 <lb/>carried matters with a high hand. 
-<lb/>the <orgName><term type="tribe"><placeName><region>Rua</region></placeName></term> men</orgName><!-- orgName? MB --><!-- Fixed. AW --> observed that the
+<lb/>the <orgName><term type="tribe"><choice><orig>Rua</orig><reg>Luba</reg></choice></term> men</orgName><!-- orgName? MB --><!-- Fixed. AW --> observed that the
 <lb/>elder brother slept in a white tent
 <lb/>and pitching their spears into it by
 <lb/>night killed him - As <orgName>Moslems</orgName> 
@@ -365,7 +365,7 @@
 <lb/>Had the actual murderers been demanded
 <lb/>and a little time been granted I feel morally
 <lb/>certain from many other instances among 
-<lb/>tribes who like the <term type="tribe">BaRua</term> have not been
+<lb/>tribes who like the <term type="tribe"><choice><orig>BaRua</orig><reg>Luba</reg></choice></term> have not been
 <lb/>spoiled by <orgName><orgName>Arab</orgName> <term type="occupation">traders</term></orgName> they would all 
 <lb/>have been given up - the <term type="occupation">chief</term> of the country
 <lb/>would first of all have specified the
@@ -505,7 +505,7 @@
 <lb/>a very large country called <placeName><region><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></region></placeName> but 
 <lb/>by the <orgName>Arabs</orgName> it is shortened into <placeName><region><choice><orig>Manyema</orig><reg>Maniema</reg></choice></region></placeName> - 
 <lb/>It is but recently known - the reputation
-<lb/>which the <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> enjoyed of being
+<lb/>which the <orgName><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orgName> enjoyed of being
 <lb/><orgName>cannibals</orgName><!--any tags for cannibals? MB--><!-- OK. AW --> prevented the <orgName><orgName>half caste Arab</orgName> <term type="occupation">traders</term></orgName>
 <lb/>from venturing among the - the circumstantial 
 <lb/>details of the practices of the <orgName>men eaters</orgName> given
@@ -720,7 +720,7 @@
 <lb/>far the worst <orgName>cannibals</orgName> in all <placeName><bloc>Africa</bloc></placeName> -
 <lb/>They compass by means of <orgName><orgName>Arab</orgName> <term type="occupation">agents</term></orgName> the
 <lb/>destruction of more human lives for gain
-<lb/>in one year than the <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> do for
+<lb/>in one year than the <orgName><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orgName> do for
 <lb/>their flesh pots in ten - the matter of supplies
 <lb/>and men was unwittingly committed to these
 <lb/>our <orgName><term type="nationality">Indian</term> fellow subjects</orgName> who hate to see me
@@ -781,7 +781,7 @@
 <lb/>I have seen <orgName>parties</orgName> return with so much ivory
 <lb/>they carried it by three relays of hundreds of
 <lb/><orgName>slaves</orgName> - But even this did not satisfy human
-<lb/>greed - the <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName><!-- There have been variations of spelling and as to whether this is referring to tribes or a region. EM --><!-- Fixed. AW --> were found to be terrified
+<lb/>greed - the <orgName><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orgName><!-- There have been variations of spelling and as to whether this is referring to tribes or a region. EM --><!-- Fixed. AW --> were found to be terrified
 <lb/>by the report of guns - some I know believed
 <lb/>them to be supernatural for when the effects
 <lb/>of a musket ball was <choice><orig>shewn</orig><reg>shown</reg></choice> on a <term type="animal">goat</term> they
@@ -790,7 +790,7 @@
 <lb/>was drawn down - When a village was
 <lb/>assaulted the men fled in terror and women
 <lb/>and children were captured - Many of the
-<lb/><orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice> women</orgName> especially far down the
+<lb/><orgName><choice><orig>Manyuema</orig><reg>Manyema</reg></choice> women</orgName> especially far down the
 <lb/><placeName><geogName type="river">Lualaba</geogName></placeName> are very pretty light coloured and
 <lb/>lovely - It was common to hear the <orgName><placeName><geogName type="island">Zanzibar</geogName></placeName>
 <lb/><orgName>slaves</orgName></orgName>, whose faces resemble the features
@@ -806,12 +806,12 @@
 <lb/>fellows with but little of what we think
 <lb/>distinctive of the <orgName>negro</orgName> about them - If one
 <lb/>relied on the teachings of phrenology the
-<lb/><orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> men would take a high place
+<lb/><orgName><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orgName> men would take a high place
 <lb/>in the human family = They felt their superiority
 <lb/>and often said truly - "were it not for <unclear cert="low"><subst><del>the</del><add place="over-text">your</add></subst></unclear>
 <lb/>firearms not one of the strangers would
 <lb/>ever leave our country" - If a comparison
-<lb/>were instituted and <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> taken at
+<lb/>were instituted and <orgName><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orgName> taken at
 
 	<pb facs="liv_002603_0034" n="0034"/>
 <!-- Blank Page. EM -->
@@ -879,7 +879,7 @@
 <lb/>had killed all their <term type="animal">gigantic birds</term> (<term type="animal">Moabe</term>)
 <lb/>and they were connected from the man
 <lb/>eating persuasion by the introduction of
-<lb/><term type="animal">pigs</term> - But the <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> have plenty of
+<lb/><term type="animal">pigs</term> - But the <orgName><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orgName> have plenty of
 <lb/><term type="animal">pigs</term> &amp; other domestic animals and yet
 <lb/>they are <orgName>cannibals</orgName> - Into the reasons for
 <lb/>their <orgName>cannibalism</orgName> I do not enter - They
@@ -910,7 +910,7 @@
 <lb/>better than the <orgName>Heathen</orgName> but often <choice><sic>dont</sic><corr>don't</corr></choice> know
 <lb/>it and they are all immeasurably better
 <lb/>than they believe each other to be -</p>
-<lb/><p>The <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> women especially far
+<lb/><p>The <orgName><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orgName> women especially far
 <lb/>down the <placeName><geogName type="river">Lualaba</geogName></placeName> are very pretty and very
 <lb/>industrious - The market is with them a
 <lb/>great institution and they work hard and carry
@@ -936,7 +936,7 @@
 <lb/>and <term type="animal">fish</term> for farinaceous food from the
 <lb/>women on the East of the <placeName><geogName type="river">Lualaba</geogName></placeName> who
 <lb/>prefer cultivating the soil to fishery - the
-<lb/><orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> have always told us that
+<lb/><orgName><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orgName> have always told us that
 <lb/>women going to market were never
 <lb/>molested - When the men of two districts
 <lb/>were engaged in actual hostilities

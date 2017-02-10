@@ -567,7 +567,7 @@
 <lb/><persName>M<hi rend="sup">r</hi> Pires</persName> suggests the probability of being 
 <lb/>able to send <bibl>letters</bibl> by such persons. 
 <lb/>either to his care or to that of his <term type="occupation">assistants</term>
-<lb/>in <placeName><settlement type="village">Bihé</settlement></placeName> "<persName>Guilherme José Gonsalves</persName>, <term type="occupation">Asistente</term>
+<lb/>in <placeName><settlement type="village">Bihé</settlement></placeName> "<persName>Guilherme José Gonsalves</persName>, <term type="occupation"><term type="occupation">Asistente</term></term>
 <lb/>no <placeName><settlement type="village">Bihé</settlement></placeName>" who will forward them 
 <lb/>to him. If I see any one I shall
 
@@ -813,7 +813,7 @@
 <lb/>to do it even to myself - I suppose my
 <lb/>part of the contract is invalided thereby</p>
 <lb/><p>I met a <term type="occupation">missionary</term> at <placeName><settlement>Pungo 
-<lb/>Andongo</settlement></placeName> - <persName>Antonio Franciso das <w>Ne<subst><del type="strikethrough">s</del><add place="inline">c</add></subst>essidades</w></persName>
+<lb/>Andongo</settlement></placeName> - <persName>Antonio <choice><sic>Franciso</sic><corr>Francisco</corr></choice> das <w>Ne<subst><del type="strikethrough">s</del><add place="inline">c</add></subst>essidades</w></persName>
 <lb/>Visitador em Missaõ <w>f<hi rend="sup">n</hi></w> sua <w>Ex<hi rend="sup">a</hi></w> <w>Rev<hi rend="sup underline">a</hi></w>
 <lb/>et visitas the - He is a <term type="occupation">Canon</term> of the 
 <lb/><orgName><term type="faith"><choice><abbr>R. C.</abbr><expan>Roman Catholic</expan></choice></term> church</orgName><!-- RC Church an orgName? MB, EM --><!-- Yes. AW --> - lately returned from 
@@ -896,7 +896,7 @@
 
 	<pb facs="liv_000839_0036" n="0036"/>
 <lb/>I have advised <persName>D<hi rend="sup underline">r</hi> Tidman</persName> in the
-<lb/>present <bibl>letter</bibl> of both bills - <foreign xml:lang="la"><choice><abbr>viz.</abbr><expan>vidilicet</expan></choice></foreign> - for
+<lb/>present <bibl>letter</bibl> of both bills - <foreign xml:lang="la"><choice><abbr>viz.</abbr><expan>videlicet</expan></choice></foreign> - for
 <lb/>£50 and £25. and (my <term type="occupation">trumpeter</term> being
 <lb/>out of the way at present) fancy you
 <lb/><choice><sic>wont</sic><corr>won't</corr></choice> - be able to pick a flaw in
@@ -946,7 +946,7 @@
 <lb/>ever since I came - and will send
 <lb/>it and some observations for <persName>M<hi rend="sup underline">r</hi>
 <lb/>Macclear</persName> by next <bibl><orgName>Mail</orgName></bibl>. Also a concluding
-<lb/><bibl>letter</bibl> for <persName>Sir Roderick</persName> <foreign xml:lang="la"><choice><abbr>viz.</abbr><expan>vidilicet</expan></choice></foreign> on the <placeName><region>Province</region></placeName>
+<lb/><bibl>letter</bibl> for <persName>Sir Roderick</persName> <foreign xml:lang="la"><choice><abbr>viz.</abbr><expan>videlicet</expan></choice></foreign> on the <placeName><region>Province</region></placeName>
 <lb/>Have you colours to give a slight tint
 <lb/>to the different rocks - in the sketch - If
 <lb/>not never mind - I have taken one

@@ -73,6 +73,7 @@
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="pt">Portuguese</language>
+				<language ident="la">Latin</language>
 				<!-- See LEAP encoding manual sect. 20 for language abbreviations. English should be first,
 				then add all other languages, as appropriate, in alphabetical order. -->
             </langUsage>
@@ -402,7 +403,7 @@
 <lb/>the <placeName><geogName type="river">Quango</geogName></placeName> seemed to confirm the idea - But
 <lb/>having hopes of meeting an <w>Ane<subst><del><gap extent="6" unit="chars"/></del><add place="above">roid</add></subst></w> or Barometer
 <lb/>at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> I did not try my only other resource 
-<lb/>for measuring elevations <foreign xml:lang="und"><choice><abbr>viz.</abbr><expan>videlicet</expan></choice></foreign> the point of ebullition
+<lb/>for measuring elevations <foreign xml:lang="la"><choice><abbr>viz.</abbr><expan>videlicet</expan></choice></foreign> the point of ebullition
 <lb/>of water - Being disappointed by the <term type="occupation">autocrat</term> of
 <lb/>all the <placeName><bloc>Russias</bloc></placeName> requiring the presence of my friend
 
