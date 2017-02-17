@@ -687,7 +687,7 @@
 <lb/>the distiller in a quill - also a little
 <lb/>bit of the rock forming the descent
 <lb/>at <placeName><settlement type="village">Tala <choice><orig>Mongongo</orig><reg>Mungongo</reg></choice></settlement></placeName> and most of 
-<lb/>the <placeName><geogName type="basin"><settlement type="village">Cassange</settlement> basin</geogName></placeName><!-- this coded correctly? MB --><!-- Fixed. AW --></p>
+<lb/>the <placeName><geogName type="basin">Cassange basin</geogName></placeName><!-- this coded correctly? MB --><!-- Fixed. AW --><!-- removed settlement tag since he's referring to the river, not the people--></p>
 <lb/><p>I have not needed much coaxing
 <lb/>to loiter on the way for when one
 <lb/>receives the exciting news of the near <!-- Again, can we check receives to confirm DL spelled correctly? HB -->

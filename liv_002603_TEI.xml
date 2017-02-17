@@ -335,12 +335,12 @@
 <lb/>a man of sterling good sense</p>
 <lb/><p>Now, these people so like ourselves <w>ex-
 <lb break="no"/>-ternally</w> have genuine human souls. 
-<lb/><placeName><region>Rua</region></placeName><!-- or settlement? MB --><!-- OK. AW --> a very large section of country North
+<lb/><placeName><region><choice><orig>Rua</orig><reg>Lubaland</reg></choice></region></placeName><!-- or settlement? MB --><!-- OK. AW --> a very large section of country North
 <lb/><add place="below">^</add> <add place="above">&amp; West</add> of <placeName><settlement type="village"><persName>Cazembe</persName>'s</settlement></placeName> but still in the same
 <lb/>inland region - is peopled by men
 <lb/>very like those of <persName>Insama</persName><!-- unclear. MB --><!-- Looks right. AW --> &amp; <persName>Cazembe</persName>
 <lb/>An <orgName>Arab</orgName> - <persName>Syde bin Habib</persName> went to trade
-<lb/>in <placeName><region>Rua</region></placeName> <date when="1870">two years ago</date>, and as the <orgName>Arabs</orgName> 
+<lb/>in <placeName><region><choice><orig>Rua</orig><reg>Lubaland</reg></choice></region></placeName> <date when="1870">two years ago</date>, and as the <orgName>Arabs</orgName> 
 <lb/>usually do where the <orgName>natives</orgName> have no 
 <lb/>guns <persName>Syde bin Habib</persName>'s elder brother
 <lb/>carried matters with a high hand. 
@@ -388,7 +388,7 @@
 <lb/>were captured and secured in chains and 
 <lb/>wooden yokes - I came near the <orgName>party of <persName>Syde
 <lb/>-bin Habib</persName></orgName> close <add place="below">^</add> <add place="above">to</add> the point where a huge
-<lb/>rent in the <placeName><geogName type="mountain">mountains of <placeName><region>Rua</region></placeName></geogName></placeName> allows the 
+<lb/>rent in the <placeName><geogName type="mountain">mountains of <placeName><region><choice><orig>Rua</orig><reg>Lubaland</reg></choice></region></placeName></geogName></placeName> allows the 
 <lb/>escape of the great river <placeName><geogName type="river">Lualaba</geogName></placeName> <del type="strikethrough">to ensue</del>
 <lb/>out of <placeName><geogName type="lake">Lake Moero</geogName></placeName> - and here I had for 
 <lb/>the first time an opportunity of observing 
@@ -501,7 +501,7 @@
 <lb/>but of the tears of such as were oppressed
 <lb/>and they had no comforter - "He that is
 <lb/>higher than the highest regardeth" -</p> 
-<lb/><p><placeName><region>About North East of <placeName><region>Rua</region></placeName></region></placeName> we have
+<lb/><p><placeName><region>About North East of <placeName><region><choice><orig>Rua</orig><reg>Lubaland</reg></choice></region></placeName></region></placeName> we have
 <lb/>a very large country called <placeName><region><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></region></placeName> but 
 <lb/>by the <orgName>Arabs</orgName> it is shortened into <placeName><region><choice><orig>Manyema</orig><reg>Maniema</reg></choice></region></placeName> - 
 <lb/>It is but recently known - the reputation
@@ -573,7 +573,7 @@
 <lb/><!-- There seems to be some sore of mark to the left -->It is supplied by a <add place="above">(12)</add>river called <placeName><geogName type="river"><choice><orig><w>Chambe<subst><del>s</del><add place="over-text">z</add></subst>e</w></orig><reg>Chambezi</reg></choice></geogName></placeName><!-- Second opinion? EM --><!-- OK as is. AW -->
 <lb/>and several others shich may be considered
 <lb/>sources - and out of it flows the large river
-<lb/><placeName><geogName type="river">Luapula (Luapula)</geogName></placeName> which enters <placeName><geogName type="lake">Lake
+<lb/><placeName><geogName type="river">luapula</geogName></placeName> (<placeName><geogName type="river">Luapula</geogName></placeName>) which enters <placeName><geogName type="lake">Lake
 <lb/>Moero</geogName></placeName> and comes out as the great lake
 <lb/>river <placeName><geogName type="river">Lualaba</geogName></placeName> to form <placeName><geogName type="lake">Lake Kamolondo</geogName></placeName>. 
 <lb/>West of <placeName><geogName type="lake">Kamolondo</geogName></placeName> but still in the great

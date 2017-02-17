@@ -227,7 +227,7 @@
 <lb/>are all the essentials -</p>
 <lb/><p><term type="insect">Mosquisto</term> curtains or materials to 
 <lb/>make them with, are invaluable for the 
-<lb/><placeName><geogName type="delta">Delta</geogName></placeName><!-- geog: of lower Shire --> and <placeName><region>lower <placeName><geogName type="river">Shire</geogName></placeName></region></placeName> - The invention deserves
+<lb/><placeName><geogName><placeName><geogName type="delta">Delta</geogName></placeName><!-- geog: of lower Shire --> and <placeName><geogName type="river">lower Shire</geogName></placeName></geogName></placeName> - The invention deserves
 <lb/>a statue in <placeName>Westminster Abbey</placeName>.  On the <placeName><region>Highlands</region></placeName>
 <lb/>there are few or no<subst><del>ne</del><add place="over-text">^</add></subst> <add place="above"><term type="insect">mosquitos</term></add> - On the banks of
 <lb/><placeName><geogName type="lake">Shirwa</geogName></placeName> many, but few on those of <placeName><geogName type="lake">Lake <lb/>Nyasa</geogName></placeName>-</p>

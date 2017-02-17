@@ -105,7 +105,7 @@
 <lb/>the end of July and came down the river
 <lb/>quite leizurely to <placeName><settlement type="village">Lesheke</settlement></placeName>. Some parcels of
 <lb/>Newspapers <term type="foodstuff">meal biscuits</term> &amp;c &amp;c had been
-<lb/>brought to the fall, in the river called <placeName><geogName type="river">Mosioatunya</geogName></placeName>
+<lb/>brought to the fall, in the river called <placeName><geogName type="river"><geogName type="waterfall"><choice><orig>Mosioatunya</orig><reg>Mosi oa tunya</reg></choice></geogName></geogName></placeName>
 <lb/>by the tribe called <term type="tribe"><choice><orig><choice><orig>Matibele</orig><reg>Matebele</reg></choice></orig><reg>Ndebele</reg></choice></term> - the mortal
 <lb/>enemies of <orgName><persName>Sekeletu</persName>'s people</orgName> and as the <!-- orgName for Sekeletu's people? MB --><!-- OK. AW -->
 <lb/>latter refused to go near them, they were
