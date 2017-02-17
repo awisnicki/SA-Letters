@@ -175,15 +175,15 @@
 <lb/><term type="occupation">Governor</term> complained to his <term type="occupation">Excellency of
 <lb/><placeName><country><choice><sic>Mosambique</sic><corr>Mozambique</corr></choice></country></placeName></term> that so many arms and 
 <lb/>so much ammunition were introduced by 
-<lb/>the <placeName><geogName><placeName><geogName type="harbor">Kongone</geogName></placeName> <!-- unsure what this word is --><!-- Fixed. AW --> <placeName><geogName type="river">Zambesi</geogName></placeName></geogName></placeName> that the
+<lb/>the <placeName><geogName type="river">Kongone</geogName></placeName> <!-- unsure what this word is --><!-- Fixed. AW --> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> that the
 <lb/>commerce of the country was damaged.
-<lb/>The <placeName><geogName type="harbor">Kongone</geogName></placeName><!-- unsure what this word is --><!-- Fixed. AW --> is never used by any but 
+<lb/>The <placeName><geogName type="river">Kongone</geogName></placeName><!-- unsure what this word is --><!-- Fixed. AW --> is never used by any but 
 <lb/>ourselves, and the <orgName>Mission of the Universities</orgName>
 <lb/>The <term type="occupation">Governor of <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName></term> connives<!--not sure that this is right--> at and derives
 <lb/>profits from the <term type="occupation"><orgName>slave</orgName> hunting</term> on the <placeName><geogName type="river">Shire</geogName></placeName>.
 <lb/>When the <orgName>captives</orgName> reach that village the 
 <lb/>men are retained while the women and children
-<lb/>are sent up the <placeName><geogName type="river">Zambesi</geogName></placeName> to buy ivory.
+<lb/>are sent up the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> to buy ivory.
 <lb/>When an opportunity occurs either at 
 <lb/><placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName>, <placeName><settlement type="village">Sofala</settlement></placeName>, or <placeName><settlement type="village"><w>Mbamba<gap agent="blot" extent="1" unit="chars"/><supplied cert="medium">n</supplied>e</w></settlement></placeName>, these
 <lb/>men are speedily sent to the coast. We
@@ -193,7 +193,7 @@
 <lb/>because all the "<orgName><term type="nationality">French</term> Free Emigrants</orgName><add place="above">"</add>
 <lb/>were supplied by forays in the North &amp;
 <lb/>North West of <placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName> - very few
-<lb/>went from the <placeName><geogName type="river">lower Zambesi</geogName></placeName> - It had
+<lb/>went from the <placeName><geogName type="river">lower <choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> - It had
 <lb/>already been depopulated - but now we
 <lb/>see that in one year the <placeName><geogName type="river">lower Shire</geogName></placeName>. 
 
@@ -229,7 +229,7 @@
 <lb/>than would have been on the <placeName><region>West</region></placeName> had
 <lb/>only a few <orgName>convict <term type="people">Portuguese</term></orgName> obtained
 <lb/>ingress. The exports &amp; imports duties for
-<lb/>the whole <placeName><geogName type="river">Zambesi</geogName></placeName> amount only to £600
+<lb/>the whole <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> amount only to £600
 <lb/>per annum - and by this <term type="occupation"><orgName>slave</orgName> hunting</term> they
 <lb/>do all that men can do to turn the natives
 <lb/>from industrial pursuits. I gave the
@@ -262,7 +262,7 @@
 <lb/>be well if the countries therein over
 <lb/>which they have no control should be
 <lb/>declared free to all nations. The <placeName><geogName type="mouth">mouths 
-<lb/>of the <placeName><geogName type="river">Zambesi</geogName></placeName></geogName></placeName> are still never used by 
+<lb/>of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName></geogName></placeName> are still never used by 
 <lb/>any <term type="people">Portuguese</term> and they have to pay 
 <lb/>tribute to the natives for nearly all the 
 <lb/>right bank.<!-- should this be coded as a place? MB --></p><!-- geog: Right bank of the Zambesi --> 

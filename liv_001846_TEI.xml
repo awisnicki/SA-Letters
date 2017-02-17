@@ -87,7 +87,7 @@
 
 <lb/><p><space extent="3" unit="words"/>We left you
 <lb/>on <choice><sic>Wedensday</sic><corr>Wednesday</corr></choice> and were down
-<lb/>within <measure>30 miles</measure> of the <placeName><geogName type="river">Zambesi</geogName></placeName>
+<lb/>within <measure>30 miles</measure> of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
 <lb/>on Monday, but our coals were
 <lb/>expended and the wind being
 <lb/>contrary we bore away to the
@@ -172,7 +172,7 @@
 <lb/><unclear cert="medium">Hermes</unclear>	
 <lb/>cattle overland from this
 <lb/>and will go in a day or two to
-<lb/>the <placeName><geogName type="river">Zambesi</geogName></placeName> - The river has
+<lb/>the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> - The river has
 <lb/>not yet begun to rise. <persName>Rae</persName>
 <lb/>has had a little touch of <term type="ailment">fever</term>
 <lb/>otherwise we are all well -</p>          	

@@ -82,7 +82,7 @@
                
 	<pb facs="liv_000892_0001" n="0001"/>
     <opener>
-<lb/><dateline><hi rend="right"><placeName><settlement type="village">Tete</settlement></placeName>, on the <placeName><geogName type="river">Zambesi</geogName></placeName></hi>
+<lb/><dateline><hi rend="right"><placeName><settlement type="village">Tete</settlement></placeName>, on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName></hi>
 <lb rend="right"/><placeName><region>East <bloc>Africa</bloc></region></placeName>
 <lb rend="right"/>His Excellency <persName>Jose R. <choice><abbr>C.</abbr><expan>Coelho</expan></choice> do Amaral</persName>, <date when="1856-03-25"/>25<hi rend="sup underline">th</hi> March 1856</dateline>
 <lb rend="right"/>The <term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> and its Dependencies
@@ -93,7 +93,7 @@
 <lb/>with certain presents and a letter from the
 <lb/><orgName>Government of <placeName><country>Angola</country></placeName></orgName> for <persName>Sekeletu</persName> the
 <lb/><term type="occupation">chief</term> of the people called <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> living on the
-<lb/><placeName><geogName type="river">Zambesi</geogName></placeName> near the centre of the continent, it
+<lb/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> near the centre of the continent, it
 <lb/>is my duty to give your excellency as full
 <lb/>an account of the manner in which the
 <lb/>bounty was <choice><orig>recieved</orig><reg>received</reg></choice> as possible. I wrote
@@ -174,7 +174,7 @@
 <lb/>trade will in a few years be formed
 <lb/>between the interior and the coast.</p>
 <lb/><p>In coming Eastwards lately I found
-<lb/>the navigation of the <placeName><geogName type="river">Zambesi</geogName></placeName> obstructed
+<lb/>the navigation of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> obstructed
 <lb/>by a large <unclear cert="medium">rent</unclear> from bank to
 <lb/>bank of the rocky bottom. This <unclear cert="medium">rent</unclear>
 <lb/>is <measure>one hundred feet down</measure> and its
@@ -182,7 +182,7 @@
 <lb/>made first from bank to bank 
 <lb/>and then prolonged from the left bank
 <lb/>away through <measure>thirty or forty miles</measure> of
-<lb/>hills. Into this the <placeName><geogName type="river">Zambesi</geogName></placeName> of a <measure>thousand
+<lb/>hills. Into this the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> of a <measure>thousand
 <lb/>yards broad</measure> rolls and is compressed at
 <lb/>the bottom into <measure>fifteen or twenty yards</measure>
 <lb/>the enormous compression it suffers
@@ -198,7 +198,7 @@
 <lb/>miles off</measure>.</p> <!-- tweet -JM--><!-- Livingstone's description of Victoria Falls evokes the local name: Mosi oa Tunya, the Smoke that Thunders. JM -->
 <lb/><p>It is evident that this remarkable
 <lb/><unclear cert="medium">rent</unclear> must always have been a barrier
-<lb/>to canoe navigation up the <placeName><geogName type="river">Zambesi</geogName></placeName>
+<lb/>to canoe navigation up the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
     
     <pb facs="liv_000892_0005" n="0005"/>
 <lb/>But something else <add place="above margintop" hand="#U">5</add> must have prevented <add place="above margintop" hand="#U">ms 22</add>
@@ -248,7 +248,7 @@
 <lb/>and if it still appears desirable I may
 <lb/>suggest the way from <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName>
 <lb/>to <placeName><settlement type="village">Bihe</settlement></placeName>. From <placeName><settlement type="village">Bihe</settlement></placeName> to the nearest
-<lb/><term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> on the <placeName><geogName type="river">Zambesi</geogName></placeName>, say to
+<lb/><term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>, say to
 <lb/><persName>Mpololo</persName> the uncle of <persName>Sekeletu</persName> who
 <lb/>lives at <placeName><settlement type="village">Naliele</settlement></placeName> (<choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 15º 24' South and 
 <lb/><choice><abbr>Long</abbr><expan>Longitude</expan></choice> 23º East.) The <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> would

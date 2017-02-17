@@ -88,7 +88,7 @@
 	<pb facs="liv_001431_0001" n="0001"/><!-- Change both @facs and @n -->
 	
 <opener>
-<lb/><add place="margintop" rend="gray right" hand="#U">MS 1011</add> <dateline rend="right"><placeName><geogName type="river">River Zambesi</geogName><region>East <bloc>Africa</bloc></region></placeName> 
+<lb/><add place="margintop" rend="gray right" hand="#U">MS 1011</add> <dateline rend="right"><placeName><geogName type="river">River <choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName><region>East <bloc>Africa</bloc></region></placeName> 
 <lb/><date when="1859-05-27">27 May 1859</date></dateline>    
 <lb/><persName>Professor Sedgewick</persName>
 <lb/><salute>My Dear Friend</salute><!-- Change line info as appropriate -->
@@ -96,14 +96,14 @@
 
 <lb/><p rend="right">We have just
 <lb/>returned from the discovery of a magnificent
-<lb/>Lake called <placeName><geogName type="lake">Shirwa</geogName></placeName> <placeName><geogName type="lake">(Sheerwah)</geogName></placeName> and
+<lb/>Lake called <placeName><geogName type="lake">Shirwa</geogName></placeName> (<placeName><geogName type="lake">Sheerwah</geogName></placeName>) and
 <lb/>a report of the <orgName>natives</orgName> on its banks, which
 <lb/>we see no reason to doubt, says, that <placeName><geogName type="lake">Shirwa</geogName></placeName>
 <lb/>is separated from a much larger Lake
 <lb/>by a strip of land of only <measure>five or six
 <lb/>miles</measure> in width - This larger Lake is called
 <lb/><placeName><geogName type="lake">Nyinyesi</geogName></placeName> = the stars - and is evidently<!-- Do we need to code place names with a foreign tag? MB --><!-- No. AW -->
-<lb/>the <placeName><geogName type="lake">Nyanja</geogName></placeName>, <placeName><geogName type="lake">Nyassa</geogName></placeName>, or <placeName><geogName type="lake">Uniamesi</geogName></placeName> of the <bibl>Maps</bibl><!-- Is "of the Maps" part of the placename? MB --><!-- See how I've done. AW -->
+<lb/>the <placeName><geogName type="lake">Nyanja</geogName></placeName>, <placeName><geogName type="lake"><choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName>, or <placeName><geogName type="lake">Uniamesi</geogName></placeName> of the <bibl>Maps</bibl><!-- Is "of the Maps" part of the placename? MB --><!-- See how I've done. AW -->
 <lb/>which stretches pretty well up to the Equator.
 <lb/>This opening is so important that I feel
 <lb/>bound to let you know about it as
@@ -222,7 +222,7 @@
 <lb/>whole territory - then they propose to erect a
 <lb/>station at the mouth of the <geogName type="river">Shire</geogName> for the same
 <lb/>purpose - and a custom house at the mouth
-<lb/>of the <placeName><geogName type="river">Kongone</geogName></placeName> <placeName><geogName type="branch">branch of the <placeName><geogName type="river">Zambesi</geogName></placeName></geogName></placeName> which<!-- is there a tag for branch like source? MB -->
+<lb/>of the <placeName><geogName type="river">Kongone</geogName></placeName> <placeName><geogName type="branch">branch of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName></geogName></placeName> which<!-- is there a tag for branch like source? MB -->
 <lb/>we discovered = <space extent="1" unit="chars"/>At present they are depopulating
 <lb/>the country by <orgName><term type="nationality">French</term> <hi rend="underline">free</hi> emigration</orgName> <!--Does this need to be encoded like a system --><!-- orgName is good. AW -->- The
 <lb/><orgName>emigrants</orgName> <!--emigrants encoded as orgName? MB --><!-- OK. AW -->being sent out in chains - you 

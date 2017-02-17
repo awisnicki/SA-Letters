@@ -143,7 +143,7 @@
 <lb/>the real <term type="occupation">discoverer</term> of the <placeName><geogName type="source">sources of the <placeName><geogName type="river">Nile</geogName></placeName></geogName></placeName> -"
 <lb/>I thought that two years would be sufficient
 <lb/>to go from <placeName><region>the coast</region></placeName> in land across the head
-<lb/>of <placeName><geogName type="lake">Lake Nyassa</geogName></placeName> to the <placeName><geogName type="watershed">Watershed</geogName></placeName> wherever
+<lb/>of <placeName><geogName type="lake">Lake <choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName> to the <placeName><geogName type="watershed">Watershed</geogName></placeName> wherever
 <lb/>that might be and after examination try to
 <lb/>begin a benevolent <orgName>mission</orgName> with <orgName>some
 <lb/>Tribe</orgName> on the slope back to <placeName><region>the coast</region></placeName> - Had I
@@ -596,12 +596,12 @@
 <lb/>of <placeName><settlement type="village">Ujiji</settlement></placeName> This makes it probable
 <lb/>that the great Lacustrine river in
 <lb/>the valley is the Western branch
-<lb/>or <placeName><geogName type="river"><choice><sic><persName>Petherick</persName>s</sic><corr><persName>Petherick</persName>'s</corr></choice> Nile</geogName></placeName> = the <placeName><geogName type="river">Bahar <w>Ghaz<supplied>-</supplied>
-<lb break="no"/>-alo</w></geogName></placeName> and not the Eastern branch
+<lb/>or <placeName><geogName type="river"><choice><sic><persName>Petherick</persName>s</sic><corr><persName>Petherick</persName>'s</corr></choice> Nile</geogName></placeName> = the <placeName><geogName type="river"><choice><orig>Bahar <w>Ghaz<supplied>-</supplied>
+<lb break="no"/>-alo</w></orig><reg>Bahr el Ghazal</reg></choice></geogName></placeName> and not the Eastern branch
 <lb/>which <persName>Speke Grant</persName> and <persName>Baker</persName>
 <lb/>believed to be the river of <placeName><country>Egypt</country></placeName> -
 <lb/>If correct this would make it the
-<lb/><placeName><geogName type="river">Nile</geogName></placeName> only after all the <placeName><geogName type="river">Bahar Ghazal</geogName></placeName>
+<lb/><placeName><geogName type="river">Nile</geogName></placeName> only after all the <placeName><geogName type="river"><choice><orig>Bahar Ghazal</orig><reg>Bahr el Ghazal</reg></choice></geogName></placeName>
 <lb/>enters the Eastern Arm -
 
 	<pb facs="liv_002603_0024" n="0024"/>
@@ -617,7 +617,7 @@
 <lb/><placeName><geogName type="lake">Lake Moero</geogName></placeName> - some conjectured that it went
 <lb/>into <unclear><placeName><geogName type="lake">Tanganyika</geogName></placeName></unclear> but I saw that to do so it
 <lb/>must run uphill - others imagined that it
-<lb/>might flow into the <placeName><geogName type="ocean">Atlanic</geogName></placeName><!-- Correct? EM --><!-- Yes. AW --> - It was to find
+<lb/>might flow into the <placeName><geogName type="ocean">Atlantic</geogName></placeName><!-- Correct? EM --><!-- Yes. AW --> - It was to find
 <lb/>out where it actually did go that took me
 <lb/>into <placeName><region><choice><orig>Manyema</orig><reg>Maniema</reg></choice></region></placeName> - I could get no <w>inform<supplied>-</supplied>
 <lb break="no"/><supplied>-</supplied>ation</w> from <term type="occupation">traders</term> outside, and no light
@@ -666,8 +666,8 @@
 <lb/>quite possible I may be mistaken, we have
 <lb/>two fountains on probably the <measure>seventh
 <lb/>hundred miles</measure> of the <placeName><geogName type="watershed">Watershed</geogName></placeName> and giving
-<lb/>rise to two rivers - the <placeName><geogName type="river">Liambai</geogName></placeName> or Upper
-<lb/><placeName><geogName type="river">Zambesi</geogName></placeName> - and the <placeName><geogName type="river">Kafue</geogName></placeName> which flow
+<lb/>rise to two rivers - the <placeName><geogName type="river"><choice><orig>Liambai</orig><reg>Leeambye</reg></choice></geogName></placeName> or Upper
+<lb/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> - and the <placeName><geogName type="river">Kafue</geogName></placeName> which flow
 <lb/>into <placeName><region>Inner <placeName><country>Ethiopia</country></placeName></region></placeName> - and two fountains
 <lb/>are reported to rise in the same quarter
 <lb/>and forming <placeName><geogName type="river">Lufira</geogName></placeName> and <placeName><geogName type="river">Lomame</geogName></placeName>

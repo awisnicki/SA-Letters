@@ -86,7 +86,7 @@
 	
 <opener>
 <lb/><add place="above marginright" hand="#U">ms 16</add><dateline rend="right"><placeName><settlement type="village">Tete</settlement>, or <placeName><settlement type="village"><choice><orig>Nyungue</orig><reg>Nyungwe</reg></choice></settlement></placeName>, 
-<lb/><geogName type="river">River Zambesi</geogName>, <bloc>Africa</bloc></placeName> 
+<lb/><geogName type="river">River <choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName>, <bloc>Africa</bloc></placeName> 
 <lb/><date when="1856-03-26">26<hi rend="sup underline">th</hi> March 1856</date></dateline>
 <lb/>    
 <lb/><salute>My Dear Brother and Sister</salute><!-- Change line info as appropriate -->
@@ -94,7 +94,7 @@
 
 <lb/><p rend="center">Having reached this the
 <lb/>furthest inland station of the <orgName>Portuguese</orgName>
-<lb/>in <region>Eastern <bloc>Africa</bloc></region> on the 2<hi rend="sup underline">d</hi> <choice><abbr>Currt</abbr><expan>Current</expan></choice> - I have
+<lb/>in <placeName><region>Eastern <bloc>Africa</bloc></region></placeName> on the 2<hi rend="sup underline">d</hi> <choice><abbr>Currt</abbr><expan>Current</expan></choice> - I have
 <lb/>much pleasure in remembering the
 <lb/>friends I left behind me some years ago -
 <lb/>I could give you no more than a
@@ -110,7 +110,7 @@
 <lb/>I was long delayed by a severe attack
 <lb/>of disease. <space extent="1" unit="chars"/>In coming Eastward we
 <lb/>followed in a general way the course 
-<lb/>of the <placeName><geogName type="river">Zambesi</geogName></placeName>. <space extent="1" unit="chars"/>It flows Eastwards
+<lb/>of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>. <space extent="1" unit="chars"/>It flows Eastwards
 <lb/>from <placeName><settlement type="village">Sesheke</settlement></placeName> to the falls then having
 <lb/>passed that wonderful spot, it winds
 <lb/>away <choice><abbr>N.N.E.</abbr><expan>North Northeast</expan></choice> till it reaches the <choice><abbr>Lat.</abbr><expan>Latitude</expan></choice>

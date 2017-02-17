@@ -83,7 +83,7 @@
 	<pb facs="liv_001551_0001" n="0001"/><!-- Change both @facs and @n -->
 	
 <opener>
-<lb/><dateline rend="right"><placeName><settlement type="village">Mazaro</settlement>,<geogName type="river">Zambesi River</geogName></placeName> 
+<lb/><dateline rend="right"><placeName><settlement type="village">Mazaro</settlement>,<geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice> River</geogName></placeName> 
 <lb/><date when="1860-03-25">25 March 1860</date></dateline>
 <lb/>    
 <lb/><salute>My Dear Friend</salute><!-- Change line info as appropriate -->
@@ -144,7 +144,7 @@
 <lb/>and three of the latter - </p>
 <lb/><p>Well we are determined to
 <lb/>get a small steamer on the <placeName><geogName type="lake">Lake
-<lb/>Nyassa</geogName></placeName> and now send our
+<lb/><choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName> and now send our
 <lb/>engineer <persName>M<hi rend="sup underline">r</hi> Rae</persName> home to superintend
 <lb/>its construction.  ___ <orgName>Government</orgName>
 
@@ -163,7 +163,7 @@
 <lb/>are a <choice><sic>nuizance</sic><corr>nuisance</corr></choice> in the way but
 <lb/>I am in hopes that <persName>Lord John
 <lb/>Russell</persName> will get us freedom of 
-<lb/>navigation on the <placeName><geogName type="river">Zambesi</geogName></placeName> to our
+<lb/>navigation on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> to our
 <lb/>discoveries by parts of the river
 <lb/>and of the <placeName><geogName type="river">Shire</geogName></placeName> with which these
 <lb/>people do nothing - Here they are

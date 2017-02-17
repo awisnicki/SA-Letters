@@ -96,7 +96,7 @@
 <opener>
 <lb/><add place="inline" rend="gray" hand="#U">5) -</add> <add place="inline" rend="right gray" hand="#U">33.1</add>
 <lb/><dateline rend="right"><placeName>Near <placeName><settlement type="village">Tete</settlement></placeName> or <placeName>Nyunkwe</placeName></placeName> on
-<lb/>the river<placeName><geogName type="river"> Zambesi</geogName></placeName> <date when="1856-02-15">15<hi rend="sup underline">th</hi> <choice><abbr>Feby</abbr><expan>February</expan></choice> 1856</date></dateline>
+<lb/>the river <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> <date when="1856-02-15">15<hi rend="sup underline">th</hi> <choice><abbr>Feby</abbr><expan>February</expan></choice> 1856</date></dateline>
 <lb/>    
 <lb/><salute rend="center"><persName>Thomas Maclear, Esquire</persName>
 <lb/>
@@ -124,7 +124,7 @@
 <lb/>from among the clouds enough only to let us know it must
 <lb/>have been visible but for clouds the night before. <measure>About ten
 <lb/>miles lower down</measure> we came to the beginning of the rapids
-<lb/>which end in <placeName><geogName type="rapid">Mosioatunya</geogName></placeName>. Leaving the canoes we now
+<lb/>which end in <placeName><geogName type="waterfall"><choice><orig>Mosioatunya</orig><reg>Mosi oa tunya</reg></choice></geogName></placeName>. Leaving the canoes we now
 <lb/>marched <measure>about twenty miles</measure> along the bank to <placeName><geogName type="island">Kalai</geogName></placeName>,
 <lb/>otherwise named the <placeName><geogName type="island">island of <persName>Sekaté</persName></geogName></placeName>. As it was decided
 <lb/>by those who know the country well through which the river
@@ -134,7 +134,7 @@
 <lb/>river when it has become placid again, I took a canoe
 <lb/>at <placeName><geogName type="island">Kalai</geogName></placeName> and went down to see the most wonderful
 <lb/>sight I have seen in <placeName><bloc>Africa</bloc></placeName> - the "smoke-sounding"
-<lb/>falls of the <placeName><geogName type="river"><choice><orig>Leeamby</orig><reg>Leeambye</reg></choice></geogName></placeName> or <placeName><geogName type="river">Zambesi</geogName></placeName> - the direction was <!-- geog: Mosi-oa-tunya -->
+<lb/>falls of the <placeName><geogName type="river"><choice><orig>Leeamby</orig><reg>Leeambye</reg></choice></geogName></placeName> or <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> - the direction was <!-- geog: Mosi-oa-tunya -->
 <lb/><choice><abbr>S.S.E</abbr><expan>South-Southeast</expan></choice> and the distance <measure>7 or 8 miles</measure> from <placeName><geogName type="island">Kalai</geogName></placeName> - I
 <lb/>mention this because all the observations were made
 <lb/>at the latter spot - When within <measure>six miles</measure> of the falls <!-- geog: Mosi-oa-tunya -->
@@ -151,7 +151,7 @@
 <lb/>well acquainted with the eddies in the <choice><sic>fast flowing</sic><corr>fast-flowing</corr></choice> water
 <lb/>and went to an island situated in the middle of the
 <lb/>river and edge of the lip over which the broad
-<lb/><placeName><geogName type="river">Zambesi</geogName></placeName> rolls. This cannot be done except when
+<lb/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> rolls. This cannot be done except when
 <lb/>the water is low - creeping to the verge we peer down
 <lb/>into a <unclear><choice><orig>gulph</orig><reg>gulf</reg></choice></unclear> from which an immense body of vapour
 <lb/>rushes up and find it is a rent made in the
@@ -175,7 +175,7 @@
 <lb/>flow in the narrow space at the bottom from the
 <lb/>right to the left bank - then turn a corner and go
 <lb/>boiling and roaring through the hills - And we have
-<lb/>something of what takes place with the <placeName><geogName type="river">Zambesi</geogName></placeName>.
+<lb/>something of what takes place with the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>.
 <lb/>When it emerges <measure>30 or 40 miles distant</measure> from its place
 <lb/>of confinement it flows broad and placid again
 <lb/>away to the <choice><abbr>N.N.E.</abbr><expan>North-northeast</expan></choice> or <unclear><choice><abbr>N = E.</abbr><expan>Northeast</expan></choice></unclear> till it reaches the
@@ -217,7 +217,7 @@
 <lb/>of their island fastnesses by <persName>Sebituane</persName>.</p>
 <lb/><p>Our route then led us away to the North East <choice><sic>untill</sic><corr>until</corr></choice>
 <lb/>we reached the hills through which the <placeName><geogName type="river">Bashukulompo river</geogName></placeName>
-<lb/>flows before joining the <placeName><geogName type="river">Zambesi</geogName></placeName> - It is called <placeName><geogName type="river">Kahowhé</geogName></placeName>
+<lb/>flows before joining the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> - It is called <placeName><geogName type="river">Kahowhé</geogName></placeName>
 <lb/>and farther down the river <placeName><geogName type="river">Kafué</geogName></placeName> &amp; <placeName><geogName type="river">Kafurwé</geogName></placeName>.
 <lb/>Pursuing our course along the left bank we came among
 <lb/><term type="insect">Tsetse</term> and lost all our <term type="animal">oxen</term> except two untaught ones, so
@@ -225,15 +225,15 @@
 <lb/>is by canoes and there being no pathway boreing continually
 <lb/>through tangled thorny jungle is excesssively tedious -
 <lb/><measure>About 1° below the confluence</measure> of the <placeName><geogName type="river">Kafué</geogName></placeName> we came
-<lb/>to that of the <placeName><geogName type="river">Loangua</geogName></placeName> (<placeName><geogName type="river">Loangwa</geogName></placeName>) both of which <add place="below">^</add> <add place="above">streams</add> are
+<lb/>to that of the <placeName><geogName type="river"><choice><orig>Loangua</orig><reg>Luangwa</reg></choice></geogName></placeName> (<placeName><geogName type="river"><choice><orig><orig>Loangwa</orig><reg>Loangua</reg></orig><reg>Luangwa</reg></choice></geogName></placeName>) both of which <add place="below">^</add> <add place="above">streams</add> are
 <lb/>said to form but one river in the <placeName><region>North West</region></placeName> - the
-<lb/><placeName><geogName type="river">Kafue</geogName></placeName> is about <measure>300 yards broad</measure> - the <placeName><geogName type="river">Loangua</geogName></placeName> double
+<lb/><placeName><geogName type="river">Kafue</geogName></placeName> is about <measure>300 yards broad</measure> - the <placeName><geogName type="river"><choice><orig>Loangua</orig><reg>Luangwa</reg></choice></geogName></placeName> double
 <lb/>that but being in flood when we crossed it the
 <lb/>actual distance <choice><sic>accross</sic><corr>across</corr></choice> the ford was at least <measure>half a mile</measure>
 <lb/>We found the ruins of a church exactly at the confluence
 
 	<pb facs="liv_000877_0004" n="0004"/>
-<lb/>A building on a hill on the opposite side of the <placeName><geogName type="river">Zambesi</geogName></placeName>
+<lb/>A building on a hill on the opposite side of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
 <lb/>must have been a fort and there are eight or 
 <lb/>ten large establishments of stone in ruins on the left
 <lb/>banks of both rivers - the broken church bell
@@ -245,10 +245,10 @@
 <lb/>have been - Besides being very beautiful from
 <lb/>having a fine <choice><sic>tree covered</sic><corr>tree-covered</corr></choice> hill named <placeName><geogName type="hill">Mazausue</geogName></placeName>
 <lb/>behind there is a magnificent view of the
-<lb/>broad <placeName><geogName type="river">Zambesi</geogName></placeName> and its tributary <placeName><geogName type="river">Loangua</geogName></placeName> in front
+<lb/>broad <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> and its tributary <placeName><geogName type="river"><choice><orig>Loangua</orig><reg>Luangwa</reg></choice></geogName></placeName> in front
 <lb/>and there is water carriage in three directions beyond
 <lb/>one of them to <persName>Mosilikatze</persName> - another to the
-<lb/><placeName><geogName type="river">Bashukulompo</geogName></placeName> and by the <placeName><geogName type="river">Loangua</geogName></placeName> to near
+<lb/><placeName><geogName type="river">Bashukulompo</geogName></placeName> and by the <placeName><geogName type="river"><choice><orig>Loangua</orig><reg>Luangwa</reg></choice></geogName></placeName> to near
 <lb/><persName>Cazembe</persName> in <placeName><region>Londa</region></placeName> - Indeed <persName>Pereira</persName> went
 <lb/>thither by this route - A <term type="plant"><term type="plant_foodstuff">mango</term> tree</term> measuring
 <lb/><measure>fifteen feet in circumference</measure> in one of the
@@ -349,7 +349,7 @@
 <lb/>must have been discharged when the <placeName><geogName type="river">Orange River</geogName></placeName>
 <lb/>found a <choice><orig>fizzure</orig><reg>fissure</reg></choice> made for it - (As described by
 <lb/><persName>Campbell</persName> it is not a waterfall, but a deep rent as
-<lb/>at <placeName><geogName type="waterfall">Mosioatunya</geogName></placeName>) And at its point of confluence
+<lb/>at <placeName><geogName type="waterfall"><choice><orig>Mosioatunya</orig><reg>Mosi oa tunya</reg></choice></geogName></placeName>) And at its point of confluence
 <lb/>with the Lake there are several conical hills of
 <lb/>amygdaloid which caused an eddy and the deposit
 <lb/>of a mound of calcareous tufa containing
@@ -400,7 +400,7 @@
 <lb/>made me imagine that we were travelling on
 <lb/>an elevated table land and the sudden descent
 <lb/>of at least <measure>a thousand feet</measure> into the valley of
-<lb/>the <placeName><geogName type="river">Quango</geogName></placeName> seemed to confirm the idea - But
+<lb/>the <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName> seemed to confirm the idea - But
 <lb/>having hopes of meeting an <w>Ane<subst><del><gap extent="6" unit="chars"/></del><add place="above">roid</add></subst></w> or Barometer
 <lb/>at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> I did not try my only other resource 
 <lb/>for measuring elevations <foreign xml:lang="la"><choice><abbr>viz.</abbr><expan>videlicet</expan></choice></foreign> the point of ebullition
@@ -420,7 +420,7 @@
 <lb/>an oblong ridge which lies parallel to and
 <lb/><measure>about 300 miles</measure> from the <placeName><region>West coast</region></placeName> - It <w>canno<supplied>t</supplied></w>
 <lb/>be less than <measure>20° of latitude long</measure> and from it <w>aris<supplied>e</supplied></w>
-<lb/>the <placeName><geogName type="river">Coanza</geogName></placeName> and <placeName><geogName type="river">Quango</geogName></placeName> on the <placeName><region>North West</region></placeName> -
+<lb/>the <placeName><geogName type="river">Coanza</geogName></placeName> and <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName> on the <placeName><region>North West</region></placeName> -
 <lb/>the <placeName><geogName type="river">Loeti</geogName></placeName> on the <placeName><region>South</region></placeName> - the numerous rivers
 <lb/>which unite and form the  <placeName><geogName type="river">Chobe</geogName></placeName> - the <placeName><geogName type="river">Embarral</geogName></placeName>
 <lb/>or <placeName><geogName type="river">River of Loebe</geogName></placeName> on the <placeName><region>South West</region></placeName> - &amp; the
@@ -453,7 +453,7 @@
 <lb/>much higher than <placeName><geogName type="lake">Lake Ngami</geogName></placeName> which is certainly
 <lb/>in a hollow - Indeed I believe when we were
 <lb/>looking at the <term type="plant">Rhododendrons</term> we were nearly on
-<lb/>the crest of the ridge and the <placeName><geogName type="river">Quango</geogName></placeName> has given
+<lb/>the crest of the ridge and the <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName> has given
 <lb/>us a section of it <choice><orig>shewing</orig><reg>showing</reg></choice> it is composed of
 <lb/>red clay slate (scotticé <foreign xml:lang="gd">Keebe</foreign>) Then <placeName><geogName type="lake">Dilolo</geogName></placeName>
 <lb/>forms a sort of partition in the valley which
@@ -510,21 +510,21 @@
 
 <lb/><item>Bottom of <choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice> <seg rend="right"><hi rend="gray">(3288)</hi></seg><seg rend="right">205<choice><orig>¾</orig><reg>3/4</reg></choice></seg></item>
 
-<lb/><item>Banks of <placeName><geogName type="river">Zambesi</geogName></placeName> near <choice><abbr>conf<hi rend="sup underline">ce</hi></abbr><expan>confluence</expan></choice> of <placeName><geogName type="river">Kafué</geogName></placeName> <seg rend="right"><hi rend="gray">(1571)</hi></seg><seg rend="right">209°</seg></item>
+<lb/><item>Banks of <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> near <choice><abbr>conf<hi rend="sup underline">ce</hi></abbr><expan>confluence</expan></choice> of <placeName><geogName type="river">Kafué</geogName></placeName> <seg rend="right"><hi rend="gray">(1571)</hi></seg><seg rend="right">209°</seg></item>
 
-<lb/><item>----- <space extent="4" unit="chars"/>------- <space extent="5" unit="chars"/><!-- horizontal lines indicating repetition of "Banks of Zambesi" from previous line AM --> at <space extent="3" unit="chars"/>--- <space extent="3" unit="chars"/><!-- horizontal lines indicating repetition of "confluence"  from previous line AM --> of <placeName><geogName type="river">Loangwa</geogName></placeName> <seg rend="right"><hi rend="gray">(1440)</hi></seg><seg rend="right">209<choice><orig>¼</orig><reg>1/4</reg></choice></seg></item></list>
+<lb/><item>----- <space extent="4" unit="chars"/>------- <space extent="5" unit="chars"/><!-- horizontal lines indicating repetition of "Banks of Zambesi" from previous line AM --> at <space extent="3" unit="chars"/>--- <space extent="3" unit="chars"/><!-- horizontal lines indicating repetition of "confluence"  from previous line AM --> of <placeName><geogName type="river"><choice><orig><orig>Loangwa</orig><reg>Loangua</reg></orig><reg>Luangwa</reg></choice></geogName></placeName> <seg rend="right"><hi rend="gray">(1440)</hi></seg><seg rend="right">209<choice><orig>¼</orig><reg>1/4</reg></choice></seg></item></list>
 
 
 	<pb facs="liv_000877_0010" n="0010"/>
 <lb/><p>Here it may be remarked that the <placeName><geogName type="rivulet">Lekoné</geogName></placeName> flows in the
-<lb/>contrary direction to the <placeName><geogName type="river">Zambesi</geogName></placeName> or <placeName><geogName type="river"><choice><orig>Leeamby</orig><reg>Leeambye</reg></choice></geogName></placeName> and so <w>d<supplied>oes</supplied></w>
+<lb/>contrary direction to the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> or <placeName><geogName type="river"><choice><orig>Leeamby</orig><reg>Leeambye</reg></choice></geogName></placeName> and so <w>d<supplied>oes</supplied></w>
 <lb/>the <placeName><geogName type="river">Unguesi</geogName></placeName> which indeed joins that river above
 <lb/>the commencement of the rapids at which we left
 <lb/>the canoes - The <placeName><geogName type="river">Kalomo</geogName></placeName> on the top of the ridge <w>flow<supplied>s</supplied></w>
 <lb/>South - the <placeName><geogName type="river">Mozuma</geogName></placeName> the first rivulet on the <placeName><region>Eastern
 <lb/>side</region></placeName> flows Easterly and then the rivulets flow away
 <lb/>into the <placeName><geogName type="river">Kafué</geogName></placeName> Suppose the bed of the <placeName><geogName type="rivulet">Lekoné</geogName></placeName>
-<lb/>or we may say the ancient bed of the <placeName><geogName type="river">Zambesi</geogName></placeName>
+<lb/>or we may say the ancient bed of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
 <lb/>to have suffered little or no change of elevation by
 <lb/>formation of the <choice><orig>fizzure</orig><reg>fissure</reg></choice> then the elevation being one
 <lb/>a little more than that of <placeName><settlement type="village">Linyanti</settlement></placeName> we see the <w>machin<supplied>ery</supplied></w>
@@ -537,9 +537,9 @@
 <lb/>formerly seem to have deposited most copiously -
 <lb/>and considerably to the <placeName><region>South West of <placeName><geogName type="lake">Ngami</geogName></placeName></region></placeName> if an
 <lb/><term type="insect">anteater</term> digs his burrow shells are thrown up
-<lb/>identical with those now living in the <placeName><geogName type="river">Zambesi</geogName></placeName> &amp;
+<lb/>identical with those now living in the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> &amp;
 <lb/><placeName><geogName type="river">Zouga</geogName></placeName> It is also pretty certain the waters <add place="below">^</add> <add place="above">pent up</add> in
-<lb/><placeName><geogName type="valley">Barotse Valley</geogName></placeName> were discharged by the <choice><orig>fizzure</orig><reg>fissure</reg></choice> of <placeName>Gonye</placeName>
+<lb/><placeName><geogName type="valley"><term type="tribe">Barotse</term> Valley</geogName></placeName> were discharged by the <choice><orig>fizzure</orig><reg>fissure</reg></choice> of <placeName>Gonye</placeName>
 <lb/>and there are other <add place="below">^</add> <add place="above"><choice><orig>fizzure</orig><reg>fissure</reg></choice></add> falls in the country as one in
 <lb/>the <placeName><geogName type="river">Kabompo</geogName></placeName> or <placeName><geogName type="river">Leeambye</geogName></placeName> beyond <placeName><persName>Masiko</persName>'s</placeName> and
 <lb/>another in the <placeName><geogName type="river">Bashukulompo river</geogName></placeName> -</p>
@@ -564,13 +564,13 @@
 	<pb facs="liv_000877_0011" n="0011"/>
 <lb/><placeName>Cazembé</placeName> joins the <placeName><geogName type="river">Leeambye</geogName></placeName>. The <term type="tribe">Banyassa</term> live on
 <lb/>a hilly country and have no Lake in their own land
-<lb/>but to their <choice><abbr>NNW</abbr><expan>North-Northwest</expan></choice> the large <placeName><geogName type="lake">Lake Tanganyeñka</geogName></placeName> is
+<lb/>but to their <choice><abbr>NNW</abbr><expan>North-Northwest</expan></choice> the large <placeName><geogName type="lake">Lake <choice><orig>Tanganyeñka</orig><reg>Tanganyika</reg></choice></geogName></placeName> is
 <lb/>situated and that is connected with another still
 <lb/>farther North and is named <placeName><geogName type="lake">Kalagwé</geogName></placeName> (<placeName><geogName type="lake">Garague</geogName></placeName>?)
 <lb/>(I am <term type="occupation">writing</term> now in the most profound ignorance of
 <lb/>all that may have been done there during the last few
 <lb/>years) My <orgName>Arab</orgName> friend goes <subst><del>but</del><add place="above">either</add></subst> round the end of
-<lb/><placeName><geogName type="lake">Tanganyenka</geogName></placeName> or is taken <choice><sic>accross</sic><corr>across</corr></choice> it the distance
+<lb/><placeName><geogName type="lake"><choice><orig>Tanganyenka</orig><reg>Tanganyika</reg></choice></geogName></placeName> or is taken <choice><sic>accross</sic><corr>across</corr></choice> it the distance
 <lb/>being <measure>three days</measure> and the canoe is <term type="occupation">punted</term> the whole
 <lb/>way. It is <measure>ten days</measure> North East of <placeName>Cazembe</placeName> - Is it
 <lb/>unreasonable to suppose these large shallow
@@ -588,10 +588,10 @@
 <lb/>sea" - the same river named <placeName><geogName type="river">Lokanka</geogName></placeName> spreads out
 <lb/>into a Lake called <placeName><geogName type="lake">Shuia</geogName></placeName> (<placeName><geogName type="lake">Shooeea</geogName></placeName>) which gives off
 <lb/>two rivers - these uniting with the <placeName><geogName type="river">Kafue</geogName></placeName> again divide
-<lb/>and join it and the <placeName><geogName type="river">Loangwa</geogName></placeName> - the situation is that
+<lb/>and join it and the <placeName><geogName type="river"><choice><orig><orig>Loangwa</orig><reg>Loangua</reg></orig><reg>Luangwa</reg></choice></geogName></placeName> - the situation is that
 <lb/>assigned to <placeName><geogName type="lake">Lake Maravi</geogName></placeName> - But the country being
 <lb/>full of reedy marshes <choice><orig>shews</orig><reg>shows</reg></choice> clearly, with the directions
-<lb/>of the <placeName><geogName type="river">Loapola</geogName></placeName> and <placeName><geogName type="river">Lokanka</geogName></placeName>, that there too the basin
+<lb/>of the <placeName><geogName type="river"><choice><orig>Loapola</orig><reg>Luapula</reg></choice></geogName></placeName> and <placeName><geogName type="river">Lokanka</geogName></placeName>, that there too the basin
 <lb/>form prevails - the strike of the rocks of the <placeName><region>Eastern
 <lb/>ridge</region></placeName> makes me suppose it trends away to the
 <lb/>North East - this agrees with what both the <orgName>Arab</orgName> &amp;
@@ -612,7 +612,7 @@
 <lb/>more salubrious still. It is the same with the
 <lb/><placeName><region>Eastern ridge</region></placeName> - We saw neither a marsh nor a <w>fount<gap extent="3" unit="chars" agent="illegible"/><supplied>ain</supplied></w>
 <lb/>on it, and though I have been for a month on the
-<lb/><placeName><geogName type="river">Zambesi</geogName></placeName> I have <del type="strikethrough">had</del> suffered nothing from <term type="ailment">fever</term>
+<lb/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> I have <del type="strikethrough">had</del> suffered nothing from <term type="ailment">fever</term>
 <lb/>this however is partly owing to having had <term type="foodstuff">wheaten bread</term>
 <lb/>and not the mere starch of <placeName><region>Londa</region></placeName> <term type="plant_foodstuff"><foreign xml:lang="pt">manioc</foreign></term> &amp; <term type="plant_foodstuff"><term type="animal">bird</term>'s seed</term>.
 <lb/><placeName><settlement type="village">Zumbo</settlement></placeName> was healthy - not because it was elevated for
@@ -631,7 +631,7 @@
 <lb/>I anticipate water carriage to within <measure>2°</measure> of the <term type="tribe"><w>Makolo<supplied>lo</supplied></w></term>
 <lb/>by means of <choice><sic>flat bottomed</sic><corr>flat-bottomed</corr></choice> boats - the chief obstruction
 <lb/>are rapids and I have seen none yet equal to those
-<lb/>below the <placeName><geogName type="valley">Barotse valley</geogName></placeName>. And if this can be effected
+<lb/>below the <placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName>. And if this can be effected
 <lb/>during a healthy part of the year I expect to be able to
 <lb/>pursue our plans in good health - I am not so
 <lb/>much elated by the feat of crossing the continent

@@ -129,7 +129,7 @@
 	<pb facs="liv_001290_0003" n="0003"/>
 <lb/>through the <placeName><region><term type="ailment">malarious</term> district</region></placeName>
 <lb/>at <placeName><region>the lower portion of the
-<lb/><placeName><geogName type="river">Zambesi river</geogName></placeName></region></placeName> as quickly
+<lb/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice> river</geogName></placeName></region></placeName> as quickly
 <lb/>as possible, and it will
 <lb/>be necessary for you to
 <lb/>put into practice those
@@ -255,7 +255,7 @@
 <lb/>of <placeName><choice><sic>Tett</sic><corr>Tete</corr></choice></placeName> must necessarily <unclear cert="medium">be</unclear>
 <lb/>short because it is <unclear cert="medium"><w>essen<gap extent="4" unit="chars" agent="illegible"/><supplied>tial</supplied></w></unclear>
 <lb/>to proceed at an early <unclear cert="medium"><w>perio<gap extent="1" unit="chars" agent="illegible"/><supplied>d</supplied></w></unclear>
-<lb/>to the rapid <placeName><geogName type="rapids">Kebra basa</geogName></placeName> <gap extent="4" unit="chars" agent="illegible"/>
+<lb/>to the rapid <placeName><geogName type="rapids"><choice><orig>Kebra basa</orig><reg>Cahora Bassa</reg></choice></geogName></placeName> <gap extent="4" unit="chars" agent="illegible"/>
 <lb/><unclear cert="low"><placeName><geogName type="rapids">Chicova</geogName></placeName></unclear> to ascertain the
 <lb/>possibility of passing it <unclear cert="low"><gap extent="4" unit="chars" agent="illegible"/></unclear>
 <lb/>the river is still <unclear cert="low"><w>comparati<gap extent="6" unit="chars" agent="illegible"/><supplied>tively</supplied></w></unclear>
@@ -278,7 +278,7 @@
 <lb/><choice><sic>to</sic><corr/></choice> the establishment of a depot
 <lb/>at some eligible spot beyond
 <lb/>the confluence of the <placeName><geogName type="river">Kafue</geogName></placeName> 
-<lb/>and <placeName><geogName type="river">Zambesi</geogName></placeName> - Having
+<lb/>and <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> - Having
 <lb/>reached a tolerable elevation
 <lb/>and examined the country
 <lb/>adjacent it will be advisable

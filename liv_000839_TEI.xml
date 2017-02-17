@@ -201,7 +201,7 @@
 <lb/><p>The seeds are wrapped up <w><choice><orig>higglety piglety</orig><reg>higgledy pigledy</reg></choice> 
 <lb break="no"/>-wise</w>, but you will notice two <term type="plant_foodstuff">fruits</term>
 <lb/>which if I mistake not are among
-<lb/>our best <term type="plant_foodstuff">wild fruits</term> on the <placeName><geogName type="river">Zambesi</geogName></placeName>
+<lb/>our best <term type="plant_foodstuff">wild fruits</term> on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
 <lb/>They are nearly ripe and may vegetate
 <lb/>some bulbs wrapped up in grass
 <lb/>Will show you a species of flower
@@ -245,7 +245,7 @@
 <lb/>aversion to my reading <bibl>Punch</bibl>
 <lb/>although I take it quietly out of my 
 <lb/>pocket trying to prevent him seeing it
-<lb/>If he carries me back to the <placeName><geogName type="river">Zambesi</geogName></placeName>
+<lb/>If he carries me back to the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
 <lb/>I must write his biography and get
 <lb/>the <term type="occupation">Poet</term> Laureate <persName>Tennyson</persName> *<anchor xml:id="marginadd-2"/><!-- There is an x here, functioning as an asterisk, drawing attention to the vertical note in the left-hand margin. JM --> to make
     
@@ -424,13 +424,13 @@
 <lb/>even now but the concluding part 
 <lb/>of <bibl>this letter</bibl> <choice><orig>shews</orig><reg>shows</reg></choice> it would only be
 <lb/>assisting him to tell stories</p>
-<lb/><p>He had a great portion of the <placeName><geogName type="river">Quango</geogName></placeName>
+<lb/><p>He had a great portion of the <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName>
 <lb/>down in <bibl>his map</bibl> and asserted it
 <lb/>was from actual observation having
 <lb/>gone from <placeName><settlement type="village">Cassange</settlement></placeName> down the river <!-- geog: Quango -->
 <lb/>to <placeName><settlement>Ambriz</settlement></placeName> <space extent="2" unit="chars"/>As all the <term type="people">Portuguese</term> assert
 <lb/>that no <orgName>white man</orgName><!-- ? MB. --><!-- OK. AW --> ever went 
-<lb/>down the <placeName><geogName type="river">Quango</geogName></placeName> and I feel an interest
+<lb/>down the <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName> and I feel an interest
 <lb/>in that river. I put a question to <!-- geog: Quango -->
 <lb/>him which has led him to confess quite
 <lb/>unconsciously the incorrectness of his
@@ -497,7 +497,7 @@
 <lb/>three days at <placeName><settlement type="village">Tala <choice><orig>Mongongo</orig><reg>Mungongo</reg></choice></settlement></placeName> waiting for
 <lb/>an observation but was obliged to leave
 <lb/>after all without one. I got one on 
-<lb/>the <placeName><geogName type="river">Cuije</geogName></placeName> or <placeName><geogName type="river">Quiye</geogName></placeName> about <measure>1<choice><orig>½</orig><reg>1/2</reg></choice>' distant</measure>
+<lb/>the <placeName><geogName type="river">Cuije</geogName></placeName> or <placeName><geogName type="river"><app><rdg>Quiye</rdg><rdg>Quije</rdg></app></geogName></placeName> about <measure>1<choice><orig>½</orig><reg>1/2</reg></choice>' distant</measure>
 <lb/>which will do - Did not visit
 <lb/>the <persName>Duque de Braganza</persName> it would have <!-- Is Duque a title or occupation, and is Braganza a placeName? HB -->
 <lb/>been considerably out of my way
@@ -553,7 +553,7 @@
 <lb/>of <orgName>his people</orgName> the other day and find he
 <lb/>went down as far as <placeName><settlement type="village"><choice><sic><persName>Kabompo</persName>s</sic><corr><persName>Kabompo</persName>'s</corr></choice></settlement></placeName> or 
 <lb/><placeName><settlement type="village"><persName>Shinte</persName></settlement></placeName> and sent <orgName>slaves</orgName> still farther
-<lb/>not to the <placeName><geogName type="river">Zambesi</geogName></placeName> and now returns 
+<lb/>not to the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> and now returns 
 <lb/>with upwards of 50 tusks of ivory &amp;
 <lb/>66 <orgName>slaves</orgName>. He will of course return.
 <lb/>Another a <orgName>black man</orgName> named
@@ -703,7 +703,7 @@
 <lb/>get the post <bibl>letters</bibl> will move
 
 	<pb facs="liv_000839_0027" n="0027"/>
-<lb/>on to the <app><rdg><placeName><geogName type="river">Quango</geogName></placeName></rdg><rdg><placeName><geogName type="valley">Quango</geogName></placeName></rdg></app><!-- settlement or river? MB --><!-- Let's do both. AW --> and will remain a 
+<lb/>on to the <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName><!-- settlement or river? MB --><!-- Let's do both. AW --><!-- removed valley tag. Settlement removed in earlier round of editing. MB --> and will remain a 
 <lb/>few days there in order to write you for
 <lb/>the last time and send the Longitude
 <lb/>as well - <space extent="2" unit="chars"/>Then I am over the border &amp;
@@ -836,7 +836,7 @@
 <lb/>production - The <bibl><orgName>Mail</orgName> of the <date when="1855-01-16">16<hi rend="sup underline">th</hi></date></bibl> will
 <lb/>not reach this till <date from="1885-02-05" to="1855-02-06">the 5 or 6<hi  rend="double-underline">th</hi> of February</date> -
 <lb/>I shall either wait or get the contents
-<lb/>on the <placeName><geogName type="river">Quango</geogName></placeName> - So you need not be 
+<lb/>on the <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName> - So you need not be 
 <lb/>apprehensive what you have <unclear cert="medium">dispatched</unclear> 
 <lb/>on the <date when="1855-01-16">16<hi rend="sup">th</hi></date> will be in vain - I have
 <lb/>just learned from <persName><term type="occupation"><choice><abbr><w>Cap<hi rend="sup underline">n</hi></w></abbr><expan>Captain</expan></choice></term> Neves</persName> that
@@ -959,7 +959,7 @@
 
 	<pb facs="liv_000839_0039" n="0039"/>
 <lb/>I may now in case of any misadventure
-<lb/>in my <bibl>letter from the <placeName><geogName type="river">Quango</geogName></placeName></bibl><!-- Unsure of the type. EM --><!-- OK. AW --> come to
+<lb/>in my <bibl>letter from the <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName></bibl><!-- Unsure of the type. EM --><!-- OK. AW --> come to
 <lb/>a conclusion. our corresponence has
 <lb/>afforded me unmixed pleasure - And I have
 <lb/>an equal amount of pain knowing

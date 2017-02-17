@@ -132,7 +132,7 @@
 </opener>
 
 <lb/><p>We left the
-<lb/><placeName><geogName type="river">Zambesi</geogName></placeName> on <date when="1866-02-15">15<hi rend="sup underline">th</hi></date> <choice><abbr>ult.</abbr><expan>ultimo</expan></choice><!--I'm not sure of date/ abbreviation. -AA -EM --><!-- 15th ultimo, meaning 15 February. JM -->
+<lb/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> on <date when="1866-02-15">15<hi rend="sup underline">th</hi></date> <choice><abbr>ult.</abbr><expan>ultimo</expan></choice><!--I'm not sure of date/ abbreviation. -AA -EM --><!-- 15th ultimo, meaning 15 February. JM -->
 <lb/>The Ariel taking the
 <lb/>Lady Nyassa and the Orestes the Pioneer
 <lb/>in tow. We had a
@@ -233,7 +233,7 @@
 <lb/><orgName>slave</orgName> imposed on <unclear cert="low">now</unclear>
 <lb/>and a native of
 <lb/>the country about
-<lb/><placeName><geogName type="lake">Nyassa</geogName></placeName> ran away
+<lb/><placeName><geogName type="lake"><choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName> ran away
 <lb/>&amp; lived among his
 <lb/>people with three
 <lb/>or four wives - Before
@@ -248,7 +248,7 @@
 <lb/><add place="margintop" rend="right gray small" hand="#U1">7</add>
 <lb/>of the conduct of the
 <lb/>rest than what you
-<lb/>gave of the <orgName><placeName><geogName type="island">Johannese</geogName></placeName></orgName>
+<lb/>gave of the <orgName>Johannese</orgName>
 <lb/>generally to the <orgName><term type="occupation"><w>mission<supplied>-</supplied>
 <lb break="no"/>-ary</w></term> society</orgName> -</p>
 <lb/><p>We are going South

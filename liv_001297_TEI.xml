@@ -149,7 +149,7 @@
     
     <pb facs="liv_001297_0004" n="0004"/>
 <lb/><p>We hope to be at the    
-<lb/><placeName><geogName type="river">Zambesi</geogName></placeName> by the <date when="1858-05-01">first
+<lb/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> by the <date when="1858-05-01">first
 <lb/>of May</date>. The Colonial
 <lb/>Office have acted from
 <lb/>first to last in the

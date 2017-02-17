@@ -258,7 +258,7 @@
 	<pb facs="liv_001443_0008" n="0008"/>
 <lb/>high and inhabited. We could
 <lb/>see cultivated patches from
-<lb/>below. <placeName><geogName type="range">Milanje range</geogName></placeName> is inhabited 
+<lb/>below. <placeName><geogName type="range"><choice><orig>Milanje</orig><reg>Mulanje</reg></choice> range</geogName></placeName> is inhabited 
 <lb/>too, but another range on
 <lb/>the Eastern side of the Lake <!-- geog: Lake Shirwa -->
 <lb/>seems over <measure>six thousand feet</measure>
@@ -279,7 +279,7 @@
 <lb/>it will appear as standing in
 <lb/>the Lake - It is not acually <!-- geog: Lake Shirwa -->
 <lb/>on its shores but it separates
-<lb/>the <placeName><geogName type="valley">Shirwa</geogName></placeName> and the <placeName><geogName type="valley">Shire vallies</geogName></placeName>
+<lb/>the <placeName><geogName type="lake">Shirwa</geogName></placeName> and the <placeName><geogName type="valley">Shire <choice><orig>vallies</orig><reg>valleys</reg></choice></geogName></placeName>
 
 	<pb facs="liv_001443_0009" n="0009"/>
 <lb/><add place="marginleft">3/</add>and as the <orgName>natives</orgName> report
@@ -311,7 +311,7 @@
 <lb/>The Highland region in which the Lake is situated is so <!-- geog: Lake Shirwa -->
 <lb/>appropriate as a mission field that I have written to the 
 <lb/><orgName>Church <term type="occupation">Missionary</term> Society</orgName> recommending it - they have long
-<lb/>been trying to find a field in <geogName><region>Eastern <bloc>Africa</bloc></region></geogName>
+<lb/>been trying to find a field in <placeName><region>Eastern <bloc>Africa</bloc></region></placeName>
 	</ab>
 
 	<pb facs="liv_001443_0010" n="0010"/>
@@ -504,7 +504,7 @@
 <lb/>shut the doors in terror -</p>
 <lb/><p>When at <placeName><geogName type="lake">Lake Shirwa</geogName></placeName> the
 <lb/>people pointed out a pass in the 
-<lb/>end of the mountain range <placeName><geogName type="range">Milange</geogName></placeName>
+<lb/>end of the mountain range <placeName><geogName type="range"><choice><orig>Milange</orig><reg>Mulanje</reg></choice></geogName></placeName>
 <lb/>through which a tribe called <term type="tribe">Anguru</term>, 
 <lb/>came to attack them with guns.
 <lb/>The <term type="tribe">Manganja</term> have no fire-arms

@@ -86,7 +86,7 @@
 
 <!-- If this is a letter or similar with an opener (with content such as dateline and/or salute) add it. For example: -->
 <opener>
-<lb/><dateline rend="right"><add place="margintop" rend="left vertical gray small" hand="#U"><!-- diagonal -->C/4/49</add> <placeName><geogName type="river">Zambesi</geogName></placeName><date when="1858-06-26">26<hi rend="underline">th</hi> June <add place="margintop" rend="right gray small" hand="#U1">MS 7/8</add>     
+<lb/><dateline rend="right"><add place="margintop" rend="left vertical gray small" hand="#U"><!-- diagonal -->C/4/49</add> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName><date when="1858-06-26">26<hi rend="underline">th</hi> June <add place="margintop" rend="right gray small" hand="#U1">MS 7/8</add>     
 <lb/><space extent="7" unit="chars"/>1858</date></dateline>
 <lb/><add place="inspace" hand="#U2"><unclear><del type="strikethrough"><gap extent="1" unit="chars"/></del></unclear> <date when="1858-08-27"><choice><abbr>Aug</abbr><expan>August</expan></choice> 27/<choice><abbr>58</abbr><expan>1858</expan></choice></date></add><!-- It looks like a note has been made here by another hand. I am not sure how to encode this. JM --><!-- Fixed. AW -->    
 <lb/><salute>My Dear <persName>M<hi rend="sup underline">r</hi> Conyngham</persName></salute>

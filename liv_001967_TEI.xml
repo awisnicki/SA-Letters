@@ -174,7 +174,7 @@
 <lb/>give <persName><term type="occupation">Bishop</term> Tozer</persName> may
 <lb/>possibly obviate the
 <lb/>necessity for sending to the
-<lb/><placeName><region><geogName type="cape">Cape</geogName></region></placeName><!--of Good Hope? or which one? -AA--><!-- Sounds like Cape. AW --> for <term type="foodstuff">flour</term>. <term type="plant_foodstuff">Wheat</term><!-- geog: Cape of Good Hope -->
+<lb/><placeName><region>Cape</region></placeName><!--of Good Hope? or which one? -AA--><!-- Sounds like Cape. AW --> for <term type="foodstuff">flour</term>. <term type="plant_foodstuff">Wheat</term><!-- geog: Cape of Good Hope -->
 <lb/>sown in May and
 <lb/>irrigated by any small
 <lb/>stream yields a crop
@@ -274,7 +274,7 @@
 <lb/>professions of desire
 <lb/>for the cessation of the
 <lb/><orgName>slave</orgName> trade - because
-<lb/>anywhere else - on the <hi rend="underline"><placeName><geogName type="river">>Rovuma</geogName></placeName></hi> even which
+<lb/>anywhere else - on the <hi rend="underline"><placeName><geogName type="river">Rovuma</geogName></placeName></hi> even which
 <lb/>is navigable for	
 <lb/>only eight or nine months
 <lb/>yearly - with half the
@@ -300,7 +300,7 @@
 <lb/>Ruler of all can be
 <lb/>lost -</p>
 <lb/><p>I have just returned
-<lb/>from <placeName><geogName type="lake">Lake Nyassa</geogName></placeName> - our
+<lb/>from <placeName><geogName type="lake">Lake <choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName> - our
 <lb/>object in going was to
 <lb/>improve the time between
 <lb/>our recal and the next
