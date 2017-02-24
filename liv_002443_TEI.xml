@@ -94,8 +94,8 @@
 <lb/><!-- empty line break to indicate space? MB -->
 <lb/><salute>My Dear Kirk</salute>
 <lb/><p rend="right"><persName>D<hi rend="sup underline">r</hi> Birdwood</persName>
-<lb/>The <term type="occupation">curator</term> of the <orgName>Botanical garden
-<lb/>and Museum</orgName> here told me <w>yester-<!-- dash at the end of this line? MB --><!-- Fixed. AW -->
+<lb/>The <term type="occupation">curator</term> of the <placeName>Botanical <choice><sic>garden</sic><corr>Garden</corr></choice>
+<lb/>and Museum</placeName> here told me <w>yester-<!-- dash at the end of this line? MB --><!-- Fixed. AW -->
 <lb break="no"/>day</w> that he would recommend
 <lb/>you to the <term type="occupation">Governor</term> as a fit
 <lb/>person to occupy his place - He
@@ -172,7 +172,7 @@
 <lb/>than practice, hence &amp; guess his duties
 <lb/>do not occupy a large portion of
 <lb/>his time - He is <term type="occupation"><choice><abbr>Gov</abbr><expan>Governor</expan></choice> Secretary</term> to the
-<lb/><orgName><placeName><settlement type="city">Bombay</settlement></placeName> Asiatic society</orgName> &amp; something
+<lb/><orgName><placeName><settlement type="city">Bombay</settlement></placeName> Asiatic <choice><sic>society</sic><corr>Society</corr></choice></orgName> &amp; something
 <lb/>else which bring honour &amp; bother
 <lb/>only - My impression is that if
 <lb/>nothing better has turned up yet

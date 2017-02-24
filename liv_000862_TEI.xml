@@ -169,7 +169,7 @@
 	<pb facs="liv_000862_0003" n="0003"/>
 <lb/><p rend="no-indent">outrage the aforementioned <orgName>clergyman</orgName> was
 <lb/>engaged in recieving them <add place="below">^</add> <add place="above">in synod assembled</add> into the bossom <!-- Synod an org? MB --><!-- OK. AW -->
-<lb/><add place="above">at the <placeName><region><choice><orig>cape</orig><reg>Cape</reg></choice></region></placeName></add> of the <orgName><term type="nationality">Dutch</term>church</orgName> as <term type="faith">Christian</term> bretheren.
+<lb/><add place="above">at the <placeName><region><choice><orig>cape</orig><reg>Cape</reg></choice></region></placeName></add> of the <orgName><term type="nationality">Dutch</term> church</orgName> as <term type="faith">Christian</term> bretheren.
 <lb/>The marauding <orgName>expedition</orgName> by which I lost
 <lb/>about £300 of value was the first act of their
 <lb/>Independence and <term type="faith">Christian</term> membership -
@@ -209,7 +209,7 @@
 <lb/>my duty among the <orgName>blacks</orgName> so soon after
 <lb/>the engagement I had not heard of it.
 <lb/>I met the worthy <term type="occupation">doctor</term> above mentioned
-<lb/><hi rend="underline">in the house</hi> of a <orgName>boer</orgName> who returned with
+<lb/><hi rend="underline">in the house</hi> of a <orgName><choice><sic>boer</sic><corr>Boer</corr></choice></orgName> who returned with
 <lb/>two bullet holes in his clothing from the
 <lb/>murder of our <term type="occupation">soldiers</term>. This man had
 <lb/>a significant hint given him by <persName>Sir

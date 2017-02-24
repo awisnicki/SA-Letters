@@ -128,7 +128,7 @@
 
 	<pb facs="liv_000538_0002" n="0002"/>
 <lb/><unclear cert="high">The</unclear> great drawback to travelling in the country is the slowness
-<lb/>of our locomotives. The heavy lumbering <orgName>Dutch</orgName> waggon
+<lb/>of our locomotives. The heavy lumbering <term type="nationality">Dutch</term> waggon
 <lb/><subst><del>a</del><add place="over-text">&amp;</add></subst> the riding ox are the only conveyances unless we choose
 <lb/>to try our own lower extremities, I have been as far
 <lb/>north as <measure><choice><abbr>Lat.</abbr><expan>Latitude</expan></choice> 22º <choice><abbr>S.</abbr><expan>South</expan></choice></measure>
@@ -310,9 +310,9 @@
 <lb/>them are destitute of that general information which
 <lb/>makes company agreeable. <space extent="1" unit="chars"/>They have not the means of
 <lb/>informing themselves &amp; have been the dupes of a set
-<lb/>of unprincipled men in the <orgName>Colony</orgName>. I cannot go into
+<lb/>of unprincipled men in the <placeName><region>Colony</region></placeName>. I cannot go into
 <lb/>the subject at <unclear cert="high"><w>pre<gap extent="1" unit="chars" agent="blot"/><supplied>s</supplied>ent</w></unclear> but I believe they are <unclear cert="medium"><gap extent="1" unit="chars" agent="blot"/><supplied>m</supplied>ore</unclear> to be
-<lb/>pitied than blamed. The <orgName>Colonial government</orgName> has as large
+<lb/>pitied than blamed. The <orgName>Colonial <choice><sic>government</sic><orig>Government</orig></choice></orgName> has as large
 <lb/>a share in their misdemeanour as any one else.
 <lb/>They are generally such as respect religion But the frequent
 <lb/>commission of the grossest immoralities by them makes

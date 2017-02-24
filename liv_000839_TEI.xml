@@ -310,7 +310,7 @@
 <lb/><p>You may <unclear cert="high">observe</unclear> in <bibl>my letter to <persName>Sir <choice><abbr>R.</abbr><expan>Roderick</expan></choice> <choice><abbr>M.</abbr><expan>Murchison</expan></choice></persName></bibl>
 <lb/>I allude to some geographical information having
 <lb/>been sent to <placeName><country>Germany</country></placeName>. <persName>Dr. <unclear cert="medium">Welwatsch</unclear></persName> told me
-<lb/>he had written to <orgName>Berghaus</orgName>, the <term type="occupation">publisher</term> of a
+<lb/>he had written to <persName>Berghaus</persName>, the <term type="occupation">publisher</term> of a
 <lb/><bibl>very good map</bibl> on <placeName><bloc>Africa</bloc></placeName>, an account of <!-- Adrian, does this account warrant a bibl tag? HB -->
 <lb/>my journey, he did so after he had got a
 <lb/>sketch, had I known sooner he would have
@@ -831,9 +831,9 @@
 <lb/>affectionate salutations <signed>David <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></signed></closer></div>
 
 	<pb facs="liv_000839_0033" n="0033"/>
-<lb/><div><opener><add place="above" rend="center"><hi rend="double-underline">Appendix</hi> !!</add> <add place="above" hand="#U2">2</add> <date when="1855-01-20">20<hi rend="sup underline">th</hi></date></opener> <space extent="2" unit="chars"/><p>As the <bibl><orgName>Mail</orgName></bibl> is not to leave for another <!-- Not sure what tag is appropriate for the Mail here and on the next line? HB -->
+<lb/><div><opener><add place="above" rend="center"><hi rend="double-underline">Appendix</hi> !!</add> <add place="above" hand="#U2">2</add> <date when="1855-01-20">20<hi rend="sup underline">th</hi></date></opener> <space extent="2" unit="chars"/><p>As the <bibl>Mail</bibl> is not to leave for another <!-- Not sure what tag is appropriate for the Mail here and on the next line? HB -->
 <lb/>day or two I add a little more to this prolix
-<lb/>production - The <bibl><orgName>Mail</orgName> of the <date when="1855-01-16">16<hi rend="sup underline">th</hi></date></bibl> will
+<lb/>production - The <bibl>Mail of the <date when="1855-01-16">16<hi rend="sup underline">th</hi></date></bibl> will
 <lb/>not reach this till <date from="1885-02-05" to="1855-02-06">the 5 or 6<hi  rend="double-underline">th</hi> of February</date> -
 <lb/>I shall either wait or get the contents
 <lb/>on the <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName> - So you need not be 
@@ -912,13 +912,13 @@
 <lb/><placeName><geogName type="river">river Niger</geogName></placeName> had however less in it than
 <lb/>mine. I am too far <unclear cert="low">Lost</unclear> with <persName>Tingo</persName>
 <lb/>but it is not geography I am teaching him
-<lb/>The <bibl><orgName>Mail</orgName></bibl> takes about <measure>20 days</measure> to go from this
+<lb/>The <bibl>Mail</bibl> takes about <measure>20 days</measure> to go from this
 <lb/>to that city and is often longer in coming
 <lb/>so that of the <date when="1855-01-16">16<hi rend="sup underline">th</hi></date> will certainly be my final one
 <lb/>sorry such pleasant correspondence must cease</p>
 
 	<pb facs="liv_000839_0037" n="0037"/>
-<lb/><p><add place="above">A. 1.<!-- There are two lines that run between these two characters. --><!-- Rust from a paperclip. AW --></add> The <bibl><orgName>Mail</orgName></bibl> from <add place="above" rend="gray" hand="#U1"><metamark/><!-- A circle is drawn around the number -->3</add> <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> came <add place="above" rend="gray" hand="#U2"><date when="1855-01-23"><choice><abbr>Jan</abbr><expan>January</expan></choice> 23 <add place="below">?</add> <!-- Not sure what this middle character is. EM --><!-- Fixed. AW --> 1855</date></add> in <date when="1855-01-23">today
+<lb/><p><add place="above">A. 1.<!-- There are two lines that run between these two characters. --><!-- Rust from a paperclip. AW --></add> The <bibl>Mail</bibl> from <add place="above" rend="gray" hand="#U1"><metamark/><!-- A circle is drawn around the number -->3</add> <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> came <add place="above" rend="gray" hand="#U2"><date when="1855-01-23"><choice><abbr>Jan</abbr><expan>January</expan></choice> 23 <add place="below">?</add> <!-- Not sure what this middle character is. EM --><!-- Fixed. AW --> 1855</date></add> in <date when="1855-01-23">today
 <lb/>23<hi rend="sup underline">d</hi> <choice><abbr>Jany.</abbr><expan>January</expan></choice></date> but of course contained nothing
 <lb/>for me - yours by next is my blue
 <lb/>Peter<!-- Not sure if this is a person or...? EM --><!-- Not sure what it is. AW --> - The <bibl>Boletin</bibl> contains what our
@@ -927,7 +927,7 @@
 <lb/><bibl>the paper</bibl> but it is described as
 <lb/><foreign xml:lang="pt">muitissimo boa</foreign> <!-- Not sure what this is. EM --><!-- Fixed. AW --> - They might form a
 <lb/><orgName>copper company</orgName> for working
-<lb/>mines there now - I see the <orgName>Morning Herald</orgName> is down on <persName>Sir <choice><abbr>J</abbr><expan>John</expan></choice> Young</persName> <term type="occupation">chief
+<lb/>mines there now - I see the <bibl>Morning Herald</bibl> is down on <persName>Sir <choice><abbr>J</abbr><expan>John</expan></choice> Young</persName> <term type="occupation">chief
 <lb/>secretary</term> for <placeName><country>Ireland</country></placeName> for holding <orgName>slaves</orgName>
 <lb/>and a <orgName>slave plantation</orgName> in <placeName><country>Suriname</country></placeName>
 <lb/>He is of course a member of <orgName><persName>Lord
@@ -945,7 +945,7 @@
 <lb/><date when="1855-01-24">tomorrow</date>, I have been close at work
 <lb/>ever since I came - and will send
 <lb/>it and some observations for <persName>M<hi rend="sup underline">r</hi>
-<lb/>Macclear</persName> by next <bibl><orgName>Mail</orgName></bibl>. Also a concluding
+<lb/>Macclear</persName> by next <bibl>Mail</bibl>. Also a concluding
 <lb/><bibl>letter</bibl> for <persName>Sir Roderick</persName> <foreign xml:lang="la"><choice><abbr>viz.</abbr><expan>videlicet</expan></choice></foreign> on the <placeName><region>Province</region></placeName>
 <lb/>Have you colours to give a slight tint
 <lb/>to the different rocks - in the sketch - If

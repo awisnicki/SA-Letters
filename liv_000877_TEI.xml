@@ -147,7 +147,7 @@
 <lb/>The River is here of great breadth - probably <measure>a thousand yards</measure> <!-- geog: River Zambesi -->
 <lb/>and covered with islands of great beauty in consequence
 <lb/>of being clothed with magnificent masses of <term type="plant">Tropical Forest</term>.
-<lb/>When close to the falls we got a little light canoe and <orgName>men</orgName> <!-- geog: Mosi-oa-tunya -->
+<lb/>When close to the falls we got a little light canoe and men <!-- geog: Mosi-oa-tunya -->
 <lb/>well acquainted with the eddies in the <choice><sic>fast flowing</sic><corr>fast-flowing</corr></choice> water
 <lb/>and went to an island situated in the middle of the
 <lb/>river and edge of the lip over which the broad
@@ -160,7 +160,7 @@
 <lb/>feet</measure> and is suddenly compressed at the bottom
 <lb/>into <measure>fifteen or twenty</measure> Excuse my using the
 <lb/>same language to you as I do in trying to convey
-<lb/>an idea of the thing to some of my <orgName>friends</orgName> native
+<lb/>an idea of the thing to some of my friends native
 <lb/>of the island called <placeName><geogName type="island">Anglia</geogName></placeName> - If we imagine the <placeName><geogName type="river">Thames</geogName></placeName>
 <lb/>filled with low <choice><sic>tree covered</sic><corr>tree-covered</corr></choice> hills from the <w>Tunne<supplied>l</supplied></w>
 <lb/>to <placeName><settlement type="town">Gravesend</settlement></placeName> - the bed of hard basaltic rock instead
@@ -265,8 +265,8 @@
 <lb/>knowledge of the causes of this uncomfortable
 <lb/>state of things - "Uncomfortable" rather for me
 <lb/>for I have unwittingly lugged myself into the
-<lb/>midst of the <orgName>belligerents</orgName> - We have seen the
-<lb/><orgName>women</orgName> and <orgName>children</orgName> sent away several times -
+<lb/>midst of the belligerents - We have seen the
+<lb/>women and children sent away several times -
 <lb/>and <orgName>parties of men</orgName> pouring in to certain
 <lb/>points during whole nights But they have
 <lb/>generally come to the conclusion that "after
@@ -280,8 +280,8 @@
 
 	<pb facs="liv_000877_0005" n="0005"/>
 <lb/><fw n="heading_2"><hi rend="underline"><choice><abbr>2<hi rend="sup">d</hi></abbr><expan>second</expan></choice> sheet</hi></fw>
-<lb/><orgName>negroes</orgName>, much addicted to agriculture. We see both <orgName>men</orgName>
-<lb/>and <orgName>women</orgName> constantly <term type="occupation">employed in the gardens</term>, and
+<lb/><orgName>negroes</orgName>, much addicted to agriculture. We see both men
+<lb/>and women constantly <term type="occupation">employed in the gardens</term>, and
 <lb/>as the soil is extremely fertile they raise large quantities
 <lb/>of <term type="plant_foodstuff">grain</term> - the <term type="plant_foodstuff">maize</term> is nearly of the same size as
 <lb/><term type="nationality">American</term> seed I have seen sold in <placeName><settlement type="town">Cape Town</settlement></placeName> - And
@@ -294,14 +294,14 @@
 <lb/>leaves a spot impregnated with effluvia from man -
 <lb/>and would then have no sustenance - there are
 <lb/>several tribes of <orgName>Caffres</orgName> among them - When I
-<lb/>say "<orgName>Caffres</orgName>" I mean <orgName>men of the Zula family</orgName> - No
-<lb/>one calls <term type="tribe">Basuta</term> or other <orgName>Bechuanas</orgName> by that
+<lb/>say "<orgName>Caffres</orgName>" I mean <orgName>men of the <orgName><choice><orig>Zula</orig><reg>Zulu</reg></choice></orgName> family</orgName> - No
+<lb/>one calls <term type="tribe">Basuta</term> or other <term type="tribe"><choice><orig>Bechuanas</orig><reg>Batswana</reg></choice></term> by that
 <lb/>term unless he wishes it to be tacitly understood
-<lb/>that he has travelled or lived among <orgName>people</orgName> equal
+<lb/>that he has travelled or lived among people equal
 <lb/>to those who have <unclear cert="medium">bangled</unclear> about the brave <term type="nationality">British</term>
 <lb/><term type="occupation">soldier</term> <unclear cert="medium">so roughly</unclear> - It is noticeable that the tribe
 <lb/>which drove the <orgName>good men of <placeName><settlement type="village">Tete</settlement></placeName></orgName> into their fort is
-<lb/>of the real <orgName>Caffre</orgName> or <orgName>Zulah</orgName> tribe - And firearms &amp;
+<lb/>of the real <orgName>Caffre</orgName> or <orgName><choice><orig>Zulah</orig><reg>Zulu</reg></choice></orgName> tribe - And firearms &amp;
 <lb/>gunpowder are now contraband all along the coast.
 <lb/>as at the <placeName><region>Cape</region></placeName>. The <term type="occupation">missionaries</term> <del type="strikethrough">too</del> have had no
 <lb/>hand in it here - neither has <term type="occupation"><choice><sic><term type="animal">cattle</term> stealing</sic><corr><term type="animal">cattle</term>-stealing</corr></choice></term> for there
@@ -596,7 +596,7 @@
 <lb/>ridge</region></placeName> makes me suppose it trends away to the
 <lb/>North East - this agrees with what both the <orgName>Arab</orgName> &amp;
 <lb/><term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> report - </p> 
-<lb/><p>Now like the postscript of a <orgName>lady</orgName>'s <w><gap extent="2" unit="chars" agent="blot"/><supplied>le</supplied>tter</w> comes
+<lb/><p>Now like the postscript of a lady's <w><gap extent="2" unit="chars" agent="blot"/><supplied>le</supplied>tter</w> comes
 <lb/>the Kernel of the whole of this verbiage - Both <placeName><region>Eastern</region><!-- geog: Eastern ridges -->
 <lb/>and <region>Western ridges</region></placeName> are decidedly salubrious <del type="strikethrough">While</del>
 <lb/>while the valley is as decidedly deadly. <orgName>Criminals</orgName>
