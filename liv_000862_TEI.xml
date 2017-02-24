@@ -235,7 +235,7 @@
 <lb/><p>I enclose too a slip containing information
 <lb/>about the <term type="foodstuff">vegetable wax</term><!-- plant matter? foodstuff? MB--><!-- Fixed. AW --> at the <placeName><region>Cape</region></placeName> <!-- region? MB --><!-- OK. AW -->- It
 <lb/>has been investigated by the <orgName><placeName><settlement type="town">Cape Town</settlement></placeName>
-<lb/>agricultural society</orgName> and you will see
+<lb/><choice><sic>agricultural</sic><corr>Agricultural</corr></choice> <choice><sic>society</sic><corr>Society</corr></choice></orgName> and you will see
 <lb/>after giving good wages they can sell
 <lb/>or expert it at a lower figure than the
 <lb/><term type="people">Portuguese</term> give for it on the banks of

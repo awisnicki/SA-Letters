@@ -180,7 +180,7 @@
 <lb/>became <w>thorough<subst><del>y</del><add place="over-text">l</add></subst>y</w> known the whole
 <lb/>civilized world rose against it - In now
 <lb/>trying to make the <orgName><placeName><region>Eastern <placeName><bloc>Africa</bloc></placeName></region></placeName>
-<lb/>slave trade</orgName> better known to <term type="people">Americans</term>
+<lb/><orgName><orgName>slave</orgName> trade</orgName></orgName> better known to <term type="people">Americans</term>
 <lb/>I indulge the hope that I am aiding on,
 <lb/>though in a small degree, the good
 <lb/>time coming yet when <orgName>slaving</orgName> <w><subst><del>i</del><add place="over-text">a</add></subst>s</w> well
@@ -387,7 +387,7 @@
 <lb/>A very large number of very fine young men
 <lb/>were captured and secured in chains and 
 <lb/>wooden yokes - I came near the <orgName>party of <persName>Syde
-<lb/>-bin Habib</persName></orgName> close <add place="below">^</add> <add place="above">to</add> the point where a huge
+<lb/><choice><orig>-bin</orig><reg>bin</reg></choice> Habib</persName></orgName> close <add place="below">^</add> <add place="above">to</add> the point where a huge
 <lb/>rent in the <placeName><geogName type="mountain">mountains of <placeName><region><choice><orig>Rua</orig><reg>Lubaland</reg></choice></region></placeName></geogName></placeName> allows the 
 <lb/>escape of the great river <placeName><geogName type="river">Lualaba</geogName></placeName> <del type="strikethrough">to ensue</del>
 <lb/>out of <placeName><geogName type="lake">Lake Moero</geogName></placeName> - and here I had for 
@@ -710,8 +710,8 @@
 <lb/>whose efforts were all faithfully directed towards
 <lb/>securing my failure - these <orgName>Banians</orgName> are
 <lb/>protected <term type="nationality">English</term> subjects and by their money
-<lb/>their muskets their ammunition the <orgName><placeName><region>East <placeName><bloc>Africa</bloc></placeName></region></placeName> <orgName><orgName>Moslem</orgName> <orgName>Slave Trade</orgName></orgName></orgName> is mainly carried <!-- This is a lot of orgNames I know haha, but thought it was the fullest way to code - let me know if you'd like to eliminate some? HB -->
-<lb/>on - the cunning <orgName><placeName><region>East</region></placeName> Indians</orgName> secure
+<lb/>their muskets their ammunition the <orgName><placeName><region>East <placeName><bloc>Africa</bloc></placeName></region></placeName> <term type="faith">Moslem</term> <orgName><orgName>Slave</orgName> Trade</orgName></orgName> is mainly carried <!-- This is a lot of orgNames I know haha, but thought it was the fullest way to code - let me know if you'd like to eliminate some? HB -->
+<lb/>on - the cunning <orgName><placeName><region>East</region></placeName> <term type="people">Indians</term></orgName> secure
 <lb/>most of the profits of the <orgName>slave trade</orgName> and
 <lb/>adroitly let the odium rest on their <orgName><orgName>Arab</orgName>
 <lb/><term type="occupation">agents</term></orgName> - The <orgName>Banians</orgName> will not harm a <term type="insect">flea</term>
@@ -955,7 +955,7 @@
 <lb/>about them - Many of both sexes were killed
 <lb/>but the women and children chiefly were
 <lb/>made <orgName>captives</orgName> - No matter how much
-<lb/>ivory they obtained these "<orgName>Nigger Moslems</orgName>"
+<lb/>ivory they obtained these "<orgName>Nigger <orgName>Moslems</orgName></orgName>"
 <lb/>must have <orgName>slaves</orgName>, and they assaulted the
 <lb/>markets and villages and made <orgName>captives</orgName>
 <lb/>chiefly as it appeared to me because as
@@ -990,7 +990,7 @@
 <lb/>better class to farm his income - because as
 <lb/>they themselves say he would get nothing
 <lb/>in return but a crop of his - the <orgName>Banians</orgName>
-<lb/>naturally work the <orgName>custom house</orgName> so as to
+<lb/>naturally work the <orgName><choice><sic>custom</sic><corr>Custom</corr></choice> <choice><sic>house</sic><corr>House</corr></choice></orgName> so as to
 <lb/>screen their own <term type="occupation"><orgName>slaving</orgName> agents</term> and
 <lb/>so long as they have the power to promote
 <lb/>it their atrocious system of <orgName>slaving</orgName> will
