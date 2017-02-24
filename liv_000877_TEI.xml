@@ -240,7 +240,7 @@
 <lb/>contains no date and I could not ascertain from
 <lb/>the present <orgName>inhabitants</orgName> the name of the station
 <lb/>From two <term type="nationality">Portuguese</term> <term type="occupation">traders</term> I have met since
-<lb/>I learn that it is <orgName>Zumbo</orgName> - It is impossible to
+<lb/>I learn that it is <placeName><settlement type="village">Zumbo</settlement></placeName> - It is impossible to
 <lb/><choice><sic>concieve</sic><corr>conceive</corr></choice> a finer trading station than this must
 <lb/>have been - Besides being very beautiful from
 <lb/>having a fine <choice><sic>tree covered</sic><corr>tree-covered</corr></choice> hill named <placeName><geogName type="hill">Mazausue</geogName></placeName>
@@ -368,7 +368,7 @@
 
 	<pb facs="liv_000877_0007" n="0007"/>
 <lb/>with an appendix containing an account of the Flood
-<lb/>by <persName>Ham</persName> one of the <orgName>survivors</orgName> - you will not think
+<lb/>by <persName>Ham</persName> one of the survivors - you will not think
 <lb/>this exaggerated when you reflect that I had been peering
 <lb/>at rocks for many a day in a country where there <!-- geog: -->
 <lb/>is no <term type="occupation"><choice><sic>road making</sic><corr>road-making</corr></choice></term> or <term type="occupation">quarrying</term> or even torrents

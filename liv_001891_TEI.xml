@@ -138,7 +138,7 @@
 <lb/>our footsteps - and we are witnesses 
 <lb/><!-- Should I encode the damage in the left margin? MB --><!-- No. AW -->of its devastations - The <placeName><geogName type="valley">valley of the
 <lb/><placeName><geogName type="river">lower Shire</geogName></placeName></geogName></placeName> is nearly quite depopulated.
-<lb/>The <orgName>Tette people</orgName> backed by the <term type="occupation">Governor</term>,
+<lb/>The <orgName><placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> people</orgName> backed by the <term type="occupation">Governor</term>,
 <lb/>came across to the <placeName><geogName type="river">Shire</geogName></placeName> - instigated one
 <lb/>tribe to attack another, and <choice><sic>recieved</sic><corr>received</corr></choice> good
 <lb/>payment for the arms &amp; ammunition
