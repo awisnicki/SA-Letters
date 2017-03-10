@@ -113,7 +113,7 @@
 <lb/>joined us <del type="strikethrough">at it in</del> doing
 <lb/>justice to his hospitality
 <lb/><metamark function="reorder" spanTo="#meta-11"/><seg corresp="#reorder-4">one of them cut up a
-<lb/><term type="animal">fowl</term> with a knife &amp; fork</seg><anchor xml:id="meta-11"/>    
+<lb/><term type="animal_foodstuff">fowl</term> with a knife &amp; fork</seg><anchor xml:id="meta-11"/>    
 <lb/><del type="cancelled">and the others</del> <del type="cancelled">Then</del> <add place="marginleft"><metamark function="insertion"/>Before eating</add> all
 <lb/>had water poured on
 <lb/>the hands <add place="marginleft"><metamark function="insertion"/>by a female <orgName>slave</orgName></add> to wash them <supplied cert="high">-</supplied>
@@ -186,7 +186,7 @@ or put his head up at all <supplied cert="high">-</supplied> They have learned t
 <lb/>was becoming more densely peopled as we <w>pro-
 <lb break="no"/>ceded</w> but it bears no population compared to
 <lb/>what it might easily sustain <supplied cert="high">-</supplied> provisions
-<lb/>were to be had in great abundance a <term type="animal"><term type="foodstuff">fowl</term></term>
+<lb/>were to be had in great abundance a <term type="animal_foodstuff">fowl</term>
 <lb/>and basket <choice><abbr>-</abbr><expan>of</expan></choice> <term type="foodstuff">meal</term> weighing 20<choice><abbr>lbs</abbr><expan>pounds</expan></choice> was sold for
 <lb/>1 <choice><orig>½</orig><reg>1/2</reg></choice> <choice><abbr>yds</abbr><expan>yards</expan></choice> of very inferior cotton cloth worth not
 <lb/>more than 3 pence An idea <choice><abbr>- '</abbr><expan>of the</expan></choice> cheapness of
@@ -194,8 +194,8 @@ or put his head up at all <supplied cert="high">-</supplied> They have learned t
 <lb/>Neves</persName> purchased 380<choice><abbr>lbs</abbr><expan>pounds</expan></choice> <choice><abbr>-</abbr><expan>of</expan></choice> <term type="plant">tobacco</term> from <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Bangalas</term>
 <lb/>for about 2 pounds Sterling This when carried into
 <lb/><placeName><region>Central Londa</region></placeName> might purchase seven thousand
-<lb/>five hundred <term type="animal"><term type="foodstuff">fowls</term></term> or feed with <term type="foodstuff">meal</term> &amp; <term type="animal"><term type="foodstuff">fowls</term></term>
-<lb/>seven thousand persons for one day giving each a <term type="animal"><term type="foodstuff">fowl</term></term>
+<lb/>five hundred <term type="animal_foodstuff">fowls</term> or feed with <term type="foodstuff">meal</term> &amp; <term type="animal_foodstuff">fowls</term>
+<lb/>seven thousand persons for one day giving each a <term type="animal_foodstuff">fowl</term>
 <lb/>and 5 <choice><abbr>lbs</abbr><expan>pounds</expan></choice> <choice><abbr>-</abbr><expan>of</expan></choice> <term type="foodstuff">meal</term> <space extent="5" unit="chars"/> When food is purchased
 <lb/>here with either <term type="foodstuff">salt</term> or coarse calico 4 persons
 <lb/>can be well fed with animal &amp; <term type="foodstuff">vegetable</term>

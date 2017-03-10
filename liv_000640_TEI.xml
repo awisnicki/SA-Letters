@@ -124,7 +124,7 @@
 <lb/>others are engaged in <term type="occupation">building</term> - <persName>Mary</persName> feels her situation among the ruins a little dreary &amp; 
 <lb/>no wonder for she writes me <date when="1847-08-12">yesterday</date> that the <term type="animal">lions</term> are resuming possession &amp; walk around our
 <lb/>house at night - <placeName><settlement type="village">Kolobeng</settlement></placeName> means the haunt<!-- This word appears a few times and I am not sure on it. EM --><!-- Fixed. AW --> of the wild <term type="animal">boar</term> but it seems to have been
-<lb/>the haunt of everything wild. <term type="animal"><choice><orig>Hyaeanas</orig><reg>Hyaenas</reg></choice></term> abound exceedingly. <term type="animal">buffaloes</term> in immense herds - and
+<lb/>the haunt of everything wild. <term type="animal"><choice><orig>Hyaeanas</orig><reg>Hyaenas</reg><reg>Hyena</reg></choice></term> abound exceedingly. <term type="animal">buffaloes</term> in immense herds - and
 <lb/><term type="animal">zebras</term> quite tame in the thickly wooded country around - <term type="animal">Elephants</term> too have left their
 <lb/>traces on what will we hope for the future only contain marks of the "pleasant haunts
 <lb/>of men" <space extent="1" unit="chars"/>The evenings afford me a little time for writing &amp;c - and as you express a wish to
@@ -178,7 +178,7 @@
 <lb/>word ending in ing but allowing the i to be silent the <choice><sic>enuntiation</sic><corr>enunciation</corr></choice></p>
 <lb/><p rend="no-indent">G. gutteral as in <term type="nationality">Scotch</term> <foreign xml:lang="gd"><w>lo<hi rend="underline">ch</hi></w></foreign> - <term type="nationality"><choice><orig>dutch</orig><reg>Dutch</reg></choice></term> <foreign xml:lang="nl">dag</foreign>. <unclear cert="medium">x</unclear> <del type="strikethrough">the</del> <term type="nationality"><choice><orig>scotch</orig><reg>Scotch</reg></choice></term> way - <foreign xml:lang="tn">gago</foreign> thy
 <lb/><foreign xml:lang="tn">ñoñorega</foreign>, <foreign xml:lang="tn">riga</foreign> throw down</p>
-<lb/><p rend="no-indent"><app><rdg>H</rdg><rdg>It</rdg></app> is always an aspirate except in combination with s as sh. <foreign xml:lang="tn">Phiri</foreign> a <unclear cert="high"><term type="animal"><choice><sic>hyeana</sic><corr>hyena</corr></choice></term></unclear>
+<lb/><p rend="no-indent"><app><rdg>H</rdg><rdg>It</rdg></app> is always an aspirate except in combination with s as sh. <foreign xml:lang="tn">Phiri</foreign> a <unclear cert="high"><term type="animal"><choice><sic>hyeana</sic><corr>hyaena</corr><corr>hyena</corr></choice></term></unclear>
 <lb/>the p is pronounced distinctly &amp; followed by the rough breathing <space extent="1" unit="chars"/> Ph is never f as in English</p>
 <lb/><p>Of the sounds which occur less frequently in <choice><orig>Sitchuana</orig><reg>Setswana</reg></choice> we have <hi rend="underline">e</hi> like
 <lb/><choice><orig>dutch</orig><reg>Dutch</reg></choice><hi rend="underline">ou</hi> or <choice><orig>scotch</orig><reg>Scotch</reg></choice> way of pronouncing upsilon <foreign xml:lang="tn"><w>serum<hi rend="underline">e</hi>ri</w></foreign> a <choice><sic>chrystal</sic><corr>crystal</corr></choice> <foreign xml:lang="tn"><w>motsek<hi rend="underline">e</hi>ri</w></foreign> a
@@ -297,7 +297,7 @@
 <lb/>a faint idea of the sweat of brain he must have endured in picking &amp; dissecting these
 <lb/>particles</p>
 <lb/><p>All nouns beginning with C.E.K.J.P.T.U. <space extent="2" unit="chars"/>have e as their sign - <unclear cert="medium"><app><rdg>x</rdg><rdg><choice><abbr>ex</abbr><expan>examples</expan></choice></rdg></app></unclear>. <foreign xml:lang="tn">Cakae</foreign> a
-<lb/>battleaxe <foreign xml:lang="tn">Eñkho</foreign> a pitcher <foreign xml:lang="tn">Kañkashi e</foreign> an oar. <foreign xml:lang="tn">Tolo. a <term type="animal">khoodoo</term> Pitse</foreign> a <term type="animal">zebra</term> - <foreign xml:lang="tn">hita</foreign> a
+<lb/>battleaxe <foreign xml:lang="tn">Eñkho</foreign> a pitcher <foreign xml:lang="tn">Kañkashi e</foreign> an oar. <foreign xml:lang="tn">Tolo. a <term type="animal"><choice><orig>khoodoo</orig><reg>kudu</reg></choice></term> Pitse</foreign> a <term type="animal">zebra</term> - <foreign xml:lang="tn">hita</foreign> a
 <lb/>wingless insect of domestic habits yet not respected <foreign xml:lang="tn">Uñkoe</foreign> <term type="animal">tiger</term> - you may make the above
 <lb/>into a <unclear cert="high">rule</unclear> to assist memory. <space extent="2" unit="chars"/>Initial <foreign xml:lang="tn">Cektipu</foreign> hath e. or any other cabalistic word
 <lb/>you like to manufacture</p>

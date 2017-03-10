@@ -841,7 +841,7 @@
 <lb/><orgName>my people</orgName> who believed all they said to see
 <lb/>the skull of a recent human victim and
 <lb/>he invited me in Triumph - I found
-<lb/>it to be the skull of a <term type="animal">gorillah</term> here called
+<lb/>it to be the skull of a <term type="animal"><choice><orig>gorillah</orig><reg>gorilla</reg></choice></term> here called
 <lb/><foreign xml:lang="und"><term type="animal">Soko</term></foreign> and for the first time became
 <lb/>aware of existence of the animal there -
 <lb/>the country abounds in food of all
@@ -871,12 +871,12 @@
 <lb/>of life - and the villages swarm with
 <lb/><term type="animal">goats</term> <term type="animal">sheep</term> <term type="animal">dogs</term> <del type="strikethrough">and</del> <term type="animal">pigs</term> and <term type="animal">fowls</term> -
 <lb/>while the <term type="animal">elephants</term> <term type="animal">buffaloes</term> <term type="animal">zebras</term>
-<lb/>and <foreign xml:lang="und"><term type="animal">sokos</term></foreign> or <term type="animal">gorillahs</term> yield to the expert
+<lb/>and <foreign xml:lang="und"><term type="animal">sokos</term></foreign> or <term type="animal"><choice><orig>gorillahs</orig><reg>gorilla</reg></choice></term> yield to the expert
 <lb/><term type="occupation">hunters</term> plenty of the nitrogenous ingredients
 <lb/>of human food - It was puzzling to see
 <lb/>why they should be <orgName>cannibals</orgName> - <term type="people"><placeName><country>New Zealand</country></placeName>ers</term><!-- Not sure whats at the end of this. EM --><!-- Fixed. AW -->
 <lb/>we were told were <orgName>cannibals</orgName> because they
-<lb/>had killed all their <term type="animal">gigantic birds</term> (<term type="animal">Moabe</term>)
+<lb/>had killed all their gigantic <term type="animal">birds</term> (<term type="animal">Moa</term> &amp;c)
 <lb/>and they were connected from the man
 <lb/>eating persuasion by the introduction of
 <lb/><term type="animal">pigs</term> - But the <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> have plenty of
@@ -918,7 +918,7 @@
 <lb/>are established about <measure>10 or 15 miles apart</measure>
 <lb/>there those who <add place="below" rend="gray" hand="#U">^</add> <add place="above" rend="gray" hand="#U">raise</add> <term type="plant_foodstuff">cassava</term> - <term type="plant_foodstuff">maize</term> - <term type="plant_foodstuff">grain</term>
 <lb/><term type="plant_foodstuff">sweet potatoes</term> exchange them for <term type="foodstuff">oil</term> <term type="foodstuff">salt</term> &amp; <term type="foodstuff">pepper</term>
-<lb/><term type="animal">fish</term> and other <term type="foodstuff">relishes</term> - From <term type="animal">fowls</term>, <add place="below" rend="gray" hand="#U">^</add> <add place="above" rend="gray" hand="#U">also</add> <term type="animal">pigs</term> <term type="animal">goats</term>
+<lb/><term type="animal_foodstuff">fish</term> and other <term type="foodstuff">relishes</term> - From <term type="animal">fowls</term>, <add place="below" rend="gray" hand="#U">^</add> <add place="above" rend="gray" hand="#U">also</add> <term type="animal">pigs</term> <term type="animal">goats</term>
 <lb/>grass cloth mats and other articles change
 <lb/>hands - All are dressed in their best - gaudy
 <lb/>coloured many folded kilts that reach from
@@ -933,7 +933,7 @@
 <lb break="no"/>-ment</w> of life - they confer great benefits
 <lb/>on each other - They <orgName><term type="tribe">Bagenya</term> women</orgName> are
 <lb/>expert divers for <term type="animal">oysters</term> and they sell them
-<lb/>and <term type="animal">fish</term> for farinaceous food from the
+<lb/>and <term type="animal_foodstuff">fish</term> for farinaceous food from the
 <lb/>women on the East of the <placeName><geogName type="river">Lualaba</geogName></placeName> who
 <lb/>prefer cultivating the soil to fishery - the
 <lb/><orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig></choice><reg>Maniema</reg></orgName> have always told us that

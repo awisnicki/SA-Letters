@@ -173,7 +173,7 @@
 <lb/><add place="marginleft below" rend="diagonal">saying</add> you must not do wickedly, you must
 <lb/>reform for when you die you will
 <lb/>come again, you will not "<foreign xml:lang="tn">nyelela hela</foreign>"
-<lb/>But the Black <term type="animal">lizard</term> (<term type="animal"><persName>Katoane</persName></term>)<!-- or persName? MB --><!-- Animal. AW --> was sent
+<lb/>But the Black <term type="animal">lizard</term> (<term type="animal"><persName>Katoane</persName></term>)<!-- or persName? MB --><!-- Animal. AW --><!--tagged as Katoane because it's unclear whether it's the generic term for "lizard" or the lizard's proper name. See "the Katoane" below. MB--> was sent
 <lb/>by the devil (<foreign xml:lang="tn"><persName>Barim</persName><gap extent="2" unit="chars" agent="hole"/></foreign>)<!-- or persName? MB --><!-- Sure. AW --> &amp; as it runs fast it
 <lb/>soon preceded the <term type="animal"><choice><sic>Cameleon</sic><corr>Chameleon</corr></choice></term> &amp; said to man
 <lb/>you may live as you like, there is no
@@ -181,7 +181,7 @@
 <lb/>forever, another messenger is coming &amp;
 <lb/>he will tell you lies, He will say you
 <lb/>will be judged for your deeds but <choice><sic>dont</sic><corr>don't</corr></choice>
-<lb/>believe him - So spake the <term type="animal">Katoane</term>
+<lb/>believe him - So spake the <term type="animal"><persName>Katoane</persName></term>
 
 	<pb facs="liv_000521_0004" n="0004"/>
 <lb/>Now this <persName>Mocuana</persName> after <w>appeallin<gap agent="fading" extent="1" unit="chars"/><supplied cert="high">g</supplied></w> to his <w>audienc<supplied cert="high">e</supplied></w>
