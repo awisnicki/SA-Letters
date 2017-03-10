@@ -137,7 +137,7 @@
 <lb/><gap extent="1" unit="words"/> friend of the
 <lb/>Botanic garden, May
 <lb/>I suggest your getting
-<lb/><term type="foodstuff">Coffee seeds</term> from <placeName><country>Angola</country></placeName>
+<lb/><term type="plant_foodstuff"><term type="foodstuff">Coffee</term> seeds</term> from <placeName><country>Angola</country></placeName>
 <lb/>for redistribution.  The first
 <lb/>of the <term type="foodstuff"><placeName><country>Angola</country></placeName> seeds</term> were
 <lb/>a few <term type="foodstuff">Mocha berries</term> <add place="inspace">x</add>
