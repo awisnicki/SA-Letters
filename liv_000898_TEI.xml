@@ -209,7 +209,7 @@
 <lb/>Daguerreotype got the glass broken and misfortunately
 <lb/>is spoiling by contact of the air - Hope they can
 <lb/>restore them in <placeName><settlement type="city">London</settlement></placeName>. Hallo, did I tell you
-<lb/>about the <term type="foodstuff"><term type="medicament">Kognak</term></term>.<!-- medicament or foodstuff? MB --><!-- Both. AW --> We are not <term type="nationality">Frenchmen</term> in our
+<lb/>about the <term type="foodstuff"><term type="medicament"><choice><orig>Kognak</orig><reg>aguardiente</reg></choice></term></term>.<!-- medicament or foodstuff? MB --><!-- Both. AW --> We are not <term type="nationality">Frenchmen</term> in our
 <lb/>orthography. <space extent="1" unit="chars"/>I recovered very slowly from a very
 <lb/>severe <term type="ailment">fever</term> which began near the <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName>, and
 <lb/>after a month or two thought of the brandy. Taking
