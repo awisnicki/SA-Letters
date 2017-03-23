@@ -162,7 +162,7 @@
 <lb/>could have gone in to
 <lb/><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>. I would have
 <lb/>sent a specimen of the
-<lb/><placeName><country>Angola</country></placeName> <term type="foodstuff">coffee</term> which
+<lb/><term type="plant_foodstuff"><placeName><country>Angola</country></placeName> <term type="foodstuff">coffee</term></term> which
 <lb/>would have pleased you
 <lb/>more than <term type="insect">beetles</term> <term type="insect">bugs</term> 
 <lb/>&amp; <term type="insect">cockroaches</term>, it is the

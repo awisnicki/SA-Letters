@@ -139,18 +139,18 @@
 <lb/>I suggest your getting
 <lb/><term type="plant_foodstuff"><term type="foodstuff">Coffee</term> seeds</term> from <placeName><country>Angola</country></placeName>
 <lb/>for redistribution.  The first
-<lb/>of the <term type="foodstuff"><placeName><country>Angola</country></placeName> seeds</term> were
-<lb/>a few <term type="foodstuff">Mocha berries</term> <add place="inspace">x</add>
+<lb/>of the <term type="plant_foodstuff"><placeName><country>Angola</country></placeName> seeds</term> were
+<lb/>a few <term type="plant_foodstuff">Mocha berries</term> <add place="inspace">x</add>
 <add place="marginleft" rend="vertical"><note>
 <lb/>the <term type="occupation">missionaries</term> introduced <del type="strikethrough">introduced</del>
-<lb/>many delicious <term type="foodstuff"><placeName><bloc>South America</bloc></placeName>n fruits</term>
+<lb/>many delicious <term type="plant_foodstuff"><placeName><bloc>South America</bloc></placeName>n fruits</term>
 <lb/>what would you give for miles of 
-<lb/><term type="foodstuff"><choice><sic>pine apple</sic><corr>pineapple</corr></choice></term> <unclear cert="high">road edging</unclear> at the <placeName><region>Cape</region></placeName>
+<lb/><term type="plant_foodstuff"><choice><sic>pine apple</sic><corr>pineapple</corr></choice></term> <unclear cert="high">road edging</unclear> at the <placeName><region>Cape</region></placeName>
 </note></add>
 <lb/>brought by a <term type="occupation">missionary</term>
 <lb/>The <term type="occupation">missionaries</term> are
 <lb/>all dead but the
-<lb/><term type="foodstuff">coffee</term> has spread over
+<lb/><term type="plant_foodstuff">coffee</term> has spread over
 <lb/>the whole country - new
 <lb/>plantations of it are
 <lb/>discovered daily and

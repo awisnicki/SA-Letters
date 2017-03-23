@@ -67,7 +67,7 @@
         <profileDesc>
             <langUsage>
                 <language ident="en">English</language>
-				
+				<language ident="und">Undetermined</language>
             </langUsage>
         </profileDesc>
         <revisionDesc>
@@ -99,14 +99,14 @@
 <lb/>of pride in offering to do what they <w>them-
 <lb break="no"/>-selves</w> desired but could never accomplish
 <lb/>I have got two plants - one like but I think
-<lb/>superior to <term type="plant"><unclear cert="medium">Ifi</unclear></term> the succulent part can
+<lb/>superior to <term type="plant"><unclear cert="medium"><foreign xml:lang="und">Ifi</foreign></unclear></term> the succulent part can
 <lb/>be knocked off at once leaving fibres
 <lb/>which when tries their strength seem
 <lb/>as if they could cut the fingers - it can
 <lb/>be made into fine thread and is a kind
 <lb/>of thornless aloes. Here they name it
-<lb/><term type="plant">Congé or Konjé</term> - Another named
-<lb/><term type="plant">Buanze</term> is very good strong lint.</p>
+<lb/><term type="plant"><foreign xml:lang="und">Congé</foreign> or <foreign xml:lang="und">Konjé</foreign></term> - Another named
+<lb/><term type="plant">Buaze</term> is very good strong lint.</p>
 
 <cb rend="vertical"/>
 <ab>

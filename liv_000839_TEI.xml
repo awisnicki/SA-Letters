@@ -482,7 +482,7 @@
 <lb/>being arranged along the centre of the table
 <lb/>full of milk- When you meet a <foreign xml:lang="pt"><term type="occupation">Carregadore</term></foreign><!-- Carregadore is a shipper. MB --> 
 <lb/>with one in full view of the sun, you
-<lb/>may be sure of a <term type="nationality">Portuguese></term> being in his <w>reas<gap extent="1" unit="chars"/></w> <add place="below">to be continued.</add></p>
+<lb/>may be sure of a <term type="person">Portuguese</term> being in his <w>reas<gap extent="1" unit="chars"/></w> <add place="below">to be continued.</add></p>
 
     </div>
 
@@ -583,7 +583,7 @@
 <lb/>leaving for <placeName><settlement type="village">Quilimane</settlement></placeName></hi>. I hope <persName>M<hi rend="sup">r</hi>
 <lb/><choice><abbr>P.</abbr><expan>Pires</expan></choice></persName> sent you two good <term type="plant">wild vines</term>
 <lb/>he has enough of garden ones<!-- term: plant? MB --><!-- Leave as is. AW --> too &amp;
-<lb/>fine young <term type="plant">fig trees</term>. There is one here
+<lb/>fine young <term type="plant"><term type="plant_foodstuff">fig</term> trees</term>. There is one here
 <lb/>from his establishment brought
 <lb/>by the new <term type="occupation"><choice><orig>chefe</orig><reg>chef</reg></choice></term> <!-- sic "cheif?" MB --><!-- I think it's chef. AW --> &amp; already laden with
 <lb/><term type="plant_foodstuff">figs</term>. <space extent="2" unit="chars"/>This gentleman kindly invited me
@@ -612,7 +612,7 @@
 <lb/>plants</term> with it as well. <term type="plant_foodstuff">Guavas</term>
 <lb/>they grow wild along the rivers
 <lb/>here. <space extent="2" unit="chars"/><foreign xml:lang="pt"><term type="plant_foodstuff">Fruita da Coude</term></foreign>. <term type="plant_foodstuff">Jambos</term>
-<lb/><term type="plant_foodstuff">Bananas</term>. <term type="plant_foodstuff">Ananas</term>. and <term type="plant_foodstuff">orange
+<lb/><term type="plant_foodstuff">Bananas</term>. <term type="plant_foodstuff">Ananas</term>. and <term type="plant"><term type="plant_foodstuff">orange</term>
 <lb/>trees</term> even but here nearly <measure>300
 <lb/>miles</measure> inland Has it spread thus
 
@@ -669,7 +669,7 @@
 <lb/><term type="plant">Asclepia</term> abound - one blood red - another
 <lb/>blue with white <w>s<del>r</del><add place="over-text">t</add>amens</w>- and a third
 <lb/>covers the country with flowers about
-<lb/>3 inches long and like a <term type="plant">convoloulus</term>
+<lb/>3 inches long and like a <term type="plant_foodstuff">convoloulus</term>
 <lb/>It is pure white with a blush of red
 <lb/>in the interior - unfortunately not in 
 <lb/>seed now - <space extent="2" unit="chars"/>There is a little shrub which

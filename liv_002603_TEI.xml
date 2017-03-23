@@ -243,7 +243,7 @@
 <lb/><choice><sic>a</sic><corr/></choice> <add place="above" rend="gray" hand="#U"><unclear>Nis</unclear></add> syllable <add place="above"><del type="strikethrough">(3)</del> (4)</add> calculated to press down either
 <lb/>class more deeply in the mire in which
 <lb/>they are already sunk - But I wish to point
-<lb/>and that these are not typical <term type="people">Africans</term>
+<lb/>and that these are not typical <orgName>Africans</orgName>
 <lb/><add place="below">^</add> <add place="above">any more than typical <term type="people">Englishmen</term> -</add> and that the <orgName>natives</orgName> of nearly all the
 <lb/>high lands of the <placeName><region>Interior of the <placeName><bloc>Continent</bloc></placeName></region></placeName>
 <lb/>are as a rule fair average specimens
@@ -261,7 +261,7 @@
 <lb/>himself had been a sort of <persName>Napoleon</persName>
 <lb/>for fighting and conquering in his
 <lb/>younger days, was exactly like the
-<lb/><term type="people">ancient Assyrians</term> sculptured on
+<lb/><orgName>ancient Assyrians</orgName> sculptured on
 <lb/>the <placeName><settlement type="city">Ninevah</settlement></placeName> <!-- Adrian, Nineveh misspell DL or transcription? HB --> marbles as <persName><choice><sic>Nimroad</sic><corr>Nimrod</corr></choice></persName><!-- I strongly suspect this is a reference to Nimrod, who is credited with building Ninevah. JM-->
 <lb/>and others - and he <choice><orig>shewed</orig><reg>showed</reg></choice> himself
 <lb/>to be one of ourselves by habitually
@@ -270,7 +270,7 @@
 <lb/>what <persName>Nathaniel Hawthorne</persName> called
 <lb/>"bulbous" below the ribs - I <choice><sic>dont</sic><corr>don't</corr></choice> know
 <lb/>where the phrase "bloated Aristocracy"
-<lb/>arose - It must be <term type="nationality">American</term>, for I
+<lb/>arose - It must be <term type="nationlity">American</term>, for I
 <lb/>have had glimples of a good many <!-- Again, misspell of glimpses DL or transcription? HB -->
 <lb/><term type="nationality">English</term> noblemen, and <persName>Insama</persName> was
 <lb/>the only specimen of a bloated <w>Aristo-
@@ -300,7 +300,7 @@
 <lb/>fine warm brown skins - Tattooing various
 <lb/>pretty devices without colours that besides
 <lb/>purposes of beauty serve the Heraldic
-<lb/>uses of our <term type="people"><placeName><region>Highland</region></placeName> Tartons</term> - They are <!-- Tartans misspell DL or trsc? HB -->
+<lb/>uses of our <orgName><placeName><region>Highland</region></placeName> Tartons</orgName> - They are <!-- Tartans misspell DL or trsc? HB -->
 <lb/>not black but of a light warm brown
 <lb/>colour and so very <hi rend="underline">sisterish</hi>, if I may
 <lb/>use the new coinage, it feels an injury
@@ -854,16 +854,16 @@
 <lb/><term type="plant_foodstuff">maize</term> is so abundant that I have <retrace>seen</retrace> <!-- I think he just rewrote 'seen' over 'seen.' EM --> <w>forty
 <lb break="no"/>-five</w> loads each about 60 lbs given for a
 <lb/>single <term type="animal">goat</term> - The <term type="plant_foodstuff">maize</term> = "<term type="plant_foodstuff">dura</term>" or <hi rend="underline"><term type="plant_foodstuff">hokus
-<lb/>soyhum</term> - <term type="foodstuff">Pennisetum</term></hi> -<!-- Unsure about this. EM --><!-- Fixed. AW --> <term type="plant_foodstuff">Cassava</term>
+<lb/>sorghum</term> - <term type="foodstuff">Pennisetum</term></hi> -<!-- Unsure about this. EM --><!-- Fixed. AW --> <term type="foodstuff">Cassava</term>
 
 	<pb facs="liv_002603_0036" n="0036"/>
 <!-- Blank Page. EM -->
 
 	<pb facs="liv_002603_0037" n="0037"/>
-<lb/><term type="plant_foodstuff">sweet potatoes</term> (19th) <term type="foodstuff">yams</term> furnish in no
+<lb/><term type="foodstuff">sweet potatoes</term> (19th) <term type="foodstuff">yams</term> furnish in no
 <lb/>stinted measure the farinaceous ingredients
-<lb/>of diet - The <add place="above" rend="gray" hand="#U"><gap extent="1" unit="words" agent="illegible"/></add><!-- Not sure what this is. EM --><!-- Fixed. AW --> <term type="foodstuff"><term type="plant">palm</term> oil</term> - The <term type="plant_foodstuff">ground nuts</term> and
-<lb/>a forest <term type="plant">tree</term> <add place="below" rend="gray" hand="#U">^</add> <add place="above" rend="gray" hand="#U">afford</add> the fatty materials of food - The
+<lb/>of diet - The <add place="above" rend="gray" hand="#U"><gap extent="1" unit="words" agent="illegible"/></add><!-- Not sure what this is. EM --><!-- Fixed. AW --> <term type="foodstuff"><term type="plant">palm</term> oil</term> - The <term type="foodstuff">ground nuts</term> and
+<lb/>a forest tree <add place="below" rend="gray" hand="#U">^</add> <add place="above" rend="gray" hand="#U">afford</add> the fatty materials of food - The
 <lb/><term type="plant_foodstuff">bananas</term> &amp; <term type="plant_foodstuff">plaintains</term> in great profusion
 <lb/>and the <term type="plant_foodstuff">sugar cane</term> the saccharine - the
 <lb/><term type="foodstuff"><term type="plant">Palm</term> toddy</term> - <term type="foodstuff">beer of <term type="plant_foodstuff">bananas</term></term> - <term type="plant">Tobacco</term>
@@ -917,7 +917,7 @@
 <lb/>far in order to have something to sell - Markets
 <lb/>are established about <measure>10 or 15 miles apart</measure>
 <lb/>there those who <add place="below" rend="gray" hand="#U">^</add> <add place="above" rend="gray" hand="#U">raise</add> <term type="plant_foodstuff">cassava</term> - <term type="plant_foodstuff">maize</term> - <term type="plant_foodstuff">grain</term>
-<lb/><term type="plant_foodstuff">sweet potatoes</term> exchange them for <term type="foodstuff">oil</term> <term type="foodstuff">salt</term> &amp; <term type="foodstuff">pepper</term>
+<lb/><term type="plant_foodstuff">sweet potatoes</term> exchange them for <term type="foodstuff">oil</term> <term type="foodstuff">salt</term> &amp; <term type="plant_foodstuff">pepper</term>
 <lb/><term type="animal_foodstuff">fish</term> and other <term type="foodstuff">relishes</term> - From <term type="animal">fowls</term>, <add place="below" rend="gray" hand="#U">^</add> <add place="above" rend="gray" hand="#U">also</add> <term type="animal">pigs</term> <term type="animal">goats</term>
 <lb/>grass cloth mats and other articles change
 <lb/>hands - All are dressed in their best - gaudy

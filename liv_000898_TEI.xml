@@ -220,8 +220,8 @@
 
 	<pb facs="liv_000898_0004" n="0004"/>
 <lb/>bottle before it was half finished. <w><del>I</del><add place="over-text">Y</add>ou</w> may guess
-<lb/>I was sufficiently irate, but in revenge took <term type="foodstuff">curry
-<lb/>powder</term> when I got a fowl and that did as well-
+<lb/>I was sufficiently irate, but in revenge took <term type="plant_foodstuff">curry
+<lb/>powder</term> when I got a <term type="animal_foodstuff">fowl</term> and that did as well-
 <lb/>Query. Would going up the centre of the continent
 <lb/><add place="above">East of <placeName><settlement type="village"><persName>Matiamvo</persName></settlement></placeName></add><!-- Not sure what this is -EM --><!-- Fixed. AW -->
 <lb/>and besides preaching good will to man 
