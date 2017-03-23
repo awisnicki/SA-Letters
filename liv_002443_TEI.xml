@@ -219,7 +219,7 @@
 <lb break="no"/>-ner</w> only - when I hear more
 <lb/>I shall let you have it <space extent="1" unit="chars"/>This
 <lb/>goes by a new company started
-<lb/>by <term type="nationality">American</term>'s "Stearns Hobart <unclear>&amp;c</unclear>"
+<lb/>by <term type="people"><choice><sic>American's</sic><corr>Americans</corr></choice></term> "Stearns Hobart <unclear>&amp;c</unclear>"
 <lb/>who send <term type="plant">cotton</term> by the overland 
 <lb/>route &amp; charge <unclear cert="medium">only</unclear><!-- There is a white smudge here EM--> £60 <add place="below">^</add> <add place="above">passage money</add> from this
 <lb/>to <placeName><settlement type="city">Liverpool</settlement></placeName> - I am living with

@@ -209,7 +209,7 @@
 <lb/>Daguerreotype got the glass broken and misfortunately
 <lb/>is spoiling by contact of the air - Hope they can
 <lb/>restore them in <placeName><settlement type="city">London</settlement></placeName>. Hallo, did I tell you
-<lb/>about the <term type="foodstuff"><term type="medicament"><choice><orig>Kognak</orig><reg>aguardiente</reg></choice></term></term>.<!-- medicament or foodstuff? MB --><!-- Both. AW --> We are not <term type="nationality">Frenchmen</term> in our
+<lb/>about the <term type="foodstuff"><term type="medicament"><choice><orig>Kognak</orig><reg>aguardiente</reg></choice></term></term>.<!-- medicament or foodstuff? MB --><!-- Both. AW --> We are not <term type="people">Frenchmen</term> in our
 <lb/>orthography. <space extent="1" unit="chars"/>I recovered very slowly from a very
 <lb/>severe <term type="ailment">fever</term> which began near the <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName>, and
 <lb/>after a month or two thought of the brandy. Taking
@@ -243,7 +243,7 @@
 <lb/>to them wonderful goodness.</p>
 <lb/><p>I have written <persName><term type="occupation">Colonel</term> Steel</persName> with a trembling
 <lb/>heart - <persName>Lord Raylan</persName> and the other <term type="occupation">secretary</term> &amp; <term type="occupation">Escourt</term><!-- unclear if this is a person or occupation. MB -->
-<lb/>gone. This sad news I saw in a <term type="nationality">French</term> paper
+<lb/>gone. This sad news I saw in a <bibl><term type="nationality">French</term> paper</bibl>
 <lb/>here - Yet those that perish thus are serving
 <lb/>the same Master we do. It is not <term type="occupation">missionaries</term>
 <lb/><add place="below">^</add> <add place="above">&amp; <term type="occupation">ministers</term></add> alone who promote His cause. Every one who

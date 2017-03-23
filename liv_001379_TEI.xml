@@ -105,7 +105,7 @@
 <cb rend="vertical"/>
 <ab>
 <lb/>You ought to make old <persName>Jose Laurenco Marques</persName> 
-<lb/>the <term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> - Write care of <persName>Admiral Grey</persName>
+<lb/>the <term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> - Write care of <persName><term type="occupation">Admiral</term> Grey</persName>
 <lb/>no excuse now you know
 </ab> 
 
@@ -249,7 +249,7 @@
 <lb/><p>We get a ton and a half of coals
 <lb/>at <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> the first even taken out of 
 <lb/>the ground in this country and it is
-<lb/>very good coal too more like the <term type="nationality">Welsh</term>
+<lb/>very good coal too more like the <term type="people">Welsh</term>
 <lb/>than any other though what we got had
 <lb/>been exposed to the floods of the
 <lb/><placeName><geogName type="stream">Muatize</geogName></placeName> for ages - With abundance of
@@ -289,7 +289,7 @@
 <lb/>them you will won the <choice><sic><persName>Prince Consort</persName>s</sic><corr><persName>Prince Consort</persName>'s</corr></choice> heart - From what I have
 <lb/>seen and heard I am become so 
 <lb/>bigotted that I prefer an <term type="person">Englishman</term>
-<lb/><supplied cert="high">out</supplied> &amp; out to any one of the <term type="nationality"><choice><abbr>Wel</abbr><expan>Welsh</expan></choice></term>
+<lb/><supplied cert="high">out</supplied> &amp; out to any one of the <term type="people"><choice><abbr>Wel</abbr><expan>Welsh</expan></choice></term>
 
 	<pb facs="liv_001379_0008" n="0008"/>
 <lb/>I think <placeName><country>England</country></placeName> ought to buy <placeName><country>Angola</country></placeName>
