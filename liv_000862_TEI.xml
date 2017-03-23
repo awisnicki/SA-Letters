@@ -72,7 +72,7 @@
         <profileDesc>
             <langUsage>
                 <language ident="en">English</language>
-				
+				<language ident="pt">Portuguese</language>
             </langUsage>
         </profileDesc>
         <revisionDesc>
@@ -176,7 +176,7 @@
 <lb/>I felt it to <add place="below">^</add> <add place="above">be</add> my duty to expose the <orgName>slave</orgName> <!-- Slave-making an occupation? MB --><!-- OK. AW -->
 <lb/>making deeds of the <orgName>Boers</orgName> in a <bibl>letter</bibl> to
 <lb/><orgName>Government</orgName> and when it appeared in
-<lb/>the <bibl>Blue book</bibl> the tale carried to the <placeName><region>Cape</region></placeName><!-- region? MB --><!-- OK. AW -->
+<lb/>the <bibl>Blue <choice><orig>book</orig><reg>Book</reg></choice></bibl> the tale carried to the <placeName><region>Cape</region></placeName><!-- region? MB --><!-- OK. AW -->
 <lb/>was published although it was well
 <lb/>known I could not possibly answer
 <lb/>it or even know of it till months or
@@ -199,7 +199,7 @@
 
 	<pb facs="liv_000862_0004" n="0004"/>
 <lb/>nothing but the notoriety of publication
-<lb/><unclear cert="high">in</unclear> the <bibl>blue book</bibl>. The <term type="occupation"><choice><abbr>Gov<hi rend="sup">r</hi></abbr><expan>Governor</expan></choice></term> of the <placeName><region>Cape</region></placeName><!-- region? MB --><!-- OK. AW --> is
+<lb/><unclear cert="high">in</unclear> the <bibl><choice><orig>blue</orig><reg>Blue</reg></choice> <choice><orig>book</orig><reg>Book</reg></choice></bibl>. The <term type="occupation"><choice><abbr>Gov<hi rend="sup">r</hi></abbr><expan>Governor</expan></choice></term> of the <placeName><region>Cape</region></placeName><!-- region? MB --><!-- OK. AW --> is
 <lb/>bamboozled by the <term type="occupation">public servants</term> of <term type="nationality">Dutch</term>
 <lb/>extraction. <space extent="1" unit="chars"/><persName>Sir Harry Smith</persName> was attacked
 <lb/>by the rebel <orgName>Boers</orgName> at <placeName>Boomplaats</placeName> and <!-- Farm --><!-- OK. AW -->
@@ -265,7 +265,7 @@
 	<cb rend="vertical"/>
 	<ab>
 <lb/>The slip about berry wax might be published
-<lb/>in the <bibl>Boletin</bibl> <!-- tag berry wax? MB -->
+<lb/>in the <bibl><foreign xml:lang="pt">Boletin</foreign></bibl> <!-- tag berry wax? MB -->
 	</ab>
 
 	<pb facs="liv_000862_0006" n="0006"/>

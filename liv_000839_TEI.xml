@@ -249,7 +249,7 @@
 <lb/>I must write his biography and get
 <lb/>the <term type="occupation">Poet</term> Laureate <persName>Tennyson</persName> *<anchor xml:id="marginadd-2"/><!-- There is an x here, functioning as an asterisk, drawing attention to the vertical note in the left-hand margin. JM --> to make
     
-<cb rend="vertical"/><!-- The corresponding x is located in the left-margin, prececing the following note. JM --><add place="marginleft" corresp="#marginadd-2">or the author of <bibl>Dido Pigmen</bibl>, <persName>Arsenio</persName></add> <!-- A Portuguese book published in 1853. JM -->
+<cb rend="vertical"/><!-- The corresponding x is located in the left-margin, prececing the following note. JM --><add place="marginleft" corresp="#marginadd-2">or the author of <bibl><foreign xml:lang="pt">Dido Pigmen</foreign></bibl>, <persName>Arsenio</persName></add> <!-- A Portuguese book published in 1853. JM -->
 
 <lb/>an epitaph for him.</p> <!-- Adrian, not sure if the biography and epitaph were written, but if so they should be tagged as bibls. HB -->
 <lb/><p>Among notices which I have seen
@@ -921,7 +921,7 @@
 <lb/><p><add place="above">A. 1.<!-- There are two lines that run between these two characters. --><!-- Rust from a paperclip. AW --></add> The <bibl>Mail</bibl> from <add place="above" rend="gray" hand="#U1"><metamark/><!-- A circle is drawn around the number -->3</add> <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> came <add place="above" rend="gray" hand="#U2"><date when="1855-01-23"><choice><abbr>Jan</abbr><expan>January</expan></choice> 23 <add place="below">?</add> <!-- Not sure what this middle character is. EM --><!-- Fixed. AW --> 1855</date></add> in <date when="1855-01-23">today
 <lb/>23<hi rend="sup underline">d</hi> <choice><abbr>Jany.</abbr><expan>January</expan></choice></date> but of course contained nothing
 <lb/>for me - yours by next is my blue
-<lb/>Peter<!-- Not sure if this is a person or...? EM --><!-- Not sure what it is. AW --> - The <bibl>Boletin</bibl> contains what our
+<lb/>Peter<!-- Not sure if this is a person or...? EM --><!-- Not sure what it is. AW --> - The <bibl><foreign xml:lang="pt">Boletin</foreign></bibl> contains what our
 <lb/>folks here consider grand news. <placeName><settlement>Ambriz</settlement></placeName>
 <lb/>a <placeName><settlement><term type="nationality">Portuguese</term> Colony</settlement></placeName>! I have not seen
 <lb/><bibl>the paper</bibl> but it is described as
