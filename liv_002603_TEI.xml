@@ -140,7 +140,7 @@
 <lb/>to fall back on afterwards I agreed to go <add place="below">^</add> <add place="above">myself</add> and I
 <lb/>was encouraged by <persName>Sir Roderick</persName> saying in
 <lb/>his warm jovial manner "you will be
-<lb/>the real <term type="occupation">discoverer</term> of the <placeName><geogName type="source">sources of the <placeName><geogName type="river">Nile</geogName></placeName></geogName></placeName> -"
+<lb/>the real discoverer of the <placeName><geogName type="source">sources of the <placeName><geogName type="river">Nile</geogName></placeName></geogName></placeName> -"
 <lb/>I thought that two years would be sufficient
 <lb/>to go from <placeName><region>the coast</region></placeName> in land across the head
 <lb/>of <placeName><geogName type="lake">Lake <choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName> to the <placeName><geogName type="watershed">Watershed</geogName></placeName> wherever
@@ -590,7 +590,7 @@
 <lb/>the <orgName>slaves</orgName> sent to me instead of men
 <lb/>forced me to my great grief to
 <lb/>leave as the "<placeName><geogName type="lake">unknown Lake</geogName></placeName>" - By
-<lb/>my reckoning - the <term type="occupation">chronometers</term>
+<lb/>my reckoning - the chronometers
 <lb/>being all dead - it is <measure>five degrees of
 <lb/>Longitude West</measure> of <choice><sic><persName>Speke</persName>s</sic><corr><persName>Speke</persName>'s</corr></choice> position
 <lb/>of <placeName><settlement type="village">Ujiji</settlement></placeName> This makes it probable
@@ -968,7 +968,7 @@
 <lb/>write - It is the <orgName>Banians</orgName> our protected
 <lb/><orgName><term type="nationality">Indian</term> fellow subjects</orgName> that indirectly
 <lb/>do it all - We have conceded to the
-<lb/><term type="occupation">Sultan of <placeName><geogName type="island">Zanzibar</geogName></placeName></term> the night, which at
+<lb/><persName><term type="occupation">Sultan of <placeName><geogName type="island">Zanzibar</geogName></placeName></term></persName> the night, which at
 <lb/>was <add place="below">^</add> <add place="above">not</add> own to give, of a certain amount
 <lb/>of <orgName>slave trading</orgName> and that amount
 <lb/>has been from 12,000 to 20,000 a year
@@ -979,7 +979,7 @@
 <lb/>instead of <add place="below">^</add> <add place="above">taking</add> headmoney, declare that
 <lb/>all were free as soon as they reached
 <lb/>his territory - But the <orgName>Banians</orgName> have the
-<lb/><orgName><choice><sic>custom</sic><corr>Custom</corr></choice> House</orgName> and all the <term type="occupation">Sultan</term>'s
+<lb/><orgName><choice><sic>custom</sic><corr>Custom</corr></choice> House</orgName> and all the <persName><term type="occupation">Sultan</term></persName>'s
 
 	<pb facs="liv_002603_0042" n="0042"/>
 <!-- Blank Page. EM -->
@@ -996,11 +996,11 @@
 <lb/>it their atrocious system of <orgName>slaving</orgName> will
 <lb/>never cease = For the sake of lawful
 <lb/>commerce it would be politic to insist
-<lb/>that <term type="occupation">Sultan</term>'s Revenue by the <orgName>Custom
+<lb/>that <persName><term type="occupation">Sultan</term></persName>'s Revenue by the <orgName>Custom
 <lb/>House</orgName> should be placed in the hands
-<lb/>of an <term type="occupation"><term type="nationality">English</term> or <term type="nationality">American</term> merchant</term>
+<lb/>of an <term type="occupation"><term type="nationality">English</term></term> or <term type="occupation"><term type="nationality">American</term> merchant</term>
 <lb/>of known <w><gap extent="2" unit="chars"/><supplied cert="high">re</supplied>put<gap extent="2" unit="chars"/><supplied cert="high">at</supplied>ion</w> and <w>uprightn<gap extent="3" unit="chars"/><supplied cert="high">ess</supplied></w>
-<lb/>By this arrangement the <term type="occupation">Sultan</term>
+<lb/>By this arrangement the <persName><term type="occupation">Sultan</term></persName>
 <lb/>would be largely benefitted - Legal
 <lb/>commerce would be exalted to a position -
 <lb/>it has never held since <orgName>Banians</orgName>

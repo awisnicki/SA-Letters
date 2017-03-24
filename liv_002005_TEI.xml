@@ -257,8 +257,8 @@
 <lb/>We are now getting a
 <lb/>yard &amp; square<gap extent="1" unit="chars" agent="overwriting"/> sail to
 <lb/>help us -</p>
-<lb/><p>The <term type="occupation">Governor <w>Gener<supplied>-</supplied>
-<lb break="no"/>-al</w></term> went off to the
+<lb/><p>The <persName><term type="occupation">Governor <w>Gener<supplied>-</supplied>
+<lb break="no"/>-al</w></term></persName> went off to the
 <lb/><placeName><region>Cape</region></placeName> in ill health two
 <lb/>days ago - poor fellow
 <lb/>He is red hot against
@@ -278,8 +278,8 @@
 <lb/>as the very antipodes
 <lb/>of what he professed
 <lb/>himself to be to the cruizer's
-<lb/>the late <term type="occupation">Governor</term> of
-<lb/><placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg> </choice></settlement></placeName> died 20 
+<lb/>the late <persName><term type="occupation">Governor</term> of
+<lb/><placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName></persName> died 20 
 <lb/>days after landing in 
 <lb/><placeName><settlement type="city">Lisbon</settlement></placeName> - <persName><term type="occupation">Bishop</term> Tozer</persName>
 <lb/>was at <placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg> </choice></settlement></placeName> when

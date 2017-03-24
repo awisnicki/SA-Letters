@@ -174,8 +174,8 @@
 <lb/>I am <choice><sic>consderably</sic><corr>considerably</corr></choice> poorer than when
 <lb/>I landed on its shores 16 years ago.
 <lb/>you need expect nothing from me
-<lb/>then, but the present <term type="occupation">Governor</term> of 
-<lb/><placeName><settlement type="village">Tete</settlement><!-- Is Tete a city or a village? MB --></placeName>, <persName><term type="occupation">Mayor</term> Augusto d' Araujo
+<lb/>then, but the present <persName><term type="occupation">Governor</term> of 
+<lb/><placeName><settlement type="village">Tete</settlement><!-- Is Tete a city or a village? MB --></placeName></persName>, <persName><term type="occupation">Mayor</term> Augusto d' Araujo
 <lb/>Secard</persName>, will very gladly collect or
 <lb/>cause to be collected - <del><gap extent="2" unit="chars"/></del> the <term type="plant_foodstuff">seeds of 
 <lb/>all the edible fruits</term> in this vicinity

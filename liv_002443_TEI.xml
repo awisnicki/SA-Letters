@@ -97,12 +97,12 @@
 <lb/>The <term type="occupation">curator</term> of the <placeName>Botanical <choice><sic>garden</sic><corr>Garden</corr></choice>
 <lb/>and Museum</placeName> here told me <w>yester-<!-- dash at the end of this line? MB --><!-- Fixed. AW -->
 <lb break="no"/>day</w> that he would recommend
-<lb/>you to the <term type="occupation">Governor</term> as a fit
+<lb/>you to the <persName><term type="occupation">Governor</term></persName> as a fit
 <lb/>person to occupy his place - He
 <lb/>was at college with you but did
 <lb/>not know you otherwise than by
 <lb/>sight - As it is likely from what
-<lb/>I said to the <term type="occupation">Governor</term> that you
+<lb/>I said to the <persName><term type="occupation">Governor</term></persName> that you
 <lb/>may get an offer I shall try to
 <lb/>give you as clear an idea of the
 <lb/>affair as possible - The salary is
@@ -156,8 +156,8 @@
 <lb/>as you are a lady killer you might
 <lb/>be successful in the matrimonial
 <lb/>line there - Fruit &amp; vegetables you
-<lb/>would have free - The medical
-<lb/><term type="occupation">professor</term> does not stand high</p>
+<lb/>would have free - The <term type="occupation">medical
+<lb/>professor</term> does not stand high</p>
 
 <cb rend="vertical"/>
 	<ab><!-- follows from vertical passage on page 1 -->
@@ -171,14 +171,14 @@
 <lb/>his time more to literary pursuits
 <lb/>than practice, hence &amp; guess his duties
 <lb/>do not occupy a large portion of
-<lb/>his time - He is <term type="occupation"><choice><abbr>Gov</abbr><expan>Governor</expan></choice> Secretary</term> to the
-<lb/><orgName><placeName><settlement type="city">Bombay</settlement></placeName> Asiatic <choice><sic>society</sic><corr>Society</corr></choice></orgName> &amp; something
+<lb/>his time - He is <persName><term type="occupation"><choice><abbr>Gov</abbr><expan>Governor</expan></choice> Secretary</term> to the
+<lb/><orgName><placeName><settlement type="city">Bombay</settlement></placeName> Asiatic <choice><sic>society</sic><corr>Society</corr></choice></orgName></persName> &amp; something
 <lb/>else which bring honour &amp; bother
 <lb/>only - My impression is that if
 <lb/>nothing better has turned up yet
 <lb/>and the offer comes you might
 <lb/>accept it as a step in the right
-<lb/>direction - If employed the <term type="occupation">Governor</term>
+<lb/>direction - If employed the <persName><term type="occupation">Governor</term></persName>
 <lb/>would provide for you elsewhere
 <lb/>in the event of <persName>Birdwood</persName> resuming
 <lb/>his duties - He gave his private
@@ -230,7 +230,7 @@
 <lb/>my men are ready - I am not
 <lb/>to wait for a man of war but go
 <lb/>in one of <unclear cert="medium">Sherow</unclear> <choice><sic><persName>Osborne</persName>s</sic><corr><persName>Osborne</persName>'s</corr></choice><!-- Way to correct this while omitting the apostrophe --><!-- Fixed. AW --> fleet
-<lb/>called Mule a present <unclear cert="low">of</unclear> the <term type="occupation">Sultan</term>
+<lb/>called Mule a present <unclear cert="low">of</unclear> the <persName><term type="occupation">Sultan</term></persName>
 <lb/>of <placeName><geogName type="island">Zanzibar</geogName></placeName><!-- or country? MB --> - <persName>Seward</persName> is acting
 <lb/>there - no appointment has been
 <lb/>made</p> <closer>Affectionably yours

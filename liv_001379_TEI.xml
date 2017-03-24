@@ -105,7 +105,7 @@
 <cb rend="vertical"/>
 <ab>
 <lb/>You ought to make old <persName>Jose Laurenco Marques</persName> 
-<lb/>the <term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> - Write care of <persName><term type="occupation">Admiral</term> Grey</persName>
+<lb/>the <persName><term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName></persName> - Write care of <persName><term type="occupation">Admiral</term> Grey</persName>
 <lb/>no excuse now you know
 </ab> 
 
@@ -120,7 +120,7 @@
 <lb/><term type="occupation">commander</term>'s full pay £600 -
 <lb/>and felt that I had an able
 <lb/><term type="occupation">coadjutor</term> <space extent="1" unit="chars"/>But he quarreled with
-<lb/>the <term type="occupation">commander</term> of the Pearl and
+<lb/>the <persName><term type="occupation">commander</term> of the Pearl</persName> and
 <lb/>on public altercation <choice><abbr>N<hi rend="sup underline">o</hi></abbr><expan>Number</expan></choice> 4 taking 
 <lb/>place I said - (Having previously
 <lb/>remonstrated in private) <persName><choice><abbr>C. B.</abbr><expan cert="high">Commander Bedingfeld</expan></choice></persName> I must 
@@ -128,7 +128,7 @@
 <lb/>altercations - He resigned that night
 <lb/>and accused me of slighting him
 <lb/>injuring his professional reputation
-<lb/>by consulting the other <term type="occupation">Captain</term> more than
+<lb/>by consulting the other <persName><term type="occupation">Captain</term></persName> more than
 <lb/>him &amp;c &amp;c <space extent="2" unit="chars"/>I explained and assured him
 <lb/>it was an entire mistake and allowed
 <lb/>him to withdraw the letter. But he <w>wou<supplied>ld</supplied></w>
@@ -198,7 +198,7 @@
 <lb/>but could not honestly do it - as
 <lb/>you will have heard from 
 <lb/><placeName><country>Sierra Leone</country></placeName> <space extent="1" unit="chars"/>I have got the 
-<lb/>enclosure from the <term type="occupation"><persName>Bishop</persName></term>
+<lb/>enclosure from the <persName><term type="occupation">Bishop</term></persName>
 <lb/>all right -</p>
 
 	<pb facs="liv_001379_0005" n="0005"/>

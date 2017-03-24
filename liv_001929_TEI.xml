@@ -110,8 +110,8 @@
 <lb/>to <choice><abbr>M.</abbr><expan>Majesty's</expan></choice> Government
 <lb/>a thing fully expected
 <lb/>when we found
-<lb/>that the <term type="nationality">Portuguese</term>
-<lb/><term type="occupation">slave hunters</term> of 
+<lb/>that the <orgName><term type="nationality">Portuguese</term>
+<lb/><orgName><term type="occupation">slave hunters</term></orgName></orgName> of 
 <lb/><placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> 
 <lb/>aided by a drought
 <lb/>had completely
