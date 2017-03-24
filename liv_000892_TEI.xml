@@ -85,7 +85,7 @@
 <lb/><dateline><hi rend="right"><placeName><settlement type="village">Tete</settlement></placeName>, on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName></hi>
 <lb rend="right"/><placeName><region>East <bloc>Africa</bloc></region></placeName>
 <lb rend="right"/>His Excellency <persName>Jose R. <choice><abbr>C.</abbr><expan>Coelho</expan></choice> do Amaral</persName>, <date when="1856-03-25"/>25<hi rend="sup underline">th</hi> March 1856</dateline>
-<lb rend="right"/>The <persName><term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> and its Dependencies</persName>
+<lb rend="right"/>The <term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> and its Dependencies
 <lb rend="right"/><salute>May it please your excellency</salute>
     </opener>
                 
@@ -118,7 +118,7 @@
 <lb/>of people including some strangers, and
 <lb/>translations of the <bibl>letters</bibl> to <persName>Sekeletu</persName> read aloud
 <lb/>so as to make the matter as public as
-<lb/>possible. The <persName><term type="occupation">General</term></persName>'s dress, sword, sash,
+<lb/>possible. The <term type="occupation">General</term>'s dress, sword, sash,
 <lb/>epaulettes and cocked hat, were all exhibited
 <lb/>to the admiring gaze of the crowd. And the tail
 <lb/>of the <term type="animal">horse</term> which unfortunately died at
@@ -314,7 +314,7 @@
 
 			<div>
 <lb/><p>Reached <placeName><settlement type="village">Quilimane</settlement></placeName> on the <date when="1856-05-20"/>20<hi rend="sup">th</hi> May 1856
-<lb/>and forwarded this letter to the <persName><term type="occupation">Governor General</term></persName>
+<lb/>and forwarded this letter to the <term type="occupation">Governor General</term>
 <lb/>of <placeName><country><choice><sic>Mosambique</sic><corr>Mozambique</corr></choice></country></placeName> His Excellency <persName>Vasco Guedes
 <lb/>Carvalho e Menezes</persName> on <date when="1856-06-25"/>25<hi rend="sup">th</hi> June. <persName><choice><abbr>D.</abbr><expan>David</expan></choice> <choice><abbr>L.</abbr><expan>Livingstone</expan></choice></persName></p><!-- Postscript. AW -->
 

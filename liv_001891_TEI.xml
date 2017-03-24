@@ -138,7 +138,7 @@
 <lb/>our footsteps - and we are witnesses 
 <lb/><!-- Should I encode the damage in the left margin? MB --><!-- No. AW -->of its devastations - The <placeName><geogName type="valley">valley of the
 <lb/><placeName><geogName type="river">lower Shire</geogName></placeName></geogName></placeName> is nearly quite depopulated.
-<lb/>The <orgName><placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> people</orgName> backed by the <persName><term type="occupation">Governor</term></persName>,
+<lb/>The <orgName><placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> people</orgName> backed by the <term type="occupation">Governor</term>,
 <lb/>came across to the <placeName><geogName type="river">Shire</geogName></placeName> - instigated one
 <lb/>tribe to attack another, and <choice><sic>recieved</sic><corr>received</corr></choice> good
 <lb/>payment for the arms &amp; ammunition
@@ -160,26 +160,26 @@
 
 		<pb facs="liv_001891_0002" n="0002"/>
 <lb/>cowering among the reeds and striving to
-<lb/>maintain life by fishing and collecting
-<lb/>the seeds of certain grasses. Thirty two dead
+<lb/>maintain life by <term type="occupation">fishing</term> and <term type="occupation">collecting
+<lb/>the seeds of certain grasses</term>. Thirty two dead
 <lb/>bodies were counted as we ascended the
 <lb/>river, and this is a mere fragment of those
 <lb/>devoured by <term type="animal">alligators</term> or <!-- Unsure what this is, perhaps or? MB --><!-- Fixed. AW --> left unburied.
 <lb/>This <persName>Marianno</persName> was sentenced to three years
 <lb/>imprisonment for rebellion and murder,
-<lb/>but on returning became a guest of the <persName><term type="occupation">Governor
-<lb/>of <placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName></term></persName> till he "ran away" and <persName><term type="occupation">His
-<lb/>Excellency</term></persName><!-- Unsure if his Excellency and the governor are the same person; see below--> ran after him but of course could
+<lb/>but on returning became a guest of the <term type="occupation">Governor
+<lb/>of <placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName></term> till he "ran away" and <term type="occupation">His
+<lb/>Excellency</term><!-- Unsure if his Excellency and the governor are the same person; see below--> ran after him but of course could
 <lb/>not catch him. Supplies of arms &amp; ammunition
 <lb/>are sent from <placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName> regularly, and the
-<lb/><persName><term type="occupation">Governor</term></persName> complained to his <persName><term type="occupation">Excellency of
-<lb/><placeName><country><choice><sic>Mosambique</sic><corr>Mozambique</corr></choice></country></placeName></term></persName> that so many arms and 
+<lb/><term type="occupation">Governor</term> complained to his <term type="occupation">Excellency of
+<lb/><placeName><country><choice><sic>Mosambique</sic><corr>Mozambique</corr></choice></country></placeName></term> that so many arms and 
 <lb/>so much ammunition were introduced by 
 <lb/>the <placeName><geogName type="river">Kongone</geogName></placeName> <!-- unsure what this word is --><!-- Fixed. AW --> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> that the
 <lb/>commerce of the country was damaged.
 <lb/>The <placeName><geogName type="river">Kongone</geogName></placeName><!-- unsure what this word is --><!-- Fixed. AW --> is never used by any but 
 <lb/>ourselves, and the <orgName>Mission of the Universities</orgName>
-<lb/>The <persName><term type="occupation">Governor of <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName></term></persName> connives<!--not sure that this is right--> at and derives
+<lb/>The <term type="occupation">Governor of <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName></term> connives<!--not sure that this is right--> at and derives
 <lb/>profits from the <term type="occupation"><orgName>slave</orgName> hunting</term> on the <placeName><geogName type="river">Shire</geogName></placeName>.
 <lb/>When the <orgName>captives</orgName> reach that village the 
 <lb/>men are retained while the women and children

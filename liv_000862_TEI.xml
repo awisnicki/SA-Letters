@@ -149,9 +149,9 @@
 <lb/>to his dumbfounderment told him of our
 <lb/>relationship - He apologized but did not
 <lb/>forgo the pleasure of giving information
-<lb/>to the <orgName>Government</orgName>. (I had it from the <persName><term type="occupation">Attorney
-<lb/>General</term></persName> at the <placeName><region>Cape</region></placeName>) <!-- region? MB --><!-- OK. AW -->The <persName><term type="occupation">secretary of the <orgName>Missionary
-<lb/>Society</orgName></term></persName> &amp;c. &amp;c. &amp;c. <space extent="1" unit="chars"/>I prepared a statement
+<lb/>to the <orgName>Government</orgName>. (I had it from the <person><term type="occupation">Attorney
+<lb/>General</term></person> at the <placeName><region>Cape</region></placeName>) <!-- region? MB --><!-- OK. AW -->The <term type="occupation">secretary of the <orgName>Missionary
+<lb/>Society</orgName></term> &amp;c. &amp;c. &amp;c. <space extent="1" unit="chars"/>I prepared a statement
 <lb/>of the affair in case he should venture to
 <lb/>publish it after my departure - the <orgName>Boers</orgName>
 <lb/>plundered my house and carried off upwards
@@ -181,7 +181,7 @@
 <lb/>known I could not possibly answer
 <lb/>it or even know of it till months or
 <lb/>years have elapsed, but my statement was
-<lb/>published and <persName>the worthy <term type="occupation">doctor</term></persName> returned
+<lb/>published and the worthy <term type="occupation">doctor</term> returned
 <lb/><space extent="2" unit="chars"/>no answer - I enclose a piece of
 <lb/>newspaper which will give you an
 <lb/>idea of the affair - I have it appears become <!-- This transcription appears correct, but the sentence makes little sense. MB -->
@@ -199,7 +199,7 @@
 
 	<pb facs="liv_000862_0004" n="0004"/>
 <lb/>nothing but the notoriety of publication
-<lb/><unclear cert="high">in</unclear> the <bibl><choice><orig>blue</orig><reg>Blue</reg></choice> <choice><orig>book</orig><reg>Book</reg></choice></bibl>. The <persName><term type="occupation"><choice><abbr>Gov<hi rend="sup">r</hi></abbr><expan>Governor</expan></choice></term> of the <placeName><region>Cape</region></placeName></persName><!-- region? MB --><!-- OK. AW --> is
+<lb/><unclear cert="high">in</unclear> the <bibl><choice><orig>blue</orig><reg>Blue</reg></choice> <choice><orig>book</orig><reg>Book</reg></choice></bibl>. The <term type="occupation"><choice><abbr>Gov<hi rend="sup">r</hi></abbr><expan>Governor</expan></choice></term> of the <placeName><region>Cape</region></placeName><!-- region? MB --><!-- OK. AW --> is
 <lb/>bamboozled by the <term type="occupation">public servants</term> of <term type="nationality">Dutch</term>
 <lb/>extraction. <space extent="1" unit="chars"/><persName>Sir Harry Smith</persName> was attacked
 <lb/>by the rebel <orgName>Boers</orgName> at <placeName>Boomplaats</placeName> and <!-- Farm --><!-- OK. AW -->
@@ -208,14 +208,14 @@
 <lb/>two other <term type="occupation">officers</term> disabled. While performing
 <lb/>my duty among the <orgName>blacks</orgName> so soon after
 <lb/>the engagement I had not heard of it.
-<lb/>I met <persName>the worthy <term type="occupation">doctor</term></persName> above mentioned
+<lb/>I met the worthy <term type="occupation">doctor</term> above mentioned
 <lb/><hi rend="underline">in the house</hi> of a <orgName><choice><sic>boer</sic><corr>Boer</corr></choice></orgName> who returned with
 <lb/>two bullet holes in his clothing from the
 <lb/>murder of our <term type="occupation">soldiers</term>. This man had
 <lb/>a significant hint given him by <persName>Sir
 <lb/><abbr>H.</abbr><expan>Harry</expan> Smith</persName> in a <bibl>proclamation</bibl> but what <!-- proclamation tagged in bibl? MB --><!-- Yes. AW -->
-<lb/>could he think of it - the <orgName>underlings
-<lb/>of <term type="occupation"><choice><abbr>Gov<hi rend="sup">r</hi></abbr><expan>Governor</expan></choice></term></orgName> had actually lent the <orgName>clergyman</orgName>
+<lb/>could he think of it - the underlings
+<lb/>of <term type="occupation"><choice><abbr>Gov<hi rend="sup">r</hi></abbr><expan>Governor</expan></choice></term> had actually lent the <orgName>clergyman</orgName>
 <lb/>the <term type="occupation"><choice><abbr>Gov<hi rend="sup">r</hi></abbr><expan>Governor</expan></choice></term> waggon in which the <term type="occupation">Judges</term> go
 <lb/>on their circuit and here his reverence
 <lb/>was baptizing the children at so much

@@ -93,7 +93,7 @@
 <lb/>    
 <lb/><salute>My Dear M<hi rend="sup underline">r</hi> Gabriel</salute><!-- Change line info as appropriate -->
 <lb/><p rend="center">Herewith I send a <bibl>letter</bibl> to the
-<lb/><persName><term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName></persName> - a mere repitition of that
+<lb/><term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> - a mere repitition of that
 <lb/>sent from the <placeName><settlement type="village">town of <persName>Sekeletu</persName></settlement></placeName>, and another for
 <lb/>the merchants though addressed to <persName>M<hi rend="sup">r</hi> Schut</persName>, and
 <lb/>I hope I have now done my duty in the way of
@@ -121,13 +121,13 @@
 <lb/>sediment, yet in small quantity</term> - <term type="ailment">pain in the back</term>.<!-- encode this as ailment? MB -->
 <lb/>I suspect it is what you had when at home.
 <lb/>As <placeName><settlement type="village">Quilimane</settlement></placeName> is reported very deadly and the
-<lb/><persName><term type="occupation">Governor Mayor</term> <choice><abbr><choice><sic>T.AA</sic><corr>T.A.A.</corr></choice></abbr><expan>Tito Augosto d'Araujo</expan></choice><!-- Not sure what the expanded version might be -EM --><!-- Fixed. AW --> Secard</persName> kindly advised
+<lb/><term type="occupation">Governor Mayor</term> <persName><choice><abbr><choice><sic>T.AA</sic><corr>T.A.A.</corr></choice></abbr><expan>Tito Augosto d'Araujo</expan></choice><!-- Not sure what the expanded version might be -EM --><!-- Fixed. AW --> Secard</persName> kindly advised
 <lb/>me to remain with him till this month which
 <lb/>is more salubrious. I thought my duty to <unclear cert="high">accede</unclear></p>
 
 	<cb rend="vertical"/>
 	<ab>
-<lb/>I don't know whether I ought to have mentioned the <persName><term type="occupation">Bishop</term></persName> more pointedly
+<lb/>I don't know whether I ought to have mentioned the <term type="occupation">Bishop</term> more pointedly
 <lb/>Perhaps a verbal salutation will do, when you meet him. Please not to
 <lb/>forget kind salutations to our naval friends who may now be on the station
 	</ab>
@@ -135,7 +135,7 @@
 	<pb facs="liv_000898_0002" n="0002"/>
 <lb/><p>I have no anxiety about the men for food
 <lb/>is extremely abundant. The <term type="occupation">Mayor</term> is very liberal
-<lb/>and they work as briskly at wood bringing here as
+<lb/>and they work as briskly at <term type="occupation">wood bringing</term> here as
 <lb/>the others did at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> - I expect some too will be
 <lb/>employed as <term type="occupation">boatmen</term>, and I intend to leave as
 <lb/>soon as the new moon appears for the sake of
