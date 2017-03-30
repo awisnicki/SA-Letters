@@ -144,7 +144,7 @@
 
 
 <lb/><p>nor varied <add place="above" hand="#DL"><metamark function="insertion"/>The <term type="animal"><placeName><country>Senegal</country></placeName> long claw</term> however maintains its place
-    <lb/>and is the largest bird seen - We saw a <term type="animal">butcher bird</term>
+    <lb/>and is the largest bird seen - We saw a <term type="animal"><choice><orig>butcher bird</orig><reg>butcherbird</reg></choice></term>
     <lb/>in a trap as
     <lb/>we passed</add> <supplied cert="high">-</supplied>  <add place="below">There are</add> <choice><sic>Remarkably</sic><corr>remarkably</corr></choice> few small animals
 <lb/>they having been hunted almost to extinction few

@@ -220,7 +220,7 @@
 <lb/>flows before joining the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> - It is called <placeName><geogName type="river">Kahowhé</geogName></placeName>
 <lb/>and farther down the river <placeName><geogName type="river">Kafué</geogName></placeName> &amp; <placeName><geogName type="river">Kafurwé</geogName></placeName>.
 <lb/>Pursuing our course along the left bank we came among
-<lb/><term type="insect">Tsetse</term> and lost all our <term type="animal">oxen</term> except two untaught ones, so
+<lb/><term type="insect">Tsetse</term> and lost all our <term type="animal_foodstuff">oxen</term> except two untaught ones, so
 <lb/>I have to march on foot - the usual mode of travelling
 <lb/>is by canoes and there being no pathway boreing continually
 <lb/>through tangled thorny jungle is excesssively tedious -
@@ -288,7 +288,7 @@
 <lb/>they have been most liberal to both <orgName>my men</orgName> and self - indeed
 <lb/>had they been otherwise we should have starved for my
 <lb/><orgName>company</orgName> consists of 113 persons. The <term type="insect">Tsetse</term> has
-<lb/>been the barrier to their possession of <term type="animal">cattle</term> - yet should
+<lb/>been the barrier to their possession of <term type="animal_foodstuff">cattle</term> - yet should
 <lb/>the large game which now abounds, be exterminated,
 <lb/>I imagine the insect must cease to exist, for it
 <lb/>leaves a spot impregnated with effluvia from man -
@@ -304,7 +304,7 @@
 <lb/>of the real <orgName>Caffre</orgName> or <term type="tribe"><choice><orig>Zulah</orig><reg>Zulu</reg></choice></term> tribe - And firearms &amp;
 <lb/>gunpowder are now contraband all along the coast.
 <lb/>as at the <placeName><region>Cape</region></placeName>. The <term type="occupation">missionaries</term> <del type="strikethrough">too</del> have had no
-<lb/>hand in it here - neither has <term type="occupation"><choice><sic><term type="animal">cattle</term> stealing</sic><corr><term type="animal">cattle</term>-stealing</corr></choice></term> for there
+<lb/>hand in it here - neither has <term type="occupation"><choice><sic><term type="animal_foodstuff">cattle</term> stealing</sic><corr><term type="animal_foodstuff">cattle</term>-stealing</corr></choice></term> for there
 <lb/>were none to <term type="occupation">steal</term> - What else can we do now but
 <lb/>turn up the whites of our eyes and exclaim, "<orgName>Caffre</orgName>
 <lb/>wars are ordained by the immutable decrees of Heaven,

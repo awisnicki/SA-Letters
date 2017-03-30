@@ -210,7 +210,7 @@
 <lb break="no"/>justice</w> <add place="below">^</add> <add place="above">to</add> the main body of the population
 <lb/>living free in <placeName><region>the interior</region></placeName> under their own
 <lb/><term type="occupation">chiefs</term> and laws - cultivating their own
-<lb/>farms - catching the <term type="animal">fish</term> of their own rivers
+<lb/>farms - catching the <term type="animal_foodstuff">fish</term> of their own rivers
 <lb/>or fighting bravely with the grand old
 <lb/><orgName>denizens</orgName> of the forests which in more
 <lb/>recent continents can only be reached in
@@ -784,7 +784,7 @@
 <lb/>greed - the <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName><!-- There have been variations of spelling and as to whether this is referring to tribes or a region. EM --><!-- Fixed. AW --> were found to be terrified
 <lb/>by the report of guns - some I know believed
 <lb/>them to be supernatural for when the effects
-<lb/>of a musket ball was <choice><orig>shewn</orig><reg>shown</reg></choice> on a <term type="animal">goat</term> they
+<lb/>of a musket ball was <choice><orig>shewn</orig><reg>shown</reg></choice> on a <term type="animal_foodstuff">goat</term> they
 <lb/>looked up to the clouds and offered to bring
 <lb/>ivory to buy the charm by which <seg type="weather">lightning</seg>
 <lb/>was drawn down - When a village was
@@ -853,7 +853,7 @@
 <lb/>three hundred and sixty measures -
 <lb/><term type="plant_foodstuff">maize</term> is so abundant that I have <retrace>seen</retrace> <!-- I think he just rewrote 'seen' over 'seen.' EM --> <w>forty
 <lb break="no"/>-five</w> loads each about 60 lbs given for a
-<lb/>single <term type="animal">goat</term> - The <term type="plant_foodstuff">maize</term> = "<term type="plant_foodstuff">dura</term>" or <hi rend="underline"><term type="plant_foodstuff">hokus
+<lb/>single <term type="animal_foodstuff">goat</term> - The <term type="plant_foodstuff">maize</term> = "<term type="plant_foodstuff">dura</term>" or <hi rend="underline"><term type="plant_foodstuff">hokus
 <lb/>sorghum</term> - <term type="foodstuff">Pennisetum</term></hi> -<!-- Unsure about this. EM --><!-- Fixed. AW --> <term type="foodstuff">Cassava</term>
 
 	<pb facs="liv_002603_0036" n="0036"/>
@@ -869,7 +869,7 @@
 <lb/><term type="foodstuff"><term type="plant">Palm</term> toddy</term> - <term type="foodstuff">beer of <term type="plant_foodstuff">bananas</term></term> - <term type="plant">Tobacco</term>
 <lb/>and <term type="foodstuff">Bange</term> <term type="plant"><hi rend="underline">cannabis sativa</hi></term> <add place="below" rend="gray" hand="#U">^</add> <add place="above" rend="gray" hand="#U"><unclear cert="medium">soon</unclear></add> The luxuries
 <lb/>of life - and the villages swarm with
-<lb/><term type="animal">goats</term> <term type="animal">sheep</term> <term type="animal">dogs</term> <del type="strikethrough">and</del> <term type="animal">pigs</term> and <term type="animal">fowls</term> -
+<lb/><term type="animal_foodstuff">goats</term> <term type="animal_foodstuff">sheep</term> <term type="animal">dogs</term> <del type="strikethrough">and</del> <term type="animal_foodstuff">pigs</term> and <term type="animal_foodstuff">fowls</term> -
 <lb/>while the <term type="animal">elephants</term> <term type="animal">buffaloes</term> <term type="animal">zebras</term>
 <lb/>and <foreign xml:lang="und"><term type="animal">sokos</term></foreign> or <term type="animal"><choice><orig>gorillahs</orig><reg>gorilla</reg></choice></term> yield to the expert
 <lb/><term type="occupation">hunters</term> plenty of the nitrogenous ingredients
@@ -879,12 +879,12 @@
 <lb/>had killed all their gigantic <term type="animal">birds</term> (<term type="animal">Moa</term> &amp;c)
 <lb/>and they were connected from the man
 <lb/>eating persuasion by the introduction of
-<lb/><term type="animal">pigs</term> - But the <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> have plenty of
-<lb/><term type="animal">pigs</term> &amp; other domestic animals and yet
+<lb/><term type="animal_foodstuff">pigs</term> - But the <orgName><choice><orig><choice><orig>Manyuema</orig><reg>Manyema</reg></choice></orig><reg>Maniema</reg></choice></orgName> have plenty of
+<lb/><term type="animal_foodstuff">pigs</term> &amp; other domestic animals and yet
 <lb/>they are <orgName>cannibals</orgName> - Into the reasons for
 <lb/>their <orgName>cannibalism</orgName> I do not enter - They
 <lb/>say that human flesh is not equal to
-<lb/>that of <term type="animal">goats</term> or <term type="animal">pigs</term> - It is saltish and makes
+<lb/>that of <term type="animal_foodstuff">goats</term> or <term type="animal_foodstuff">pigs</term> - It is saltish and makes
 <lb/>them dream of the dead - Why fine
 <lb/>looking men like them should be so low
 <lb/>in the moral scale can only be attributed
@@ -918,7 +918,7 @@
 <lb/>are established about <measure>10 or 15 miles apart</measure>
 <lb/>there those who <add place="below" rend="gray" hand="#U">^</add> <add place="above" rend="gray" hand="#U">raise</add> <term type="plant_foodstuff">cassava</term> - <term type="plant_foodstuff">maize</term> - <term type="plant_foodstuff">grain</term>
 <lb/><term type="plant_foodstuff">sweet potatoes</term> exchange them for <term type="foodstuff">oil</term> <term type="foodstuff">salt</term> &amp; <term type="plant_foodstuff">pepper</term>
-<lb/><term type="animal_foodstuff">fish</term> and other <term type="foodstuff">relishes</term> - From <term type="animal">fowls</term>, <add place="below" rend="gray" hand="#U">^</add> <add place="above" rend="gray" hand="#U">also</add> <term type="animal">pigs</term> <term type="animal">goats</term>
+<lb/><term type="animal_foodstuff">fish</term> and other <term type="foodstuff">relishes</term> - From <term type="animal_foodstuff">fowls</term>, <add place="below" rend="gray" hand="#U">^</add> <add place="above" rend="gray" hand="#U">also</add> <term type="animal_foodstuff">pigs</term> <term type="animal_foodstuff">goats</term>
 <lb/>grass cloth mats and other articles change
 <lb/>hands - All are dressed in their best - gaudy
 <lb/>coloured many folded kilts that reach from

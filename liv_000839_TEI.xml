@@ -227,7 +227,7 @@
 <lb/>in my head for them, but I suspect
 <lb/>my first permanent possession will
 <lb/>be in the narrow house with the "<unclear cert="medium"><choice><sic>clods</sic><corr>clouds</corr></choice></unclear>
-<lb/>of the valley over me" I sit on the <term type="animal">ox</term>
+<lb/>of the valley over me" I sit on the <term type="animal_foodstuff">ox</term>
 <lb/>and think till the sun permits neither
 <lb/>thinking nor travelling. My poor
 <lb/><unclear cert="medium"><persName>Bucephalus</persName></unclear> <!-- This appears to be someone's name. JM --><!-- I think this is a person. AW --> is none the better of his
@@ -443,7 +443,7 @@
 <lb/>thence went to <placeName><settlement type="village">Malange</settlement></placeName> or<!-- or on? MB --><!-- or is OK. AW --> <placeName><settlement type="village">Ambaca</settlement></placeName>
 <lb/>and followed the only route known 
 <lb/>to <term type="occupation"><orgName>slave</orgName> dealers</term> to <placeName><settlement>Ambriz</settlement></placeName>- <space extent="2" unit="chars"/><persName>Arsenio</persName> sent
-<lb/>his <orgName>slaves</orgName>, <term type="animal">cattle</term> <space extent="2" unit="chars"/><term type="foodstuff">meal</term> &amp;c. by the same
+<lb/>his <orgName>slaves</orgName>, <term type="animal_foodstuff">cattle</term> <space extent="2" unit="chars"/><term type="foodstuff">meal</term> &amp;c. by the same
 <lb/>road. It lies North of <placeName><settlement type="village">Ambaca</settlement></placeName> - and they
 <lb/>cross the <placeName><geogName type="river">Dande</geogName></placeName> in <!-- or on? MB --><!-- Looks like 'in' to me. EM --> their way to <placeName><settlement>Ambriz</settlement></placeName>.</p>
 <lb/><p>I found <persName>M<hi rend="sup">r</hi> Pires</persName> very friendly
@@ -521,10 +521,10 @@
 <lb/>to give them nothing <hi rend="sub">^</hi> <add place="marginleft" rend="vertical">because already paid by the <term type="occupation">merchant</term></add> I gave a small
 <lb/>ration <choice><abbr>viz.</abbr><expan>vidilicet</expan></choice> as much <term type="foodstuff">meal</term> as they
 <lb/>could eat - my men buying it and
-<lb/>when we slaughtered an <term type="animal">ox</term> they got
+<lb/>when we slaughtered an <term type="animal_foodstuff">ox</term> they got
 <lb/>a quarter - The gentlemen once left it
 <lb/>lying on the spot - saying they must
-<lb/>have the half of the <term type="animal">ox</term>. I reduced
+<lb/>have the half of the <term type="animal_foodstuff">ox</term>. I reduced
 <lb/>their allowance one half every time
 <lb/>they grumbled. This is one of the
 
@@ -674,7 +674,7 @@
 <lb/>in the interior - unfortunately not in 
 <lb/>seed now - <space extent="2" unit="chars"/>There is a little shrub which
 <lb/>attains a height of about a foot
-<lb/><term type="nationality">Zanebesians</term> call it <foreign xml:lang="und"><term type="plant">Maroro</term></foreign>. It 
+<lb/><orgName>Zambesians</orgName> call it <foreign xml:lang="und"><term type="plant">Maroro</term></foreign>. It 
 <lb/>yields a yellow fruit about the size
 <lb/>of a <term type="plant_foodstuff">guava</term>. some are pleasant
 <lb/>tasted - <orgName>my men</orgName> &amp; <orgName>the inhabitants
