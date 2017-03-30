@@ -111,7 +111,7 @@
 <lb/>a thing fully expected
 <lb/>when we found
 <lb/>that the <term type="nationality">Portuguese</term>
-<lb/><term type="occupation">slave hunters</term> of 
+<lb/><orgName><term type="occupation"><orgName>slave</orgName> hunters</term></orgName> of 
 <lb/><placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> 
 <lb/>aided by a drought
 <lb/>had completely
