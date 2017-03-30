@@ -60,7 +60,7 @@
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1855-09-12">12 September 1855</date><!-- Change -->
                     <placeName type="compositionPlace">Banks of Chobe River</placeName><!-- Change -->
-                    <persName type="addressee">Alfredo Duprat</persName><!-- Change -->
+                    <persName type="addressee">Alfred Duprat</persName><!-- Change -->
                 </bibl>
             </sourceDesc>
         </fileDesc>

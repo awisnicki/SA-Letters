@@ -87,7 +87,7 @@
 					<!-- Change place below -->
                     <placeName type="compositionPlace">Tete or Nyungwe on the Zambesi. Africa</placeName>
 					<!-- Change addressee below -->
-                    <persName type="addressee">Alfredo Duprat</persName>
+                    <persName type="addressee">Alfred Duprat</persName>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -123,7 +123,7 @@
 <lb/><dateline rend="right"><placeName><settlement type="village">Tete</settlement></placeName>, or <placeName><settlement type="village">Nyungué</settlement></placeName> <add place="above" rend="gray" hand="#U">36</add>
 <lb/>on the <placeName><geogName type="river">Zambesi</geogName></placeName>, <placeName><bloc>Africa</bloc></placeName>
 <lb/><date when="1856-03-26">26<hi rend="sup underline">th</hi> March 1856</date></dateline> 
-<lb/><persName>Alfred Duptrat, Esquire</persName>
+<lb/><persName>Alfred Duprat, Esquire</persName>
 <!-- Change line info as appropriate -->
 <!-- Begin each line with <lb/> as here -->
 <lb/>    
@@ -131,7 +131,7 @@
 </opener>
 
 <lb/><p rend="right">I begin another
-<lb/>notefor you without any intention of
+<lb/>note for you without any intention of
 <lb/>finishing it till I am farther down
 <lb/>the river, but the subject being still<!-- geog: Zambesi -->
 <lb/>fresh in my mind I like to "strike
@@ -198,7 +198,7 @@
 <lb/>taste is that of a pear but it does not 
 <lb/>gratify one like that fruit by having 
 <lb/>enough of the fleshy part. It is <w>referr<gap agent="hole" extent="2" unit="chars"/><supplied>ed</supplied></w>
-<lb/>to at the end of <bibl><persName>Borodick</persName>'s work</bibl>. 
+<lb/>to at the end of <bibl><persName>Bowdich</persName>'s work</bibl>. 
 <lb/>Others are equally good and contain
 <lb/>saccharine matter enough to 
 <lb/>yield <term type="medicament"><term type="foodstuff"><choice><sic>aquardiente</sic><corr>aguardiente</corr></choice></term></term><!-- Is this a foodstuff? Or can it also be used for medicine? MB --> by distillation
