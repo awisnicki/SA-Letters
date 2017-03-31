@@ -96,7 +96,7 @@
 <lb/><date when="1855-09-12">12<hi rend="sup underline">th</hi> <choice><abbr>Sep<hi rend="sup underline">r</hi></abbr><expan>September</expan></choice> 1855</date></dateline>
 <lb/>    
 <lb/><salute>My Dear Friend</salute><!-- Change line info as appropriate -->
-<lb/><p rend="center">A <term type="person">Moor</term> of <placeName><geogName type="island">Zanzibar</geogName></placeName> called <persName>Rya 
+<lb/><p rend="center">A <orgName>Moor</orgName> of <placeName><geogName type="island">Zanzibar</geogName></placeName> called <persName>Rya 
 <lb/>Syde ben Habib</persName> and a <term type="nationality">Portuguese</term> subject of 
 <lb/><placeName><settlement type="vilalge">Bihé</settlement></placeName> leave this <date when="1855-09-13">tomorrow</date> for <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement>, and
 <lb/>I am glad of the opportunity to send a few

@@ -100,9 +100,9 @@
 <lb/><term type="plant_foodstuff">pumpkin</term>s and <term type="plant_foodstuff">maize</term>
 <lb/>and then invited me to
 <lb/>breakfast - which consisted
-<lb/>of <term type="plant_foodstuff">earth nuts</term> and roasted
+<lb/>of <term type="plant_foodstuff"><choice><orig>earth nuts</orig><reg>earthnuts</reg></choice></term> and roasted
 <lb/><term type="plant_foodstuff">maize</term> - Then boiled <term type="plant_foodstuff">manioc</term>
-<lb/>roots and <term type="plant_foodstuff">earth nuts</term> - <add place="below">^</add> <subst><del type="cancelled">Then</del><add place="above">with</add></subst>
+<lb/>roots and <term type="plant_foodstuff"><choice><orig>earth nuts</orig><reg>earthnuts</reg></choice></term> - <add place="below">^</add> <subst><del type="cancelled">Then</del><add place="above">with</add></subst>
 <lb/><term type="plant_foodstuff">guavas</term> and <term type="foodstuff">honey</term> as a
 <lb/>desert - I felt sincerely
 <lb/>grateful for this <add place="below">^</add> <subst><del type="strikethrough">glorious</del><add place="marginleft">magnificent</add></subst>

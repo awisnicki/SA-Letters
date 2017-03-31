@@ -111,8 +111,9 @@
 
     <pb facs="liv_001193_0003" n="0003"/>
 <lb/>be marked ♁1 <!-- There is a symbol above the number that appears to be a "plus" sign. JM --><!-- See character added. AW --><add place="margintop" rend="right gray small" hand="#U">MS 004</add>
-<lb/>♁2 <!-- The same symbol appears above this number. JM --> &amp;c <persName>D<hi rend="sup">r</hi>
-<lb/>Livingstones</persName>
+<lb/>♁2 <!-- The same symbol appears above this number. JM --> &amp;c <choice><sic><persName>D<hi rend="sup">r</hi>
+<lb/>Livingstone</persName>s</sic><corr><persName>D<hi rend="sup">r</hi>
+<lb/>Livingstone</persName>'s</corr></choice>
 <lb/>expedition. I
 <lb/>would like
 <lb/>you to call at
