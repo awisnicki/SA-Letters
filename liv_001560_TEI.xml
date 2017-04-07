@@ -231,7 +231,7 @@
 <lb/>a statue in <placeName>Westminster Abbey</placeName>.  On the <placeName><region>Highlands</region></placeName>
 <lb/>there are few or no<subst><del>ne</del><add place="over-text">^</add></subst> <add place="above"><term type="insect">mosquitos</term></add> - On the banks of
 <lb/><placeName><geogName type="lake">Shirwa</geogName></placeName> many, but few on those of <placeName><geogName type="lake">Lake <lb/>Nyasa</geogName></placeName>-</p>
-<lb/><p><add place="inline" hand="#U" rend="gray">(</add>[I have written to <persName>Sir George Gray</persName> about
+<lb/><p><add place="inline" hand="#U" rend="gray">(</add>[I have written to <persName>Sir George <choice><orig>Gray</orig><reg>Grey</reg></choice></persName> about
 <lb/>the entrance of the <term type="people">French</term>. I am in doubts as
 <lb/>to whether we ought to ask liberty from the
 <lb/><term type="people">Portuguese</term> to go up the <placeName><geogName type="river">Shire</geogName></placeName>. Possibly it

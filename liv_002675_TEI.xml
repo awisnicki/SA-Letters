@@ -67,7 +67,7 @@
         <profileDesc>
             <langUsage>
                 <language ident="en">English</language>
-				
+				<language ident="af">Africaans</language>
             </langUsage>
         </profileDesc>
         <revisionDesc>
@@ -136,7 +136,7 @@
 <lb/>of the way of the <orgName>blacks</orgName>. But
 <lb/>the <term type="tribe"><choice><orig>Bakuanis</orig><reg>Bakwena</reg></choice></term> managed to kill
 <lb/>about thirty five of the <orgName>Boers</orgName>,
-<lb/>therefore that <persName>Skellum Dokter</persName> must
+<lb/>therefore that <foreign xml:lang="af">Skellum Dokter</foreign> must
 <lb/>have taught them. - <persName>M<hi rend="sup underline">rs</hi> <choice><abbr>M.</abbr><expan>Morton</expan></choice></persName> must
 <lb/>try and fancy his Reverence
 <lb/>"teaching the young idea how to

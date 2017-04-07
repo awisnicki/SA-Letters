@@ -331,7 +331,7 @@
 	<cb rend="vertical"/>
 	<ab>
 	<address>
-<addrLine><del type="strikethrough">Care of <persName><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice> D<hi rend="sup underline">r</hi> <gap extent="1" unit="chars" agent="hole"/><supplied>P</supplied>hillip</persName>, <placeName><geogName type="cape"><hi rend="underline">Cape <unclear cert="low">Town</unclear></hi></geogName></placeName></del></addrLine>
+<addrLine><del type="strikethrough">Care of <persName><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice> D<hi rend="sup underline">r</hi> <choice><orig><w><gap extent="1" unit="chars" agent="hole"/><supplied>P</supplied>hillip</w></orig><reg>Philip</reg></choice></persName>, <placeName><geogName type="cape"><hi rend="underline">Cape <unclear cert="low">Town</unclear></hi></geogName></placeName></del></addrLine>
 <addrLine><persName><choice><abbr>R.</abbr><expan>Robert</expan></choice> Hayward <add place="above" hand="#U2"><hi rend="large"><metamark/></hi></add> Esq<hi rend="sup underline">uire</hi></persName> <add place="above" rend="vertical large brown" hand="#U1"><del type="cancelled">Mr</del></add></addrLine>
 <addrLine rend="right"><del type="cancelled"><placeName>Victoria Cresent</placeName></del></addrLine>
 <addrLine rend="right"><del type="cancelled"><placeName>Ramsgate</placeName></del></addrLine>

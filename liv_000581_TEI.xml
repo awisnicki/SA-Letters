@@ -247,7 +247,7 @@
 <lb/>An Original letter of <persName>Dr. <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName>'s
 <lb rend="center"/><milestone unit="section" rend="quarter-line"/>
 <lb/>Presented by
-<lb/><persName>Mr <choice><abbr>Rev<hi rend="sup">d</hi></abbr><expan>Reverend</expan></choice> (: H. Bateman</persName>
+<lb/><persName>Mr <choice><abbr>Rev<hi rend="sup">d</hi></abbr><expan>Reverend</expan></choice> <unclear cert="low">J.</unclear> H. Bateman</persName>
 <lb/><gap extent="1" unit="words" agent="overwriting"/>
 <lb/><gap extent="1" unit="words" agent="overwriting"/>
 	<anchor xml:id="paste-on"/>

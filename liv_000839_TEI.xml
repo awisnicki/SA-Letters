@@ -273,7 +273,7 @@
 <lb/>£500 had been awarded by <orgName>Parliament</orgName>
 <lb/>to the <orgName>Royal Geographical Society</orgName>.</p>
 <lb/><p><persName><term type="occupation"><choice><abbr>Lieut<hi rend="sup underline">t</hi></abbr><expan>Lieutenant</expan></choice> Colonel</term> Steele</persName> commended by
-<lb/><persName>Lord Raglan</persName> in his <bibl>dispatch</bibl>. I suppose <!-- DL tends to spell this despatch, so can we check copy? HB --><!-- Also Adrian, we need to address (possibly again if we already have and I've forgotten) if titles like Lord and Duke are tagged as occupations, and if so whether the term type occupation is within the persName tag or separate. HB -->
+<lb/><persName>Lord <app><rdg>Raglan</rdg><rdg>Raglun</rdg></app></persName> in his <bibl>dispatch</bibl>. I suppose <!-- DL tends to spell this despatch, so can we check copy? HB --><!-- Also Adrian, we need to address (possibly again if we already have and I've forgotten) if titles like Lord and Duke are tagged as occupations, and if so whether the term type occupation is within the persName tag or separate. HB -->
 <lb/>it will ensure further promotion. He
 <lb/>wrote several times to me in this strain
 <lb/>"If you require anything be sure and
@@ -726,7 +726,7 @@
 
 	<pb facs="liv_000839_0028" n="0028"/>
 <lb/><persName><term type="occupation">Captain</term> Hall</persName> as belonging to the new school <!-- Content doesn't seem to transition from previous page - ignore, or end/start another p tag? HB -->
-<lb/><persName>Lord Raglun</persName> is a worthy old <unclear cert="low"><app><rdg>sturnper</rdg><rdg>stumper</rdg><rdg>stuinper</rdg></app></unclear><!-- unsure. MB EM --> <add place="below">^</add> <note place="below">I beg his pardon for calling him so</note>
+<lb/><persName>Lord <app><rdg>Raglan</rdg><rdg>Raglun</rdg></app></persName> is a worthy old <unclear cert="low"><app><rdg>sturnper</rdg><rdg>stumper</rdg><rdg>stuinper</rdg></app></unclear><!-- unsure. MB EM --> <add place="below">^</add> <note place="below">I beg his pardon for calling him so</note>
 <lb/>though no one ever heard his name before
 <lb/>If <persName><unclear cert="medium">Mr</unclear> Charles</persName> had said less before less
 <lb/>would have been said about him now
