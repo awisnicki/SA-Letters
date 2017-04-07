@@ -273,7 +273,7 @@
 <lb/>£500 had been awarded by <orgName>Parliament</orgName>
 <lb/>to the <orgName>Royal Geographical Society</orgName>.</p>
 <lb/><p><persName><term type="occupation"><choice><abbr>Lieut<hi rend="sup underline">t</hi></abbr><expan>Lieutenant</expan></choice> Colonel</term> Steele</persName> commended by
-<lb/><persName>Lord <unclear cert="medium">Raglan</unclear></persName> in his <bibl>dispatch</bibl>. I suppose <!-- DL tends to spell this despatch, so can we check copy? HB --><!-- Also Adrian, we need to address (possibly again if we already have and I've forgotten) if titles like Lord and Duke are tagged as occupations, and if so whether the term type occupation is within the persName tag or separate. HB -->
+<lb/><persName>Lord Raglan</persName> in his <bibl>dispatch</bibl>. I suppose <!-- DL tends to spell this despatch, so can we check copy? HB --><!-- Also Adrian, we need to address (possibly again if we already have and I've forgotten) if titles like Lord and Duke are tagged as occupations, and if so whether the term type occupation is within the persName tag or separate. HB -->
 <lb/>it will ensure further promotion. He
 <lb/>wrote several times to me in this strain
 <lb/>"If you require anything be sure and
@@ -318,7 +318,7 @@
 <lb/>this subject I may mention as fine
 <lb/>a case of a man turning himself "inside
 <lb/>out" as I have met in <placeName><bloc>Africa</bloc></placeName>. When at
-<lb/><placeName><settlement type="village">Massangano</settlement></placeName> my friend <persName>Mr Condido Coata</persName>
+<lb/><placeName><settlement type="village">Massangano</settlement></placeName> my friend <persName>Mr Candido Coata</persName>
 <lb/>volunteered to take down the observations
 <lb/>for altitude of the sun as I made them. I
 <lb/>turned down a blank page and having to
@@ -945,13 +945,13 @@
 <lb/><date when="1855-01-24">tomorrow</date>, I have been close at work
 <lb/>ever since I came - and will send
 <lb/>it and some observations for <persName>M<hi rend="sup underline">r</hi>
-<lb/>Macclear</persName> by next <bibl>Mail</bibl>. Also a concluding
+<lb/>Maclear</persName> by next <bibl>Mail</bibl>. Also a concluding
 <lb/><bibl>letter</bibl> for <persName>Sir Roderick</persName> <foreign xml:lang="la"><choice><abbr>viz.</abbr><expan>videlicet</expan></choice></foreign> on the <placeName><region>Province</region></placeName>
 <lb/>Have you colours to give a slight tint
 <lb/>to the different rocks - in the sketch - If
 <lb/>not never mind - I have taken one
 <lb/>sketch of <placeName><geogName>Pungo Andongo</geogName></placeName><!-- settlement or region? MB --><!-- Let's just do geogName. AW --> from
-<lb/><persName>Mr Pires</persName> house if I have time I will
+<lb/><persName>Mr <choice><sic>Piris</sic><corr>Pires</corr></choice></persName> house if I have time I will
 <lb/>send you a copy - It is of course
 <lb/>drawn in superior style. I think
 <lb/>I have mentioned everything worth
@@ -969,7 +969,7 @@
 <lb/>our Heavenly Father that we may
 <lb/>meet in joy before him in a better
 <lb/>land. I remember promising to tell
-<lb/>how I might do in <persName><country>England</country></persName> if by
+<lb/>how I might do in <placeName><country>England</country></placeName> if by
 <lb/><choice><sic>Gods</sic><corr>God's</corr></choice> good providence I should reach it
 <lb/>The country explored is unfit for a
 <lb/><orgName>European</orgName> family - I might live and

@@ -147,9 +147,9 @@
 <lb/>It is well ventured by the tributaries of the <placeName><geogName type="river">Ourie</geogName></placeName> or <placeName><geogName type="river">Limpopo</geogName></placeName> - The
 <lb/>state of the people however does not present features so
 <lb/>pleasing - We visited several tribes which were once under
-<lb/>the power of <persName>Mosilikatse</persName> - &amp; were kindly received - one
+<lb/>the power of <persName><choice><orig><choice><orig>Mosilikatse</orig><reg>Mosilikatze</reg></choice></orig><reg>Mzilikazi</reg></choice></persName> - &amp; were kindly received - one
 <lb/>chief told us that he was an attendant on that dignitary
-<lb/>when he visited <persName>M<hi rend="sup">r Moffat's</hi></persName> waggon - But both these
+<lb/>when he visited <persName>M<hi rend="sup">r</hi> Moffat</persName>'s waggon - But both these
 <lb/>and other tribes situated farther to the North East live
 	
 	<pb facs="liv_000634_0003" n="0003"/>
@@ -304,7 +304,7 @@
 <lb/>his account with being a jack of all trades - It is not
 <lb/>at all unpleasant to be so - The thought "can do" sooth<gap extent="2" unit="chars" agent="illegible"/><supplied cert="high">es</supplied>
 <lb/><choice><sic>ones</sic><corr>one's</corr></choice> pride &amp; we feel it <choice><orig>agreable</orig><reg>agreeable</reg></choice> to be somewhat independent</p>
-<lb/><p>Please present very kind regards <add place="above"><persName>Mrs <choice><abbr>M.</abbr><expan>Murray</expan></choice></persName> from <persName>Mr &amp; Mrs Moffat</persName>
+<lb/><p>Please present very kind regards <add place="above"><persName>Mrs <choice><abbr>M.</abbr><expan>Murray</expan></choice></persName> from <persName>Mr</persName> &amp; <persName>Mrs Moffat</persName>
 <lb/>the latter intends a visit to the <placeName>Cape</placeName> soon - If <persName>Mr <unclear cert="high">Ashton</unclear></persName> knew
 <lb/>I was writing they would salute you too.  They lost a fine
 <lb/>little boy a short time ago.  <persName>M<hi rend="sup">rs</hi> <choice><abbr>L.</abbr><expan>Livingstone</expan></choice></persName></add> &amp; self desire to be kindly
@@ -331,7 +331,7 @@
 <ab>
 <address>
 <lb/><addrLine rend="center">The <persName><term type="occupation"><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice></term> <choice><abbr>A.</abbr><expan>Andrew</expan></choice> Murray</persName></addrLine>
-<lb/><addrLine rend="center"><hi rend="underline"><persName>Graaf Reinett</persName></hi></addrLine>
+<lb/><addrLine rend="center"><hi rend="underline"><placeName><settlement type="town">Graaf Reinett</settlement></placeName></hi></addrLine>
 <lb/><addrLine><hi rend="underline">Pend</hi></addrLine>
 </address>
 </ab>

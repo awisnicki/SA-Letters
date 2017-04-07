@@ -247,7 +247,7 @@
 <lb/>behind there is a magnificent view of the
 <lb/>broad <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> and its tributary <placeName><geogName type="river"><choice><orig>Loangua</orig><reg>Luangwa</reg></choice></geogName></placeName> in front
 <lb/>and there is water carriage in three directions beyond
-<lb/>one of them to <persName>Mosilikatze</persName> - another to the
+<lb/>one of them to <persName><choice><orig>Mosilikatze</orig><reg>Mzilikazi</reg></choice></persName> - another to the
 <lb/><placeName><geogName type="river">Bashukulompo</geogName></placeName> and by the <placeName><geogName type="river"><choice><orig>Loangua</orig><reg>Luangwa</reg></choice></geogName></placeName> to near
 <lb/><persName>Cazembe</persName> in <placeName><region>Londa</region></placeName> - Indeed <persName>Pereira</persName> went
 <lb/>thither by this route - A <term type="plant"><term type="plant_foodstuff">mango</term> tree</term> measuring
@@ -496,7 +496,7 @@
 
 <lb/><list><item>Bed of the <placeName><geogName type="rivulet">Lekoné</geogName></placeName> near the falls - Brisk Ebullition <seg rend="right"><add place="above" rend="gray">(3945)</add></seg><seg rend="right">204°<choice><orig>½</orig><reg>1/2</reg></choice></seg></item>
 
-<lb/><item><placeName><persName>Marimba</persName>'s</placeName> after leaving <placeName><geogName type="rivulet">Lekoné</geogName></placeName> ------ <seg rend="right"><hi rend="gray">4608</hi></seg><seg rend="right">203<choice><orig>¼</orig><reg>1/4</reg></choice></seg></item>
+<lb/><item><placeName><settlement type="village"><persName>Marimba</persName>'s</settlement></placeName> after leaving <placeName><geogName type="rivulet">Lekoné</geogName></placeName> ------ <seg rend="right"><hi rend="gray">4608</hi></seg><seg rend="right">203<choice><orig>¼</orig><reg>1/4</reg></choice></seg></item>
 
 <lb/><item>Near source of <placeName><geogName type="river">Unguesi</geogName></placeName> ------------<!-- horizontal line about 12 characters--><seg rend="right"><hi rend="gray">5009</hi></seg><seg rend="right">202<choice><orig>½</orig><reg>1/2</reg></choice></seg></item>
 
