@@ -83,7 +83,7 @@
 	<pb facs="liv_000860_0001" n="0001"/><!-- Change both @facs and @n -->
 	
 <opener>
-<lb/><dateline rend="right"><add place="above marginleft" rend="gray" hand="#U">G.13.b.45(47.1)</add> <placeName><geogName type="banks">Banks of <placeName><geogName type="river"><choice><abbr>R.</abbr><expan>River</expan></choice> Chobe</geogName></placeName></geogName></placeName> 
+<lb/><dateline rend="right"><add place="above marginleft" rend="gray" hand="#U">G.13.b.45(47.1)</add> <placeName><geogName type="bank">Banks of <placeName><geogName type="river"><choice><abbr>R.</abbr><expan>River</expan></choice> Chobe</geogName></placeName></geogName></placeName> 
 <lb/><date when="1855-09-12">12 <choice><abbr>Sep<hi rend="sup">t</hi></abbr><expan>September</expan></choice> <choice><abbr>/55</abbr><expan>1855</expan></choice></date></dateline>
 <lb/><persName>Alfred Duprat Esquire</persName>    
 <lb rend="center"/><salute>My Dear Sir</salute><!-- Change line info as appropriate -->

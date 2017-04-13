@@ -82,7 +82,7 @@
                
 	<pb facs="liv_000892_0001" n="0001"/>
     <opener>
-<lb/><dateline><hi rend="right"><placeName><settlement type="village">Tete</settlement></placeName>, on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName></hi>
+<lb/><dateline><hi rend="right"><placeName><settlement type="town">Tete</settlement></placeName>, on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName></hi>
 <lb rend="right"/><placeName><region>East <bloc>Africa</bloc></region></placeName>
 <lb rend="right"/>His Excellency <persName>Jose R. <choice><abbr>C.</abbr><expan>Coelho</expan></choice> do Amaral</persName>, <date when="1856-03-25"/>25<hi rend="sup underline">th</hi> March 1856</dateline>
 <lb rend="right"/>The <term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> and its Dependencies
@@ -246,7 +246,7 @@
 <lb/>times when there was no communication by the <placeName><geogName type="sea">Red Sea</geogName></placeName> and <placeName><country>Egypt</country></placeName></note></add>
 
 <lb/>and if it still appears desirable I may
-<lb/>suggest the way from <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName>
+<lb/>suggest the way from <placeName><settlement type="village">Pungo Andongo</settlement></placeName>
 <lb/>to <placeName><settlement type="village">Bihe</settlement></placeName>. From <placeName><settlement type="village">Bihe</settlement></placeName> to the nearest
 <lb/><term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>, say to
 <lb/><persName>Mpololo</persName> the uncle of <persName>Sekeletu</persName> who
@@ -257,13 +257,13 @@
 <lb/>which will probably be near the 
 <lb/>falls (<choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 15º 57' South. <choice><abbr>Long.</abbr><expan>Longitude</expan></choice> 26º 6' <choice><abbr>E.</abbr><expan>East</expan></choice>)
 <lb/>And as we hope to have water
-<lb/>communication with <placeName><settlement type="village">Tete</settlement></placeName>, this
+<lb/>communication with <placeName><settlement type="town">Tete</settlement></placeName>, this
 <lb/>would complete the only difficult
 <lb/>part of the continent. It is only
     
     <pb facs="liv_000892_0007" n="0007"/>
 <lb/>a suggestion at present.<add place="above margintop" hand="#U">7</add> And I mention <add place="above margintop" hand="#U">ms 22</add>
-<lb/><placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName> and <placeName><settlement type="village">Bihe</settlement></placeName> because of
+<lb/><placeName><settlement type="village">Pungo Andongo</settlement></placeName> and <placeName><settlement type="village">Bihe</settlement></placeName> because of
 <lb/>the well known public spirit of <persName><choice><abbr>S<hi rend="underline">t</hi></abbr><expan>Saint</expan></choice>
 <lb/>Pires</persName> who has trade relations with all that
 <lb/>country. There would be more difficulty
@@ -313,7 +313,7 @@
 			</div>
 
 			<div>
-<lb/><p>Reached <placeName><settlement type="village">Quilimane</settlement></placeName> on the <date when="1856-05-20"/>20<hi rend="sup">th</hi> May 1856
+<lb/><p>Reached <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName> on the <date when="1856-05-20"/>20<hi rend="sup">th</hi> May 1856
 <lb/>and forwarded this letter to the <term type="occupation">Governor General</term>
 <lb/>of <placeName><country><choice><sic>Mosambique</sic><corr>Mozambique</corr></choice></country></placeName> His Excellency <persName>Vasco Guedes
 <lb/>Carvalho e Menezes</persName> on <date when="1856-06-25"/>25<hi rend="sup">th</hi> June. <persName><choice><abbr>D.</abbr><expan>David</expan></choice> <choice><abbr>L.</abbr><expan>Livingstone</expan></choice></persName></p><!-- Postscript. AW -->

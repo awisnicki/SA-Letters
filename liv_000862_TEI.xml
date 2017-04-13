@@ -98,7 +98,7 @@
 <lb/><salute>My Dear Friend</salute><!-- Change line info as appropriate -->
 <lb/><p rend="center">A <orgName>Moor</orgName> of <placeName><geogName type="island">Zanzibar</geogName></placeName> called <persName>Rya 
 <lb/><choice><orig>Syde ben</orig><reg>Said bin</reg></choice> Habib</persName> and a <term type="nationality">Portuguese</term> subject of 
-<lb/><placeName><settlement type="vilalge">Bihé</settlement></placeName> leave this <date when="1855-09-13">tomorrow</date> for <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement>, and
+<lb/><placeName><settlement type="village">Bihé</settlement></placeName> leave this <date when="1855-09-13">tomorrow</date> for <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement>, and
 <lb/>I am glad of the opportunity to send a few
 <lb/>lines to inform you of our progress and
 <lb/>welfare. We reached the <placeName><term type="tribe">Barotse</term> country</placeName> about
@@ -304,7 +304,7 @@
 <lb/>any observations by this person as I
 <lb/>am not sure that they will reach you
 <lb/>I remain here one month and will
-<lb/>then go down the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> to <placeName><settlement type="village">Quilimane</settlement></placeName>
+<lb/>then go down the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> to <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName>
 <lb/>in canoes. I could go to <placeName><geogName type="lake">Lake <choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName>
 <lb/>but as the object I have in view <!-- I was unsure about this word too. MB--><!-- OK. AW -->is to
 <lb/>secure a passage to the coast by which

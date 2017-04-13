@@ -127,7 +127,7 @@
 <lb/>mention that I left for your address, 
 <lb/><persName>Mr <unclear cert="low">Schmit</unclear></persName>'s <unclear cert="high">tepoia</unclear> and some odds &amp;
 <lb/>ends I had picked up, in charge of 
-<lb/><persName>Mr Pires</persName> of <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName> who
+<lb/><persName>Mr Pires</persName> of <placeName><settlement type="village">Pungo Andongo</settlement></placeName> who
 <lb/>promised to forward all with care
 <lb/>I delivered also a <bibl>packet</bibl> into his care, 
 <lb/><hi rend="left">consisting</hi> of a <bibl>letter and note for <persName>Sir <choice><abbr>R.</abbr><expan>Roderick</expan></choice> Murchison</persName></bibl>
@@ -136,7 +136,7 @@
     <pb facs="liv_000839_0002" n="0002"/>
 <lb/>Also a short note for yourself. There
 <lb/>were a few specimens of the rocks
-<lb/>of <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName> but it being very
+<lb/>of <placeName><settlement type="village">Pungo Andongo</settlement></placeName> but it being very
 <lb/>difficult if not impossible to get
 <lb/>a piece in which all the rocks are
 <lb/>embodied I had to select such only
@@ -165,14 +165,14 @@
 <lb/>horizontal strata of the rock which
 <lb/>forms the matrix. In strata
 <lb/>however and forming the earth's
-<lb/><unclear cert="high">crust</unclear> down to the <placeName><geogName type="river">Coanya</geogName></placeName> southwards
-<lb/>and <measure>20 miles</measure> East of <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto Adongo</reg></choice></settlement></placeName>. It
+<lb/><unclear cert="high">crust</unclear> down to the <placeName><geogName type="river"><choice><orig>Coanza</orig><reg>Cuanza</reg></choice></geogName></placeName> southwards
+<lb/>and <measure>20 miles</measure> East of <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Pungo Adongo</reg></choice></settlement></placeName>. It
 <lb/>has only a few pebbles in it these
 <lb/>gradually become smaller as we go
 <lb/>East until it is entirely a sandstone
 <lb/>rock. It would take a week to
 <lb/>collect all the varieties of rock in
-<lb/>the conglomerate of <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto Adongo</reg></choice></settlement></placeName>. I <w>def<del type="strikethrough">f</del>erred</w>
+<lb/>the conglomerate of <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Pungo Adongo</reg></choice></settlement></placeName>. I <w>def<del type="strikethrough">f</del>erred</w>
 <lb/>my excursion to the last partly
     
     <pb facs="liv_000839_0004" n="0004"/>
@@ -253,7 +253,7 @@
 
 <lb/>an epitaph for him.</p> <!-- Adrian, not sure if the biography and epitaph were written, but if so they should be tagged as bibls. HB -->
 <lb/><p>Among notices which I have seen
-<lb/>in ><bibl>the newspapers</bibl> are the following which 
+<lb/>in the <bibl>newspapers</bibl> are the following which 
 <lb/>may have escaped your observation.</p>
 <lb/><p><term type="occupation">Assistant Surgeon</term> <persName>John T. Gabriel</persName> 
 <lb/>confined to the Victory <!-- I am not sure what the Victory is. JM --><!-- Ditto. EM --><!-- Sounds like a ship. AW --> (101) <placeName><settlement type="city">Portsmouth</settlement></placeName>. 
@@ -265,7 +265,7 @@
 
     <pb facs="liv_000839_0008" n="0008"/>
 <lb/>to its evagelization" I imagine this must
-<lb/>be in aid of <persName>D<hi rend="sup underline">r</hi> Krapf</persName> on the <placeName><region>Eastern side</region></placeName></p>
+<lb/>be in aid of <persName>D<hi rend="sup underline">r</hi> Krapf</persName> on the <placeName><region>Eastern side</region></placeName></p><!-- geog: Eastern side of Africa -->
 <lb/><p>A dinner or other feed took place down
 <lb/>the <placeName><geogName type="river">Thames</geogName></placeName> somewhere in which <persName>Sir <choice><abbr>R.</abbr><expan>Roderick</expan></choice>
 <lb/>Murchison</persName> took a prominent part,
@@ -286,13 +286,13 @@
         
     <pb facs="liv_000839_0009" n="0009"/>
 <lb/><p><add place="margintop" rend="left"><choice><abbr>3<hi rend="sup">d</hi></abbr><expan>third</expan></choice> sheet</add>
-<lb/>The road from <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName> to <placeName><settlement type="village">Lombe</settlement></placeName>
-<lb/>runs along the bank of the <placeName><geogName type="river">Coanya</geogName></placeName> and
+<lb/>The road from <placeName><settlement type="village">Pungo Andongo</settlement></placeName> to <placeName><settlement type="village">Lombe</settlement></placeName>
+<lb/>runs along the bank of the <placeName><geogName type="river"><choice><orig>Coanza</orig><reg>Cuanza</reg></choice></geogName></placeName> and
 <lb/>the <unclear cert="high">straggling</unclear> forest gives the exact picture
 <lb/>of the <placeName><region>country near the <geogName type="river"><choice><orig>Casai</orig><reg>Kasai</reg></choice></geogName> or <geogName type="river"><orig>Kasye</orig><reg>Kasai</reg></geogName></region></placeName>
 <lb/>most of the trees are identical. <measure>A few
 <lb/>miles</measure> from <placeName><geogName type="river">Lombe</geogName></placeName> there is a fine <placeName><geogName type="waterfall">fall
-<lb/>of the <placeName><geogName type="river">Coanya</geogName></placeName></geogName></placeName> as deep as your house
+<lb/>of the <placeName><geogName type="river"><choice><orig>Coanza</orig><reg>Cuanza</reg></choice></geogName></placeName></geogName></placeName> as deep as your house
 <lb/>I did not go to see it because I had
 <lb/>no one to admire it with me. <persName>Mr. Pires</persName>
 <lb/>has a house at <placeName><geogName type="river">Lombe</geogName></placeName> and one half
@@ -311,7 +311,7 @@
 <lb/>I allude to some geographical information having
 <lb/>been sent to <placeName><country>Germany</country></placeName>. <persName>Dr. <unclear cert="medium">Welwatsch</unclear></persName> told me
 <lb/>he had written to <persName>Berghaus</persName>, the <term type="occupation">publisher</term> of a
-<lb/><bibl>very good map</bibl> on <placeName><bloc>Africa</bloc></placeName>, an account of <!-- Adrian, does this account warrant a bibl tag? HB -->
+<lb/>very good <bibl>map</bibl> on <placeName><bloc>Africa</bloc></placeName>, an account of <!-- Adrian, does this account warrant a bibl tag? HB -->
 <lb/>my journey, he did so after he had got a
 <lb/>sketch, had I known sooner he would have
 <lb/>been minus that. <space extent="4" unit="chars"/>In connection with
@@ -324,7 +324,7 @@
 <lb/>turned down a blank page and having to
 <lb/>wait for <seg type="weather">the passage of a cloud</seg>. I saw
 <lb/>him turn over and look at the Longitude
-<lb/>of <placeName>Golungo Alto</placeName> as I then had it <measure>14° 52' 30"</measure>
+<lb/>of <placeName><settlement type="town">Golungo Alto</settlement></placeName> as I then had it <measure>14° 52' 30"</measure>
 <lb/>and that of his own house. <measure>14° 52'</measure> when
 <lb/>he saw I had detected him his face
 <lb/>assumed the confused look common
@@ -422,7 +422,7 @@
 <lb/>bamboozled a little in any good work
 <lb/>I attempt and would give him more
 <lb/>even now but the concluding part 
-<lb/>of <bibl>this letter</bibl> <choice><orig>shews</orig><reg>shows</reg></choice> it would only be
+<lb/>of this <bibl>letter</bibl> <choice><orig>shews</orig><reg>shows</reg></choice> it would only be
 <lb/>assisting him to tell stories</p>
 <lb/><p>He had a great portion of the <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName>
 <lb/>down in <bibl>his map</bibl> and asserted it
@@ -461,10 +461,10 @@
 <lb/>about the productions of the country
 
 	<pb facs="liv_000839_0016" n="0016"/>
-<lb/>Have you <term type="plant_foodstuff">wheat</term>? Yes at <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName>
-<lb/>Have you <term type="plant_foodstuff">grapes</term> -? at <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName>
+<lb/>Have you <term type="plant_foodstuff">wheat</term>? Yes at <placeName><settlement type="village">Pungo Andongo</settlement></placeName>
+<lb/>Have you <term type="plant_foodstuff">grapes</term> -? at <placeName><settlement type="village">Pungo Andongo</settlement></placeName>
 <lb/>Have you <term type="foodstuff">butter</term>, <term type="foodstuff">cheese</term>, <term type="plant_foodstuff">fruits</term>, &amp;c &amp;c O
-<lb/>yes - at <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName>- I expected
+<lb/>yes - at <placeName><settlement type="village">Pungo Andongo</settlement></placeName>- I expected
 <lb/>wonders here but find all productions
 <lb/>are those of one man <persName><w>M<hi rend="sup underline">r</hi></w> <choice><abbr>P.</abbr><expan>Pires</expan></choice></persName> and
 <lb/>he has only a small quantity of each
@@ -488,7 +488,7 @@
 
     <div>
 	<pb facs="liv_000839_0017" n="0017"/>
-<lb/><dateline><add place="above" hand="#U2" rend="center">2</add> <add place="above" hand="#U1">I,</add> <placeName><settlement>Cassange</settlement></placeName><date when="1855-01-18">18th January 1855</date>.</dateline><p rend="no-indent">I <choice><sic>recieved</sic><corr>received</corr></choice> your
+<lb/><dateline><add place="above" hand="#U2" rend="center">2</add> <add place="above" hand="#U1">I,</add> <placeName><settlement type="village">Cassange</settlement></placeName><date when="1855-01-18">18th January 1855</date>.</dateline><p rend="no-indent">I <choice><sic>recieved</sic><corr>received</corr></choice> your
 <lb/>welcome <bibl>epistle of <date when="1854-12-30">30<hi rend="sup underline">th</hi> <choice><abbr>Dec<hi rend="sup">r</hi></abbr><expan>December</expan></choice></date></bibl> <date when="1855-01-16">the day before
 <lb/>yesterday</date> and felt glad an opportunity
 <lb/>had occurred for a health trip - I earnestly
@@ -509,7 +509,7 @@
 <lb/>my long sojourn at <placeName><settlement type="town">Golungo Alto</settlement></placeName>
 
 	<pb facs="liv_000839_0018" n="0018"/>
-<lb/>and <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName> reduced the sum 
+<lb/>and <placeName><settlement type="village">Pungo Andongo</settlement></placeName> reduced the sum 
 <lb/>in my purse to a very low figure. I have
 <lb/>been giving <foreign xml:lang="pt">fazendas</foreign><!-- type of cloth MB --> since and now 
 <lb/>feel anxious to be as soon as possible
@@ -543,7 +543,7 @@
 <lb/>except the grumbling of the <foreign xml:lang="pt"><term type="occupation">Carregadores</term></foreign>
 <lb/>of which I only heard incidentally too
 <lb/>yet off they went and they <w><del><gap extent="1" unit="chars"/></del>were</w> welcome
-<lb/>We met <orgName>half blood</orgName> in the <placeName><region><placeName><region><term type="tribe">Londa</term></region></placeName> 
+<lb/>We met <orgName>half blood</orgName> in the <placeName><region><placeName><region><term type="tribe"><choice><orig>Londa</orig><reg>Lunda</reg></choice></term></region></placeName> 
 <lb/>country</region></placeName> who told <orgName>my people</orgName> I should
 <lb/>never reach <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> or <placeName><settlement type="village">Cassange</settlement></placeName>
 <lb/>even unless I waited for him and
@@ -580,7 +580,7 @@
 <lb/>might be forwarded to me as a
 <lb/>treat <space extent="2" unit="chars"/><hi rend="underline">I shall remain in the <placeName><region>country 
 <lb/>of <persName>Sekeletu</persName></region></placeName> some months before
-<lb/>leaving for <placeName><settlement type="village">Quilimane</settlement></placeName></hi>. I hope <persName>M<hi rend="sup">r</hi>
+<lb/>leaving for <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName></hi>. I hope <persName>M<hi rend="sup">r</hi>
 <lb/><choice><abbr>P.</abbr><expan>Pires</expan></choice></persName> sent you two good <term type="plant">wild vines</term>
 <lb/>he has enough of garden ones<!-- term: plant? MB --><!-- Leave as is. AW --> too &amp;
 <lb/>fine young <term type="plant"><term type="plant_foodstuff">fig</term> trees</term>. There is one here
@@ -619,7 +619,7 @@
 	<pb facs="liv_000839_0023" n="0023"/>
 <lb/>for from <placeName><settlement type="city">San Salvador</settlement></placeName> or <placeName><settlement><persName><choice><abbr>St</abbr><expan>Saint</expan></choice> José de <!-- Added in persName tag for Saint - pls correct if unneeded. HB -->
 <lb/>Eucage</persName></settlement></placeName>. ?<!-- unlcear what this mark is. MB --> <space extent="2" unit="chars"/>I am going to Look carefully
-<lb/>for it in <placeName><settlement type="town"><choice><orig>Londa</orig><reg>Luanda</reg></choice></settlement></placeName>. <space extent="3" unit="chars"/>I see trees resembling
+<lb/>for it in <placeName><settlement type="city"><choice><orig>Londa</orig><reg>Luanda</reg></choice></settlement></placeName>. <space extent="3" unit="chars"/>I see trees resembling
 <lb/>it and the flowers may <choice><orig>shew</orig><reg>show</reg></choice> them
 <lb/>to be species of <term type="plant_foodstuff">coffee</term> - and if so it may
 <lb/>help to solve the question of the indiginousness <!-- Indiginous should have an e in it - is this spelling DL or transcriber? HB -->
@@ -665,7 +665,7 @@
 <lb/>the mail goes so far - <add place="above"><term type="plant"><placeName><region>Cape</region></placeName><!-- region? MB --><!-- Region. EM --> bulbs</term> abound</add> A few seeds are
 <lb/>enclosed likewise one sort of pretty 
 <lb/>blue flower which abounds near
-<lb/><placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName>- different varieties of
+<lb/><placeName><settlement type="village">Pungo Andongo</settlement></placeName>- different varieties of
 <lb/><term type="plant">Asclepia</term> abound - one blood red - another
 <lb/>blue with white <w>s<del>r</del><add place="over-text">t</add>amens</w>- and a third
 <lb/>covers the country with flowers about
@@ -696,7 +696,7 @@
 <lb/>of course wait till the <bibl>mail of the 
 <lb/>16<hi rend="sup">th</hi></bibl> comes to hand - you will have
 <lb/>seen by <bibl>one letter I sent from
-<lb/><placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName></bibl> that this would be
+<lb/><placeName><settlement type="village">Pungo Andongo</settlement></placeName></bibl> that this would be
 <lb/>the case - I cannot remain longer
 <lb/>here on account of the scarcity
 <lb/>of <orgName>native</orgName> food - but when I
@@ -841,7 +841,7 @@
 <lb/>on the <date when="1855-01-16">16<hi rend="sup">th</hi></date> will be in vain - I have
 <lb/>just learned from <persName><term type="occupation"><choice><abbr><w>Cap<hi rend="sup underline">n</hi></w></abbr><expan>Captain</expan></choice></term> Neves</persName> that
 <lb/>he saw shells on the tops of the rocks
-<lb/>of <placeName><settlement type="village"><choice><orig>Pungo</orig><reg>Punto</reg></choice> Andongo</settlement></placeName> - I feel quite
+<lb/>of <placeName><settlement type="village">Pungo Andongo</settlement></placeName> - I feel quite
 <lb/>disgusted with myself at not seeing
 <lb/>them too - but in enquiring I was
 <lb/>told positively there were more - And 
@@ -923,8 +923,8 @@
 <lb/>for me - yours by next is my blue
 <lb/>Peter<!-- Not sure if this is a person or...? EM --><!-- Not sure what it is. AW --> - The <bibl><foreign xml:lang="pt">Boletin</foreign></bibl> contains what our
 <lb/>folks here consider grand news. <placeName><settlement>Ambriz</settlement></placeName>
-<lb/>a <placeName><settlement><term type="nationality">Portuguese</term> Colony</settlement></placeName>! I have not seen
-<lb/><bibl>the paper</bibl> but it is described as
+<lb/>a <placeName><region><settlement><term type="nationality">Portuguese</term> Colony</settlement></region></placeName>! I have not seen
+<lb/>the <bibl>paper</bibl> but it is described as
 <lb/><foreign xml:lang="pt">muitissimo boa</foreign> <!-- Not sure what this is. EM --><!-- Fixed. AW --> - They might form a
 <lb/><orgName>copper company</orgName> for working
 <lb/>mines there now - I see the <bibl>Morning Herald</bibl> is down on <persName>Sir <choice><abbr>J</abbr><expan>John</expan></choice> Young</persName> <term type="occupation">chief

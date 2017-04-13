@@ -128,7 +128,7 @@
 
 	<pb facs="liv_001290_0003" n="0003"/>
 <lb/>through the <placeName><region><term type="ailment">malarious</term> district</region></placeName>
-<lb/>at <placeName><region>the lower portion of the
+<lb/>at the <placeName><region>lower portion of the
 <lb/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice> river</geogName></placeName></region></placeName> as quickly
 <lb/>as possible, and it will
 <lb/>be necessary for you to
@@ -146,7 +146,7 @@
 <lb/>of the <orgName>Expedition</orgName> will probably
 <lb/>be required to facilitate the
 <lb/>transport of the luggage
-<lb/>to and beyond <unclear cert="medium"><placeName><choice><sic>Tett</sic><corr>Tete</corr></choice></placeName></unclear><!-- Not sure what this is. Tete? EM --><!-- Yes, Tete. JM --> the most
+<lb/>to and beyond <unclear cert="medium"><placeName><settlement type="town"><choice><sic>Tett</sic><corr>Tete</corr></choice></settlement></placeName></unclear><!-- Not sure what this is. Tete? EM --><!-- Yes, Tete. JM --> the most
 
 	<pb facs="liv_001290_0004" n="0004"/>
 <lb/>advanced part of civilization
@@ -182,7 +182,7 @@
 <lb/>with your personal safety,
 <lb/>to glean a general idea of
 <lb/>the resources of the country
-<lb/>to the North of <placeName><choice><sic>Tett</sic><corr>Tete</corr></choice></placeName><!-- Still not certain about this location. EM --><!-- Tete is in modern-day Mozambique, on the Zambezi River. JM --> and
+<lb/>to the North of <placeName><settlement type="town"><choice><sic>Tett</sic><corr>Tete</corr></choice></settlement></placeName><!-- Still not certain about this location. EM --><!-- Tete is in modern-day Mozambique, on the Zambezi River. JM --> and
 <lb/>to ascertain in as full detail
 <lb/>as the time will allow the
 <lb/>nature of the plant called
@@ -252,11 +252,11 @@
 <lb/>for a time the range of
 <lb/>your pursuits.</p>
 <lb/><p><add place="marginleft">5.</add> Our stay in the <unclear cert="medium"><w>vici<gap extent="4" unit="chars" agent="illegible"/><supplied>nity</supplied></w></unclear>
-<lb/>of <placeName><choice><sic>Tett</sic><corr>Tete</corr></choice></placeName> must necessarily <unclear cert="medium">be</unclear>
+<lb/>of <placeName><settlement type="town"><choice><sic>Tett</sic><corr>Tete</corr></choice></settlement></placeName> must necessarily <unclear cert="medium">be</unclear>
 <lb/>short because it is <unclear cert="medium"><w>essen<gap extent="4" unit="chars" agent="illegible"/><supplied>tial</supplied></w></unclear>
 <lb/>to proceed at an early <unclear cert="medium"><w>perio<gap extent="1" unit="chars" agent="illegible"/><supplied>d</supplied></w></unclear>
-<lb/>to the rapid <placeName><geogName type="rapids"><choice><orig>Kebra basa</orig><reg>Cahora Bassa</reg></choice></geogName></placeName> <gap extent="4" unit="chars" agent="illegible"/>
-<lb/><unclear cert="low"><placeName><geogName type="rapids">Chicova</geogName></placeName></unclear> to ascertain the
+<lb/>to the rapid <placeName><geogName type="rapid"><choice><orig>Kebra basa</orig><reg>Cahora Bassa</reg></choice></geogName></placeName> <gap extent="4" unit="chars" agent="illegible"/>
+<lb/><unclear cert="low"><placeName><geogName type="rapid">Chicova</geogName></placeName></unclear> to ascertain the
 <lb/>possibility of passing it <unclear cert="low"><gap extent="4" unit="chars" agent="illegible"/></unclear>
 <lb/>the river is still <unclear cert="low"><w>comparati<gap extent="6" unit="chars" agent="illegible"/><supplied>tively</supplied></w></unclear>
 <lb/>high and thus avoid the

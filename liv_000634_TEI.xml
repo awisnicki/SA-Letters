@@ -331,7 +331,7 @@
 <ab>
 <address>
 <lb/><addrLine rend="center">The <persName><term type="occupation"><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice></term> <choice><abbr>A.</abbr><expan>Andrew</expan></choice> Murray</persName></addrLine>
-<lb/><addrLine rend="center"><hi rend="underline"><placeName><settlement type="town">Graaf Reinett</settlement></placeName></hi></addrLine>
+<lb/><addrLine rend="center"><hi rend="underline"><placeName><settlement type="town"><choice><sic>Graaf Reinett</sic><corr>Graaff-Reinet</corr></choice></settlement></placeName></hi></addrLine>
 <lb/><addrLine><hi rend="underline">Pend</hi></addrLine>
 </address>
 </ab>

@@ -113,7 +113,7 @@
 	<pb facs="liv_000908_0001" n="0001"/>
 <!-- If this is a letter or similar with an opener (with content such as dateline and/or salute) add it. For example: -->
 <opener>
-<lb/><dateline rend="right"><placeName><settlement type="village">Quilimane</settlement></placeName> <date when="1856-06-27">27<hi rend="sup underline">th</hi> June<!-- Change line info as appropriate --><!-- Begin each line with <lb/> as here --> 
+<lb/><dateline rend="right"><placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName> <date when="1856-06-27">27<hi rend="sup underline">th</hi> June<!-- Change line info as appropriate --><!-- Begin each line with <lb/> as here --> 
 <lb/>1856</date></dateline><!-- Change line info as appropriate -->
 <lb/>    
 <lb/><salute>My Dear <persName>M<hi rend="sup underline">r</hi> Gabriel</persName>,</salute><!-- Change line info as appropriate -->
@@ -123,7 +123,7 @@
 <lb/>last I felt very greatly disappointed
 <lb/>in not finding a single line from you
 <lb/>the box &amp; parcel of which I heard of at 
-<lb/><placeName><settlement type="village">Tete</settlement></placeName> contained a dozen of <term type="foodstuff">wine</term> from
+<lb/><placeName><settlement type="town">Tete</settlement></placeName> contained a dozen of <term type="foodstuff">wine</term> from
 <lb/><persName>Commodore Trotter</persName> and some <term type="medicament">quinine</term>
 <lb/>letters &amp; newspapers. I could scarcely
 <lb/>believe my eyes when turning everything
@@ -134,7 +134,7 @@
 <lb/>event which happened after days
 <lb/>before my arrival gave a sombre cast
 <lb/>to my musings - <unclear cert="low"><persName><choice><abbr>H. M Brg<hi rend="sup">e</hi></abbr><expan>Her Majesty's Brigadier</expan></choice> Dart</persName></unclear>	came
-<lb/>to <placeName><settlement type="village">Quilimane</settlement></placeName> to pick me up and the
+<lb/>to <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName> to pick me up and the
 <lb/>commander tried to come ashore when
 <lb/>it was very rough - Unfortunately the</p>
 	<cb rend="vertical left"/><ab>
@@ -146,7 +146,7 @@
 <lb/>commander - with a fine young man
 <lb/><persName><term type="occupation"><choice><abbr>Lieut <hi rend="sup">t</hi></abbr><expan>Lieutenant</expan></choice></term> Woodruff</persName> &amp; 5 sailors were
 <lb/>lost. This sad event embittered all
-<lb/>my joy on reaching <placeName><settlement type="village">Quilimane</settlement></placeName>
+<lb/>my joy on reaching <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName>
 <lb/>I would have died for them rather
 <lb/>than that they should have lost
 <lb/>their lives on my account.</p>
@@ -215,7 +215,7 @@
 	<pb facs="liv_000908_0005" n="0005"/>
 <lb/><p>The commodore said if the Dart
 <lb/>returned to the <placeName><region>Cape</region></placeName> without me he would
-<lb/>send another vessel to <placeName><settlement type="village">Quilimane</settlement></placeName>. The 
+<lb/>send another vessel to <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName>. The 
 <lb/><term type="occupation">governor</term> of <placeName><country><choice><orig>Mosambique</orig><reg>Mozambique</reg></choice></country></placeName> offers
 <lb/>me a small vessel called Zambesi
 <lb/>but it would be improper to accept
@@ -232,11 +232,11 @@
 <lb/>the Delta. The <term type="people">Portuguese</term> have
 <lb/>all been remarkably kind to me
 <lb/>and my men. The latter are working
-<lb/>at <placeName><settlement type="village">Tete</settlement></placeName> only a few came down
-<lb/>here. There being a famine at <placeName><settlement type="village">Quilimane</settlement></placeName>
+<lb/>at <placeName><settlement type="town">Tete</settlement></placeName> only a few came down
+<lb/>here. There being a famine at <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName>
 
    	<pb facs="liv_000908_0006" n="0006"/>            	
-<lb/>they cannot remain except at <placeName><settlement type="village">Tete</settlement></placeName>
+<lb/>they cannot remain except at <placeName><settlement type="town">Tete</settlement></placeName>
 <lb/>where provisions are abundant
 <lb/>some are employed as boatmen some
 <lb/>as carriers &amp; some bring wood for

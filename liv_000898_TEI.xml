@@ -64,7 +64,7 @@
                     <title>Letter to Edmund Gabriel, 4 April 1856</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1856-04-04">4 April 1856</date><!-- Change -->
-                    <placeName type="compositionPlace"><choice><sic>Tete</sic><corr>Tette</corr></choice></placeName><!-- Change -->
+                    <placeName type="compositionPlace">Tete</placeName><!-- Change -->
                     <persName type="addressee">Edmund Gabriel</persName><!-- Change -->
                 </bibl>
             </sourceDesc>
@@ -89,7 +89,7 @@
                
 	<pb facs="liv_000898_0001" n="0001"/><!-- Change both @facs and @n -->
 <!-- missionaries an orgName or an occupation? Check throughout. MB --><!-- All reviewed. AW -->
-<lb/><dateline><add rend="gray" hand="#U">6</add><placeName><settlement type="village">Tete</settlement></placeName> <date when="1856-04-04">4<hi rend="sub underline">th</hi> April 1856</date></dateline>
+<lb/><dateline><add rend="gray" hand="#U">6</add><placeName><settlement type="town">Tete</settlement></placeName> <date when="1856-04-04">4<hi rend="sub underline">th</hi> April 1856</date></dateline>
 <lb/>    
 <lb/><salute>My Dear M<hi rend="sup underline">r</hi> Gabriel</salute><!-- Change line info as appropriate -->
 <lb/><p rend="center">Herewith I send a <bibl>letter</bibl> to the
@@ -114,13 +114,13 @@
 <lb/>arrival. This is intended to be nothing but gossip,
 <lb/>so you need not read farther unless you
 <lb/>make up your mind to be a sort of accomplice
-<lb/>in it. I intended on reaching <placeName><settlement type="village">Tete</settlement></placeName> to move
+<lb/>in it. I intended on reaching <placeName><settlement type="town">Tete</settlement></placeName> to move
 <lb/>down the river in <measure>3 or 4 days</measure>. but though
 <lb/>I soon began to recover flesh I felt <term type="ailment">something
 <lb/>wrong with the kidneys</term> - <term type="ailment">Urine thick &amp; full of
 <lb/>sediment, yet in small quantity</term> - <term type="ailment">pain in the back</term>.<!-- encode this as ailment? MB -->
 <lb/>I suspect it is what you had when at home.
-<lb/>As <placeName><settlement type="village">Quilimane</settlement></placeName> is reported very deadly and the
+<lb/>As <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName> is reported very deadly and the
 <lb/><term type="occupation">Governor Mayor</term> <persName><choice><abbr><choice><sic>T.AA</sic><corr>T.A.A.</corr></choice></abbr><expan>Tito Augosto d'Araujo</expan></choice><!-- Not sure what the expanded version might be -EM --><!-- Fixed. AW --> Secard</persName> kindly advised
 <lb/>me to remain with him till this month which
 <lb/>is more salubrious. I thought my duty to <unclear cert="high">accede</unclear></p>
@@ -145,7 +145,7 @@
 <lb/>this was much in my favour, and I feel
 <lb/>abundantly thankful to you and all concerned in
 <lb/>the matter - I expect a rich treat in <bibl>letters</bibl> when
-<lb/>I get there - But <placeName><settlement type="village">Quilimane</settlement></placeName> has such a bad
+<lb/>I get there - But <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName> has such a bad
 <lb/>name I hope to get quickly past it. They can give
 <lb/>no information except that there is an instrument
 <lb/>and some luggage - I suppose <bibl>Newspapers</bibl>
@@ -223,7 +223,7 @@
 <lb/>I was sufficiently irate, but in revenge took <term type="plant_foodstuff">curry
 <lb/>powder</term> when I got a <term type="animal_foodstuff">fowl</term> and that did as well-
 <lb/>Query. Would going up the centre of the continent
-<lb/><add place="above">East of <placeName><settlement type="village"><persName>Matiamvo</persName></settlement></placeName></add><!-- Not sure what this is -EM --><!-- Fixed. AW -->
+<lb/><add place="above">East of <placeName><settlement type="village"><persName><choice><orig><choice><orig>Matiamvo</orig><reg>Mwata Yamvo</reg></choice></orig><reg>Mwant Yav</reg></choice></persName></settlement></placeName></add><!-- Not sure what this is -EM --><!-- Fixed. AW -->
 <lb/>and besides preaching good will to man 
 <lb/>inducing the tribes to trade to the coast be feasible
 <lb/>in your estimation. I intend first of all to

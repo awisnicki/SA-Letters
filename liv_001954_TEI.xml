@@ -116,7 +116,7 @@
 	<pb facs="liv_001954_0001" n="0001"/>
 
 <opener>,
-<lb/><dateline rend="right"><placeName><geogName type="cataracts">Cataracts of the <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName> <date when="1863-07-25">25 July <add place="above marginright" rend="black"><hi rend="underline">2</hi></add> 
+<lb/><dateline rend="right"><placeName><geogName type="cataract">Cataracts of the <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName> <date when="1863-07-25">25 July <add place="above marginright" rend="black"><hi rend="underline">2</hi></add> 
 <lb/>1863</date></dateline>
 <lb/><!-- Stamp: Kimbereley Public Library -->    
 <lb/><salute>My Dear Nephew</salute>
@@ -177,7 +177,7 @@
 <lb/>to be <orgName>heathen</orgName> all but in
 <lb/>name</p>
 <lb/><p>I am carrying about
-<lb/>past the <placeName><geogName type="cataracts">cataracts of the 
+<lb/>past the <placeName><geogName type="cataract">cataracts of the 
 <lb/><placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName><add rend="gray" hand="#U">,</add> to explore<add rend="gray" hand="#U">,</add> if possible <add rend="gray" hand="#U">,</add>
 <lb/>the <placeName><region>North end of the 
 <lb/><placeName><geogName type="lake">Lake <choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName></region></placeName> before 

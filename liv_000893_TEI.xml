@@ -120,7 +120,7 @@
 
 <!-- If this is a letter or similar with an opener (with content such as dateline and/or salute) add it. For example: -->
 <opener>
-<lb/><dateline rend="right"><placeName><settlement type="village">Tete</settlement></placeName>, or <placeName><settlement type="village">Nyungué</settlement></placeName> <add place="above" rend="gray" hand="#U">36</add>
+<lb/><dateline rend="right"><placeName><settlement type="town">Tete</settlement></placeName>, or <placeName><settlement type="village">Nyungué</settlement></placeName> <add place="above" rend="gray" hand="#U">36</add>
 <lb/>on the <placeName><geogName type="river">Zambesi</geogName></placeName>, <placeName><bloc>Africa</bloc></placeName>
 <lb/><date when="1856-03-26">26<hi rend="sup underline">th</hi> March 1856</date></dateline> 
 <lb/><persName>Alfred Duprat, Esquire</persName>
@@ -175,7 +175,7 @@
 <lb/>I landed on its shores 16 years ago.
 <lb/>you need expect nothing from me
 <lb/>then, but the present <term type="occupation">Governor</term> of 
-<lb/><placeName><settlement type="village">Tete</settlement><!-- Is Tete a city or a village? MB --></placeName>, <persName><term type="occupation">Mayor</term> Augusto d' Araujo
+<lb/><placeName><settlement type="town">Tete</settlement><!-- Is Tete a city or a village? MB --></placeName>, <persName><term type="occupation">Mayor</term> Augusto d' Araujo
 <lb/>Secard</persName>, will very gladly collect or
 <lb/>cause to be collected - <del><gap extent="2" unit="chars"/></del> the <term type="plant_foodstuff">seeds of 
 <lb/>all the edible fruits</term> in this vicinity

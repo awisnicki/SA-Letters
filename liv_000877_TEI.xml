@@ -95,7 +95,7 @@
 
 <opener>
 <lb/><add place="inline" rend="gray" hand="#U">5) -</add> <add place="inline" rend="right gray" hand="#U">33.1</add>
-<lb/><dateline rend="right"><placeName>Near <placeName><settlement type="village">Tete</settlement></placeName> or <placeName>Nyunkwe</placeName></placeName> on
+<lb/><dateline rend="right"><placeName>Near <placeName><settlement type="town">Tete</settlement></placeName> or <placeName>Nyunkwe</placeName></placeName> on
 <lb/>the river <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> <date when="1856-02-15">15<hi rend="sup underline">th</hi> <choice><abbr>Feby</abbr><expan>February</expan></choice> 1856</date></dateline>
 <lb/>    
 <lb/><salute rend="center"><persName>Thomas Maclear, Esquire</persName>
@@ -249,7 +249,7 @@
 <lb/>and there is water carriage in three directions beyond
 <lb/>one of them to <persName><choice><orig>Mosilikatze</orig><reg>Mzilikazi</reg></choice></persName> - another to the
 <lb/><placeName><geogName type="river">Bashukulompo</geogName></placeName> and by the <placeName><geogName type="river"><choice><orig>Loangua</orig><reg>Luangwa</reg></choice></geogName></placeName> to near
-<lb/><persName>Cazembe</persName> in <placeName><region>Londa</region></placeName> - Indeed <persName>Pereira</persName> went
+<lb/><persName>Cazembe</persName> in <placeName><region><choice><orig>Londa</orig><reg>Lunda</reg></choice></region></placeName> - Indeed <persName>Pereira</persName> went
 <lb/>thither by this route - A <term type="plant"><term type="plant_foodstuff">mango</term> tree</term> measuring
 <lb/><measure>fifteen feet in circumference</measure> in one of the
 <lb/>gardens was with the exception of some <term type="plant_foodstuff">Tamarind</term>
@@ -261,7 +261,7 @@
 <lb/>were fashionable here too - and that the <term type="people">Portuguese</term>
 <lb/>being unable to make the mother country foot the
 <lb/>bills they had been for the last two years shut up
-<lb/>in their fort at <placeName><settlement type="village">Tete</settlement></placeName>. I cannot pretend to a
+<lb/>in their fort at <placeName><settlement type="town">Tete</settlement></placeName>. I cannot pretend to a
 <lb/>knowledge of the causes of this uncomfortable
 <lb/>state of things - "Uncomfortable" rather for me
 <lb/>for I have unwittingly lugged myself into the
@@ -300,7 +300,7 @@
 <lb/>that he has travelled or lived among people equal
 <lb/>to those who have <unclear cert="medium">bangled</unclear> about the brave <term type="nationality">British</term>
 <lb/><term type="occupation">soldier</term> <unclear cert="medium">so roughly</unclear> - It is noticeable that the tribe
-<lb/>which drove the <orgName>good men of <placeName><settlement type="village">Tete</settlement></placeName></orgName> into their fort is
+<lb/>which drove the <orgName>good men of <placeName><settlement type="town">Tete</settlement></placeName></orgName> into their fort is
 <lb/>of the real <orgName>Caffre</orgName> or <term type="tribe"><choice><orig>Zulah</orig><reg>Zulu</reg></choice></term> tribe - And firearms &amp;
 <lb/>gunpowder are now contraband all along the coast.
 <lb/>as at the <placeName><region>Cape</region></placeName>. The <term type="occupation">missionaries</term> <del type="strikethrough">too</del> have had no
@@ -424,7 +424,7 @@
 <lb/>the <placeName><geogName type="river">Loeti</geogName></placeName> on the <placeName><region>South</region></placeName> - the numerous rivers
 <lb/>which unite and form the  <placeName><geogName type="river">Chobe</geogName></placeName> - the <placeName><geogName type="river">Embarral</geogName></placeName>
 <lb/>or <placeName><geogName type="river">River of Loebe</geogName></placeName> on the <placeName><region>South West</region></placeName> - &amp; the
-<lb/><placeName><geogName type="river">Casai</geogName></placeName> and its many feeders on the <placeName><region>East</region></placeName></p>
+<lb/><placeName><geogName type="river"><choice><orig>Casai</orig><reg>Kasai</reg></choice></geogName></placeName> and its many feeders on <placeName><region>the East</region></placeName></p>
 <lb/><p><hi rend="right">Brisk <choice><abbr>Ebull</abbr><expan cert="medium">Ebullition</expan></choice></hi></p>
 
 <lb/><list><item><space extent="6" unit="chars"/>Top of Rocks of <placeName><settlement type="village">Pungo Andongo</settlement></placeName> <seg rend="right"><metamark/><hi rend="underline gray">4210</hi><!-- number encircled AM --><hi rend="sup gray">H</hi></seg><seg rend="right">204</seg></item>
@@ -554,11 +554,11 @@
 <lb/>referred already to the <choice><orig>fizzure</orig><reg>fissure</reg></choice> outlet of the <placeName><geogName type="river">Orange River</geogName></placeName>
 <lb/>Information got from <orgName>Arabs</orgName> from <placeName><geogName type="island">Zanzibar</geogName></placeName>
 <lb/>and the <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> who went on a <subst><del>trading</del> <add place="above">marauding</add></subst> <w>expeditio<supplied>n</supplied></w>
-<lb/>to the <placeName><region>East</region></placeName> or <placeName><region><choice><abbr>E N E</abbr><expan>East Northeast</expan></choice> of <settlement type="village"><persName>Masiko</persName></settlement></region></placeName> while we <w>wer<supplied>e</supplied></w>
+<lb/>to <placeName><region>the East</region></placeName> or <placeName><region><choice><abbr>E N E</abbr><expan>East Northeast</expan></choice> of <settlement type="village"><persName>Masiko</persName></settlement></region></placeName> while we <w>wer<supplied>e</supplied></w>
 <lb/>at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> may be cited as next best to
 <lb/>actual observation - the <orgName>Arabs</orgName> say a large <w>rive<supplied>r</supplied></w>
 <lb/>flows from the East or <placeName><region>country of <term type="tribe">Banyassa</term></region></placeName>
-<lb/>(<placeName><geogName type="lake">N'yassa</geogName></placeName>) to the South West and passing near
+<lb/>(<placeName><geogName type="lake"><choice><orig>N'yassa</orig><reg>Nyasa</reg></choice></geogName></placeName>) to the South West and passing near
 
 
 	<pb facs="liv_000877_0011" n="0011"/>
@@ -614,7 +614,7 @@
 <lb/>on it, and though I have been for a month on the
 <lb/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> I have <del type="strikethrough">had</del> suffered nothing from <term type="ailment">fever</term>
 <lb/>this however is partly owing to having had <term type="foodstuff">wheaten bread</term>
-<lb/>and not the mere starch of <placeName><region>Londa</region></placeName> <term type="plant_foodstuff"><foreign xml:lang="pt">manioc</foreign></term> &amp; <term type="plant_foodstuff"><term type="animal">bird</term>'s seed</term>.
+<lb/>and not the mere starch of <placeName><region><choice><orig>Londa</orig><reg>Lunda</reg></choice></region></placeName> <term type="plant_foodstuff"><foreign xml:lang="pt">manioc</foreign></term> &amp; <term type="plant_foodstuff"><term type="animal">bird</term>'s seed</term>.
 <lb/><placeName><settlement type="village">Zumbo</settlement></placeName> was healthy - not because it was elevated for
 <lb/>the country is all low - the ranges of hills which run
 <lb/>all along on each side of the river are not so high as
@@ -641,7 +641,7 @@
 <lb/>may be honoured to do some good to this poor
 <lb/>degraded <choice><sic>trodden down</sic><corr>trodden-down</corr></choice> <placeName><bloc>Africa</bloc></placeName> is a wish in
 <lb/>which you will I doubt not cordially join -</p>
-<lb/><p>Reached <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> <date when="1856-03-02">2<hi rend="sup">d</hi> March</date> pretty well tired from
+<lb/><p>Reached <placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> <date when="1856-03-02">2<hi rend="sup">d</hi> March</date> pretty well tired from
 <lb/><term type="occupation">marching</term> through a rough stoney country without path
 <lb/><term type="people">Portuguese</term> very very kind, thanks to <persName>M<hi rend="sup">r</hi> Duprat</persName> -</p>
 <closer>

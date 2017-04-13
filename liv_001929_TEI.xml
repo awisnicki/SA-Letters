@@ -83,7 +83,7 @@
 <opener>
 <lb/><add place="marginleft" hand="#U"><!-- diagonal -->Enclosure sent
 <lb/>via <unclear cert="low">N.S Field</unclear></add>
-<lb/><dateline rend="right"><placeName><geogName type="cataracts">Cataracts of the <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName> 
+<lb/><dateline rend="right"><placeName><geogName type="cataract">Cataracts of the <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName> 
 <lb/><date when="1863-07-03">3 July 1863</date></dateline>
 <!--I can't tell whether Livingstone wrote part or all of this line and the marginal note. I assumed no in my coding. He appeared to be running out of ink by the end so that could account for the gray and tiny handwriting. -AA --><!-- It's another hand here and elsewhere, as noted. AW -->
 <lb/><add place="inspace" hand="#U"><choice><abbr>Rec<hi rend="sup underline">d</hi></abbr><expan>Received</expan></choice> <date when="1866-03-27">27 March 1864</date></add>    
@@ -112,7 +112,7 @@
 <lb/>when we found
 <lb/>that the <orgName><term type="nationality">Portuguese</term>
 <lb/><orgName><term type="occupation"><orgName>slave</orgName> hunters</term></orgName></orgName> of 
-<lb/><placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> 
+<lb/><placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> 
 <lb/>aided by a drought
 <lb/>had completely
 <lb/>depopulated the
@@ -149,7 +149,7 @@
 <lb/>should <persName>Robert</persName> not
 <lb/>have an opportunity
 <lb/>of coming up to
-<lb/><placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName>, <placeName><country>Mozambique</country></placeName>, 
+<lb/><placeName><settlement type="town"><choice><orig>Quillimane</orig><reg>Quelimane</reg></choice></settlement></placeName>, <placeName><country>Mozambique</country></placeName>, 
 <lb/>or <placeName><geogName type="island">Johanna</geogName></placeName> before
 <lb/>that will you direct
 <lb/>him, to any situation

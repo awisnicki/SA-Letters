@@ -99,9 +99,9 @@
 <lb/>rendered to us by your direction
 <lb/>by <persName><term type="occupation">Captain</term> Wilson</persName> of <choice><abbr>H.M.S.</abbr><expan>Her Majesty's Ship</expan></choice>
 <lb/>Gorgon.</p>
-<lb/><p>On reaching the <placeName><geogName type="marsh"><term type="animal">Elephant</term>
+<lb/><p>On reaching the <placeName><geogName type="swamp"><term type="animal">Elephant</term>
 <lb/>marsh</geogName></placeName> about <measure>30 miles</measure> below the
-<lb/><placeName><geogName type="cataracts">cataracts of the <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName> in <date when="1861-06">June last
+<lb/><placeName><geogName type="cataract">cataracts of the <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName> in <date when="1861-06">June last
     
     <pb facs="liv_001730_0002" n="0002"/>
 <lb/>year</date> we found that the river shoaled
@@ -116,9 +116,9 @@
 <lb/>to the people, we accompanied him
 <lb/>by a few days march up to the
 <lb/><placeName><geogName type="highlands"><term type="tribe">Maganja</term> highlands</geogName></placeName> <!-- I coded this as a geographical feature. Please check that this is correct. JM --> East of the
-<lb/><placeName><geogName type="cataracts"><placeName><geogName type="river">Shire</geogName></placeName> cataracts</geogName></placeName> - <space extent="1" unit="chars"/>When we had just
+<lb/><placeName><geogName type="cataract"><placeName><geogName type="river">Shire</geogName></placeName> cataracts</geogName></placeName> - <space extent="1" unit="chars"/>When we had just
 <lb/>passed over the brow of the first
-<lb/>plateau we met a party of <orgName><placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName>
+<lb/>plateau we met a party of <orgName><placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName>
 <lb/><orgName>slaves</orgName></orgName> driving <orgName>84 captives</orgName> before
 <lb/>them - <space extent="1" unit="chars"/>They had followed the
 <lb/>footsteps of our discoveries and
@@ -150,7 +150,7 @@
 <lb/>river - <space extent="1" unit="chars"/>This movement failed but
 <lb/>a <orgName>body of men with about ninety
 <lb/>muskets</orgName>, and headed by a <orgName>white
-<lb/><term type="nationality">Portuguese</term></orgName> from <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName>, was deterred
+<lb/><term type="nationality">Portuguese</term></orgName> from <placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName>, was deterred
 <lb/>from joining the <term type="tribe">Ajawa</term> by hearing
 <lb/>of <persName>D<hi rend="sup underline">r</hi> Kirk</persName>'s return to the ship -</p>
 <lb/><p>We found the <term type="tribe">Maganja</term> all
@@ -184,7 +184,7 @@
 <lb/>with the natives before -</p>
 <lb/><p>We then left - returned to
 <lb/>the ship and carried a boat
-<lb/>past the <placeName><geogName type="cataracts">cataracts of the <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName>
+<lb/>past the <placeName><geogName type="cataract">cataracts of the <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName>
 <lb/>there are five cataracts in 35'
 <lb/>of Latitude of <measure>100 or 150 feet</measure>
 <lb/>each - the whole descent amounts
@@ -193,7 +193,7 @@
     <pb facs="liv_001730_0006" n="0006"/>
 <lb/>launched the boat above the <w>upper<supplied>-</supplied>
 <lb break="no"/>-most</w> cataract we were virtually
-<lb/>on the <placeName><geogName type="lake">Lake Nyassa</geogName></placeName> or <placeName><geogName type="lake">Nyinyesi</geogName></placeName>
+<lb/>on the <placeName><geogName type="lake">Lake <choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName> or <placeName><geogName type="lake">Nyinyesi</geogName></placeName>
 <lb/>because the <placeName><geogName type="river">upper Shire</geogName></placeName> is all
 <lb/>smooth and deep - There are <measure>sixty
 <lb/>miles</measure> of five gently flowing <unclear cert="medium">river</unclear>
@@ -251,7 +251,7 @@
 <lb/>of 19,000 <orgName>slaves</orgName> which pass annually
 <lb/>through the custom house of
 <lb/><placeName><geogName type="island">Zanzibar</geogName></placeName>, the chief portion comes
-<lb/>from <placeName><geogName type="lake">Lake Nyassa</geogName></placeName>, and the
+<lb/>from <placeName><geogName type="lake">Lake <choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName>, and the
 <lb/><placeName><geogName type="valley">valley of the <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName>; and that should
 <lb/>it ever be possible to place a
 <lb/>steamer on the Lake the trade<!-- geog:Lake Nyassa -->
@@ -267,7 +267,7 @@
 <lb/>to a steamer on the Lake we have<!-- geog: Lake Nyassa -->
 <lb/>an outlet to the <measure>three hundred
 <lb/>miles</measure> of cotton field which in
-<lb/>the <placeName><geogName type="river">upper Shire</geogName></placeName>, and <placeName><geogName type="lake">Lake Nyassa</geogName></placeName>
+<lb/>the <placeName><geogName type="river">upper Shire</geogName></placeName>, and <placeName><geogName type="lake">Lake <choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName>
 <lb/>we have opened up - It must be
 <lb/>beyond <term type="nationality">Portuguese</term> claims, and
 <lb/><placeName><geogName type="river">Rovuma</geogName></placeName> seems to be best adapted
@@ -277,7 +277,7 @@
 <lb/>a port at the mouth of the <placeName><geogName type="river">Shire</geogName></placeName>
 <lb/>intends to enrich itself by dues
 <lb/>from the <term type="plant">cotton</term> trade, while
-<lb/>the <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> <term type="occupation">merchants</term> headed by
+<lb/>the <placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> <term type="occupation">merchants</term> headed by
 <lb/>the <term type="occupation">Governor</term> depopulates the
 <lb/>country from which the trade is
 <lb/>to come by <term type="occupation"><orgName>slave</orgName> hunting</term>.</p>
@@ -308,7 +308,7 @@
 <lb/>remembering the important influence
 <lb/><unclear cert="high">that</unclear> free access of <term type="people">Englishmen</term>
 <lb/>into the country will have on
-<lb/>the <orgName><placeName><geogName type="river">Nyassa</geogName></placeName> <orgName>slave</orgName> trade</orgName>, I hope
+<lb/>the <orgName><placeName><geogName type="river"><choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName> <orgName>slave</orgName> trade</orgName>, I hope
 <lb/>you will bear with me in
 <lb/>proposing the exploration of the
 <lb/><placeName><geogName type="river">Rovuma</geogName></placeName> in boats from the sea
@@ -360,7 +360,7 @@
 <lb/>understand matters up here
 <lb/>if I kept silence - The <term type="occupation">bishop</term>
 <lb/>informed us that during
-<lb/>our absence at <placeName><geogName type="lake">Lake Nyassa</geogName></placeName>
+<lb/>our absence at <placeName><geogName type="lake">Lake <choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName>
 <lb/>he had gone about <measure>15 miles</measure>
 <lb/>and attacked another tribe
 <lb/>of <term type="tribe">Ajawas</term> - burned their
@@ -413,7 +413,7 @@
 <lb/>convenience -</p>
      
     <pb facs="liv_001730_0016" n="0016"/>
-<lb/><p>We shall come down to the <placeName><geogName type="harbour">Kongone</geogName></placeName>
+<lb/><p>We shall come down to the <placeName><geogName type="harbor">Kongone</geogName></placeName>
 <lb/>sometime in <date when="1863-03">March</date> and again
 <lb/>in <date when="1863-04">April next</date>.</p>
 <lb/><p rend="no-indent"><space extent="2" unit="words"/>I am Sir

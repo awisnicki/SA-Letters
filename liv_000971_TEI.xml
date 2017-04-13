@@ -170,7 +170,7 @@
 <lb/>the <placeName><geogName type="river">Zambesi</geogName></placeName> above
 	
 	<pb facs="liv_000971_0004" n="0004"/>
-<lb/><add place="margintop" rend="center gray small" hand="#U1">4</add> <placeName><settlement type="city">Tete</settlement></placeName> called the country
+<lb/><add place="margintop" rend="center gray small" hand="#U1">4</add> <placeName><settlement type="town">Tete</settlement></placeName> called the country
 <lb/>of the <term type="tribe"><choice><orig>Basengo</orig><reg>Basango</reg></choice></term>. I
 <lb/>brought specimens
 <lb/>of it and they are
@@ -189,7 +189,7 @@
 <lb/><add place="margintop" rend="left gray small" hand="#U1">5</add> The other <add place="below">^</add> <add place="above">or larger</add> hoes are <add place="margintop" rend="right gray small" hand="#U1">MS 21</add>
 <lb/>said to have been
 <lb/>made by some tribes
-<lb/>near <placeName><settlement type="village">Quilimane</settlement></placeName>	
+<lb/>near <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName>	
 <lb/>I got them from
 <lb/><persName>Colonel Dunes</persName>
 <lb/>of that village as
@@ -252,7 +252,7 @@
 <lb/><persName>Sekeletu</persName> sent to purchase
 	
 	<pb facs="liv_000971_0009" n="0009"/>	
-<lb/><add place="margintop" rend="left gray small" hand="#U1">9</add> his at <placeName><settlement type="city"><w>Quilim<subst><del>e</del><add place="over-text">a</add></subst>ne</w></settlement></placeName><!-- placename before word? MB --><!-- OK as is. AW --> <add place="margintop" rend="right gray small" hand="#U1">MS 21</add>
+<lb/><add place="margintop" rend="left gray small" hand="#U1">9</add> his at <placeName><settlement type="town"><choice><orig><w>Quilim<subst><del>e</del><add place="over-text">a</add></subst>ne</w></orig><reg>Quelimane</reg></choice></settlement></placeName><!-- placename before word? MB --><!-- OK as is. AW --> <add place="margintop" rend="right gray small" hand="#U1">MS 21</add>
 <lb/>but will pay with
 <lb/>my won money
 <lb/>here.</p>

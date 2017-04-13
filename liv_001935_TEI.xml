@@ -83,7 +83,7 @@
 	<pb facs="liv_001935_0001" n="0001"/>
 
 <opener>
-<lb/><dateline rend="right"><placeName><geogName type="cataracts">Cataracts of <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName> 
+<lb/><dateline rend="right"><placeName><geogName type="cataract">Cataracts of <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName> 
 <lb/><date when="1863-07-05">5<hi rend="sup underline">th</hi> July 1863</date></dateline>
 <lb/>    
 <lb/><salute>My Dear Dr. Kirk</salute>

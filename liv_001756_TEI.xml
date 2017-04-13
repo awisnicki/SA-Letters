@@ -121,7 +121,7 @@
 <lb/>We shall endeavour to be
 <lb/>here from <date when="1862-05-20">20<hi rend="sup underline">th</hi> May</date> to <date when="1862-06-01">1<hi rend="sup underline">st</hi> of
 <lb/>June</date> - <space extent="1" unit="chars"/>The shell of the steamer
-<lb/>for <placeName><geogName type="lake">Lake Nyassa</geogName></placeName> will
+<lb/>for <placeName><geogName type="lake">Lake <choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName> will
 <lb/>be then screwed together at
 <lb/><placeName><settlement type="village">Shupanga</settlement></placeName>, and in the event
 <lb/>of having provisions we

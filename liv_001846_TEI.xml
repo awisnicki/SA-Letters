@@ -80,7 +80,7 @@
                
 	<pb facs="liv_001846_0001" n="0001"/>
 <opener>
-<lb/><add place="margintop" rend="left gray small" hand="#U">5-6-9</add><!-- diagonal --> <dateline rend="right"><placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName> <date when="1862-11-19">19<hi rend="sup underline">th</hi> <choice><abbr>Nov<hi rend="sup">r</hi></abbr><expan>November</expan></choice> <add place="margintop" rend="right gray small" hand="#U">MS 8/8</add>
+<lb/><add place="margintop" rend="left gray small" hand="#U">5-6-9</add><!-- diagonal --> <dateline rend="right"><placeName><settlement type="town"><choice><orig>Quillimane</orig><reg>Quelimane</reg></choice></settlement></placeName> <date when="1862-11-19">19<hi rend="sup underline">th</hi> <choice><abbr>Nov<hi rend="sup">r</hi></abbr><expan>November</expan></choice> <add place="margintop" rend="right gray small" hand="#U">MS 8/8</add>
 <lb/>1862</date></dateline>   
 <lb/><salute>My Dear Sunley</salute>
 </opener>
@@ -91,7 +91,7 @@
 <lb/>on Monday, but our coals were
 <lb/>expended and the wind being
 <lb/>contrary we bore away to the
-<lb/><placeName><geogName type="river">Quillimane River</geogName></placeName> to cut wood
+<lb/><placeName><geogName type="river"><choice><orig>Quillimane</orig><reg>Quelimane</reg></choice> River</geogName></placeName> to cut wood
 <lb/>We saw <persName>Prince Mahomet</persName>s
 <lb/>boat close in shore about half
 <lb/>past one - we were scarcely a

@@ -115,7 +115,7 @@
 	<pb facs="liv_001560_0001" n="0001"/>
 
 <opener>
-<lb/><add place="above marginright" hand="#U">ms 8/6</add><dateline rend="right"><placeName><settlement type="village">Senna</settlement></placeName> <date when="1860-04-08">8<hi rend="sup underline">th</hi> April 1860</date></dateline>
+<lb/><add place="above marginright" hand="#U">ms 8/6</add><dateline rend="right"><placeName><settlement type="village"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> <date when="1860-04-08">8<hi rend="sup underline">th</hi> April 1860</date></dateline>
 <lb/>
 <lb/>
 <lb/><add place="above" hand="#U" rend="gray">5-6-9</add> <hi rend="underline">Private</hi>    
@@ -151,7 +151,7 @@
 <lb/>difficulty in the way to each sphere of
 <lb/>labour.  The <placeName><geogName type="river">Shire</geogName></placeName> has <measure>33 miles</measure> of
 <lb/>cataracts and there the passage must<!-- geog: cataracts of Shire -->
-<lb/>alaways be by land - The rapids of <placeName><geogName type="rapids"><choice><orig><w>Kebra-
+<lb/>alaways be by land - The rapids of <placeName><geogName type="rapid"><choice><orig><w>Kebra-
 <lb break="no"/>-basa</w></orig><reg>Cahora Bassa</reg></choice></geogName></placeName> are about the same length and at
 <lb/>present we believe that a powerful steamer
 <lb/>may go up during the period of flood,
@@ -227,7 +227,7 @@
 <lb/>are all the essentials -</p>
 <lb/><p><term type="insect">Mosquito</term> curtains or materials to 
 <lb/>make them with, are invaluable for the 
-<lb/><placeName><geogName><placeName><geogName type="delta">Delta</geogName></placeName><!-- geog: of lower Shire --> and <placeName><geogName type="river">lower Shire</geogName></placeName></geogName></placeName> - The invention deserves
+<lb/><placeName><region><geogName type="delta">Delta</geogName><!-- geog: of lower Shire --> and <placeName><geogName type="river">lower Shire</geogName></placeName></region></placeName> - The invention deserves
 <lb/>a statue in <placeName>Westminster Abbey</placeName>.  On the <placeName><region>Highlands</region></placeName>
 <lb/>there are few or no<subst><del>ne</del><add place="over-text">^</add></subst> <add place="above"><term type="insect">mosquitos</term></add> - On the banks of
 <lb/><placeName><geogName type="lake">Shirwa</geogName></placeName> many, but few on those of <placeName><geogName type="lake">Lake <lb/>Nyasa</geogName></placeName>-</p>

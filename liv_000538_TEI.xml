@@ -124,7 +124,7 @@
 <lb/>a great extent of country with very little trouble. The
 <lb/><orgName>natives</orgName> have canoes upon it and it is called from them
 <lb/>the <placeName><geogName type="lake">Lake of Mokhoro</geogName></placeName> (of the canoe) or according to the
-<lb/>names of different nations living on its banks as of the <placeName><geogName type="river"><choice><orig>Botletli</orig><reg>Botleti</reg></choice></geogName></placeName> <add place="below">&amp;c</add>
+<lb/>names of different nations living on its banks as of the <placeName><geogName type="river"><choice><orig>Botletli</orig><reg>Boteti</reg></choice></geogName></placeName> <add place="below">&amp;c</add>
 
 	<pb facs="liv_000538_0002" n="0002"/>
 <lb/><unclear cert="high">The</unclear> great drawback to travelling in the country is the slowness
@@ -331,7 +331,7 @@
 	<cb rend="vertical"/>
 	<ab>
 	<address>
-<addrLine><del type="strikethrough">Care of <persName><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice> D<hi rend="sup underline">r</hi> <choice><orig><w><gap extent="1" unit="chars" agent="hole"/><supplied>P</supplied>hillip</w></orig><reg>Philip</reg></choice></persName>, <placeName><geogName type="cape"><hi rend="underline">Cape <unclear cert="low">Town</unclear></hi></geogName></placeName></del></addrLine>
+<addrLine><del type="strikethrough">Care of <persName><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice> D<hi rend="sup underline">r</hi> <choice><orig><w><gap extent="1" unit="chars" agent="hole"/><supplied>P</supplied>hillip</w></orig><reg>Philip</reg></choice></persName>, <placeName><settlement type="town"><hi rend="underline">Cape <unclear cert="low">Town</unclear></hi></settlement></placeName></del></addrLine>
 <addrLine><persName><choice><abbr>R.</abbr><expan>Robert</expan></choice> Hayward <add place="above" hand="#U2"><hi rend="large"><metamark/></hi></add> Esq<hi rend="sup underline">uire</hi></persName> <add place="above" rend="vertical large brown" hand="#U1"><del type="cancelled">Mr</del></add></addrLine>
 <addrLine rend="right"><del type="cancelled"><placeName>Victoria Cresent</placeName></del></addrLine>
 <addrLine rend="right"><del type="cancelled"><placeName>Ramsgate</placeName></del></addrLine>

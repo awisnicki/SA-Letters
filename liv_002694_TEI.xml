@@ -106,7 +106,7 @@
 <lb/>a safe person at <placeName><country><w>Mosam<supplied>-</supplied>
 <lb break="no"/>-bique</w></country></placeName> or write there desiring
 <lb/>a ship to call &amp; send in
-<lb/>a boat to <placeName><settlement type="village"><choice><orig>Kilimane</orig><reg>Quilimane</reg></choice></settlement></placeName> - do
+<lb/>a boat to <placeName><settlement type="town"><choice><orig>Kilimane</orig><reg>Quelimane</reg></choice></settlement></placeName> - do
 <lb/>what you think will be
 <lb/>the best for forwarding
 <lb/>them to their destination
@@ -129,7 +129,7 @@
 <lb/><space extent="2" unit="chars"/><term type="plant_foodstuff">Nutmegs</term> <choice><orig>1/2</orig><reg>1/2</reg></choice> a dozen
 <lb/><space extent="1" unit="chars"/>and a fine wine
 <lb/><space extent="2" unit="chars"/>sieve if you have
-<lb/><space extent="2" unit="chars"/>such things at <placeName><settlement type="village">Quilimane</settlement></placeName>
+<lb/><space extent="2" unit="chars"/>such things at <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName>
 <lb/><space extent="2" unit="chars"/>to sift <term type="foodstuff">flour</term> -
 <lb/><space extent="2" unit="chars"/><term type="foodstuff"><placeName><country><choice><orig>Mosambique</orig><reg>Mozambique</reg></choice></country></placeName> coffee</term> will
 <lb/><space extent="3" unit="chars"/>do if you have us <term type="foodstuff"><placeName><geogName type="island">Zanzibar</geogName></placeName></term>

@@ -260,7 +260,7 @@
 <lb/>see cultivated patches from
 <lb/>below. <placeName><geogName type="range"><choice><orig>Milanje</orig><reg>Mulanje</reg></choice> range</geogName></placeName> is inhabited 
 <lb/>too, but another range on
-<lb/>the Eastern side of the Lake <!-- geog: Lake Shirwa -->
+<lb/>the <placeName><region>Eastern side of the Lake</region></placeName> <!-- geog: Lake Shirwa -->
 <lb/>seems over <measure>six thousand feet</measure>
 <lb/>and so bold and rugged it 
 <lb/>looks inaccessible - The whole
@@ -324,7 +324,7 @@
 <lb/>it with the "<placeName><geogName type="lake">Lake Maravi</geogName></placeName>"
 <lb/>of the <bibl>maps</bibl>;<!-- bibl here? --><!-- Yes. AW --> nor can we
 <lb/>set it down as that mentioned by
-<lb/><persName>Sehor Candido</persName> of <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> as <measure>forty five
+<lb/><persName>Sehor Candido</persName> of <placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> as <measure>forty five
 <lb/>days</measure> <choice><abbr>S.S.W.</abbr><expan>South South West</expan></choice> of that point.
 <lb/>No <term type="people">Portuguese</term> even pretends to
 <lb/>know anything about it. I think
@@ -336,7 +336,7 @@
 <lb/>("<foreign xml:lang="pt"><hi rend="underline">feirantes pretos</hi></foreign>" according to the 
 <lb/><bibl>History of Angola</bibl> &amp; <term type="nationality">Portuguese</term> Archives)
 <lb/>who in the memory of a lady
-<lb/>now living at <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> came thither
+<lb/>now living at <placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> came thither
 <lb/>but proceeded no further - They
 <lb/>failed by <measure>300 miles</measure> of what was
 <lb/>claimed for them, and had they 
@@ -515,7 +515,7 @@
 <lb/>order to this alone - We came close
 <lb/>to a large party of <term type="tribe">Bajana</term>
 <lb/><term type="occupation"><orgName>slave</orgName> traders</term> who are in the habit
-<lb/>of taking <orgName>slaves</orgName> down to <placeName><settlement type="village">Quilimane</settlement></placeName>
+<lb/>of taking <orgName>slaves</orgName> down to <placeName><settlement type="town"><orig>Quilimane</orig><reg>Quelimane</reg></settlement></placeName>
 <lb/>but they persuaded the people to 
 <lb/>mislead us so that we did not
 <lb/>see them. Some of the women
@@ -566,9 +566,9 @@
 <lb/>of <placeName><country><choice><orig>Mosambique</orig><reg>Mozambique</reg></choice></country></placeName> - How is it that these
 <lb/><foreign xml:lang="pt">feirantes pretos</foreign> as the <bibl>History of Angola</bibl>
 <lb/>calls them did not cross or come near
-<lb/>it - <space extent="2" unit="chars"/>An old lady at <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> remembers
-<lb/><persName>Baptista</persName> &amp; <persName>Jose</persName> coming to <placeName><settlement type="village"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> - <orgName>black
-<lb/>men</orgName> with the wool dressed <placeName><region><term type="tribe">Londa</term></region></placeName> <w>fashi<gap agent="hole" extent="2" unit="chars"/></w>
+<lb/>it - <space extent="2" unit="chars"/>An old lady at <placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> remembers
+<lb/><persName>Baptista</persName> &amp; <persName>Jose</persName> coming to <placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> - <orgName>black
+<lb/>men</orgName> with the wool dressed <placeName><region><term type="tribe"><choice><orig>Londa</orig><reg>Lunda</reg></choice></term></region></placeName> <w>fashi<gap agent="hole" extent="2" unit="chars"/></w>
 <lb/>and Lond swords on their shoulders I<gap agent="hole" extent="4" unit="chars"/>
 <lb/>must know farther cousequently failed
 <lb/>by <hi rend="underline">some</hi> <measure>400 miles</measure> of going across
@@ -583,7 +583,7 @@
 <lb/>that a colony of our own people must
 <lb/>be planted in the <placeName><region>Interior</region></placeName> for any good to 
 <lb/>be done - <orgName><term type="nationality">French</term> emigration</orgName> in chains goes 
-<lb/>on from <placeName><settlement type="village">Quilimane</settlement></placeName> regularly - <persName>Secard</persName> is 
+<lb/>on from <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName> regularly - <persName>Secard</persName> is 
 <lb/>superseded by <term type="occupation">Governors</term> under <term type="nationality">French</term> influence</p>
 
 <cb rend="left vertical upside-down"/>

@@ -83,7 +83,7 @@
 	<!-- Start each page with a <pb> formatted as above -->
 <!-- If this is a letter or similar with an opener (with content such as dateline and/or salute) add it. For example: -->
 <opener>
-<lb/><add place="margintop" rend="center gray" hand="#U">LX</add> <dateline rend="right"><placeName><settlement type="village"><choice><orig>Quillimane</orig><reg>Quilimane</reg></choice></settlement></placeName> <date when="1862-10-17">17<hi rend="sup underline">th</hi><choice><abbr>Oct.</abbr><expan>October</expan></choice>      
+<lb/><add place="margintop" rend="center gray" hand="#U">LX</add> <dateline rend="right"><placeName><settlement type="town"><choice><orig>Quillimane</orig><reg>Quelimane</reg></choice></settlement></placeName> <date when="1862-10-17">17<hi rend="sup underline">th</hi><choice><abbr>Oct.</abbr><expan>October</expan></choice>      
 <lb rend="right"/>1862</date></dateline> 
 <lb/>
 <lb/><salute>Dear Sir</salute><!-- Change line info as appropriate -->

@@ -88,7 +88,7 @@
 	<pb facs="liv_001350_0001" n="0001"/>
 
 <opener>
-<lb/><add place="above marginleft" rend="gray" hand="#U1">ms 17/1</add><dateline rend="right"><placeName><geogName type="island">Island of Pita</geogName></placeName>, above <placeName><settlement type="village">Senna</settlement></placeName> 
+<lb/><add place="above marginleft" rend="gray" hand="#U1">ms 17/1</add><dateline rend="right"><placeName><geogName type="island">Island of Pita</geogName></placeName>, above <placeName><settlement type="village"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> 
 <lb/><date when="1858-08-25">25<hi rend="sup underline">th</hi> August 1858</date></dateline><!-- Change line info as appropriate -->
 <lb/><space extent="9" unit="chars"/><add rend="red" hand="#U2">14</add>  
 <lb/><salute>My Dear Dr. Kirk</salute><!-- Change line info as appropriate -->
@@ -99,7 +99,7 @@
 <lb/>let you know that we have been obliged
 <lb/>to alter our plan so far as to leave
 <lb/>the Pinnace here in charge of <persName>M<hi rend="sup underline">r</hi> <unclear>Baines</unclear></persName>
-<lb/>We reached <placeName><settlement type="village">Senna</settlement></placeName> in <measure>four days</measure> being
+<lb/>We reached <placeName><settlement type="village"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> in <measure>four days</measure> being
 <lb/>the shortest voyage made though
 <lb/>the water is now getting very shoal
 <lb/>and we had a whole boat overturned
@@ -112,7 +112,7 @@
 <lb/>nearly carried away by the current
 <lb/>he having jumped in to save things
 <lb/>and <persName>Tom Jumbo</persName> nobly saved him
-<lb/>We spent part of two days at <placeName><settlement type="village">Senna</settlement></placeName>
+<lb/>We spent part of two days at <placeName><settlement type="village"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName>
 <lb/>then came on - with two pilots who
 <lb/>have led us into difficulties several
 <lb/>times - In going into doubtful places</p>
@@ -135,7 +135,7 @@
 <lb/>she draws so much as to be a great hindrance
 <lb/><persName>Baines</persName> volunteered to remain with her and
 <lb/>I declined as one of the objects I had in view
-<lb/>was to get him up to <placeName><settlement type="village">Tete</settlement></placeName>, but having lost
+<lb/>was to get him up to <placeName><settlement type="town">Tete</settlement></placeName>, but having lost
 <lb/>a whole day by <persName>Jumbo</persName> not having the
 <lb/>anchor ready when she began to slew round
 <lb/>I see is it absolutely necessary to make a
