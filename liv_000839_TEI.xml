@@ -532,7 +532,7 @@
 <lb/>odd things one meets with throughout <placeName><bloc>Africa</bloc></placeName>,
 <lb/>generosity is looked upon as weakness,
 <lb/>but one must just do good knowing 
-<lb/>the master whom we serve. The <foreign xml:lang="pt"><orgName>Empaccaserros</orgName></foreign>
+<lb/>the master whom we serve. The <foreign xml:lang="pt"><orgName><choice><sic>Empaccaserros</sic><corr>Empacaseiros</corr></choice></orgName></foreign>
 <lb/>took <term type="nationality">French</term> leave of me at <placeName><settlement type="village">Malange</settlement></placeName>-
 <lb/>Thus going <measure>3 or 4 days</measure> march instead of 
 <lb/>as many or more months. They left
@@ -677,7 +677,7 @@
 <lb/><orgName>Zambesians</orgName> call it <foreign xml:lang="und"><term type="plant">Maroro</term></foreign>. It 
 <lb/>yields a yellow fruit about the size
 <lb/>of a <term type="plant_foodstuff">guava</term>. some are pleasant
-<lb/>tasted - <orgName>my men</orgName> &amp; <orgName>the inhabitants
+<lb/>tasted - <orgName>my men</orgName> &amp; the <orgName>inhabitants
 <lb/>of the country</orgName> eat it freely - I send
 <lb/>the seeds - It <del><gap extent="1" unit="chars"/></del><!-- overwriting here? MB--><!-- Fixed. AW -->resembles the <term type="plant_foodstuff">sweet sop</term>
 <lb/>or <term type="plant_foodstuff">custard apple of <placeName><country>India</country></placeName></term>
@@ -987,7 +987,7 @@
 <lb/>own house hath denied the faith and
 <lb/>is worse than an "<orgName>infidel</orgName>" <persName><choice><abbr>St</abbr><expan>Saint</expan></choice> Paul</persName>). For
 <lb/>I always since I knew the value of
-<lb/><orgName>Christianity</orgName> wished to spend my life in
+<lb/><term type="faith">Christianity</term> wished to spend my life in
 <lb/>propagating its blessings among men.
 <lb/>I have the same desire now undiminished
 <lb/>but to leave my family to the tender

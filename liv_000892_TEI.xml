@@ -100,7 +100,7 @@
 <lb/>a hasty letter to the <persName>Right Reverend Lord Bishop</persName>
 <lb/>of <placeName><country>Angola</country></placeName> immediately after my arrival
 <lb/>at the town of <persName>Sekeletu</persName> and sent it by the
-<lb/><orgName>Arab</orgName> <persName>Ben Habib</persName> of <placeName><geogName type="island">Zanzibar</geogName></placeName> who was
+<lb/><orgName>Arab</orgName> <persName><choice><orig>Ben</orig><reg>Bin</reg></choice> Habib</persName> of <placeName><geogName type="island">Zanzibar</geogName></placeName> who was
 <lb/>appointed to head another party with ivory
 <lb/>for <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>. This letter may appear as
 <lb/>a repitition of the information contained
@@ -113,7 +113,7 @@
     
     <pb facs="liv_000892_0002" n="0002"/>
 <lb/>from a savage nation. The presents of both
-<lb/>the <orgName>Government</orgName> and <orgName><term type="occupation">merchants</term> of <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></orgName>
+<lb/>the <orgName><orgName>Government</orgName> and <orgName><term type="occupation">merchants</term> of <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></orgName></orgName>
 <lb/>were delivered in presence of a large concourse 
 <lb/>of people including some strangers, and
 <lb/>translations of the <bibl>letters</bibl> to <persName>Sekeletu</persName> read aloud
@@ -133,7 +133,7 @@
 <lb/>in prospect of being able to trade with
 <lb/><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> expressed over and over again
 <lb/>must be considered as the answer
-<lb/>to the letters of <orgName>Government</orgName> and the <term type="occupation">Merchants</term>
+<lb/>to the <bibl>letters of <orgName><orgName>Government</orgName> and the <term type="occupation">Merchants</term></orgName></bibl>
 <lb/>for when I asked afterwards what I
 <lb/>should say in my letter the same expression
 <lb/>was made use of. I consider the
@@ -151,7 +151,7 @@
 <lb/>the party being ordered only to "look and
 <lb/>learn", I gave my opinion that it would
 <lb/>be better to send them via <persName>Pitsane</persName>, As
-<lb/>both the <orgName>Government</orgName> and <term type="occupation">merchants</term>
+<lb/>both the <orgName><orgName>Government</orgName> and <term type="occupation">merchants</term></orgName>
 <lb/>would estimate their value not by the
 <lb/>amount, but as <choice><orig>shewing</orig><reg>showing</reg></choice> proper feelings
 <lb/>of respect and gratitude. The fact of

@@ -282,7 +282,7 @@
 <lb/>and surely the gentlemen of <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> would
 <lb/>not consider it beneath their notice
 <lb/>to secure an article of export by
-<lb/>requesting their home <orgName>government</orgName>
+<lb/>requesting <orgName>their home government</orgName>
 <lb/>to order a ship to call at <placeName><geogName type="bay">Table bay</geogName></placeName> <!-- bays are not geogFeat, right? MB -->for
 <lb/>the seed - <space extent="1" unit="chars"/>There are not port charges ther -
 <lb/>The people go on the principle of the more

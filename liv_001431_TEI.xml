@@ -141,7 +141,7 @@
 <lb/>banks night and day we retired in order
 <lb/>to let out (though I say it) decently civil conduct
 <lb/>have its effect, and in the end of <date when="1859-03">March</date>
-<lb/>returned, and found the inhabitants so <w>frien<add place="over-text">dl</add>y</w>,
+<lb/>returned, and found the <orgName>inhabitants</orgName> so <w>frien<add place="over-text">dl</add>y</w>,
 <lb/>that we left the vessel with a <term type="occupation">chief</term> named
 <lb/><persName>Chibisa</persName>; <add place="above"><measure>(16º2')</measure></add><!-- Are these geo coordinants? MB --><!-- Looks like it. AW --> and with <persName>D<hi rend="sup underline">r</hi> Kirk</persName> and 15 <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term>
 <lb/>proceeded Northwards on foot - Our course
@@ -214,7 +214,7 @@
 <lb/>Now the <term type="people">Portuguese</term> knew nothing of this Lake<!-- Does Portugues need a term tag too? MB -->
 <lb/>being so near - <choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 15 23'. <choice><abbr>S.</abbr><expan>South</expan></choice> the point we reached
 <lb/><choice><abbr>Long.</abbr><expan>Longitude</expan></choice> 35° 35' &amp; 36° <choice><abbr>E.</abbr><expan>East</expan></choice> and we tell them very little -
-<lb/>we allow our own <orgName>Government</orgName> to do that
+<lb/>we allow <orgName>our own Government</orgName> to do that
 <lb/>(tell them) for when I crossed the continent the <term type="people">Portuguese</term>
 <lb/><term type="occupation">minister</term> claimed the honour for two black men
 <lb/>(<bibl>Blue <choice><orig>book</orig><reg>Book</reg></choice> for <date when="1857">1857</date></bibl>) with <term type="people">Portuguese</term> names, in
@@ -228,7 +228,7 @@
 <lb/><orgName>emigrants</orgName> <!--emigrants encoded as orgName? MB --><!-- OK. AW -->being sent out in chains - you 
 <lb/>will thus see that I cannot have much
 <lb/>heart to open up a country for a parcel of
-<lb/><orgName><term type="nationality">Portuguese</term> <term type="occupation">pedlars in mens bodies &amp; souls</term></orgName>,
+<lb/><orgName><term type="nationality">Portuguese</term> <term type="occupation">pedlars in <choice><sic>mens</sic><corr>men's</corr></choice> bodies &amp; souls</term></orgName>,
 <lb/>but I trust in Providence to turn all round to the
 <lb/>glory of God - We were obliged to wait for a
 <lb/>stronger vessel to take us up the rapids above
