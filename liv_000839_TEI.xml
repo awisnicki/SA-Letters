@@ -950,7 +950,7 @@
 <lb/>Have you colours to give a slight tint
 <lb/>to the different rocks - in the sketch - If
 <lb/>not never mind - I have taken one
-<lb/>sketch of <placeName><geogName>Pungo Andongo</geogName></placeName><!-- settlement or region? MB --><!-- Let's just do geogName. AW --> from
+<lb/>sketch of <placeName><geogName type="feature"><settlement type="village">Pungo Andongo</settlement></geogName></placeName><!-- settlement or region? MB --><!-- Let's just do geogName. AW --> from
 <lb/><persName>Mr <choice><sic>Piris</sic><corr>Pires</corr></choice></persName> house if I have time I will
 <lb/>send you a copy - It is of course
 <lb/>drawn in superior style. I think

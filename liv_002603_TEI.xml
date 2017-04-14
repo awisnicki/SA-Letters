@@ -573,7 +573,7 @@
 <lb/><!-- There seems to be some sore of mark to the left -->It is supplied by a <add place="above">(12)</add>river called <placeName><geogName type="river"><choice><orig><w>Chambe<subst><del>s</del><add place="over-text">z</add></subst>e</w></orig><reg>Chambezi</reg></choice></geogName></placeName><!-- Second opinion? EM --><!-- OK as is. AW -->
 <lb/>and several others shich may be considered
 <lb/>sources - and out of it flows the large river
-<lb/><placeName><geogName type="river">luapula</geogName></placeName> (<placeName><geogName type="river">Luapula</geogName></placeName>) which enters <placeName><geogName type="lake">Lake
+<lb/><placeName><geogName type="river"><choice><sic>luapula</sic><corr>Luapula</corr></choice></geogName></placeName> (<placeName><geogName type="river">Luapula</geogName></placeName>) which enters <placeName><geogName type="lake">Lake
 <lb/>Moero</geogName></placeName> and comes out as the great lake
 <lb/>river <placeName><geogName type="river">Lualaba</geogName></placeName> to form <placeName><geogName type="lake">Lake Kamolondo</geogName></placeName>. 
 <lb/>West of <placeName><geogName type="lake">Kamolondo</geogName></placeName> but still in the great

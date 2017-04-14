@@ -121,7 +121,7 @@
 <!-- If this is a letter or similar with an opener (with content such as dateline and/or salute) add it. For example: -->
 <opener>
 <lb/><dateline rend="right"><placeName><settlement type="town">Tete</settlement></placeName>, or <placeName><settlement type="village">Nyungué</settlement></placeName> <add place="above" rend="gray" hand="#U">36</add>
-<lb/>on the <placeName><geogName type="river">Zambesi</geogName></placeName>, <placeName><bloc>Africa</bloc></placeName>
+<lb/>on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>, <placeName><bloc>Africa</bloc></placeName>
 <lb/><date when="1856-03-26">26<hi rend="sup underline">th</hi> March 1856</date></dateline> 
 <lb/><persName>Alfred Duprat, Esquire</persName>
 <!-- Change line info as appropriate -->

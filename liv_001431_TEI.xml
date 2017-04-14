@@ -145,7 +145,7 @@
 <lb/>that we left the vessel with a <term type="occupation">chief</term> named
 <lb/><persName>Chibisa</persName>; <add place="above"><measure>(16º2')</measure></add><!-- Are these geo coordinants? MB --><!-- Looks like it. AW --> and with <persName>D<hi rend="sup underline">r</hi> Kirk</persName> and 15 <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term>
 <lb/>proceeded Northwards on foot - Our course
-<lb/>lay along the banks of the <geogName type="river">Shire</geogName> which then
+<lb/>lay along the banks of the <placeName><geogName type="river">Shire</geogName></placeName> which then
 <lb/>was found flowing in a mountainous region.
 <lb/>and though our marches were but short we
 <lb/>each day gained <measure>200 or 300 feet</measure> of elevation;
@@ -153,7 +153,7 @@
 <lb/>ship and in sight of a mountain - <geogName type="mountain">Dzomba</geogName> -
 <lb/>or as people near it call it <geogName type="mountain">Zomba</geogName>, over <measure>6000
 <lb/>feet</measure> high - A marsh prevented our following 
-<lb/>the <geogName type="river">Shire</geogName> to the Northern spur of <geogName type="mountain">Zomba</geogName> to which
+<lb/>the <placeName><geogName type="river">Shire</geogName></placeName> to the Northern spur of <geogName type="mountain">Zomba</geogName> to which
 <lb/>it seemed to go or rather come, and in crossing
 <lb/>the Southern spur we were <measure>3400 <choice><abbr>ft</abbr><expan>feet</expan></choice></measure> high, and
 <lb/>thence we got our first sight of <placeName><geogName type="lake">Lake Shirwa</geogName></placeName>
@@ -180,14 +180,14 @@
 <lb/><term type="animal">hippopotami</term> - <term type="animal">Leeches</term> too as we found in
 <lb/>wading through a piece of marsh to get a
 <lb/>meridian observation of the Sun with the natural
-<lb/>horizon - The <geogName type="river">shire</geogName> probably comes out of <placeName><geogName type="lake">Nyinyesi</geogName></placeName>- 
+<lb/>horizon - The <placeName><geogName type="river"><choice><orig>shire</orig><reg>Shire</reg></choice></geogName></placeName> probably comes out of <placeName><geogName type="lake">Nyinyesi</geogName></placeName>- 
 <lb/>It cannot come out of this for <hi rend="underline">its</hi> water is sweet.
 <lb/>We could obtain no information about <persName>Burton</persName>'s
 <lb/>party - but returning down the <placeName><geogName type="valley">valley of the 
 <lb/><geogName type="lake">Shirwa</geogName></geogName></placeName> - we as certained that there is one
 <lb/>point in which only which about <measure>30 miles</measure> of
 <lb/>land travel will be necessary between a
-<lb/>branch of the <geogName type="river">Shire</geogName>, and the southern end
+<lb/>branch of the <placeName><geogName type="river">Shire</geogName></placeName>, and the southern end
 <lb/>of <placeName><geogName type="lake">Shirwa</geogName></placeName> - We have got no news from <placeName><country>England</country></placeName>
 <lb/>since we left - If <persName>Burton</persName> has preceded us to
 <lb/><placeName><geogName type="lake">Nyinyesi</geogName></placeName> then we have got a Lake of our own
@@ -220,7 +220,7 @@
 <lb/>(<bibl>Blue <choice><orig>book</orig><reg>Book</reg></choice> for <date when="1857">1857</date></bibl>) with <term type="people">Portuguese</term> names, in
 <lb/>order to establish a claim to lordship over the
 <lb/>whole territory - then they propose to erect a
-<lb/>station at the mouth of the <geogName type="river">Shire</geogName> for the same
+<lb/>station at the mouth of the <placeName><geogName type="river">Shire</geogName></placeName> for the same
 <lb/>purpose - and a custom house at the mouth
 <lb/>of the <placeName><geogName type="river">Kongone</geogName></placeName> <placeName><geogName type="branch">branch of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName></geogName></placeName> which<!-- is there a tag for branch like source? MB -->
 <lb/>we discovered = <space extent="1" unit="chars"/>At present they are depopulating

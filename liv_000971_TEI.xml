@@ -167,7 +167,7 @@
 <lb/>sticks. It occurs
 <lb/>in large quantity on
 <lb/>the North bank of 
-<lb/>the <placeName><geogName type="river">Zambesi</geogName></placeName> above
+<lb/>the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> above
 	
 	<pb facs="liv_000971_0004" n="0004"/>
 <lb/><add place="margintop" rend="center gray small" hand="#U1">4</add> <placeName><settlement type="town">Tete</settlement></placeName> called the country
