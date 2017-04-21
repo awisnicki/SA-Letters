@@ -614,7 +614,7 @@
 <lb/>on it, and though I have been for a month on the
 <lb/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> I have <del type="strikethrough">had</del> suffered nothing from <term type="ailment">fever</term>
 <lb/>this however is partly owing to having had <term type="foodstuff">wheaten bread</term>
-<lb/>and not the mere starch of <placeName><region><choice><orig>Londa</orig><reg>Lunda</reg></choice></region></placeName> <term type="plant_foodstuff"><foreign xml:lang="pt">manioc</foreign></term> &amp; <term type="plant_foodstuff"><term type="animal">bird</term>'s seed</term>.
+<lb/>and not the mere starch of <placeName><region><choice><orig>Londa</orig><reg>Lunda</reg></choice></region></placeName> <term type="plant_foodstuff">manioc</term> &amp; <term type="plant_foodstuff"><term type="animal">bird</term>'s seed</term>.
 <lb/><placeName><settlement type="village">Zumbo</settlement></placeName> was healthy - not because it was elevated for
 <lb/>the country is all low - the ranges of hills which run
 <lb/>all along on each side of the river are not so high as
