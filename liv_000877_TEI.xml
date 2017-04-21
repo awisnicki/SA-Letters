@@ -209,7 +209,7 @@
 <lb/>on <placeName><geogName type="island">Kalai</geogName></placeName> ornamented with seventy large <term type="animal">elephants</term>'
 <lb/>tusks planted round it - there are thirty over the
 <lb/>resting places of <orgName>his relatives</orgName> Indeed through the whole
-<lb/><placeName><region><term type="tribe">Batoka</term> country</region></placeName> ivory was employed to make bracelets and
+<lb/><placeName><region><term type="tribe"><choice><orig>Batoka</orig><reg>Toka-Leya</reg></choice></term> country</region></placeName> ivory was employed to make bracelets and
 <lb/>gravestones only. <seg type="weather">Sun and rain</seg> soon rot them. The
 <lb/><term type="occupation">chiefs</term> had too a great love for "ornamenting" their towns
 <lb/>with human skulls - I counted between fifty and sixty such
@@ -256,7 +256,7 @@
 <lb/>the only <term type="plant_foodstuff">vegetable</term> relics I could discover. I <w>wonde<supplied>red</supplied></w>
 <lb/>much why the <term type="people">Portuguese</term> had abandoned
 <lb/>so fine a station The <orgName>natives</orgName> said they were
-<lb/>now visited by <term type="tribe">Babisa</term> <term type="occupation">traders</term> daily -
+<lb/>now visited by <term type="tribe"><choice><orig>Babisa</orig><reg>Bisa</reg></choice></term> <term type="occupation">traders</term> daily -
 <lb/>we got farther down we learned that <orgName>Caffre</orgName> Wars
 <lb/>were fashionable here too - and that the <term type="people">Portuguese</term>
 <lb/>being unable to make the mother country foot the
@@ -281,7 +281,7 @@
 	<pb facs="liv_000877_0005" n="0005"/>
 <lb/><fw n="heading_2"><hi rend="underline"><choice><abbr>2<hi rend="sup">d</hi></abbr><expan>second</expan></choice> sheet</hi></fw>
 <lb/><orgName>negroes</orgName></orgName>, much addicted to agriculture. We see both men
-<lb/>and women constantly <term type="occupation">employed in the gardens</term>, and
+<lb/>and women constantly employed in the gardens, and
 <lb/>as the soil is extremely fertile they raise large quantities
 <lb/>of <term type="plant_foodstuff">grain</term> - the <term type="plant_foodstuff">maize</term> is nearly of the same size as
 <lb/><term type="nationality">American</term> seed I have seen sold in <placeName><settlement type="town">Cape Town</settlement></placeName> - And
@@ -304,8 +304,8 @@
 <lb/>of the real <orgName>Caffre</orgName> or <term type="tribe"><choice><orig>Zulah</orig><reg>Zulu</reg></choice></term> tribe - And firearms &amp;
 <lb/>gunpowder are now contraband all along the coast.
 <lb/>as at the <placeName><region>Cape</region></placeName>. The <term type="occupation">missionaries</term> <del type="strikethrough">too</del> have had no
-<lb/>hand in it here - neither has <term type="occupation"><choice><sic><term type="animal_foodstuff">cattle</term> stealing</sic><corr><term type="animal_foodstuff">cattle</term>-stealing</corr></choice></term> for there
-<lb/>were none to <term type="occupation">steal</term> - What else can we do now but
+<lb/>hand in it here - neither has <choice><sic><term type="animal_foodstuff">cattle</term> stealing</sic><corr><term type="animal_foodstuff">cattle</term>-stealing</corr></choice> for there
+<lb/>were none to steal - What else can we do now but
 <lb/>turn up the whites of our eyes and exclaim, "<orgName>Caffre</orgName>
 <lb/>wars are ordained by the immutable decrees of Heaven,
 <lb/>and in engaging therein we labour under the same
@@ -317,7 +317,7 @@
 <lb/>Torrent beds or "sand rivers". If anyone kills an
 <lb/><term type="animal">elephant</term> the half which lies on the ground belongs
 <lb/>to the lord of the soil, and should the <term type="occupation">huntsman</term>
-<lb/>commence <term type="occupation">cutting up</term> before a man comes from
+<lb/>commence cutting up before a man comes from
 <lb/>the <term type="occupation">chief</term> to give permission, he loses both carcase
 <lb/>and tusks. This law and others equally stringent
 <lb/>apply to both <orgName>natives</orgName> and <orgName>Europeans</orgName> -</p>
@@ -371,7 +371,7 @@
 <lb/>by <persName>Ham</persName> one of the survivors - you will not think
 <lb/>this exaggerated when you reflect that I had been peering
 <lb/>at rocks for many a day in a country where there <!-- geog: -->
-<lb/>is no <term type="occupation"><choice><sic>road making</sic><corr>road-making</corr></choice></term> or <term type="occupation">quarrying</term> or even torrents
+<lb/>is no <choice><sic>road making</sic><corr>road-making</corr></choice> or quarrying or even torrents
 <lb/>laying fossils bare, and this was the only instance
 <lb/>in which Fossil bones gladdened my sight. But an
 <lb/>express came from <placeName><settlement type="village">Kuruman</settlement></placeName> - the son of another
@@ -539,7 +539,7 @@
 <lb/><term type="animal">anteater</term> digs his burrow shells are thrown up
 <lb/>identical with those now living in the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> &amp;
 <lb/><placeName><geogName type="river">Zouga</geogName></placeName> It is also pretty certain the waters <add place="below">^</add> <add place="above">pent up</add> in
-<lb/><placeName><geogName type="valley"><term type="tribe">Barotse</term> Valley</geogName></placeName> were discharged by the <choice><orig>fizzure</orig><reg>fissure</reg></choice> of <placeName>Gonye</placeName>
+<lb/><placeName><geogName type="valley"><term type="tribe"><choice><orig>Barotse</orig><reg>Lozi</reg></choice></term> Valley</geogName></placeName> were discharged by the <choice><orig>fizzure</orig><reg>fissure</reg></choice> of <placeName>Gonye</placeName>
 <lb/>and there are other <add place="below">^</add> <add place="above"><choice><orig>fizzure</orig><reg>fissure</reg></choice></add> falls in the country as one in
 <lb/>the <placeName><geogName type="river">Kabompo</geogName></placeName> or <placeName><geogName type="river">Leeambye</geogName></placeName> beyond <placeName><persName>Masiko</persName>'s</placeName> and
 <lb/>another in the <placeName><geogName type="river">Bashukulompo river</geogName></placeName> -</p>
@@ -557,21 +557,21 @@
 <lb/>to <placeName><region>the East</region></placeName> or <placeName><region><choice><abbr>E N E</abbr><expan>East Northeast</expan></choice> of <settlement type="village"><persName>Masiko</persName></settlement></region></placeName> while we <w>wer<supplied>e</supplied></w>
 <lb/>at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> may be cited as next best to
 <lb/>actual observation - the <orgName>Arabs</orgName> say a large <w>rive<supplied>r</supplied></w>
-<lb/>flows from the East or <placeName><region>country of <term type="tribe">Banyassa</term></region></placeName>
+<lb/>flows from the East or <placeName><region>country of <term type="tribe"><choice><orig>Banyassa</orig><reg>Banyasa</reg></choice></term></region></placeName>
 <lb/>(<placeName><geogName type="lake"><choice><orig>N'yassa</orig><reg>Nyasa</reg></choice></geogName></placeName>) to the South West and passing near
 
 
 	<pb facs="liv_000877_0011" n="0011"/>
-<lb/><placeName>Cazembé</placeName> joins the <placeName><geogName type="river">Leeambye</geogName></placeName>. The <term type="tribe">Banyassa</term> live on
+<lb/><placeName>Cazembé</placeName> joins the <placeName><geogName type="river">Leeambye</geogName></placeName>. The <term type="tribe"><choice><orig>Banyassa</orig><reg>Banyasa</reg></choice></term> live on
 <lb/>a hilly country and have no Lake in their own land
 <lb/>but to their <choice><abbr>NNW</abbr><expan>North-Northwest</expan></choice> the large <placeName><geogName type="lake">Lake <choice><orig>Tanganyeñka</orig><reg>Tanganyika</reg></choice></geogName></placeName> is
 <lb/>situated and that is connected with another still
 <lb/>farther North and is named <placeName><geogName type="lake">Kalagwé</geogName></placeName> (<placeName><geogName type="lake">Garague</geogName></placeName>?)
-<lb/>(I am <term type="occupation">writing</term> now in the most profound ignorance of
+<lb/>(I am writing now in the most profound ignorance of
 <lb/>all that may have been done there during the last few
 <lb/>years) My <orgName>Arab</orgName> friend goes <subst><del>but</del><add place="above">either</add></subst> round the end of
 <lb/><placeName><geogName type="lake"><choice><orig>Tanganyenka</orig><reg>Tanganyika</reg></choice></geogName></placeName> or is taken <choice><sic>accross</sic><corr>across</corr></choice> it the distance
-<lb/>being <measure>three days</measure> and the canoe is <term type="occupation">punted</term> the whole
+<lb/>being <measure>three days</measure> and the canoe is punted the whole
 <lb/>way. It is <measure>ten days</measure> North East of <placeName>Cazembe</placeName> - Is it
 <lb/>unreasonable to suppose these large shallow
 <lb/>collections of water are aught else but the result
@@ -621,8 +621,8 @@
 <lb/>the ridges we left behind - If then these salubrious
 <lb/>ridges run much farther to the North than my <w>enquirie<supplied>s</supplied></w>
 <lb/>extend it may be recommended to all those who
-<lb/>engage in <term type="occupation">scientific pursuits</term> or in <term type="occupation">enterprises
-<lb/>of commerce</term> and <term type="occupation">benevolence</term> to endeavour to
+<lb/>engage in <term type="occupation">scientific pursuits</term> or in enterprises
+<lb/>of commerce and benevolence to endeavour to
 <lb/>ascertain if these may not be directed from
 <lb/>sanatoria on these elevations. It is worth enquiry
 <lb/>at least - the <orgName><placeName><geogName type="river">Niger</geogName></placeName> expedition</orgName> may have turned
@@ -631,7 +631,7 @@
 <lb/>I anticipate water carriage to within <measure>2°</measure> of the <term type="tribe"><w>Makolo<supplied>lo</supplied></w></term>
 <lb/>by means of <choice><sic>flat bottomed</sic><corr>flat-bottomed</corr></choice> boats - the chief obstruction
 <lb/>are rapids and I have seen none yet equal to those
-<lb/>below the <placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName>. And if this can be effected
+<lb/>below the <placeName><geogName type="valley"><term type="tribe"><choice><orig>Barotse</orig><reg>Lozi</reg></choice></term> valley</geogName></placeName>. And if this can be effected
 <lb/>during a healthy part of the year I expect to be able to
 <lb/>pursue our plans in good health - I am not so
 <lb/>much elated by the feat of crossing the continent
@@ -642,7 +642,7 @@
 <lb/>degraded <choice><sic>trodden down</sic><corr>trodden-down</corr></choice> <placeName><bloc>Africa</bloc></placeName> is a wish in
 <lb/>which you will I doubt not cordially join -</p>
 <lb/><p>Reached <placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> <date when="1856-03-02">2<hi rend="sup">d</hi> March</date> pretty well tired from
-<lb/><term type="occupation">marching</term> through a rough stoney country without path
+<lb/>marching through a rough stoney country without path
 <lb/><term type="people">Portuguese</term> very very kind, thanks to <persName>M<hi rend="sup">r</hi> Duprat</persName> -</p>
 <closer>
 <lb/><salute>Kind remembrance to <persName>M<hi rend="sup underline">rs</hi> <choice><abbr>M.</abbr><expan>Maclear</expan></choice></persName> &amp; family, Mann Morton &amp;c</salute>

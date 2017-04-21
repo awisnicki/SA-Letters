@@ -131,8 +131,8 @@
 <lb/><space extent="2" unit="chars"/>sieve if you have
 <lb/><space extent="2" unit="chars"/>such things at <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName>
 <lb/><space extent="2" unit="chars"/>to sift <term type="foodstuff">flour</term> -
-<lb/><space extent="2" unit="chars"/><term type="foodstuff"><placeName><country><choice><orig>Mosambique</orig><reg>Mozambique</reg></choice></country></placeName> coffee</term> will
-<lb/><space extent="3" unit="chars"/>do if you have us <term type="foodstuff"><placeName><geogName type="island">Zanzibar</geogName></placeName></term>
+<lb/><space extent="2" unit="chars"/><term type="plant_foodstuff"><placeName><country><choice><orig>Mosambique</orig><reg>Mozambique</reg></choice></country></placeName> coffee</term> will
+<lb/><space extent="3" unit="chars"/>do if you have us <term type="plant_foodstuff"><placeName><geogName type="island">Zanzibar</geogName></placeName></term>
 <lb/><space extent="4" unit="chars"/>or <term type="foodstuff">Mocha coffee</term></p>
     
     

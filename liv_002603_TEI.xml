@@ -270,7 +270,7 @@
 <lb/>what <persName>Nathaniel Hawthorne</persName> called
 <lb/>"bulbous" below the ribs - I <choice><sic>dont</sic><corr>don't</corr></choice> know
 <lb/>where the phrase "bloated Aristocracy"
-<lb/>arose - It must be <term type="nationlity">American</term>, for I
+<lb/>arose - It must be <term type="nationality">American</term>, for I
 <lb/>have had glimples of a good many <!-- Again, misspell of glimpses DL or transcription? HB -->
 <lb/><term type="nationality">English</term> noblemen, and <persName><choice><orig>Insama</orig><reg>Nsama</reg></choice></persName> was
 <lb/>the only specimen of a bloated <w>Aristo-
@@ -428,9 +428,9 @@
 <lb/><placeName><geogName type="river">Lualaba</geogName></placeName> he heard that I was in a village
 <lb/>where a <orgName>company of <term type="occupation"><orgName>slave</orgName> traders</term></orgName> had 
 <lb/>been furiously assaulted <add place="below">^</add> <anchor xml:id="reorder-1"/> by justly incensed
-<lb/><term type="tribe">Babemba</term> <metamark function="reorder" spanTo="#meta-1"/><seg corresp="#reorder-1">for three days</seg><anchor xml:id="meta-1"/><!-- Livingstone draws a circle around "for three days" in the line below to indicate that this prhase belongs in the line above. MB --> - I would not
+<lb/><term type="tribe"><choice><orig>Babemba</orig><reg>Bemba</reg></choice></term> <metamark function="reorder" spanTo="#meta-1"/><seg corresp="#reorder-1">for three days</seg><anchor xml:id="meta-1"/><!-- Livingstone draws a circle around "for three days" in the line below to indicate that this prhase belongs in the line above. MB --> - I would not
 <lb/>fight nor allow <orgName>my people</orgName> to fire if I saw
-<lb/>them, because the <term type="tribe">Babemba</term> had been
+<lb/>them, because the <term type="tribe"><choice><orig>Babemba</orig><reg>Bemba</reg></choice></term> had been
 <lb/>especially kind to me - <persName>Syde</persName> sent a 
 <lb/><orgName>party of his own people</orgName> to invite me
 <lb/>to leave the village by night and come
@@ -854,7 +854,7 @@
 <lb/><term type="plant_foodstuff">maize</term> is so abundant that I have <retrace>seen</retrace> <!-- I think he just rewrote 'seen' over 'seen.' EM --> <w>forty
 <lb break="no"/>-five</w> loads each about 60 lbs given for a
 <lb/>single <term type="animal_foodstuff">goat</term> - The <term type="plant_foodstuff">maize</term> = "<term type="plant_foodstuff">dura</term>" or <hi rend="underline"><term type="plant_foodstuff">hokus
-<lb/>sorghum</term> - <term type="foodstuff">Pennisetum</term></hi> -<!-- Unsure about this. EM --><!-- Fixed. AW --> <term type="foodstuff">Cassava</term>
+<lb/>sorghum</term> - <term type="plant_foodstuff">Pennisetum</term></hi> -<!-- Unsure about this. EM --><!-- Fixed. AW --> <term type="foodstuff">Cassava</term>
 
 	<pb facs="liv_002603_0036" n="0036"/>
 <!-- Blank Page. EM -->
@@ -867,7 +867,7 @@
 <lb/><term type="plant_foodstuff">bananas</term> &amp; <term type="plant_foodstuff">plaintains</term> in great profusion
 <lb/>and the <term type="plant_foodstuff">sugar cane</term> the saccharine - the
 <lb/><term type="foodstuff"><term type="plant">Palm</term> toddy</term> - <term type="foodstuff">beer of <term type="plant_foodstuff">bananas</term></term> - <term type="plant">Tobacco</term>
-<lb/>and <term type="foodstuff">Bange</term> <term type="plant"><hi rend="underline">cannabis sativa</hi></term> <add place="below" rend="gray" hand="#U">^</add> <add place="above" rend="gray" hand="#U"><unclear cert="medium">soon</unclear></add> The luxuries
+<lb/>and <term type="plant">Bange</term> <term type="plant"><hi rend="underline">cannabis sativa</hi></term> <add place="below" rend="gray" hand="#U">^</add> <add place="above" rend="gray" hand="#U"><unclear cert="medium">soon</unclear></add> The luxuries
 <lb/>of life - and the villages swarm with
 <lb/><term type="animal_foodstuff">goats</term> <term type="animal_foodstuff">sheep</term> <term type="animal">dogs</term> <del type="strikethrough">and</del> <term type="animal_foodstuff">pigs</term> and <term type="animal_foodstuff">fowls</term> -
 <lb/>while the <term type="animal">elephants</term> <term type="animal">buffaloes</term> <term type="animal">zebras</term>
@@ -931,7 +931,7 @@
 <lb/>of voices - to haggle and joke &amp; laugh
 <lb/>and cheat seem to be the dearest <w>enjoy-
 <lb break="no"/>-ment</w> of life - they confer great benefits
-<lb/>on each other - They <orgName><term type="tribe">Bagenya</term> women</orgName> are
+<lb/>on each other - They <orgName><term type="tribe"><choice><orig>Bagenya</orig><reg>Genya</reg></choice></term> women</orgName> are
 <lb/>expert divers for <term type="animal_foodstuff">oysters</term> and they sell them
 <lb/>and <term type="animal_foodstuff">fish</term> for farinaceous food from the
 <lb/>women on the East of the <placeName><geogName type="river">Lualaba</geogName></placeName> who

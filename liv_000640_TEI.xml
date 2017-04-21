@@ -105,7 +105,7 @@
             <div>
                
 	<pb facs="liv_000640_0001" n="0001"/><!-- term type="language"? check throughout. MB --><!-- Done. AW -->
-<lb/><opener><dateline><placeName><settlement type="village">Kolobeng</settlement></placeName>, <placeName><region><term type="tribe"><choice><orig>Bakwain</orig><reg>Bakwena</reg></choice></term> Country</region></placeName><!-- Did I handle this correctly? EM --><!-- Fixed. AW --> <date when="1847-08-13">13 August <lb/>1847</date></dateline>
+<lb/><opener><dateline><placeName><settlement type="village">Kolobeng</settlement></placeName>, <placeName><region><term type="tribe"><choice><orig>Bakwain</orig><reg>Bakwena</reg><reg>Kwena</reg></choice></term> Country</region></placeName><!-- Did I handle this correctly? EM --><!-- Fixed. AW --> <date when="1847-08-13">13 August <lb/>1847</date></dateline>
 <lb/>    
 <lb/><salute>My Dear Brother</salute></opener><!-- Change line info as appropriate -->
 <lb/><p>We <choice><sic>recieved</sic><corr>received</corr></choice> your favour dated <date when="1846-08"><choice><abbr>Aug<hi rend="sup">t</hi></abbr><expan>August</expan></choice> /46</date> while at <placeName><settlement type="village">Kuruman</settlement></placeName> and returned at least in
@@ -114,14 +114,14 @@
 <lb/>in which I am at present placed and the object I have in view in writing at present are the following
 <lb/>The water of <placeName><settlement type="village">Chonuane</settlement></placeName><!-- Or is this a river? EM --><!-- OK as is. AW --><!-- I've left it as it is but I think it's a village AM --><!--changed to village in coding review. MB--> being scanty and bad, and it being impossible for us to revise the Staff of life in
 <lb/>that locality we felt it to be our duty to propose removal to a more salubrious situation. Many of the
-<lb/><term type="tribe"><choice><orig>Bakwains</orig><reg>Bakwena</reg></choice></term> were opposed to it because <placeName><settlement type="village">Chonuane</settlement></placeName> afforded good garden ground for <orgName>native</orgName>
-<lb/><term type="plant">corn</term> <term type="plant_foodstuff">pumpkins</term><!-- add foodstuffs --> &amp;c. But <persName>Sechele</persName> declared he would cleave to us wherever we went and having
+<lb/><term type="tribe"><choice><orig>Bakwains</orig><reg>Bakwena</reg><reg>Kwena</reg></choice></term> were opposed to it because <placeName><settlement type="village">Chonuane</settlement></placeName> afforded good garden ground for <orgName>native</orgName>
+<lb/><term type="plant_foodstuff">corn</term> <term type="plant_foodstuff">pumpkins</term><!-- add foodstuffs --> &amp;c. But <persName>Sechele</persName> declared he would cleave to us wherever we went and having
 <lb/>fixed on the <placeName><geogName type="stream">Kolobeñ</geogName></placeName><!-- Identified correctly? Mission? EM --><!-- Fixed. AW -->, a fine stream which drains that mass of <unclear cert="medium">hills</unclear><!-- unsure. Perhaps hills? MB --><!-- OK. AW --> which lies Eastward of
 <lb/><placeName>Kuakoe</placeName><!-- Not sure what this is. EM --><!-- ? AW -->, we are now in process of removal thither - Our new station is at the point where
 <lb/>the <placeName><geogName type="stream">Kolobeñ</geogName></placeName><!-- Identified correctly? Mission? EM --><!-- Stream. AW --> emerges from the hills, and about <measure>40 miles</measure> <choice><abbr>N.W.</abbr><expan>Northwest</expan></choice> of <placeName><settlement type="village">Chonuane</settlement></placeName>, I am engaged
 <lb/>in erecting huts, <persName>Mebaloe alias David</persName><!-- Not sure about this EM --><!-- Fixed. AW --> is <term type="occupation">thatcher</term> and I am <term type="occupation">architect</term> - <persName>Paul</persName> remains with <persName>M<hi rend="sup">rs</hi> <choice><abbr>L</abbr><expan>Livingstone</expan></choice></persName> at 
-<lb/><placeName><settlement type="village">Chonuane</settlement></placeName>, the mass of the people are engaged in removing their <term type="plant">corn</term> &amp; goods from stage to stage -
-<lb/>others are engaged in <term type="occupation">building</term> - <persName>Mary</persName> feels her situation among the ruins a little dreary &amp; 
+<lb/><placeName><settlement type="village">Chonuane</settlement></placeName>, the mass of the people are engaged in removing their <term type="plant_foodstuff">corn</term> &amp; goods from stage to stage -
+<lb/>others are engaged in building - <persName>Mary</persName> feels her situation among the ruins a little dreary &amp; 
 <lb/>no wonder for she writes me <date when="1847-08-12">yesterday</date> that the <term type="animal">lions</term> are resuming possession &amp; walk around our
 <lb/>house at night - <placeName><settlement type="village">Kolobeng</settlement></placeName> means the haunt<!-- This word appears a few times and I am not sure on it. EM --><!-- Fixed. AW --> of the wild <term type="animal">boar</term> but it seems to have been
 <lb/>the haunt of everything wild. <term type="animal"><choice><orig>Hyaeanas</orig><reg>Hyaenas</reg><reg>Hyena</reg></choice></term> abound exceedingly. <term type="animal">buffaloes</term> in immense herds - and
@@ -137,7 +137,7 @@
 <lb/>to the benighted <orgName>inhabitants</orgName> of this region. I have heard it spoken by individuals who thought
 <lb/>they had acquired a knowledge of it yet using the English idiom they could only be understood
 <lb/>by <orgName>natives</orgName> who being accustomed to <orgName>Europeans</orgName> knew what was intended as well as the 
-<lb/>speakers themselves. Had they come to the <term type="tribe"><choice><orig>Bakwains</orig><reg>Bakwena</reg></choice></term> or to any of the<!--ink spatter above. MB--> <placeName><region>interior</region></placeName> tribes they
+<lb/>speakers themselves. Had they come to the <term type="tribe"><choice><orig>Bakwains</orig><reg>Bakwena</reg><reg>Kwena</reg></choice></term> or to any of the<!--ink spatter above. MB--> <placeName><region>interior</region></placeName> tribes they
 <lb/>would not be understood by a single individual - The Enlgish idioms here would be <choice><sic>unintelligble</sic><corr>unintelligible</corr></choice>
 <lb/>gibberish <space extent="1" unit="chars"/>In the following remarks I shall not attempt to follow <term type="occupation"><choice><sic><w>gr<del>i</del><add place="over-text">a</add>mmareans</w></sic><corr>grammarians</corr></choice></term> - The endeavours  
 <lb/>of some to reduce the <choice><orig>Sicuana</orig><reg>Setswana</reg></choice> to the grammatical forms of Latin &amp; Greek &amp;c seem to me to have
@@ -161,8 +161,8 @@
 
 	<pb facs="liv_000640_0002" n="0002"/>
 <lb/>Oe dipthong as in -que or <w><hi rend="underline">wi</hi>g</w> <unclear cert="low">we</unclear> is nearly the same in sound but scarcely so full
-<lb/>in sound as <unclear cert="low">be</unclear>. <term type="tribe">Bakwena</term> can be spelled so or <term type="tribe"><choice><orig>Bakoena</orig><reg>Bakwena</reg></choice></term> or <term type="tribe"><choice><orig>Bakwaina</orig><reg>Bakwena</reg></choice></term> or
-<lb/><term type="tribe"><choice><orig>Baquana</orig><reg>Bakwena</reg></choice></term><!-- Should these be coded differently? EM --><!-- Done. AW --> - <space extent="1" unit="chars"/><foreign xml:lang="tn">gague</foreign> is pronounced as if spelled <del type="strikethrough">with</del> <foreign xml:lang="tn">gagure</foreign> (his) <foreign xml:lang="tn">Leshue</foreign> filthy, <foreign xml:lang="tn">Sebegoe</foreign>
+<lb/>in sound as <unclear cert="low">be</unclear>. <term type="tribe"><choice><orig>Bakwena</orig><reg>Kwena</reg></choice></term> can be spelled so or <term type="tribe"><choice><orig>Bakoena</orig><reg>Bakwena</reg><reg>Kwena</reg></choice></term> or <term type="tribe"><choice><orig>Bakwaina</orig><reg>Bakwena</reg><reg>Kwena</reg></choice></term> or
+<lb/><term type="tribe"><choice><orig>Baquana</orig><reg>Bakwena</reg><reg>Kwena</reg></choice></term><!-- Should these be coded differently? EM --><!-- Done. AW --> - <space extent="1" unit="chars"/><foreign xml:lang="tn">gague</foreign> is pronounced as if spelled <del type="strikethrough">with</del> <foreign xml:lang="tn">gagure</foreign> (his) <foreign xml:lang="tn">Leshue</foreign> filthy, <foreign xml:lang="tn">Sebegoe</foreign>
 <lb/>a thing found in the field</p>
 <lb/><p>Sh. as in <w>di<hi rend="underline">sh</hi></w> <w>fi<hi rend="underline">sh</hi></w> <w><hi rend="underline">sh</hi>all</w> <del type="strikethrough"><unclear cert="low"><persName><term type="occupation"><choice><abbr>Fr.</abbr><expan>Father</expan></choice></term> J.</persName> in <placeName>Jour</placeName></unclear></del><!-- deleted persName? MB --><!-- Fixed. AW --> <foreign xml:lang="tn"><w>ma<hi rend="underline">sh</hi>i</w></foreign> milk <foreign xml:lang="tn">sesheshe</foreign> a blossom or flower
 <lb/><foreign xml:lang="tn">Leshashe</foreign> a coward. <foreign xml:lang="tn">Shoñkoe</foreign> a plant (asclepias?)
@@ -178,7 +178,7 @@
 <lb/>word ending in ing but allowing the i to be silent the <choice><sic>enuntiation</sic><corr>enunciation</corr></choice></p>
 <lb/><p rend="no-indent">G. gutteral as in <term type="nationality">Scotch</term> <foreign xml:lang="gd"><w>lo<hi rend="underline">ch</hi></w></foreign> - <term type="nationality"><choice><orig>dutch</orig><reg>Dutch</reg></choice></term> <foreign xml:lang="nl">dag</foreign>. <unclear cert="medium">x</unclear> <del type="strikethrough">the</del> <term type="nationality"><choice><orig>scotch</orig><reg>Scotch</reg></choice></term> way - <foreign xml:lang="tn">gago</foreign> thy
 <lb/><foreign xml:lang="tn">ñoñorega</foreign>, <foreign xml:lang="tn">riga</foreign> throw down</p>
-<lb/><p rend="no-indent"><app><rdg>H</rdg><rdg>It</rdg></app> is always an aspirate except in combination with s as sh. <foreign xml:lang="tn">Phiri</foreign> a <unclear cert="high"><term type="animal"><choice><sic>hyeana</sic><corr>hyaena</corr><corr>hyena</corr></choice></term></unclear>
+<lb/><p rend="no-indent"><app><rdg>H</rdg><rdg>It</rdg></app> is always an aspirate except in combination with s as sh. <foreign xml:lang="tn">Phiri</foreign> a <unclear cert="high"><term type="animal"><choice><orig>hyeana</orig><reg>hyaena</reg><reg>hyena</reg></choice></term></unclear>
 <lb/>the p is pronounced distinctly &amp; followed by the rough breathing <space extent="1" unit="chars"/> Ph is never f as in English</p>
 <lb/><p>Of the sounds which occur less frequently in <choice><orig>Sitchuana</orig><reg>Setswana</reg></choice> we have <hi rend="underline">e</hi> like
 <lb/><choice><orig>dutch</orig><reg>Dutch</reg></choice><hi rend="underline">ou</hi> or <choice><orig>scotch</orig><reg>Scotch</reg></choice> way of pronouncing upsilon <foreign xml:lang="tn"><w>serum<hi rend="underline">e</hi>ri</w></foreign> a <choice><sic>chrystal</sic><corr>crystal</corr></choice> <foreign xml:lang="tn"><w>motsek<hi rend="underline">e</hi>ri</w></foreign> a

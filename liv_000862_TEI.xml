@@ -101,7 +101,7 @@
 <lb/><placeName><settlement type="village">Bihé</settlement></placeName> leave this <date when="1855-09-13">tomorrow</date> for <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement>, and
 <lb/>I am glad of the opportunity to send a few
 <lb/>lines to inform you of our progress and
-<lb/>welfare. We reached the <placeName><term type="tribe">Barotse</term> country</placeName> about
+<lb/>welfare. We reached the <placeName><term type="tribe"><choice><orig>Barotse</orig><reg>Lozi</reg></choice></term> country</placeName> about
 <lb/>the end of July and came down the river
 <lb/>quite leizurely to <placeName><settlement type="village">Lesheke</settlement></placeName>. Some parcels of
 <lb/>Newspapers <term type="foodstuff">meal biscuits</term> &amp;c &amp;c had been
@@ -142,7 +142,7 @@
 <lb/>Lunars. <space extent="1" unit="chars"/>I could get none in <placeName><country>Angola</country></placeName>. The
 <lb/>clouds prevented.</p>
 <lb/><p>In contrast to the above a <term type="occupation">doctor of divinity</term> <!-- occupation appropriate here? MB --><!-- OK. AW -->
-<lb/>of the <orgName><term type="nationality">Dutch</term> church</orgName> (a <term type="person">scotchman</term>!) collected
+<lb/>of the <orgName><term type="nationality">Dutch</term> church</orgName> (a <term type="person"><choice><sic>scotchman</sic><corr>Scotchman</corr></choice></term>!) collected
 <lb/>some tales of scandal among the <orgName>Boers</orgName> who
 <lb/>live beyond the <placeName><region>Colony</region></placeName>. <!-- or region? MB --><!-- OK. AW --><!-- changed in coding review. MB -->and retailed them
 <lb/>to my brother in land who listened to all &amp;
@@ -295,7 +295,7 @@
 <lb/><bibl>letters</bibl> and <bibl>map with observations from<!-- map tagged with bibl? MB --><!-- Fixed. AW -->
 <lb/><placeName><settlement type="village">Cassange</settlement></placeName> and <placeName><settlement type="village">Cabango</settlement></placeName></bibl>.<!-- These are towns or tribes? MB--><!-- Fixed. AW --> I wrote a
 <lb/><bibl>note</bibl> by a <term type="tribe">Mombari</term> whom I met at
-<lb/>the <term type="tribe">Barotse</term> town <placeName><settlement type="village">Naliele</settlement></placeName> and instructed
+<lb/>the <term type="tribe"><choice><orig>Barotse</orig><reg>Lozi</reg></choice></term> town <placeName><settlement type="village">Naliele</settlement></placeName> and instructed
 <lb/>him to deliver it to <persName><unclear cert="medium">Guillierme Jose
 <lb/>Gontalueo</unclear></persName> at <placeName><settlement type="village">Bihe</settlement></placeName> who would send to
 
@@ -317,7 +317,7 @@
 <lb/>repetition of that to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> - <hi rend="underline">a land</hi> journey
 <lb/>and such is not desirable as all the
 <lb/>goods we brought were expended before
-<lb/>we reached the <term type="tribe">Barotse</term>.<!-- or tribe? MB --><!-- OK as is. AW --> My men brought
+<lb/>we reached the <term type="tribe"><choice><orig>Barotse</orig><reg>Lozi</reg></choice></term>.<!-- or tribe? MB --><!-- OK as is. AW --> My men brought
 <lb/>almost nothing of all they purchased
 <lb/>and no one feasted - our chief food
 <lb/>was <term type="plant_foodstuff">manioc roots</term> &amp; meal - <term type="foodstuff">birdseed meal</term>
