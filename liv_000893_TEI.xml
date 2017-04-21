@@ -176,7 +176,7 @@
 <lb/>you need expect nothing from me
 <lb/>then, but the present <term type="occupation">Governor</term> of 
 <lb/><placeName><settlement type="town">Tete</settlement><!-- Is Tete a city or a village? MB --></placeName>, <persName><term type="occupation">Mayor</term> Augusto d' Araujo
-<lb/>Secard</persName>, will very gladly collect or
+<lb/><choice><orig>Secard</orig><reg>Sicard</reg></choice></persName>, will very gladly collect or
 <lb/>cause to be collected - <del><gap extent="2" unit="chars"/></del> the <term type="plant_foodstuff">seeds of 
 <lb/>all the edible fruits</term> in this vicinity
 <lb/>and I promise in your name of

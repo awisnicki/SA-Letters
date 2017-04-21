@@ -89,7 +89,7 @@
 <lb/><salute>My Dear Dr. Kirk</salute>
 </opener>
 
-<lb/><p>The new <persName><term type="occupation"><choice><sic>bishop</sic><corr>Bishop</corr></choice></term></persName>
+<lb/><p>The new <term type="occupation"><choice><sic>bishop</sic><corr>Bishop</corr></choice></term>
 <lb/>came up to us <date when="1863-07-04">yesterday</date>
 <lb/>and recieved the
 <lb/><bibl>Despatch</bibl> containing 
@@ -135,7 +135,7 @@
 <lb/>"information we 
 <lb/>have given is rather
 <lb/>scant' say his
-<lb/><persName>Lordship</persName><choice><sic>"</sic><corr/></choice> <space extent="1" unit="chars"/>Now
+<lb/>Lordship<choice><sic>"</sic><corr/></choice> <space extent="1" unit="chars"/>Now
 <lb/>you may go in
 <lb/>on that to give
 <lb/>a magnificent
@@ -191,7 +191,7 @@
 <lb/><persName>Rowley</persName> on his last
 <lb/>legs <hi rend="underline">they say</hi>, too -
 <lb/><persName>Waller</persName> ill yesterday
-<lb/>the new <persName><term type="occupation"><choice><sic>bishop</sic><corr>Bishop</corr></choice></term></persName> a
+<lb/>the new <term type="occupation"><choice><sic>bishop</sic><corr>Bishop</corr></choice></term> a
 <lb/>good cautious man
 <lb/>thinks of trying the
 <lb/>top of <placeName><geogName type="mountain">Merambala</geogName></placeName> -

@@ -309,7 +309,7 @@
     <pb facs="liv_000839_0010" n="0010"/>
 <lb/><p>You may <unclear cert="high">observe</unclear> in <bibl>my letter to <persName>Sir <choice><abbr>R.</abbr><expan>Roderick</expan></choice> <choice><abbr>M.</abbr><expan>Murchison</expan></choice></persName></bibl>
 <lb/>I allude to some geographical information having
-<lb/>been sent to <placeName><country>Germany</country></placeName>. <persName>Dr. <unclear cert="medium">Welwatsch</unclear></persName> told me
+<lb/>been sent to <placeName><country>Germany</country></placeName>. <persName>Dr. <unclear cert="medium"><choice><orig>Welwatsch</orig><reg>Welwitsch</reg></choice></unclear></persName> told me
 <lb/>he had written to <persName>Berghaus</persName>, the <term type="occupation">publisher</term> of a
 <lb/>very good <bibl>map</bibl> on <placeName><bloc>Africa</bloc></placeName>, an account of <!-- Adrian, does this account warrant a bibl tag? HB -->
 <lb/>my journey, he did so after he had got a

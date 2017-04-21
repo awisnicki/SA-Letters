@@ -215,7 +215,7 @@
 <lb/><orgName>denizens</orgName> of the forests which in more
 <lb/>recent continents can only be reached in
 <lb/>rocky strata or under perennial ice -
-<lb/><persName>Winwoode Reade</persName> hit the truth when he said
+<lb/><persName><choice><orig>Winwoode</orig><reg>Winwoode</reg></choice> Reade</persName> hit the truth when he said
 <lb/>The <term type="person">Ancient Egyptian</term> with his large round
 <lb/>black eyes - full luscious lips and <w>some-
 <lb break="no"/>=what</w> depressed nose is far nearer the
@@ -249,7 +249,7 @@
 <lb/>are as a rule fair average specimens
 <lb/>of humanity - I happened to be present
 <lb/>when all the <term type="occupation">head men</term> of the great <term type="occupation">chief</term>
-<lb/><persName>Insama</persName> who lives <placeName><region>West of the <w><subst><del>Nor</del><add place="over-text">Sou</add></subst>th</w>
+<lb/><persName><choice><orig>Insama</orig><reg>Nsama</reg></choice></persName> who lives <placeName><region>West of the <w><subst><del>Nor</del><add place="over-text">Sou</add></subst>th</w>
 <lb/>end of <placeName><geogName type="lake">Tanganyika</geogName></placeName></region></placeName>, had come together
 <lb/>to make peace with certain <orgName>Arabs</orgName> who had
 <lb/>burned their chief town, and I am
@@ -257,7 +257,7 @@
 <lb/>formed intellectual heads in any
 <lb/>assembly in <placeName><settlement type="city">London</settlement></placeName> or <placeName><settlement type="city">Paris</settlement></placeName> - and
 <lb/>the faces and forms corresponded
-<lb/>with the finely shaped heads - <persName>Insama</persName>
+<lb/>with the finely shaped heads - <persName><choice><orig>Insama</orig><reg>Nsama</reg></choice></persName>
 <lb/>himself had been a sort of <persName>Napoleon</persName>
 <lb/>for fighting and conquering in his
 <lb/>younger days, was exactly like the
@@ -272,7 +272,7 @@
 <lb/>where the phrase "bloated Aristocracy"
 <lb/>arose - It must be <term type="nationlity">American</term>, for I
 <lb/>have had glimples of a good many <!-- Again, misspell of glimpses DL or transcription? HB -->
-<lb/><term type="nationality">English</term> noblemen, and <persName>Insama</persName> was
+<lb/><term type="nationality">English</term> noblemen, and <persName><choice><orig>Insama</orig><reg>Nsama</reg></choice></persName> was
 <lb/>the only specimen of a bloated <w>Aristo-
 <lb break="no"/>-crat</w> on whom I ever set my eyes</p>
 
@@ -307,7 +307,7 @@
 <lb/>done to oneself to see a bit of grass stuck
 <lb/>through the cartilage of the nose so as to
 <lb/>bulge out the - <foreign xml:lang="und"><hi rend=" underline">alaz nasi</hi></foreign> - wings of the
-<lb/>nose of anatomists - <persName>Cazembe</persName>'s queen
+<lb/>nose of anatomists - <persName><choice><orig>Cazembe</orig><reg>Kazembe</reg></choice></persName>'s queen
 <lb/><persName>Moari a ngombe</persName> by name would be esteeemed
 <lb/>a real beauty either in <placeName><settlement type="city">London</settlement></placeName> <placeName><settlement type="city">Paris</settlement></placeName>
 <lb/>or <placeName><settlement type="city">New York</settlement></placeName> and yet she had a small
@@ -328,17 +328,17 @@
 <lb/>which is a sort of throne fastened on two 
 <lb/>very long poles, and carried by twelve
 <lb/>stalwart <orgName>citizens</orgName> "If they take <persName>Punch</persName>'s 
-<lb/><choice><orig>motton</orig><reg>mutton</reg></choice><!--unsure if he means mutton or mother. MB--> for <persName>Cazembe</persName>." <hi rend="underline"><orgName>Niggers</orgName><!-- encoded as orgName? MB --><!-- Yes. AW --> <choice><sic>dont</sic><corr>don't</corr></choice> require
+<lb/><choice><orig>motton</orig><reg>mutton</reg></choice><!--unsure if he means mutton or mother. MB--> for <persName><choice><orig>Cazembe</orig><reg>Kazembe</reg></choice></persName>." <hi rend="underline"><orgName>Niggers</orgName><!-- encoded as orgName? MB --><!-- Yes. AW --> <choice><sic>dont</sic><corr>don't</corr></choice> require
 <lb/>"to be shot here"</hi> as their own they may <choice><orig>shew</orig><reg>show</reg></choice>
 <lb/>themselves to be men - but whether they
-<lb/>do or not <persName>Cazembe</persName> will <choice><orig>shew</orig><reg>show</reg></choice> himself
+<lb/>do or not <persName><choice><orig>Cazembe</orig><reg>Kazembe</reg></choice></persName> will <choice><orig>shew</orig><reg>show</reg></choice> himself
 <lb/>a man of sterling good sense</p>
 <lb/><p>Now, these people so like ourselves <w>ex-
 <lb break="no"/>-ternally</w> have genuine human souls. 
 <lb/><placeName><region><choice><orig>Rua</orig><reg>Lubaland</reg></choice></region></placeName><!-- or settlement? MB --><!-- OK. AW --> a very large section of country North
-<lb/><add place="below">^</add> <add place="above">&amp; West</add> of <placeName><settlement type="village"><persName>Cazembe</persName>'s</settlement></placeName> but still in the same
+<lb/><add place="below">^</add> <add place="above">&amp; West</add> of <placeName><settlement type="village"><persName><choice><orig>Cazembe</orig><reg>Kazembe</reg></choice></persName>'s</settlement></placeName> but still in the same
 <lb/>inland region - is peopled by men
-<lb/>very like those of <persName>Insama</persName><!-- unclear. MB --><!-- Looks right. AW --> &amp; <persName>Cazembe</persName>
+<lb/>very like those of <persName><choice><orig>Insama</orig><reg>Nsama</reg></choice></persName><!-- unclear. MB --><!-- Looks right. AW --> &amp; <persName><choice><orig>Cazembe</orig><reg>Kazembe</reg></choice></persName>
 <lb/>An <orgName>Arab</orgName> - <persName>Syde bin Habib</persName> went to trade
 <lb/>in <placeName><region><choice><orig>Rua</orig><reg>Lubaland</reg></choice></region></placeName> <date when="1870">two years ago</date>, and as the <orgName>Arabs</orgName> 
 <lb/>usually do where the <orgName>natives</orgName> have no 
@@ -445,7 +445,7 @@
 	<pb facs="liv_002603_0017" n="0017"/>
 <lb/><p>I once saw a <orgName><add place="above">(9)</add> party <add place="below">^</add> <add place="above">of</add> twelve</orgName> <add place="above" rend="right" hand="#U">Clunire</add> <!-- unsure how to encode this. MB --><!-- Fixed. AW --> who had been <orgName>slaves</orgName>
 <lb/>in their own country <placeName><region>Lunda</region></placeName> or <placeName><region>Lõnda</region></placeName> of 
-<lb/>which <persName>Cazembe</persName> is <term type="occupation">chief</term> <w><gap extent="1" unit="chars"/><supplied cert="high">o</supplied>r</w> <term type="occupation">General</term> - they were traded
+<lb/>which <persName><choice><orig>Cazembe</orig><reg>Kazembe</reg></choice></persName> is <term type="occupation">chief</term> <w><gap extent="1" unit="chars"/><supplied cert="high">o</supplied>r</w> <term type="occupation">General</term> - they were traded
 <lb/>with large heavy wooden yokes which are forked
 <lb/>trees about three inches in diameter and seven
 <lb/>or eight feet long - the neck is inserted in the 
