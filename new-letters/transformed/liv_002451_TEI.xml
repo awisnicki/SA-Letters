@@ -77,8 +77,9 @@
 	<pb facs="liv_002451_0001" n="0001"/>
 
 <opener>
-<lb/><add place="above marginright" hand="#U">ms 17/3</add> <dateline rend="right"><placeName><settlement type="city">Bombay</settlement></placeName> <date when="1865-12-13">13 <choice><abbr>Dec</abbr><expan>December</expan></choice>
-<lb/>1865</date></dateline>
+<lb/><space extent="4" unit="words"/><add place="inspace" rend="small gray" hand="#U">ms 17/3</add> 
+<lb/><dateline><space extent="1" unit="words"/><placeName><settlement type="city">Bombay</settlement></placeName> <date when="1865-12-13">13 <choice><abbr>Dec</abbr><expan>December</expan></choice>
+<lb/><space extent="3" unit="words"/><space extent="2" unit="chars"/>1865</date></dateline>
 <lb/>    
 <lb/><salute>My Dear Kirk</salute><!-- Change line info as appropriate -->
 </opener>
@@ -100,7 +101,7 @@
 	<pb facs="liv_002451_0002" n="0002"/>
 <lb/>I gave you as fair
 <lb/>an account as I
-<lb/>could of the <unclear cert="high">advantage<gap extent="1" unit="chars" agent="blot"/><supplied>s</supplied></unclear>
+<lb/>could of the advantage<gap extent="1" unit="chars" agent="blot"/><supplied>s</supplied>
 <lb/>and disadvantages
 <lb/>of the situation (if
 <lb/>offered) I would take
@@ -156,11 +157,9 @@
 <lb/>is now cool &amp; pleasant</seg>
 <lb/>here - but I wish I were
 <lb/>away to my work</p>
+<lb/><closer><salute>Very <choice><abbr>Affectly</abbr><expan>Affectionately</expan></choice> yours</salute>
+<lb/><signed><persName>David Livingstone</persName></signed></closer> 
 
-<closer>
-<lb/><salute>Very <choice><abbr>Affectly</abbr><expan>Affectionately</expan></choice> yours</salute>
-<lb/><signed><persName>David Livingstone</persName></signed> 
-</closer>
 
 
             </div>

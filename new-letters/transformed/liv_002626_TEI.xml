@@ -73,13 +73,13 @@
 	<pb facs="liv_002626_0001" n="0001"/><!-- Change both @facs and @n -->
 	
 <opener>
-<lb/><dateline><placeName><region>South Central <bloc>Africa</bloc></region></placeName> 
-<lb rend="right"/><date when="1872-11-21">21<hi rend="sup underline">st</hi> <choice><abbr>Nov<hi rend="sup underline">r</hi></abbr><expan>November</expan></choice> 1872</date></dateline>
+<lb/><dateline><space extent="2" unit="chars"/><placeName><region>South Central <bloc>Africa</bloc></region></placeName> 
+<lb/><space extent="2" unit="words"/><space extent="2" unit="chars"/><date when="1872-11-21">21<hi rend="sup underline">st</hi> <choice><abbr>Nov<hi rend="sup underline">r</hi></abbr><expan>November</expan></choice> 1872</date></dateline>
 <lb/>    
-<lb/><salute>My Dear Sir</salute><!-- Change line info as appropriate -->
+<lb/><space extent="2" unit="chars"/><salute>My Dear Sir</salute><!-- Change line info as appropriate -->
 </opener>
 
-<lb/><p rend="right">I was very
+<lb/><p><space extent="2" unit="words"/><space extent="1" unit="chars"/>I was very
 <lb/>much pleased by the arrival
 <lb/>at <placeName><settlement type="town">Unyanyembe</settlement></placeName> in <date when="1872-08">August
 <lb/>last</date> of your <bibl>note</bibl> dated
@@ -102,8 +102,8 @@
 <ab>
 <lb/>up a little for I am nearly toothless = a dreadful old fogie
 <lb/>but yours cordally, <persName>David Livingstone</persName>
-<lb rend="right"/>to <persName>Dr.
-<lb rend="right"/>L. Marsh</persName>
+<lb/><space extent="8" unit="words"/>to <space extent="2" unit="chars"/><persName>D<hi rend="sup double-underline">r</hi>
+<lb/><space extent="8" unit="words"/>L. Marsh</persName>
 </ab><!-- This is the closer. AW -->
 
 	<pb facs="liv_002626_0002" n="0002"/>
