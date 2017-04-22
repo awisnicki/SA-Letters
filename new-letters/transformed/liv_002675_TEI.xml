@@ -80,14 +80,15 @@
                
 	<pb facs="liv_002675_0001" n="0001"/><!-- Change both @facs and @n -->
 	
-<opener>
-<lb/><add place="above marginleft">Copy</add><add place="above marginright" rend="gray" hand="#U">(<choice><abbr>Nav Arch Rhod.</abbr><expan>Naval Archives Rhodesia</expan></choice>) <seg rend="diagonal">32</seg></add>
-<lb/><add place="marginleft" rend="gray"><choice><abbr>No</abbr><expan>Number</expan></choice> 1</add><dateline rend="right"><placeName><settlement type="village">Kuruman</settlement></placeName> <date when="1852-12-13">13<hi rend="sup underline">th</hi> December 1852</date></dateline>
-<lb/><persName><choice><abbr>Thos</abbr><expan>Thomas</expan></choice> Maclear <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice></persName>   
-<lb/><salute>My Dear Sir,</salute>
-</opener>
 
-<lb/><p rend="center"> I am sorry that all
+<lb/><p rend="no-indent small"><add place="marginleft">Copy</add> <space extent="2" unit="words"/><add place="inspace" rend="gray" hand="#U">(<choice><abbr>Nav Arch Rhod.</abbr><expan>Naval Archives Rhodesia</expan></choice>) <add place="above" rend="diagonal">32</add></add></p>
+<lb/>
+<lb/><p rend="no-indent"><add place="marginleft" rend="gray"><choice><abbr>No</abbr><expan>Number</expan></choice> 1</add> <space extent="1" unit="words"/><placeName><settlement type="village">Kuruman</settlement></placeName> <date when="1852-12-13">13<hi rend="sup underline">th</hi> December 1852</date></p>
+<lb/>
+<lb/><p rend="no-indent"><persName><choice><abbr>Thos</abbr><expan>Thomas</expan></choice> Maclear <choice><abbr>Esq.</abbr><expan>Esquire</expan></choice></persName></p>   
+<lb/>
+<lb/><p rend="no-indent">My Dear Sir,</p>
+<lb/><p><space extent="2" unit="words"/>I am sorry that all
 <lb/>I have yet to say to you amounts
 <lb/>only to 0. I have been detained here
 <lb/>during the last four months in
@@ -99,7 +100,7 @@
 <lb/>start tomorrow and hope that when
 <lb/>I next write I shall have
 <lb/>something of interest to communicate
-<lb/><fw rend="right">(all</fw>
+<lb/><space extent="6" unit="words"/><space extent="2" unit="chars"/><fw>(all</fw>
 
 	<pb facs="liv_002675_0002" n="0002"/>
 <lb/>all about the <term type="animal">Unicorn</term>, <term type="animal">Salamander</term>,
@@ -118,7 +119,7 @@
 <lb/>as well as my property. They hate
 <lb/>me cordially, and I <choice><sic>dont</sic><corr>don't</corr></choice> think there
 <lb/>is much love lost between us. The
-<lb/><fw rend="right">reason</fw>
+<lb/><space extent="6" unit="words"/><space extent="1" unit="chars"/><fw>reason</fw>
 
 	<pb facs="liv_002675_0003" n="0003"/>
 <lb/>reason why they distinguish me so
@@ -137,7 +138,7 @@
 <lb/>try and fancy his Reverence
 <lb/>"teaching the young idea how to
 <lb/>shoot" <orgName><choice><sic>boers</sic><corr>Boers</corr></choice></orgName>, when she thinks of
-<lb/><fw rend="right">missionary</fw>
+<lb/><space extent="5" unit="words"/><space extent="2" unit="chars"/><fw>missionary</fw>
 
 	<pb facs="liv_002675_0004" n="0004"/>
 <lb/>missionary life in the interior of
@@ -156,7 +157,7 @@
 <lb/>and <placeName><settlement type="village">Kolobeng</settlement></placeName> was discovered in
 <lb/>its entire course by <term type="people">Englishmen</term>
 <lb/>and they have hitherto carried on
-<lb/><fw rend="right">the</fw>
+<lb/><space extent="6" unit="words"/><space extent="2" unit="chars"/><fw>the</fw>
 
 	<pb facs="liv_002675_0005" n="0005"/>
 <lb/>the trade. - It does not seem
@@ -175,7 +176,7 @@
 <lb/>by the <orgName>Boers</orgName> is at least a degree
 <lb/>of longitude east of our route. And
 <lb/>then this is the only route by which
-<lb/><fw rend="right">the</fw>
+<lb/><space extent="6" unit="words"/><space extent="2" unit="chars"/><fw>the</fw>
 
 	<pb facs="liv_002675_0006" n="0006"/>
 <lb/>the interior of <bloc>Africa</bloc> is open. -
@@ -194,7 +195,7 @@
 <lb/>oblivion. - The blocking up of our
 <lb/>path this way only makes me more
 <lb/>determined to find out another on
-<lb/><fw rend="right">either</fw>
+<lb/><space extent="6" unit="words"/><space extent="2" unit="chars"/><fw>either</fw>
 
 	<pb facs="liv_002675_0007" n="0007"/>
 <lb/>either one coast or the other. My
@@ -213,7 +214,7 @@
 <lb/>the <term type="nationality">English</term> <term type="occupation">hunters</term>' goods which were
 <lb/>deposited in my house. - I have not
 <lb/>yet got the length of taking
-<lb/><fw rend="right">joyfully</fw>
+<lb/><space extent="6" unit="words"/><fw>joyfully</fw>
 
 <pb facs="liv_002675_0008" n="0008"/>
 <lb/>joyfully the sporting of my goods, -
@@ -232,7 +233,7 @@
 <lb/>write his despatches on my wife's
 <lb/>writing desk. Well i hope to get
 <lb/>over it in time. I would not grudge
-<lb/><fw rend="right">my</fw>
+<lb/><space extent="6" unit="words"/><fw>my</fw>
 
 	<pb facs="liv_002675_0009" n="0009"/>
 <lb/>my losses if the <orgName>Government</orgName> would
@@ -244,13 +245,14 @@
 <lb/>As I am nobody I scarcely expect
 <lb/>the <orgName>Government</orgName> will take any notice
 <lb/>of the affair.  I hear from <persName>M<hi rend="sup">r</hi> <choice><abbr>L.</abbr><expan>Livingstone</expan></choice></persName>
-<lb/>that <persName>Oswell</persName> is already casting a longing eye back to <placeName>><bloc>Africa</bloc></placeName>.</p>
+<lb/>that <persName>Oswell</persName> is already casting a 
+<lb/>longing eye back to <placeName><bloc>Africa</bloc></placeName>.</p>
 <lb/><p>I am very sorry that I
 <lb/>stupidly left without saying goodbye
 <lb/>to <persName>M<hi rend="sup underline">r</hi> Morton</persName>. I was somewhat
 <lb/>like one of our girls who was quite
 <lb/>stupified by the sight of <placeName><settlement type="town">Cape Town</settlement></placeName>
-<lb/><fw rend="right">I</fw>
+<lb/><space extent="6" unit="words"/><space extent="1" unit="chars"/><fw>I</fw>
 
 	<pb facs="liv_002675_0010" n="0010"/>
 <lb/>I had not all my wits about
@@ -263,13 +265,11 @@
 <lb/>I expect when we reach <placeName><settlement type="village">Kolobeng</settlement></placeName>
 <lb/>it will be the "perpetual motion"
 <lb/>at last. -</p>
+<lb/><p>With many kind salutations to
+<lb/><space extent="2" unit="words"/><persName>M<hi rend="sup underline">rs</hi> <choice><abbr>M.</abbr><expan>Morton</expan></choice></persName> and family
+<lb/><space extent="2" unit="words"/><space extent="1" unit="chars"/>Believe me, Yours very Sincerely
+<lb/><space extent="2" unit="words"/><space extent="2" unit="chars"/><unclear cert="medium"><choice><abbr>Sig<hi rend="sup">d</hi></abbr><expan>Signed</expan></choice></unclear> <persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName></p><!-- Change as appropriate --> 
 
-<closer>
-<lb rend="center"/><salute>With many kind salutations to
-<lb rend="center"/><persName>M<hi rend="sup underline">rs</hi> <choice><abbr>M.</abbr><expan>Morton</expan></choice></persName> and family
-<lb rend="center"/>Believe me, Yours very Sincerely
-<lb rend="center"/><unclear cert="medium"><choice><abbr>Sig<hi rend="sup">d</hi></abbr><expan>Signed</expan></choice></unclear> </salute><signed><persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName></signed><!-- Change as appropriate --> 
-</closer>
 
 
             </div>
