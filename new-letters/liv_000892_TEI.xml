@@ -30,7 +30,7 @@
                 <authority>Livingstone Online</authority>
                 <publisher>University of Maryland Libraries</publisher>
                 <pubPlace>College Park, MD, USA</pubPlace>
-                <date>2016</date><!-- Change if necessary -->
+                <date>2017</date><!-- Change if necessary -->
                 <idno type="LEAP-ID">liv_000892</idno>
             </publicationStmt>
             <sourceDesc>
@@ -83,7 +83,7 @@
                
 	<pb facs="liv_000892_0001" n="0001"/>
     <opener>
-<lb/><dateline><hi rend="right"><placeName><settlement type="town">Tete</settlement></placeName>, on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName></hi>
+<lb/><dateline rend="right"><placeName><settlement type="town">Tete</settlement></placeName>, on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
 <lb rend="right"/><placeName><region>East <bloc>Africa</bloc></region></placeName>
 <lb rend="right"/>His Excellency <persName>Jose R. <choice><abbr>C.</abbr><expan>Coelho</expan></choice> do Amaral</persName>, <date when="1856-03-25"/>25<hi rend="sup underline">th</hi> March 1856</dateline>
 <lb rend="right"/>The <term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> and its Dependencies
@@ -307,8 +307,8 @@
 <addrLine>To His Excellency <persName>Jose R. <choice><abbr>C.</abbr><expan>Coelho</expan></choice> do Amaral</persName></addrLine>
 <addrLine>the <term type="occupation">Governor General</term></addrLine>
 <addrLine>of <placeName><country>Angola</country></placeName> &amp;c. &amp;c. &amp;c.</addrLine>
-<addrLine><hi rend="left"><placeName><region>West Coast</region></placeName></hi></addrLine>
-<addrLine><hi rend="left"><hi rend="double-underline">of</hi> <placeName><bloc>Africa</bloc></placeName></hi> <hi rend="center"> <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></hi> </addrLine>
+<addrLine><placeName><region>West Coast</region></placeName></addrLine>
+<addrLine><hi rend="double-underline">of</hi> <placeName><bloc>Africa</bloc></placeName> <seg rend="center"><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></seg></addrLine>
     </address>
     </ab>
 			</div>

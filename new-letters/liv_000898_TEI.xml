@@ -30,7 +30,7 @@
                 <authority>Livingstone Online</authority>
                 <publisher>University of Maryland Libraries</publisher>
                 <pubPlace>College Park, MD, USA</pubPlace>
-                <date>2016</date><!-- Change if necessary -->
+                <date>2017</date><!-- Change if necessary -->
                 <idno type="LEAP-ID">liv_000898</idno><!-- Change as needed -->
             </publicationStmt>
             <sourceDesc>
@@ -80,7 +80,7 @@
                
 	<pb facs="liv_000898_0001" n="0001"/><!-- Change both @facs and @n -->
 <!-- missionaries an orgName or an occupation? Check throughout. MB --><!-- All reviewed. AW -->
-<lb/><dateline><add rend="gray" hand="#U">6</add><placeName><settlement type="town">Tete</settlement></placeName> <date when="1856-04-04">4<hi rend="sub underline">th</hi> April 1856</date></dateline>
+<lb/><dateline><add rend="gray" hand="#U">6</add><placeName><settlement type="town">Tete</settlement></placeName> <date when="1856-04-04">4<hi rend="sup underline">th</hi> April 1856</date></dateline>
 <lb/>    
 <lb/><salute>My Dear M<hi rend="sup underline">r</hi> Gabriel</salute><!-- Change line info as appropriate -->
 <lb/><p rend="center">Herewith I send a <bibl>letter</bibl> to the

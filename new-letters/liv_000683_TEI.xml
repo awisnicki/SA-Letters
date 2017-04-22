@@ -31,7 +31,8 @@
                 <authority>Livingstone Online</authority>
                 <publisher>University of Maryland Libraries</publisher>
                 <pubPlace>College Park, MD, USA</pubPlace>
-                <date>2016</date><!-- Change if necessary -->
+                <date>2017</date><!-- Change if necessary -->
+				<idno type="LEAP-ID">liv_000683</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
                         All materials are licensed for use under the 
@@ -189,7 +190,7 @@
 	<pb facs="liv_000683_0004" n="0004"/>
 <ab><add rend="right gray" hand="#U2"><placeName><geogName type="river">River Za<gap extent="5" unit="chars"/></geogName></placeName></add></ab>
 
-<ab><add place="bottom" rend="right gray" hand="#U3">9<hi rend="sup">00</hi></add></ab>
+<ab><add place="inspace" rend="right gray" hand="#U3">9<hi rend="sup">00</hi></add></ab>
 <!-- For the U1 and U2 in the @hands above, Angela, see also the change I've made in the physDesc section of the header. AW -->
 
 <cb rend="right vertical upside-down"/><ab><lb/>you must excuse this short letter - <choice><abbr>Do</abbr><expan>Ditto</expan></choice></ab>

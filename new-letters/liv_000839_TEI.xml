@@ -35,7 +35,7 @@
                 <authority>Livingstone Online</authority>
                 <publisher>University of Maryland Libraries</publisher>
                 <pubPlace>College Park, MD, USA</pubPlace>
-                <date>2016</date>
+                <date>2017</date>
                 <idno type="LEAP-ID">liv_000839</idno>
             </publicationStmt>
             <sourceDesc>
@@ -131,7 +131,7 @@
 <lb/><persName>Mr Pires</persName> of <placeName><settlement type="village">Pungo Andongo</settlement></placeName> who
 <lb/>promised to forward all with care
 <lb/>I delivered also a <bibl>packet</bibl> into his care, 
-<lb/><hi rend="left">consisting</hi> of a <bibl>letter and note for <persName>Sir <choice><abbr>R.</abbr><expan>Roderick</expan></choice> Murchison</persName></bibl>
+<lb/>consisting of a <bibl>letter and note for <persName>Sir <choice><abbr>R.</abbr><expan>Roderick</expan></choice> Murchison</persName></bibl>
 <lb/>with a rough copy of the same
         
     <pb facs="liv_000839_0002" n="0002"/>
@@ -519,7 +519,7 @@
 <lb/><orgName>my own party</orgName>. These were never 
 <lb/>satisfied, and complained of me to 
 <lb/>every one we met: though I was instructed
-<lb/>to give them nothing <hi rend="sub">^</hi> <add place="marginleft" rend="vertical">because already paid by the <term type="occupation">merchant</term></add> I gave a small
+<lb/>to give them nothing <add place="below">^</add> <add place="marginleft" rend="vertical">because already paid by the <term type="occupation">merchant</term></add> I gave a small
 <lb/>ration <choice><abbr>viz.</abbr><expan>vidilicet</expan></choice> as much <term type="foodstuff">meal</term> as they
 <lb/>could eat - my men buying it and
 <lb/>when we slaughtered an <term type="animal_foodstuff">ox</term> they got
@@ -835,7 +835,7 @@
 <lb/><div><opener><add place="above" rend="center"><hi rend="double-underline">Appendix</hi> !!</add> <add place="above" hand="#U2">2</add> <date when="1855-01-20">20<hi rend="sup underline">th</hi></date></opener> <space extent="2" unit="chars"/><p>As the <bibl>Mail</bibl> is not to leave for another <!-- Not sure what tag is appropriate for the Mail here and on the next line? HB -->
 <lb/>day or two I add a little more to this prolix
 <lb/>production - The <bibl>Mail of the <date when="1855-01-16">16<hi rend="sup underline">th</hi></date></bibl> will
-<lb/>not reach this till <date from="1885-02-05" to="1855-02-06">the 5 or 6<hi  rend="double-underline">th</hi> of February</date> -
+<lb/>not reach this till <date from="1855-02-05" to="1855-02-06">the 5 or 6<hi  rend="double-underline">th</hi> of February</date> -
 <lb/>I shall either wait or get the contents
 <lb/>on the <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName> - So you need not be 
 <lb/>apprehensive what you have <unclear cert="medium">dispatched</unclear> 

@@ -30,7 +30,7 @@
                 <authority>Livingstone Online</authority>
                 <publisher>University of Maryland Libraries</publisher>
                 <pubPlace>College Park, MD, USA</pubPlace>
-                <date>2016</date><!-- Change if necessary -->
+                <date>2017</date><!-- Change if necessary -->
                 <idno type="LEAP-ID">liv_000877</idno>
             </publicationStmt>
             <sourceDesc>
@@ -416,7 +416,7 @@
 <lb/>which unite and form the  <placeName><geogName type="river">Chobe</geogName></placeName> - the <placeName><geogName type="river">Embarral</geogName></placeName>
 <lb/>or <placeName><geogName type="river">River of Loebe</geogName></placeName> on the <placeName><region>South West</region></placeName> - &amp; the
 <lb/><placeName><geogName type="river"><choice><orig>Casai</orig><reg>Kasai</reg></choice></geogName></placeName> and its many feeders on <placeName><region>the East</region></placeName></p>
-<lb/><p><hi rend="right">Brisk <choice><abbr>Ebull</abbr><expan cert="medium">Ebullition</expan></choice></hi></p>
+<lb/><p rend="right">Brisk <choice><abbr>Ebull</abbr><expan cert="medium">Ebullition</expan></choice></p>
 
 <lb/><list><item><space extent="6" unit="chars"/>Top of Rocks of <placeName><settlement type="village">Pungo Andongo</settlement></placeName> <seg rend="right"><metamark/><hi rend="underline gray">4210</hi><!-- number encircled AM --><hi rend="sup gray">H</hi></seg><seg rend="right">204</seg></item>
 

@@ -30,7 +30,7 @@
                 <authority>Livingstone Online</authority>
                 <publisher>University of Maryland Libraries</publisher>
                 <pubPlace>College Park, MD, USA</pubPlace>
-                <date>2016</date><!-- Change if necessary -->
+                <date>2017</date><!-- Change if necessary -->
                 <idno type="LEAP-ID">liv_000930</idno>
             </publicationStmt>
             <sourceDesc>
@@ -123,7 +123,7 @@
 
 	<pb facs="liv_000930_0004" n="0004"/>
 <addSpan spanTo="#add1" hand="#U3"/>
-<lb rend="vertical large gray"/><note>£12/0/0<!-- Change @rend from vertical to diagonal -->
+<lb/><note rend="vertical large gray">£12/0/0<!-- Change @rend from vertical to diagonal -->
 <lb/><space extent="3" unit="lines" dim="vertical"/>
 <lb/><hi rend="underline"><choice><orig>½</orig><reg>1/2</reg></choice></hi>
 </note><!-- <note> isn't ideal, but it's one of the few things it will accept. AW -->
