@@ -52,7 +52,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to </title><!-- Change -->
+                    <title type="alternative">Letter to </title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1863-07-30">30 July 1862</date><!-- Change -->
                     <placeName type="compositionPlace">Kongone</placeName><!-- Change -->

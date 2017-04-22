@@ -52,7 +52,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Edward Glover, 17 October 1862</title><!-- Change -->
+                    <title type="alternative">Letter to Edward Glover, 17 October 1862</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1862-10-17"></date><!-- Change -->
                     <placeName type="compositionPlace">Quillimane</placeName><!-- Change -->

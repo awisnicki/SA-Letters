@@ -52,7 +52,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Jean Fredoux and Ann Fredoux, 26 March, 12 July, 12 August 1856</title><!-- Change -->
+                    <title type="alternative">Letter to Jean Fredoux and Ann Fredoux, 26 March, 12 July, 12 August 1856</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1856-03-26">26 March 1856</date><!-- Change -->
                     <placeName type="compositionPlace">Tette, or Nyungue</placeName><!-- Change -->

@@ -54,7 +54,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to John Kirk, 2 December 1865</title><!-- Change -->
+                    <title type="alternative">Letter to John Kirk, 2 December 1865</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1865-12-02">2 December 1865</date><!-- Change -->
                     <placeName type="compositionPlace">Bombay</placeName><!-- Change -->

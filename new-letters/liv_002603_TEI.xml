@@ -65,7 +65,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to James G. Bennett, February 1872</title>
+                    <title type="alternative">Letter to James G. Bennett, February 1872</title>
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1872-02">February 1872</date>
                     <placeName type="compositionPlace">South Eastern Central Africa</placeName>

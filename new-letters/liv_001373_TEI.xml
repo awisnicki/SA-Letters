@@ -51,7 +51,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to George L. Conyngham, 5 October 1858</title>
+                    <title type="alternative">Letter to George L. Conyngham, 5 October 1858</title>
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1858-10-05">5 October 1858</date>
                     <placeName type="compositionPlace">Zambesi River</placeName>

@@ -75,7 +75,7 @@
                 </msDesc>
                 <bibl type="sourceMetadata">
 					<!-- Change title below -->
-                    <title>Letter to Edmund Gabriel, 27 June 1856</title>
+                    <title type="alternative">Letter to Edmund Gabriel, 27 June 1856</title>
                     <author xml:id="DL">David Livingstone</author>
 					<!-- Change @when and date below -->					
                     <date type="composition" when="1856-06-27">27 June 1856</date>

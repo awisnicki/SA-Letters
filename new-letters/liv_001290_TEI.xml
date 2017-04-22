@@ -54,7 +54,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to John Kirk, 18 March 1858</title><!-- Change -->
+                    <title type="alternative">Letter to John Kirk, 18 March 1858</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1856-04-04">18 March 1858</date><!-- Change -->
                     <placeName type="compositionPlace">Screw Streamship Pearl at sea off Madeira</placeName><!-- Change -->

@@ -53,7 +53,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Baldwin W. Walker, 17 February 1862</title><!-- I don't think this needs to include underline-->
+                    <title type="alternative">Letter to Baldwin W. Walker, 17 February 1862</title><!-- I don't think this needs to include underline-->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1862-02-17">17 February 1862</date><!-- Change -->
                     <placeName type="compositionPlace">River Zambesi</placeName><!-- Change -->

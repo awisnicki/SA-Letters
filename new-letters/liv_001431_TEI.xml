@@ -52,7 +52,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Adam Sedgwick, 27 May 1859</title><!-- Change -->
+                    <title type="alternative">Letter to Adam Sedgwick, 27 May 1859</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1859-05-27">27 May 1859</date><!-- Change -->
                     <placeName type="compositionPlace">River Zambesi, East Africa</placeName><!-- Change -->

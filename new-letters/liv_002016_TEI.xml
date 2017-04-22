@@ -49,7 +49,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to William Sunley, 25 April 1864</title><!-- Change -->
+                    <title type="alternative">Letter to William Sunley, 25 April 1864</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1864-04-25">25 April 1864</date><!-- Change -->
                     <placeName type="compositionPlace">Zanzibar</placeName><!-- Change -->

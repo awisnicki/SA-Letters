@@ -53,7 +53,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Edmund Gabriel, 4 June 1859</title><!-- Change -->
+                    <title type="alternative">Letter to Edmund Gabriel, 4 June 1859</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1859-06-04">4 June 1859</date><!-- Change -->
                     <placeName type="compositionPlace">River Shire</placeName><!-- Change -->

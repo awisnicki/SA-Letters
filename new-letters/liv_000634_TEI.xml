@@ -52,7 +52,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Andrew Murray, 10 June 1847</title><!-- Change -->
+                    <title type="alternative">Letter to Andrew Murray, 10 June 1847</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1847-06-10">10 June 1847</date><!-- Change -->
                     <placeName type="compositionPlace">Kuruman</placeName><!-- Change -->

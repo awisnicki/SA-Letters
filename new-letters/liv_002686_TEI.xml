@@ -47,7 +47,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to J. Dyke, Date Unknown</title><!-- Change -->
+                    <title type="alternative">Letter to J. Dyke, Date Unknown</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition">Unknown</date><!-- Change -->
                     <placeName type="compositionPlace">Unknown</placeName><!-- Change -->

@@ -69,7 +69,7 @@
                 </msDesc>
                 <bibl type="sourceMetadata">
 					<!-- Change title below -->
-                    <title>Letter to Alfredo Duprat, 26 March 1856</title>
+                    <title type="alternative">Letter to Alfredo Duprat, 26 March 1856</title>
                     <author xml:id="DL">David Livingstone</author>
 					<!-- Change @when and date below -->					
                     <date type="composition" when="1856-03-26">26 March 1856</date>

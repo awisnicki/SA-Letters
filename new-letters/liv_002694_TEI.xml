@@ -47,7 +47,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Unknown, [1860]</title><!-- I don't think this needs to include underline-->
+                    <title type="alternative">Letter to Unknown, [1860]</title><!-- I don't think this needs to include underline-->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1860">[1860]</date><!-- Change -->
                     <placeName type="compositionPlace">[South East Africa]</placeName><!-- Change -->

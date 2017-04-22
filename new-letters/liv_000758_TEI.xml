@@ -52,7 +52,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Mary Livingstone, 28 May 1852</title><!-- Change -->
+                    <title type="alternative">Letter to Mary Livingstone, 28 May 1852</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1852-05-28">28 May 1852</date><!-- Change -->
                     <placeName type="compositionPlace">Cape Town</placeName><!-- Change -->

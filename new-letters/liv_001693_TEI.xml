@@ -68,7 +68,7 @@
                 </msDesc>
                 <bibl type="sourceMetadata">
 					<!-- Change title below -->
-                    <title>Letter to William Sunley, 18th November 1861</title>
+                    <title type="alternative">Letter to William Sunley, 18th November 1861</title>
                     <author xml:id="DL">David Livingstone</author>
 					<!-- Change @when and date below -->					
                     <date type="composition" when="1861-11-18">18 November 1861</date>

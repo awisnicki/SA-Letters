@@ -52,7 +52,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Thomas Maclear, 13 December 1852</title><!-- Change -->
+                    <title type="alternative">Letter to Thomas Maclear, 13 December 1852</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1852-12-13">13 December 1852</date><!-- Change -->
                     <placeName type="compositionPlace">Kuruman</placeName><!-- Change -->

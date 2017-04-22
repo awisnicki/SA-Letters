@@ -70,7 +70,7 @@
                 </msDesc>
                 <bibl type="sourceMetadata">
 					<!-- Change title below -->
-                    <title>Letter to Robert Moffat 2, 28 April 1845</title>
+                    <title type="alternative">Letter to Robert Moffat 2, 28 April 1845</title>
                     <author xml:id="DL">David Livingstone</author>
 					<!-- Change @when and date below -->					
                     <date type="composition" when="1845-04-28">28 April 1845</date>

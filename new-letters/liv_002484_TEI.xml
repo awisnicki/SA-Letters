@@ -54,7 +54,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to </title><!-- Change -->
+                    <title type="alternative">Letter to </title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1866-03-14">14 March 1866</date><!-- Change -->
                     <placeName type="compositionPlace">Zanzibar</placeName><!-- Change -->

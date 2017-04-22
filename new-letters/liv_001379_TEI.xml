@@ -47,7 +47,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Edmund Gabriel, 7 October 1858</title><!-- Change -->
+                    <title type="alternative">Letter to Edmund Gabriel, 7 October 1858</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1858-10-07">7 October 1858</date><!-- Change -->
                     <placeName type="compositionPlace">Kolobeng</placeName><!-- Change -->

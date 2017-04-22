@@ -51,7 +51,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Richard Thornton, 8 February 1860</title>
+                    <title type="alternative">Letter to Richard Thornton, 8 February 1860</title>
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1860-02-08">8 February 1860</date>
                     <placeName type="compositionPlace">Tette</placeName>

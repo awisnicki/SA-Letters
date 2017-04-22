@@ -77,7 +77,7 @@
                 </msDesc>
                 <bibl type="sourceMetadata">
 					<!-- Change title below -->
-                    <title>Letter to The Earl of Clarendon, 24 February 1863</title>
+                    <title type="alternative">Letter to The Earl of Clarendon, 24 February 1863</title>
                     <author xml:id="DL">David Livingstone</author>
 					<!-- Change @when and date below -->					
                     <date type="composition" when="1863-02-24">24 February 1863</date>

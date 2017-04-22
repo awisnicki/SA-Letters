@@ -60,7 +60,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Robert N. Hayward, 17 July 1843</title><!-- Change -->
+                    <title type="alternative">Letter to Robert N. Hayward, 17 July 1843</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1856-04-04">17 July 1843</date><!-- Change -->
                     <placeName type="compositionPlace">Kuruman</placeName><!-- Change -->

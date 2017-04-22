@@ -65,7 +65,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Robert Moffat 2, 13 August, September, 30 September 1847</title>
+                    <title type="alternative">Letter to Robert Moffat 2, 13 August, September, 30 September 1847</title>
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" from="1847-08-13" to="1847-09-30">13 August, September, 30 September 1847</date><!-- As it follows, how should this be handled? EM --><!-- Fixed. AW -->
                     <placeName type="compositionPlace">Kolobeng, Bakwain Country</placeName>

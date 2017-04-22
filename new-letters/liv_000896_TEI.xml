@@ -52,7 +52,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Edmund Gabriel, [2 March-3 April 1856]</title><!-- Change -->
+                    <title type="alternative">Letter to Edmund Gabriel, [2 March-3 April 1856]</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1856-03-02">2 March 1856</date><!-- Change -->
                     <placeName type="compositionPlace">Tete (Mozambique : Province)</placeName><!-- Change -->

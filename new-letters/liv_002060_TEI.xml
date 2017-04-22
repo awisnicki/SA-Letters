@@ -52,7 +52,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Unknown, 1 September 1864</title><!-- Change -->
+                    <title type="alternative">Letter to Unknown, 1 September 1864</title><!-- Change -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1864-09-01">1 September 1864</date><!-- Change -->
                     <placeName type="compositionPlace">Hamilton</placeName><!-- Change -->

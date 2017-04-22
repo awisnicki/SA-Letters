@@ -61,7 +61,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Letter to Edmund Gabriel, 5, 18, 20, 23 January 1855</title>
+                    <title type="alternative">Letter to Edmund Gabriel, 5, 18, 20, 23 January 1855</title>
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" when="1855-01-05">5 January 1855</date>
                     <placeName type="compositionPlace">Malange-Cassange</placeName>
