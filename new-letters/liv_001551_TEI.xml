@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="http://livingstoneonline.github.io/LEAP-XSLT/transcription.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-alt-new.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_001551"><!-- Change @xml:id -->
     <teiHeader>
         <fileDesc>
@@ -10,7 +10,7 @@
  				<title type="alternative">Letter to Edmund Gabriel, 25 March 1860</title><!-- Change -->
                 <author>David Livingstone</author>
                 <principal>Adrian S. Wisnicki</principal>
-                <principal>Christopher Lawrence</principal>
+                <principal>Megan Ward</principal>
                 <respStmt xml:id="EM">
                     <name>E. Alexander Munson</name><!-- Change -->
                     <resp>Transcription</resp><!-- Change -->
@@ -20,15 +20,6 @@
                     <name>Jared McDonald</name><!-- Change -->
                     <resp>Transcription</resp><!-- Change -->
                     <resp>Encoding</resp><!-- Change, remove, or add more <resp> as appropriate -->
-                </respStmt>
-                <respStmt xml:id="AA">
-                    <name>Angela Aliff</name>
-                    <resp>Transcription</resp>
-                    <resp>Encoding</resp>
-                </respStmt>
-                <respStmt xml:id="AW">
-                    <name>Adrian S. Wisnicki</name>
-                    <resp>Coding review</resp>
                 </respStmt>
             </titleStmt>	
             <publicationStmt>
@@ -194,7 +185,7 @@
 <lb/>severely and accuses me of several
 <lb/>falsehoods and insultingly alludes to
 <lb/>the losses of men by Machine &amp; <persName>Berkeley</persName> 
-<lb/>on the bars of <placeName><settlement type="town"><chocie><orig>Quilimane</orig><reg>Quelimane</reg></chocie></settlement></placeName> &amp; <placeName><settlement type="village">Luabo</settlement></placeName> as
+<lb/>on the bars of <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName> &amp; <placeName><settlement type="village">Luabo</settlement></placeName> as
 <lb/>attributable to "D<hi rend="sup underline">r</hi> Li undertakings" - I had
 <lb/>no more idea of stating what was untrue
 <lb/>than I have now of swearing at you -

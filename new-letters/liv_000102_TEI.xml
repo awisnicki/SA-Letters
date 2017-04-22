@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="http://livingstoneonline.github.io/LEAP-XSLT/transcription.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-alt-new.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000102"><!-- Change @xml:id -->
     <teiHeader>
         <fileDesc>
@@ -9,7 +9,12 @@
                 <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part III)</title>
  				<title type="alternative">Manuscript of "Missionary Travels and Researches in South Africa" (Part III)</title><!-- This will change with each volume of the MS. -->
                 <author>David Livingstone</author>
-                <principal>Justin Livingstone</principal>
+                <principal>Adrian S. Wisnicki</principal>
+                <principal>Megan Ward</principal>
+                <respStmt xml:id="SH">
+                    <name>Stephen Hall</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
                 <respStmt xml:id="JL">
                     <name>Justin Livingstone</name>
                     <resp>Transcription and Encoding</resp>
@@ -18,10 +23,6 @@
                 <respStmt xml:id="AW">
                     <name>Adrian S. Wisnicki</name>
                     <resp>Encoding Consultant</resp>
-                </respStmt>
-                <respStmt xml:id="SH">
-                    <name>Stephen Hall</name>
-                    <resp>Transcription and Encoding</resp>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
