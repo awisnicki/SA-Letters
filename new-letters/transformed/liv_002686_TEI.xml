@@ -78,10 +78,10 @@
 
 <cb rend="vertical"/>
 <ab>
-<lb rend="center"/><persName><choice><abbr>Rev<hi rend="sup">d</hi></abbr><expan>Reverend</expan></choice> J. Dyke</persName>
-<lb rend="center"/>at <placeName><geogName type="mountain">Thaba Bossiu</geogName></placeName>
-<lb rend="center"/>Care of <persName><choice><abbr>Rev<hi rend="sup">d</hi></abbr><expan>Reverend</expan></choice> J. Atkinson</persName>
-<lb rend="center"/><placeName><settlement type="town">Colesberg</settlement></placeName>
+<lb/><space extent="3" unit="words"/><persName><choice><abbr>Rev<hi rend="sup">d</hi></abbr><expan>Reverend</expan></choice> J. Dyke</persName>
+<lb/><space extent="4" unit="words"/>at <placeName><geogName type="mountain">Thaba Bossiu</geogName></placeName>
+<lb/>Care of <persName><choice><abbr>Rev<hi rend="sup">d</hi></abbr><expan>Reverend</expan></choice> J. Atkinson</persName>
+<lb/><space extent="6" unit="words"/><placeName><settlement type="town">Colesberg</settlement></placeName>
 </ab> 
 
 	<pb facs="liv_002686_0002" n="0002"/>
@@ -111,9 +111,8 @@
 <lb/>was perfectly <unclear cert="low">patent</unclear> &amp; even the <unclear cert="low">taitas</unclear> on
 <lb/>the outside which in <add place="below">^</add> <add place="above">herbivorous</add> animals is usually dark
 <lb/>coloured was as natural as in <unclear cert="medium">the</unclear> recent
-<lb/>subjects. </p> <closer>Mr &amp; Mrs Leinne's affectionate regards to you &amp;c
-<lb/><signed><persName><choice><abbr>D</abbr><expan>David</expan></choice> <choice><orig>Liv<gap extent="3" unit="chars" agent="hole"/><supplied>ing</supplied>ston</orig><reg>Livingstone</reg></choice></persName></signed>
-</closer>
+<lb/>subjects. Mr &amp; Mrs Leinne's affectionate regards to you &amp;c
+<lb/><space extent="9" unit="words"/><persName><choice><abbr>D</abbr><expan>David</expan></choice> <choice><orig>Liv<gap extent="3" unit="chars" agent="hole"/><supplied>ing</supplied>ston</orig><reg>Livingstone</reg></choice></persName></p>
 
 
             </div>

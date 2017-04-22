@@ -81,7 +81,7 @@
                
 	<pb facs="liv_002676_0001" n="0001"/>
 <opener>
-<lb/><add place="margintop" rend="right" hand="#U">35</add> <dateline rend="right"><placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> <date when="1856-03-04">4 March 1856</date></dateline>
+<lb/><dateline rend="center"><space extent="2" unit="words"/><placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> <date when="1856-03-04">4 March 1856</date> <add place="above" rend="gray" hand="#U">35</add></dateline>
 <lb/>
 <lb/>Alfredo Duprat <choice><abbr>Esqu.</abbr><expan>Esquire</expan></choice> 
 <lb/><salute>My dear Sir,</salute>
@@ -107,7 +107,7 @@
 <lb/>that no answer is expected; and
 <lb/>indeed if it only reaches his eye, I hope
 <lb/>for no more. Even though he may not
-<lb rend="right"/>have
+<lb/><space extent="8" unit="words"/>have
 
 
 	<pb facs="liv_002676_0002" n="0002"/>
@@ -135,10 +135,10 @@
 <lb/>island below this, takes what
 <lb/>and as much as he likes - out of
 <lb/>every boat that ascends. There
-<lb rend="right"/>is</p>
+<lb/><space extent="7" unit="words"/>is
 
 	<pb facs="liv_002676_0003" n="0003"/>
-<lb/><p>There is a fine bed of coal close to
+<lb/>There is a fine bed of coal close to
 <lb/>this on the surface almost, and
 <lb/>superior iron too. What fools! not
 <lb/>to have a small flat bottomed
@@ -148,23 +148,23 @@
 <lb/>her price would be paid. The only
 <lb/>impediments I have seen besides
 <lb/><placeName><geogName type="waterfall"><choice><orig>Mosioatunya</orig><reg>Mosi oa tunya</reg></choice></geogName></placeName> are insignificant
-<lb/>rapids which would not delay the <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> a day.</p>
+<lb/>rapids which would not delay the 
+<lb/><term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> a day.</p>
             	
 <lb/><p>Wait a little, we shall see,
 <lb/>if we live. I have had excellent
 <lb/>health all the way down here,
 <lb/>but am very thin and tired from
 <lb/>marching on foot; but will soon
-<lb/><unclear cert="low">r---</unclear>.</p>
+<lb/><unclear cert="medium">recover</unclear>.</p>
 
 <lb/><p>I often remember my <w>obliga-
 <lb break="no"/>-tions</w> to your kind recommendations.
 <lb/>May God bless and reward you, is
 <lb/>the sincere wish of</p>
-<closer>
-<lb/><salute>your <choice><abbr>obedt</abbr><expan>obedient</expan></choice></salute>
-<lb/><signed><choice><abbr>Sigt</abbr><expan>Signature</expan></choice> <persName>David <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></signed>
-</closer>
+<lb/><p rend="no-indent"><space extent="3" unit="words"/><space extent="2" unit="chars"/>your <choice><abbr>obedt</abbr><expan>obedient</expan></choice>
+<lb/><space extent="3" unit="words"/><space extent="2" unit="chars"/><choice><abbr>Sigt</abbr><expan>Signature</expan></choice> <persName>David <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></p>
+
 
 
             </div>
