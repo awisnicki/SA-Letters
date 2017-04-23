@@ -78,23 +78,24 @@
                
 	<pb facs="liv_002016_0001" n="0001"/>
 <opener>
-<lb/><add rend="gray" hand="#U1">5-6-9</add> <add place="above marginright" rend="gray" hand="#U1">ms 8/11</add> <dateline rend="right"><placeName><geogName type="island">Zanzibar</geogName></placeName> <date when="1864-04-25">25 April
-<lb/>1864</date></dateline>
-<lb/>    
+<lb/><space extent="4" unit="words"/><add place="inspace" rend="gray small" hand="#U">MS 8/11</add>
+<lb/><dateline><add place="above marginleft" rend="gray" hand="#U">5-6-9</add> <space extent="1" unit="chars"/><placeName><geogName type="island">Zanzibar</geogName></placeName> <date when="1864-04-25">25 April 
+<lb/><space extent="4" unit="words"/><space extent="2" unit="chars"/>1864</date></dateline>
 <lb/><salute>My Dear Sunley,</salute>
 </opener>
 
-<lb/><p rend="center">We left <placeName><country><choice><orig><w>Mosam-<lb break="no"/>-bique</w></orig><reg><w>Mozam-
+<lb/><p>We left <placeName><country><choice><orig><w>Mosam-<lb break="no"/>-bique</w></orig><reg><w>Mozam-
 <lb break="no"/>-bique</w></reg></choice></country></placeName> on <date when="1864-04-16">16<hi rend="sup underline">th</hi></date> and 
 <lb/>arrived here on the
 <lb/><date when="1864-04-23">23<hi rend="sup underline">rd</hi></date> hoping to meet
-<lb/>you, <subst><del><gap extent="1" unit="words" agent="overwriting"/></del><add place="over-text"><gap extent="1" unit="words" agent="illegible"/></add></subst> have
+<lb/>you, <subst><del><gap extent="1" unit="words" agent="overwriting"/></del><add place="over-text">but</add></subst> have
 <lb/>been unfortunate
 <lb/>enough to miss 
 <lb/>you - We set out
 <lb/>with the intention
 <lb/>of calling at <placeName><geogName type="island">Johanna</geogName></placeName> -
-<lb/>- paying the odd <orgName><placeName><geogName type="island">Johanna</geogName></placeName> man</orgName> and
+<lb/>- paying the odd 
+<lb/><orgName><placeName><geogName type="island">Johanna</geogName></placeName> man</orgName> and
 
 	<pb facs="liv_002016_0002" n="0002"/>
 <lb/><add place="above marginleft" rend="gray" hand="#U1">2</add> and then push on to
@@ -118,7 +119,8 @@
 <lb/><measure>six hours</measure> only <add place="above marginright" rend="gray" hand="#U1">3</add>
 <lb/>made <measure>eight <add place="below">^</add> <add place="above">miles</add></measure> of
 <lb/>Easting - Then
-<lb/>made away for <placeName><geogName type="island">Zanzibar</geogName></placeName> - I knew
+<lb/>made away for 
+<lb/><placeName><geogName type="island">Zanzibar</geogName></placeName> - I knew
 <lb/>that you were very 
 <lb/>anxious to see
 <lb/><persName>Rae</persName>, and I was
@@ -131,7 +133,7 @@
 <lb/>of the pleasure -</p>
 
 	<pb facs="liv_002016_0004" n="0004"/>
-<lb/><p><add place="above marginleft" rend="gray" hand="#U1">4</add> I was bringing
+<lb/><p rend="no-indent"><add place="above marginleft" rend="gray" hand="#U1">4</add> <space extent="2" unit="chars"/>I was bringing
 <lb/>a waggon capable
 <lb/>of carrying your 
 <lb/>heavy machinery
@@ -145,10 +147,11 @@
 <lb/>seeds from the
 <lb/><placeName><region>Cape</region></placeName> which I put
 <lb/>into the same charge </p>
-<lb/><p><term type="occupation">Captain</term><persName>Frazer</persName>
+<lb/><p><persName><term type="occupation">Captain</term> Frazer</persName>
 
 	<pb facs="liv_002016_0005" n="0005"/>
-<lb/>took the <add place="margintop" rend="gray" hand="#U1">5</add> waggon <add place="above marginright" rend="gray" hand="#U1">MS 8/11</add> instead
+<lb/><space extent="2" unit="words"/><add place="inspace" rend="gray small" hand="#U1">5</add> <space extent="1" unit="words"/><add place="inspace" rend="gray small" hand="#U1">MS 8/11</add>
+<lb/>took the waggon instead
 <lb/>of <persName>de Witte</persName> and I
 <lb/>see he has it mounted
 <lb/>I have to hurry away
@@ -176,11 +179,9 @@
 <lb/>you wish - &amp; that
 <lb/>your undertaking
 <lb/>will prosper - </p>
+<lb/><closer><space extent="1" unit="words"/><salute>Ever yours</salute><!-- Change as appropriate -->
+<lb/><signed><persName>David Livingstone</persName></signed></closer><!-- Change as appropriate --> 
 
-<closer>
-<lb/><salute>Ever yours</salute><!-- Change as appropriate -->
-<lb/><signed><persName>David Livingstone</persName></signed><!-- Change as appropriate --> 
-</closer>
 
             </div>
 			<div>
@@ -189,14 +190,14 @@
 <!-- Blank Page -->
 
 	<pb facs="liv_002016_0008" n="0008"/>
-	<note>
-	<add hand="#U2">
-<lb rend="right"/><date when="1864-04-23">23 April 1864</date>
+	
+	
+<lb rend="right"/><note><add hand="#U2"><date when="1864-04-23">23 April 1864</date>
 <lb rend="right"/><persName>Livingstone</persName>
 <lb rend="right"/>Rec<hi rend="sup">d</hi> <date when="1864-07-18">18 July</date>            
-<lb rend="right"/><gap extent="1" unit="words" agent="illegible"/> 27 <gap extent="1" unit="words" agent="illegible"/>
-	</add>
-	</note>
+<lb rend="right"/><gap extent="1" unit="words" agent="illegible"/> 27 <gap extent="1" unit="words" agent="illegible"/></add></note>
+	
+	
 
 			</div>
         </body>
