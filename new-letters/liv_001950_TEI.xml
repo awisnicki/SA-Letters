@@ -80,9 +80,9 @@
             <div>
                
 	<pb facs="liv_001950_0001" n="0001"/>
-<lb/><opener rend="center"><dateline rend="right"><persName>M<hi rend="sup underline">r</hi> Young</persName></dateline>
-<lb/><salute>Dear Sir</salute></opener>
-<lb/><p><space extent="7" unit="chars"/>I have been
+<lb/><opener><dateline><space extent="2" unit="chars"/><persName>M<hi rend="sup underline">r</hi> Young</persName></dateline>
+<lb/><salute><space extent="1" unit="words"/>Dear Sir</salute></opener>
+<lb/><p><space extent="4" unit="chars"/>I have been
 <lb/>counselled by my
 <lb/><term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> friends here
 <lb/>to send for those
@@ -132,13 +132,15 @@
 <lb/>thing up the hill - 
 <lb/><unclear cert="medium">purchase</unclear> broke by
 <lb/>sheer pulling through
-<lb/>the sand <add place="inline">^</add> <add place="marginleft" rend="vertical">spliced beautifully by Musa and I!!</add> and one<!-- Not entirely certain about this line. -AA --><!-- I have no idea what the VJ is an abbreviation for. JM --><!-- Fixed. AW -->
+<lb/>the sand <add place="inline">^</add> and one<!-- Not entirely certain about this line. -AA --><!-- I have no idea what the VJ is an abbreviation for. JM --><!-- Fixed. AW -->
+<lb/><cb/>
+<add place="marginleft" rend="vertical">spliced beautifully by Musa and I!!</add>
 
 	<pb facs="liv_001950_0004" n="0004"/>
-<lb/>of the rows is now <figure><figDesc>Sketch of a yoke</figDesc></figure>
-<lb/><figure><figDesc>Sketch of a broken yoke</figDesc></figure>. Pole broken
+<lb/>of the irons <figure><figDesc>Sketch of iron</figDesc></figure> is now
+<lb/><figure><figDesc>Sketch of a bent iron</figDesc></figure> - Pole broken
 <lb/>at both ends and these
-<lb/><unclear cert="low"><choice><sic>thinks</sic><corr>things</corr></choice></unclear> may be but a
+<lb/><choice><sic>thinks</sic><corr>things</corr></choice> may be but a
 <lb/>sample <!-- Tweet! -->for the <term type="animal_foodstuff">oxen</term>
 <lb/>are not behaving
 <lb/>like gentlemen at all
@@ -147,11 +149,9 @@
 <lb/>leave the waggon &amp;
 <lb/>the iron can be taken
 <lb/>back at your leisure</p>
-    
-<closer>
-<lb/><signed><persName>David Livingstone</persName></signed>
-<lb/><date when="1863-07-17">Thursday 17<hi rend="sup underline">th</hi> 2PM</date>
-</closer>
+<lb/><p><persName>David Livingstone</persName>
+<lb/><date when="1863-07-17">Thursday 17<hi rend="sup underline">th</hi> 2PM</date></p>
+
 
             </div>
         </body>
