@@ -85,7 +85,7 @@
 <lb/><p rend="no-indent"><add place="marginleft" hand="#U1" rend="gray"><choice><abbr>req<hi rend="sup">d</hi></abbr><expan>required</expan></choice></add> <space extent="2" unit="chars"/><figure><figDesc>Calculation[?] initialed B.I.[?]</figDesc></figure> <space extent="1" unit="chars"/><add place="inspace" rend="brown small" hand="#U2"><choice><abbr>Rec<hi rend="sup">d</hi></abbr><expan>Received</expan></choice> <date when="1862-03-25">25 April 1862</date> per Gorgon</add></p>
 <lb/><p rend="no-indent"><term type="occupation">Admiral</term> <space extent="4" unit="words"/><add hand="#U2"><hi rend="underline small brown">A.E. 315.</hi></add></p>
 <lb/><p rend="no-indent"><space extent="2" unit="words"/><persName>Sir Baldwin Walker</persName></p>
-<lb/><p rend="no-indent"><space extent="3" unit="words"/>√ Sir</p>
+<lb/><p rend="no-indent"><space extent="2" unit="words"/><space extent="3" unit="chars"/><add hand="#U1" rend="gray">√</add> Sir</p>
 <lb/><p rend="no-indent"><space extent="4" unit="words"/>I have ventured
 <lb/>to send <persName>D<hi rend="sup">r</hi> Meller</persName> who has been
 <lb/>suffering for some time from
