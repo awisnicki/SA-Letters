@@ -74,13 +74,13 @@
 	<pb facs="liv_001935_0001" n="0001"/>
 
 <opener>
-<lb/><dateline rend="right"><placeName><geogName type="cataract">Cataracts of <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName> 
-<lb/><date when="1863-07-05">5<hi rend="sup underline">th</hi> July 1863</date></dateline>
+<lb/><dateline><space extent="2" unit="words"/><placeName><geogName type="cataract">Cataracts of <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName> 
+<lb/><space extent="3" unit="words"/><date when="1863-07-05">5<hi rend="sup underline">th</hi> July 1863</date></dateline>
 <lb/>    
 <lb/><salute>My Dear Dr. Kirk</salute>
 </opener>
 
-<lb/><p>The new <term type="occupation"><choice><sic>bishop</sic><corr>Bishop</corr></choice></term>
+<lb/><p><space extent="1" unit="words"/>The new <term type="occupation"><choice><sic>bishop</sic><corr>Bishop</corr></choice></term>
 <lb/>came up to us <date when="1863-07-04">yesterday</date>
 <lb/>and recieved the
 <lb/><bibl>Despatch</bibl> containing 
@@ -100,7 +100,7 @@
 </ab> 
 
 	<pb facs="liv_001935_0002" n="0002"/>
-<lb/><p>after <date when="1863-12-31">31<hi rend="sup underline">st</hi> December</date>
+<lb/><p rend="no-indent">after <date when="1863-12-31">31<hi rend="sup underline">st</hi> December</date>
 <lb/>This has not been
 <lb/>unlooked for by
 <lb/>me - It rather relieves
@@ -173,7 +173,8 @@
 <lb/>each night - but
 <lb/>we took him up to 
 <lb/><placeName><unclear>Mokurumadzi</unclear></placeName> &amp; he
-<lb/>walked all the way home - - this is all
+<lb/>walked all the way 
+<lb/>home - - this is all
 <lb/>by way of increasing
 
 	<pb facs="liv_001935_0006" n="0006"/>
@@ -231,11 +232,9 @@
 <lb/>give him a kind word
 <lb/>if you see him and
 <lb/>may God Bless you</p>
+<lb/><p>Yours with Affection<!-- Change as appropriate -->
+<lb/><persName>David Livingstone</persName></p><!-- Change as appropriate --> 
 
-<closer>
-<lb/><salute>Yours with Affection</salute><!-- Change as appropriate -->
-<lb/><signed><persName>David Livingstone</persName></signed><!-- Change as appropriate --> 
-</closer>
 
 
             </div>
