@@ -82,13 +82,13 @@
                
 	<pb facs="liv_001929_0001" n="0001"/>
 <opener>
-<lb/><add place="marginleft" hand="#U"><!-- diagonal -->Enclosure sent
-<lb/>via <unclear cert="low">N.S Field</unclear></add>
-<lb/><dateline rend="right"><placeName><geogName type="cataract">Cataracts of the <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName> 
-<lb/><date when="1863-07-03">3 July 1863</date></dateline>
+<lb/><add place="marginleft" rend="gray diagonal small" hand="#U">Enclosure sent
+<lb/>via <unclear cert="low">W.S Field</unclear></add>
+<lb/><dateline><space extent="3" unit="chars"/><placeName><geogName type="cataract">Cataracts of the <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName> 
+<lb/><space extent="3" unit="words"/><date when="1863-07-03">3 July 1863</date></dateline>
 <!--I can't tell whether Livingstone wrote part or all of this line and the marginal note. I assumed no in my coding. He appeared to be running out of ink by the end so that could account for the gray and tiny handwriting. -AA --><!-- It's another hand here and elsewhere, as noted. AW -->
-<lb/><add place="inspace" hand="#U"><choice><abbr>Rec<hi rend="sup underline">d</hi></abbr><expan>Received</expan></choice> <date when="1866-03-27">27 March 1864</date></add>    
-<lb/><salute>Dear Sir</salute>
+<lb/><space extent="1" unit="words"/><add place="inspace" rend="gray small" hand="#U"><choice><abbr>Rec<hi rend="sup underline">d</hi></abbr><expan>Received</expan></choice> <date when="1866-03-27">27 March 1864</date></add>    
+<lb/><space extent="1" unit="chars"/><salute>Dear Sir</salute>
 </opener>
 <lb/><p>Though I have
 <lb/>not the pleasure
@@ -112,8 +112,7 @@
 <lb/>a thing fully expected
 <lb/>when we found
 <lb/>that the <orgName><term type="nationality">Portuguese</term>
-<lb/><orgName><term type="occupation"><orgName>slave</orgName> hunters</term></orgName></orgName> of 
-<lb/><placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> 
+<lb/><orgName><term type="occupation"><orgName>slave</orgName> hunters</term></orgName></orgName> of <placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> 
 <lb/>aided by a drought
 <lb/>had completely
 <lb/>depopulated the
@@ -137,11 +136,11 @@
 <lb/>at the <placeName><geogName type="river">Rovuma</geogName></placeName>
 <lb/>though it has
 <lb/>water for navigation
-<lb/>for only about <unclear cert="low">a few</unclear>	
+<lb/>for only about <unclear cert="low">eight</unclear>	
 	
 	<pb facs="liv_001929_0004" n="0004"/>
 <lb/>months of the year. It
-<lb/>has a <unclear cert="medium">fine</unclear> month &amp;
+<lb/>has a fine month &amp;
 <lb/>this <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> is the
 <lb/>terror of all naval
 <lb/>officers, but we
@@ -175,7 +174,7 @@
 <lb/>and should he settle
 <lb/>to anything now
 <lb/>it may be best in
-<lb/>the long run.</p>
+<lb/>the long run -</p>
             	
 	<pb facs="liv_001929_0006" n="0006"/>
 <lb/><p>Any expenses that
@@ -188,15 +187,11 @@
 <lb/>drink &amp;c.<!--and cetera again -AA --><!-- OK, no need to keep pointing this out. AW --> you
 <lb/>will confer a
 <lb/>great favour on</p>
-<closer>
-<lb/><salute>yours most sincerely</salute>
-<lb/><signed><persName>David Livingstone</persName></signed>
-</closer>
-	</div>
+<lb/><p rend="no-indent"><space extent="2" unit="chars"/>yours most sincerely
+<lb/><space extent="3" unit="chars"/><persName>David Livingstone</persName></p>
 
-	<div>	
 <pb facs="liv_001929_0007" n="0007"/>
-<lb/><addSpan spanTo="#add1" hand="#U"/><p><persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName>
+<lb/><addSpan spanTo="#add1" hand="#U"/><p rend="no-indent"><persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName>
 <lb/><date when="1863-03-07">3<hi rend="sup underline">rd</hi> July 1863</date></p><anchor xml:id="add1"/>
 	</div>
 
