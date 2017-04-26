@@ -75,13 +75,13 @@
 	<pb facs="liv_001551_0001" n="0001"/><!-- Change both @facs and @n -->
 	
 <opener>
-<lb/><dateline rend="right"><placeName><settlement type="village">Mazaro</settlement>,<geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice> River</geogName></placeName> 
-<lb/><date when="1860-03-25">25 March 1860</date></dateline>
+<lb/><dateline> <space extent="1" unit="words"/><add hand="#U" rend="gray"><metamark/>11</add> <placeName><settlement type="village">Mazaro</settlement>, <geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice> River</geogName></placeName> 
+<lb/><space extent="3" unit="words"/><date when="1860-03-25">25 March 1860</date></dateline>
 <lb/>    
 <lb/><salute>My Dear Friend</salute><!-- Change line info as appropriate -->
 </opener>
 
-<lb/><p rend="right">After the very
+<lb/><p><space extent="2" unit="words"/>After the very
 <lb/><term type="ailment">scurvy</term> <bibl>letter</bibl> I sent you last
 <lb/>I feel bound to write you
 <lb/>again though I have nothing to
@@ -105,12 +105,12 @@
 <ab>
 <lb/>Our little steamer is quite done - We have 35 patches on her bottom
 <lb/>held on by 60 bolts - The steel plate has undergone a peculiar chemical
-<lb/>decomposition and is full of minute holes besides - your
-<lb rend="right"/><choice><abbr>_____</abbr><expan>Affectionately</expan></choice> <persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName>
+<lb/>decomposition and is full of minute holes besides - yours
+<lb/><space extent="10" unit="words"/><choice><abbr>Affy</abbr><expan>Affectionately</expan></choice> <persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName>
 </ab>
 
 	<pb facs="liv_001551_0002" n="0002"/>
-<lb/><p>same quantity of <term type="medicament">balomel</term> - four
+<lb/><p rend="no-indent">same quantity of <term type="medicament">balomel</term> - four
 <lb/>or six grains of <term type="medicament"><term type="plant_foodstuff">Rhubarb</term></term> &amp;
 <lb/>the same quantity of <term type="medicament">quinine</term>
 <lb/>the whole well rubbed together
@@ -138,7 +138,7 @@
 <lb/>get a small steamer on the <placeName><geogName type="lake">Lake
 <lb/><choice><orig>Nyassa</orig><reg>Nyasa</reg></choice></geogName></placeName> and now send our
 <lb/>engineer <persName>M<hi rend="sup underline">r</hi> Rae</persName> home to superintend
-<lb/>its construction.  ___ <orgName>Government</orgName>
+<lb/>its construction. If <orgName>Government</orgName>
 
 	<pb facs="liv_001551_0003" n="0003"/>
 <lb/><choice><sic>wont</sic><corr>won't</corr></choice> afford the means I have a
@@ -150,7 +150,7 @@
 <lb/>afforded protection by the steamer
 <lb/>would do more to eradicate
 <lb/><orgName>slavery</orgName> on a large section of the
-<lb/>East coast than several _____
+<lb/>East coast than several cruizers
 <lb/>on the ocean - <space extent="1" unit="chars"/>The <term type="people">Portuguese</term>
 <lb/>are a <choice><sic>nuizance</sic><corr>nuisance</corr></choice> in the way but
 <lb/>I am in hopes that <persName>Lord John
@@ -168,6 +168,8 @@
 <lb/>vice and uncleanness.</p>
 <lb/><p>Allow me to congratulate you
 <lb/>on your promotion - Will this
+<lb/>
+<lb/>
 
 	<pb facs="liv_001551_0004" n="0004"/>
 <lb/>involve another ten years service?
