@@ -81,15 +81,14 @@
                
 	<pb facs="liv_001538_0001" n="0001"/>
 <opener>
-<lb/><dateline rend="right"><placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> <date when="1860-02-08">8<hi rend="sup underline">th</hi> <choice><abbr>Feby</abbr><expan>February</expan></choice>
-<lb/> 1860</date></dateline>
-<lb/>    
+<lb/><dateline><space extent="1" unit="words"/><placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> <date when="1860-02-08">8<hi rend="sup underline">th</hi> <choice><abbr>Feby</abbr><expan>February</expan></choice>
+<lb/><space extent="3" unit="words"/>1860</date></dateline>
 <lb/> 	
 <lb/><salute><persName>M<hi rend="sup underline">r</hi> Thornton</persName>
-<lb/>Dear Sir</salute>
+<lb/><space extent="2" unit="words"/>Dear Sir</salute>
 </opener>
 
-<lb/><p rend="right">Should you
+<lb/><p><space extent="1" unit="words"/>Should you
 <lb/>wish any medicines
 <lb/>by either speaking
 <lb/>to <persName>D<hi rend="sup underline">r</hi> Kirk</persName> or
@@ -100,21 +99,19 @@
 	<pb facs="liv_001538_0002" n="0002"/>
 <lb/>you with whatever
 <lb/>we can spare</p>
-
-<closer>
-<lb/><salute>I am &amp;c<!--and cetera? -AA --></salute>
-<lb/><signed><persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName></signed>
+<lb/><p>I am &amp;c<!--and cetera? -AA -->
+<lb/><space extent="2" unit="chars"/><persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName></p>
 
 
 	<pb facs="liv_001538_0003" n="0003"/>
 <!--Blank page. -AA -->
             	
   	<pb facs="liv_001538_0004" n="0004"/>         	
-<address>
-<addrLine/><persName>M<hi rend="sup underline">r</hi> Thornton</persName>
-<addrLine/><placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName>
-</address>
-</closer>
+<p><address>
+<addrLine><persName>M<hi rend="sup underline">r</hi> Thornton</persName></addrLine>
+<addrLine><space extent="1" unit="words"/><placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName>.</addrLine>
+</address></p>
+
             
             </div>
         </body>
