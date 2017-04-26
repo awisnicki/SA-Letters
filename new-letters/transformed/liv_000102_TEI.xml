@@ -24,6 +24,10 @@
                     <name>Adrian S. Wisnicki</name>
                     <resp>Encoding Consultant</resp>
                 </respStmt>
+				<respStmt xml:id="MB">
+                    <name>Mary Borgo</name><!-- Change -->
+                    <resp>Tagging Corrections</resp><!-- Change -->
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>Livingstone Online</authority>

@@ -27,6 +27,10 @@
                     <name>Adrian S. Wisnicki</name>
                     <resp>Coding review</resp>
                 </respStmt>
+				<respStmt xml:id="MB">
+                    <name>Mary Borgo</name><!-- Change -->
+                    <resp>Tagging Corrections</resp><!-- Change -->
+                </respStmt>
                 <respStmt xml:id="JM">
 					<!-- Change name below -->
                     <name>Jared McDonald</name>
