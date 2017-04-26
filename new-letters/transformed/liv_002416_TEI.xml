@@ -80,10 +80,12 @@
             <div>
                
 	<pb facs="liv_002416_0001" n="0001"/><!-- Change both @facs and @n -->
-<lb/><dateline><add place="above marginleft" rend="gray" hand="#U">5-6-9</add> <placeName><settlement type="city">Bombay</settlement></placeName> <date when="1865-09-27">27 <choice><abbr>Sept</abbr><expan>September</expan></choice> 1865</date> <add place="above marginright" rend="gray" hand="#U">MS 8/13</add></dateline>
+<opener>
+<lb/><add place="inspace" rend="gray small" hand="#U"><space extent="5" unit="words"/>MS 8/13</add>
+<lb/><dateline><add place="above marginleft" rend="gray" hand="#U">5-6-9</add> <space extent="1" unit="chars"/><placeName><settlement type="city">Bombay</settlement></placeName> <date when="1865-09-27">27 <choice><abbr>Sept</abbr><expan>September</expan></choice> 1865</date></dateline>
 <lb/>
 <lb/>    
-<lb/><salute>My Dear M<hi rend="sup underline">r</hi> Price</salute><!-- Looks like an "s," but the letter is addressed to William. MB --><!-- Looks like an "s" but evidence suggests "r" so we'll go with that. AW -->
+<lb/><salute>My Dear M<hi rend="sup underline">r</hi> Price</salute></opener><!-- Looks like an "s," but the letter is addressed to William. MB --><!-- Looks like an "s" but evidence suggests "r" so we'll go with that. AW -->
 <lb/><p> I was leaving
 <lb/><placeName><settlement type="city">Poonah</settlement></placeName> when I got
 <lb/>your <bibl>letter</bibl> of the <date when="1865-09-23">23</date> and I have
@@ -146,7 +148,7 @@
 <lb/>protection </p>
 
 	<pb facs="liv_002416_0004" n="0004"/>
-<lb/><p>At the principal villages 
+<lb/><p rend="no-indent">At the principal villages 
 <lb/>we usually rest a few days
 <lb/>and it is sometimes
 <lb/>necessary that two or three
@@ -208,7 +210,7 @@
 <lb/>intend to take some
 <lb/><term type="animal">buffaloes</term> as beasts of
 <lb/>burden and if they are
-<lb/>capable as <gap extent="1" unit="words" agent="illegible"/><unclear cert="medium">I <choice><sic>epect</sic><corr>expect</corr></choice></unclear><!-- Not sure what this is. EM --><!-- This is my guess. MB --><!-- Looks OK to me. AW --> they
+<lb/>capable as <supplied cert="medium">I</supplied> <unclear cert="medium">expect</unclear><!-- Not sure what this is. EM --><!-- This is my guess. MB --><!-- Looks OK to me. AW --> they
 <lb/>will be of withstanding
 
 	<pb facs="liv_002416_0007" n="0007"/>
@@ -253,10 +255,10 @@
 <lb/>avoid <persName><choice><sic>bishop</sic><corr>Bishop</corr></choice> Mackenzie</persName>'s
 <lb/>difficulty makes me
 <lb/>particular in specifying the
-<lb/>duties -</p> <closer><persName>David Livingstone</persName></closer> 
+<lb/>duties - <persName>David Livingstone</persName></p> 
 
 	<pb facs="liv_002416_0009" n="0009"/>
-<lb/><postscript><p>P.S. I should like
+<lb/><postscript><p rend="no-indent">P.S. I should like
 <lb/>to know if any
 <lb/>of the men have
 <lb/>a knowledge of
@@ -271,10 +273,17 @@
 			<div>
 
 <pb facs="liv_002416_0010" n="0010"/>
-<lb/><addSpan rend="right" spanTo="#add1"/><p><persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName>
-<lb/><date when="1865-10"><choice><abbr>Oct.</abbr><expan>October</expan></choice> 1865</date></p><anchor xml:id="add1"/>
-<lb/><space dim="vertical" extent="19" unit="lines"/>
-<lb/><addSpan rend="right gray" place="bottom" spanTo="#add2"/><p>MS 8/13/3</p><anchor xml:id="add2"/>
+<lb/><addSpan spanTo="#add1"/><p rend="no-indent"><space extent="2" unit="words"/><persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName>
+<lb/><space extent="3" unit="words"/><date when="1865-10"><choice><abbr>Oct.</abbr><expan>October</expan></choice> 1865</date></p><anchor xml:id="add1"/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/><addSpan place="bottom" spanTo="#add2"/><p rend="gray small"><space extent="3" unit="words"/>MS 8/13/3</p><anchor xml:id="add2"/>
 
             </div>
         </body>
