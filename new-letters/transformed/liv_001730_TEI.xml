@@ -89,7 +89,7 @@
 <lb/><p><add place="inspace" hand="#U2" rend="gray"><choice><abbr>req<hi rend="sup">d</hi></abbr><expan>required</expan></choice></add> <space extent="3" unit="chars"/><figure><figDesc>Calculation[?] initialed B.I.[?]</figDesc></figure> <space extent="1" unit="chars"/><add place="inspace" rend="brown small" hand="#U3"><choice><abbr>Rec<hi rend="sup">d</hi></abbr><expan>Received</expan></choice> <date when="1862-03-25">25 April 1862</date> per Gorgon</add></p>
 <lb/><p><term type="occupation">Admiral</term> <space extent="4" unit="words"/><add hand="#U4"><hi rend="underline small brown">A.E. 314.</hi></add></p>
 <lb/><p rend="no-indent"><space extent="3" unit="words"/><persName>Sir Baldwin Walker</persName></p>
-<lb/><p rend="no-indent"><space extent="4" unit="words"/>√ Sir</p>    
+<lb/><p rend="no-indent"><space extent="4" unit="words"/><add hand="#U2" rend="gray">√</add> Sir</p>    
 <lb/><p rend="no-indent"><space extent="5" unit="words"/><space extent="1" unit="chars"/>I take the liberty
 <lb/>of placing before you a short account
 <lb/>of our proceedings since I last
@@ -102,6 +102,7 @@
 <lb/><p>On reaching the <placeName><geogName type="swamp"><term type="animal">Elephant</term>
 <lb/>marsh</geogName></placeName> about <measure>30 miles</measure> below the
 <lb/><placeName><geogName type="cataract">cataracts of the <placeName><geogName type="river">Shire</geogName></placeName></geogName></placeName> in <date when="1861-06">June last
+<lb/><lb/>
     
     <pb facs="liv_001730_0002" n="0002"/>
 <lb/>year</date> we found that the river shoaled
@@ -197,7 +198,7 @@
 <lb/>because the <placeName><geogName type="river">upper Shire</geogName></placeName> is all
 <lb/>smooth and deep - There are <measure>sixty
 <lb/>miles</measure> of five gently flowing <unclear cert="medium">river</unclear>
-<lb/><unclear cert="medium">above</unclear> the cataracts, and a lakelet
+<lb/>above the cataracts, and a lakelet
 <lb/><measure>10 or 12 miles</measure> long and <measure>5 or 6</measure> broad.
 <lb/>We sailed into the Lake on the
 <lb/><date when="1862-09-02">2<hi rend="sup underline">d</hi> September</date> and followed the
@@ -283,7 +284,7 @@
 <lb/>to come by <term type="occupation"><orgName>slave</orgName> hunting</term>.</p>
     
     <pb facs="liv_001730_0010" n="0010"/>
-<lb/><p>The movement of the <term type="occupation">Governor
+<lb/><p rend="no-indent">The movement of the <term type="occupation">Governor
 <lb/>General of <placeName><country><choice><orig>Mosambique</orig><reg>Mozambique</reg></choice></country></placeName></term> to induce
 <lb/><unclear cert="medium">the</unclear> <term type="occupation">Sultan of <placeName><geogName type="island">Zanzibar</geogName></placeName></term> to cede the
 <lb/><placeName><geogName type="river">Rovuma</geogName></placeName> to him is just of a
@@ -301,7 +302,7 @@
 <lb/>new <term type="plant">cotton</term> field should be
 <lb/>opened during the present <w>com-
 <lb break="no"/>-plications</w> of affairs in <placeName><country>America</country></placeName>.
-<lb/>I feel diffident in <unclear cert="medium">venturing</unclear> to
+<lb/>I feel diffident in venturing to
 <lb/>suggest anything to you but
     
     <pb facs="liv_001730_0011" n="0011"/>
@@ -399,10 +400,10 @@
 <lb/><p>We left our small boat
 <lb/>hoisted up to a shady tree above
 <lb/>the uppermost cataract. We<!-- geog: Cataract of the Shire -->
-<lb/>have one <unclear cert="low">gig</unclear> only and very
-<lb/>much <unclear cert="low">shattered</unclear> by the work it
+<lb/>have one gig only and very
+<lb/>much shattered by the work it
 <lb/>has done in laying out <unclear cert="medium">anchors</unclear> &amp;c
-<lb/>May I beg a strong cutter <unclear cert="low">gig</unclear>
+<lb/>May I beg a strong cutter gig
 <lb/>from the dock yard?</p>
 <lb/><p><persName><term type="occupation">Captain</term> Wilson</persName> will inform
 <lb/>you that he could give us but
