@@ -77,12 +77,12 @@
 	<pb facs="liv_001379_0001" n="0001"/>
 <opener>
 <lb/><dateline><placeName><geogName type="river"><choice><abbr>R</abbr><expan>River</expan></choice> Kongone</geogName></placeName>; <placeName>Steamer Ma Robert</placeName>, 
-<lb rend="right"/><add rend="center gray" hand="#U"><metamark/><!-- The 8 is circled. AW -->8</add> <date when="1858-10-07">7 <choice><abbr>Oct<hi rend="sup underline">r</hi></abbr></choice> 1858</date></dateline>
+<lb/><space extent="3" unit="words"/><add rend="gray" hand="#U"><metamark/><!-- The 8 is circled. AW -->8</add> <space extent="2" unit="words"/><date when="1858-10-07">7 <choice><abbr>Oct<hi rend="sup underline">r</hi></abbr></choice> 1858</date></dateline>
 <lb/>    
 <lb/><salute>My Very Dear friend,</salute>
 </opener>
 
-<lb/><p rend="center">I cannot forgive
+<lb/><p><space extent="1" unit="words"/>I cannot forgive
 <lb/>you because I was never
 <lb/>offended having recieved from
 <lb/><persName>M<hi rend="sup underline">r</hi> Brand</persName> the assurances
@@ -98,10 +98,9 @@
 <lb/>have been writing long official
 <lb/>letters about our friend</p>
 
-<cb rend="vertical"/>
-<ab>
-<lb/>You ought to make old <persName>Jose Laurenco Marques</persName> 
-<lb/>the <term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> - Write care of <persName><term type="occupation">Admiral</term> Grey</persName>
+<cb rend="vertical"/><ab>
+<lb/><space extent="2" unit="chars"/>You ought to make old <persName>Jose Laurenco Marques</persName> 
+<lb/><space extent="1" unit="chars"/>the <term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> - Write care of <persName><term type="occupation">Admiral</term> Grey</persName>
 <lb/>no excuse now you know
 </ab> 
 
@@ -158,8 +157,8 @@
 
 <cb rend="vertical"/>
 <ab>
-<lb/>I believe I forgot to tell you that I visited <persName>M<hi rend="sup underline">s</hi> <unclear cert="high">Horsfall</unclear></persName> at <placeName><unclear cert="medium">Bellamon</unclear> <unclear>Hall</unclear></placeName>
-<lb/>near <placeName><settlement type="town"><unclear cert="high">Rugeley</unclear></settlement></placeName> <placeName><region><choice><abbr><choice><abbr>Staff<hi rend="sup">d</hi></abbr><expan>Stafford</expan></choice></abbr><expan>Staffordshire</expan></choice></region></placeName> &amp; saw a _________ <w>te<subst><del>r</del><add place="over-text">s</add></subst>timonial</w> which is to be given to  
+<lb/>I believe I forgot to tell you that I visited <persName>M<hi rend="sup underline">s</hi> <unclear cert="high">Horsfall</unclear></persName> at <placeName>Bellamon Hall</placeName>
+<lb/>near <placeName><settlement type="town"><unclear cert="high">Rugeley</unclear></settlement></placeName> <placeName><region><choice><abbr><choice><abbr>Staff<hi rend="sup">d</hi></abbr><expan>Stafford</expan></choice></abbr><expan>Staffordshire</expan></choice></region></placeName> &amp; saw a <unclear cert="medium">scheer</unclear> <w>te<subst><del>r</del><add place="over-text">s</add></subst>timonial</w> which is to be given to  
 <lb/><persName>M<hi rend="sup underline">rs</hi> Gabriel</persName> when you get to her!  He desired me to say so - Hope
 <lb/><w>who<add place="inline">e</add>ver</w> she is she may be a good one
 </ab> 
@@ -259,7 +258,8 @@
 <lb/>we came but we went from one park
 <lb/>to the other without molestation by either
 <lb/>simply because we were <term type="nationality">English</term> - but
-<lb/>the war is now over for a few weeks <add place="below" rend="right">I <w>suppo<supplied>se</supplied></w></add></p>
+<lb/>the war is now over for a few weeks 
+<lb/><space extent="7" unit="words"/><add place="inspace">I <w>suppo<supplied>se</supplied></w></add></p>
 
 	<pb facs="liv_001379_0007" n="0007"/>
 <lb/><p>My <term type="occupation">missionary</term> friends are rather
@@ -282,7 +282,8 @@
 <lb/>though paid by <placeName><country>England</country></placeName> published
 <lb/>the results in <placeName><country>Germany</country></placeName> &amp; kept
 <lb/>the instruments - But if you befriend
-<lb/>them you will won the <choice><sic><term type="occupation"><persName>Prince Consort</persName></term>s</sic><corr><term type="occupation"><persName>Prince Consort</persName></term>'s</corr></choice> heart - From what I have
+<lb/>them you will won the <choice><sic><term type="occupation"><persName>Prince 
+<lb/>Consort</persName></term>s</sic><corr><term type="occupation"><persName>Prince Consort</persName></term>'s</corr></choice> heart - From what I have
 <lb/>seen and heard I am become so 
 <lb/>bigotted that I prefer an <term type="person">Englishman</term>
 <lb/><supplied cert="high">out</supplied> &amp; out to any one of the <term type="people"><choice><abbr>Wel</abbr><expan>Welsh</expan></choice></term>
