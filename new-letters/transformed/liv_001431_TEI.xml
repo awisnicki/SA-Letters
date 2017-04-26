@@ -79,13 +79,15 @@
 	<pb facs="liv_001431_0001" n="0001"/><!-- Change both @facs and @n -->
 	
 <opener>
-<lb/><add place="margintop" rend="gray right" hand="#U">MS 1011</add> <dateline rend="right"><placeName><geogName type="river">River <choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName><region>East <bloc>Africa</bloc></region></placeName> 
-<lb/><date when="1859-05-27">27 May 1859</date></dateline>    
+<lb/><space extent="9" unit="words"/><add place="inspace" rend="gray small" hand="#U">MS 1011</add> 
+<lb/><dateline><space extent="5" unit="words"/><placeName><geogName type="river">River <choice><orig>Zambesi</orig><reg>Zambezi</reg></choice> </geogName><region>East <bloc>Africa</bloc></region></placeName> 
+<lb/><space extent="6" unit="words"/><date when="1859-05-27">27 May 1859</date></dateline>    
 <lb/><persName>Professor <choice><orig>Sedgewick</orig><reg>Sedgwick</reg></choice></persName>
-<lb/><salute>My Dear Friend</salute><!-- Change line info as appropriate -->
+<lb/>
+<lb/><space extent="4" unit="words"/><salute>My Dear Friend</salute><!-- Change line info as appropriate -->
 </opener>
 
-<lb/><p rend="right">We have just
+<lb/><p><space extent="6" unit="words"/>We have just
 <lb/>returned from the discovery of a magnificent
 <lb/>Lake called <placeName><geogName type="lake">Shirwa</geogName></placeName> (<placeName><geogName type="lake">Sheerwah</geogName></placeName>) and
 <lb/>a report of the <orgName>natives</orgName> on its banks, which
@@ -237,9 +239,9 @@
 <lb/>as second in command" so I had to become both
 <lb/>first &amp; second and you know stand upon a paddle 
 <lb/>box in a hot sun is not favourable to literary labour
-<lb/>Blessing be on you</p> <closer><salute>Ever Yours Affectionately</salute><!-- Change as appropriate -->
-<lb rend="right"/><signed><persName>David Livingstone</persName></signed><!-- Change as appropriate --> 
-</closer>
+<lb/>Blessing be on you. Ever Yours Affectionately<!-- Change as appropriate -->
+<lb/><space extent="8" unit="words"/><persName>David Livingstone</persName></p><!-- Change as appropriate --> 
+
 
             </div>
         </body>
