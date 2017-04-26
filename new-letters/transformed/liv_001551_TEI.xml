@@ -25,6 +25,10 @@
                     <name>Mary Borgo</name><!-- Change -->
                     <resp>Tagging Corrections</resp><!-- Change -->
                 </respStmt>
+				<respStmt xml:id="AW">
+					<name>Adrian S. Wisnicki</name>
+					<resp>Formatting review</resp>
+				</respStmt>
             </titleStmt>	
             <publicationStmt>
                 <authority>Livingstone Online</authority>

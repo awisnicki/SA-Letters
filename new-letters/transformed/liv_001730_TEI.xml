@@ -14,6 +14,7 @@
                 <respStmt xml:id="AW">
                     <name>Adrian S. Wisnicki</name>
                     <resp>Coding review</resp>
+					<resp>Formatting review</resp>
                 </respStmt>
                 <respStmt xml:id="JM"><!-- Add or remove individuals from the list as appropriate -->
                     <name>Jared McDonald</name><!-- Change -->

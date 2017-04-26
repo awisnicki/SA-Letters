@@ -20,6 +20,7 @@
                 <respStmt xml:id="AW">
                     <name>Adrian S. Wisnicki</name><!-- Change -->
                     <resp>Coding review</resp><!-- Change, remove, or add more <resp> as appropriate -->
+					<resp>Formatting review</resp>
                 </respStmt>
 				<respStmt xml:id="JM">
                     <name>Jared McDonald</name><!-- Change -->

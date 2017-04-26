@@ -26,6 +26,7 @@
                 <respStmt xml:id="AW">
                     <name>Adrian S. Wisnicki</name>
                     <resp>Coding review</resp>
+					<resp>Formatting review</resp>
                 </respStmt>
 				<respStmt xml:id="MB">
                     <name>Mary Borgo</name><!-- Change -->
