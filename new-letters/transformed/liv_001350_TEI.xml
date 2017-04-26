@@ -79,17 +79,16 @@
 	<pb facs="liv_001350_0001" n="0001"/>
 
 <opener>
-<lb/><add place="above marginleft" rend="gray" hand="#U1">ms 17/1</add><dateline rend="right"><placeName><geogName type="island">Island of Pita</geogName></placeName>, above <placeName><settlement type="village"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> 
-<lb/><date when="1858-08-25">25<hi rend="sup underline">th</hi> August 1858</date></dateline><!-- Change line info as appropriate -->
-<lb/><space extent="9" unit="chars"/><add rend="red" hand="#U2">14</add>  
+<lb/><space extent="2" unit="chars"/><add place="inspace" rend="gray small" hand="#U1">ms 17/1</add> <space extent="1" unit="words"/><dateline><placeName><geogName type="island">Island of Pita</geogName></placeName>, above <placeName><settlement type="village"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> 
+<lb/><space extent="4" unit="words"/><space extent="2" unit="chars"/><date when="1858-08-25">25<hi rend="sup underline">th</hi> August 1858</date></dateline><!-- Change line info as appropriate -->
+<lb/><space extent="11" unit="chars"/><add rend="red" hand="#U2">14</add>  
 <lb/><salute>My Dear Dr. Kirk</salute><!-- Change line info as appropriate -->
 </opener>
 
-
-<lb/><p rend="center">I send this in order to
+<lb/><p><space extent="3" unit="words"/>I send this in order to
 <lb/>let you know that we have been obliged
 <lb/>to alter our plan so far as to leave
-<lb/>the Pinnace here in charge of <persName>M<hi rend="sup underline">r</hi> <unclear>Baines</unclear></persName>
+<lb/>the Pinnace here in charge of <persName>M<hi rend="sup underline">r</hi> Baines</persName>
 <lb/>We reached <placeName><settlement type="village"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> in <measure>four days</measure> being
 <lb/>the shortest voyage made though
 <lb/>the water is now getting very shoal
@@ -110,12 +109,12 @@
 
 <cb rend="vertical"/>
 <ab>
-<lb/>Should you be desirous of getting away before I come &amp; can arrange 
+<lb/><space extent="1" unit="words"/>Should you be desirous of getting away before I come &amp; can arrange 
 <lb/>with the <term type="people">Portuguese</term> to take you &amp; a cargo for say £20 or £25 - pray <choice><sic>dont</sic><corr>don't</corr></choice> hesitate
 </ab> 
 
 	<pb facs="liv_001350_0002" n="0002"/>
-<lb/><p rend="no-indent">it is necessary to go slowly - the Pinnace
+<lb/><p>It is necessary to go slowly - the Pinnace
 <lb/>catches first and the slightest touch makes
 <lb/>the Launch <choice><orig>shew</orig><reg>show</reg></choice> her want of power by
 <lb/>slewing round - Three times she has done that
@@ -199,12 +198,13 @@
 <lb/>could be useful - <space extent="1" unit="chars"/><persName>Blackwell</persName> is bilious
 <lb/><persName>M<hi rend="sup underline">r</hi> Rae</persName> is better but a little shaken
 <lb/><persName>M<hi rend="sup underline">r</hi> <choice><abbr>L.</abbr><expan>Livingstone</expan></choice></persName> was second engineer when <!-- persName: Charles Livingstone -->
-<lb/><persName><choice><abbr>R.</abbr><expan>Rae</expan></choice></persName> - <persName>Coffee</persName> thought  
+<lb/><persName><choice><abbr>R.</abbr><expan>Rae</expan></choice></persName> - <persName>Coffee</persName> thought himself
 <lb/>the first -  The <term type="tribe"><choice><orig>Kroomen</orig><corr>Kurumen</corr></choice></term> all work
 <lb/>admirably - They cut as much wood
 <lb/>in one hour as they used to do in four
 <lb/>can you give <persName><term type="occupation">Major</term> <choice><orig>Secard</orig><reg>Sicard</reg></choice></persName> a little <term type= "foodstuff"><w>bla<gap extent="2" unit="chars" agent="blot"/><supplied cert="high">ck</supplied></w>
-<lb/>tea</term> as he says it is <choice><sic>duiretic</sic><corr>diuretic</corr></choice> <space extent="1" unit="chars"/></p> <closer>Ever <w>you<gap extent="2" unit="chars" agent="blot"/><supplied>rs</supplied></w>  <add place="below" rend="right"><persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName></add></closer>
+<lb/>tea</term> as he says it is <choice><sic>duiretic</sic><corr>diuretic</corr></choice> <space extent="1" unit="chars"/>Ever <w>you<gap extent="2" unit="chars" agent="blot"/><supplied>rs</supplied></w>  
+<lb/><space extent="6" unit="words"/><space extent="2" unit="chars"/><persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName></p>
 
 
             </div>
