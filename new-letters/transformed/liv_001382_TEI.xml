@@ -84,7 +84,7 @@
 <opener>  
 <lb/><salute>Dear <persName>Thornton</persName>,</salute>
 </opener>
-<lb/><p>A <term type="animal">hippo</term> - has been
+<lb/><p rend="no-indent">A <term type="animal">hippo</term> - has been
 <lb/>shot <measure>7 miles</measure> above
 <lb/>you - We go on
 <lb/>to the high hill
@@ -105,12 +105,9 @@
 <lb/>as you think
 <lb/>best - I hope
 <lb/>you are now
-<lb/>recovered -
-</p>
-
-<closer>
-<lb/><signed><persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName></signed></closer>
-<lb/><postscript><p>supposing you
+<lb/>recovered -</p>
+<lb/><p rend="no-indent"><space extent="2" unit="chars"/><persName><choice><abbr>D.</abbr><expan>David</expan></choice> Livingstone</persName></p>
+<lb/><postscript><p rend="no-indent">Supposing you
 <lb/>remain send
 <lb/>some to cut
 <lb/>up &amp; dry &amp;
