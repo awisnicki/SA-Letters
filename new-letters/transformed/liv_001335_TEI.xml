@@ -87,12 +87,13 @@
 
 <!-- If this is a letter or similar with an opener (with content such as dateline and/or salute) add it. For example: -->
 <opener>
-<lb/><dateline rend="right"><add place="margintop" rend="left vertical gray small" hand="#U"><!-- diagonal -->C/4/49</add> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName><date when="1858-06-26">26<hi rend="underline">th</hi> June <add place="margintop" rend="right gray small" hand="#U1">MS 7/8</add>     
-<lb/><space extent="7" unit="chars"/>1858</date></dateline>
-<lb/><add place="inspace" hand="#U2"><unclear><del type="strikethrough"><gap extent="1" unit="chars"/></del></unclear> <date when="1858-08-27"><choice><abbr>Aug</abbr><expan>August</expan></choice> 27/<choice><abbr>58</abbr><expan>1858</expan></choice></date></add><!-- It looks like a note has been made here by another hand. I am not sure how to encode this. JM --><!-- Fixed. AW -->    
+<lb/><add place="margintop" rend="left vertical gray small" hand="#U"><!-- diagonal -->C/4/49</add> <space extent="1" unit="words"/><add place="margintop" rend="right gray small" hand="#U1">MS 7/8</add>
+<lb/><dateline><space extent="2" unit="words"/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> <date when="1858-06-26">26<hi rend="underline">th</hi> June     
+<lb/><space extent="4" unit="words"/>1858</date></dateline>
+<lb/><space extent="3" unit="words"/><add place="inspace" rend="gray" hand="#U2"><unclear><del type="strikethrough"><gap extent="1" unit="chars"/></del></unclear> <date when="1858-08-27"><choice><abbr>Aug</abbr><expan>August</expan></choice> 27/<choice><abbr>58</abbr><expan>1858</expan></choice></date></add><!-- It looks like a note has been made here by another hand. I am not sure how to encode this. JM --><!-- Fixed. AW -->    
 <lb/><salute>My Dear <persName>M<hi rend="sup underline">r</hi> Conyngham</persName></salute>
 </opener>
-<lb/><p><space extent="7" unit="chars"/>I am just going
+<lb/><p><space extent="5" unit="chars"/>I am just going
 <lb/>into the Launch Ma Robert
 <lb/>to sail away up this
 <lb/>river from the Pearl
@@ -108,7 +109,7 @@
 <lb/>too big for us and
 <lb/>we were under such
 <lb/>terribly stringent orders
-<lb/>not to risk her <unclear cert="medium">remaining</unclear>
+<lb/>not to risk her remaining
 <lb/>in the river &amp;c. that 
 <lb/>I got quite a load off
 <lb/>my mind when I could
@@ -136,8 +137,8 @@
 <lb/>tale next time.</p>
 <lb/><p>This is the <date when="1858-06-26">26 June</date>
 <lb/>will it do for a certificate
-<lb/>of my <unclear cert="medium">existence</unclear> on the
-<lb/><date when="1858-06-30">30<hi rend="underline">th</hi></date> <space extent="4" unit="chars"/>If so tell <persName>Mr. Coutts</persName>
+<lb/>of my existence on the
+<lb/><date when="1858-06-30">30<hi rend="underline">th</hi></date> <space extent="2" unit="chars"/>If so tell <persName>Mr. Coutts</persName>
 <lb/>to draw for my salary
 <lb/>Here I am and no mistake
 <lb/>witness my hand!</p>
