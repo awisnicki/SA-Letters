@@ -75,6 +75,8 @@
         </profileDesc>
         <revisionDesc>
             <!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+			<change when="2017-04-26" who="#AW">Formatting Review</change>
+			<change when="2017-04-21" who="#MB">Tagging Corrections</change>
             <change when="2016-01-28" who="#JL">Further coding review</change>
             <change when="2016-01-12" who="#AW">Coding review</change>
             <change when="2016-01-11" who="#JL">Proofing</change>

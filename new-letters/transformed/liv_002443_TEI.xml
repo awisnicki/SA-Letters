@@ -70,6 +70,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+			<change when="2017-04-26" who="#AW">Formatting review</change>
+			<change when="2017-04-21" who="#MB">Tagging corrections</change>
 			<change when="2016-02-02" who="#AW">Coding review</change>
 			<change when="2016-02-01" who="#MB">Proof reading</change>
 			<change when="2016-01-13" who="#AW">Light coding review</change>

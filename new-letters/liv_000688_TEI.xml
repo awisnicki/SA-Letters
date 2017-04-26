@@ -75,6 +75,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+			<change when="2017-04-26" who="#AW">Formatting review</change>
+			<change when="2017-04-21" who="#MB">Tagging corrections</change>
 			<change when="2015-05-22" who="#AW">Coding review</change>
 			<change when="2015-03-11" who="#AW">Coding review</change>
 			<change when="2015-02-15" who="#AA">Proofing</change><!-- Angela, you forgot to do this. I made up a date for you. AW -->

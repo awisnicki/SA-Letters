@@ -96,6 +96,8 @@
 			<!-- Note that @who initials are taken from <respStmt> above -->
 			<!-- Add new <change> elements below as needed. -->
 			<!-- Note that the most recent <change> should always be placed first, at the top -->
+			<change when="2017-04-26" who="#AW">Formatting review</change>
+			<change when="2017-04-21" who="#MB">Tagging corrections</change>
             <change when="2015-09-15" who="#AW">Coding review</change>
             <change when="2015-09-08" who="#EM">Initial transcription and XML encoding</change>
         </revisionDesc>

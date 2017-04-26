@@ -72,6 +72,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+			<change when="2017-04-26" who="#AW">Formatting review</change>
+			<change when="2017-04-21" who="#MB">Tagging corrections</change>
 			<change when="2015-05-26" who="#AW">Coding revew</change>
             <change when="2015-05-07" who="#AA">Proofing</change>
         	<change when="2015-03-21" who="#JM">Initial transcription and XML encoding</change>

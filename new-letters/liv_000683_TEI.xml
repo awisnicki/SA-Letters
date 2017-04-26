@@ -86,9 +86,11 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+			<change when="2017-04-26" who="#AW">Formatting review</change>
+			<change when="2017-04-21" who="#MB">Tagging corrections</change>
             <change when="2015-03-12" who="#AW">Coding review</change>
 			<change when="2015-03-12" who="#JM">Proofing</change>	
-			 <change when="2015-01-30" who="#AA">XML encoding</change>
+			<change when="2015-01-30" who="#AA">XML encoding</change>
         	<change when="2015-01-22" who="#AW">XML encoding</change>
             <change when="2015-01-21" who="#AA">Initial transcription and XML encoding</change>
 			<!-- Note that @who initials are taken from <respStmt> above -->

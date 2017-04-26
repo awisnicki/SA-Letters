@@ -79,6 +79,9 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+			<!-- Finalization -->
+			<change when="2017-04-26" who="#AW">Formatting review</change>
+			<change when="2017-04-21" who="#MB">Tagging corrections</change>
             <!-- Integration -->
 			<change when="2016-02-25" who="#HB">Quality Control and Integration</change>
             <!-- 0035 -->

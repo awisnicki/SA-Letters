@@ -69,6 +69,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+			<change when="2017-04-26" who="#AW">Formatting review</change>
+			<change when="2017-04-21" who="#MB">Tagging corrections</change>
 			<change when="2015-02-28" who="#AW">Coding Review</change><!-- Was actualy February 29 but Oxygen doesn't accept! AW -->
 			<change when="2015-02-28" who="#MB">Proofreading</change> <!-- Was actualy February 29 but Oxygen doesn't accept! MB -->
 			<change when="2015-12-11" who="#AW">Initial Proofing</change>
