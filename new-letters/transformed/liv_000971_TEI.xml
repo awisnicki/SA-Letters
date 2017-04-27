@@ -116,13 +116,15 @@
 
 <!-- If this is a letter or similar with an opener (with content such as dateline and/or salute) add it. For example: -->
 <opener>
-<lb/><add place="margintop" rend="center gray small" hand="#U1">1</add><dateline rend="right"><placeName>57 Sloane <choice><abbr>St</abbr><expan>Street</expan></choice></placeName> <date when="1857-03-19">19<hi rend="sup">th</hi> March<!-- Change line info as appropriate --><!-- Begin each line with <lb/> as here -->  <add place="margintop" rend="right gray small" hand="#U1">MS 21</add>
-<lb/> 1857</date></dateline><!-- Change line info as appropriate -->
+<lb/><space extent="1" unit="words"/><space extent="2" unit="chars"/><add place="inspace" rend="gray small" hand="#U1">1</add> <space extent="1" unit="words"/><space extent="3" unit="chars"/><add place="inspace" rend="gray small" hand="#U1">MS 21</add>
+<lb/><dateline><space extent="2" unit="words"/><placeName>57 Sloane <choice><abbr>St</abbr><expan>Street</expan></choice></placeName> 
+<lb/><space extent="2" unit="words"/><space extent="1" unit="chars"/><date when="1857-03-19">19<hi rend="sup">th</hi> March<!-- Change line info as appropriate --><!-- Begin each line with <lb/> as here -->  
+<lb/><space extent="3" unit="words"/><space extent="2" unit="chars"/>1857</date></dateline><!-- Change line info as appropriate -->
 <lb/>    
 <lb/><salute>Dear Sir</salute><!-- Change line info as appropriate -->
 </opener>
 
-<lb/><p>I beg you will
+<lb/><p><space extent="2" unit="chars"/>I beg you will
 <lb/>accept my sincere
 <lb/>thanks for the trouble
 <lb/>you have taken
@@ -130,11 +132,11 @@
 <lb/>and will now
 <lb/>give the information
 <lb/>your friend desires</p>
-
-<lb/><p>The smaller hoes
+<lb/><p>The smaller hoes <space extent="1" unit="chars"/>
 	
 	<pb facs="liv_000971_0002" n="0002"/>
-<lb/><add place="margintop" rend="center gray small" hand="#U1">2</add> were given me by
+<lb/><space extent="1" unit="words"/><space extent="5" unit="chars"/><add place="inspace" rend="gray small" hand="#U1">2</add> 
+<lb/>were given me by
 <lb/><persName>Sekeletu</persName> whose town
 <lb/>is situated in <choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 18° 17'	
 <lb/>south &amp; <choice><abbr>Long</abbr><expan>Longitude</expan></choice> 23 50'
@@ -150,7 +152,8 @@
 <lb/>the <term type="tribe"><choice><orig>Batoka</orig><reg>Tonga</reg></choice></term> as tribute
 
 	<pb facs="liv_000971_0003" n="0003"/>
-<lb/><add place="margintop" rend="center gray small" hand="#U1">3</add> The <term type="tribe"><choice><orig>Batoka</orig><reg>Tonga</reg></choice></term> live East
+<lb/><space extent="1" unit="words"/><space extent="8" unit="chars"/><add place="inspace" rend="gray small" hand="#U1">3</add>
+<lb/>The <term type="tribe"><choice><orig>Batoka</orig><reg>Tonga</reg></choice></term> live East
 <lb/>of him in <choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 16° &amp; 17° <choice><abbr>S.</abbr><expan>South</expan></choice>
 <lb/><choice><abbr>Long</abbr><expan>Longitude</expan></choice> 25°-26° East
 <lb/>They smelt &amp; work
@@ -167,7 +170,8 @@
 <lb/>the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> above
 	
 	<pb facs="liv_000971_0004" n="0004"/>
-<lb/><add place="margintop" rend="center gray small" hand="#U1">4</add> <placeName><settlement type="town">Tete</settlement></placeName> called the country
+<lb/><space extent="1" unit="words"/><space extent="2" unit="chars"/><add place="inspace" rend="gray small" hand="#U1">4</add>
+<lb/><placeName><settlement type="town">Tete</settlement></placeName> called the country
 <lb/>of the <term type="tribe"><choice><orig>Basengo</orig><reg>Basango</reg></choice></term>. I
 <lb/>brought specimens
 <lb/>of it and they are
@@ -183,7 +187,8 @@
 <lb/>native manufacture
 	
 	<pb facs="liv_000971_0005" n="0005"/>	
-<lb/><add place="margintop" rend="left gray small" hand="#U1">5</add> The other <add place="below">^</add> <add place="above">or larger</add> hoes are <add place="margintop" rend="right gray small" hand="#U1">MS 21</add>
+<lb/><space extent="1" unit="words"/><add place="inspace" rend="gray small" hand="#U1">5</add> <space extent="3" unit="words"/><add place="inspace" rend="gray small" hand="#U1">MS 21</add> 
+<lb/>The other <add place="below">^</add> <add place="above">or larger</add> hoes are 
 <lb/>said to have been
 <lb/>made by some tribes
 <lb/>near <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName>	
@@ -199,7 +204,8 @@
 <lb/>possible make a gun	
 	
 	<pb facs="liv_000971_0006" n="0006"/>	
-<lb/><add place="margintop" rend="left gray small" hand="#U1">6</add> barrel of them <add place="below">^</add> <add place="above">he made an addition of the large ones</add> <!--The text above this caret extends across the top of pages 6 and 7 -AA --><!-- OK as is. AW --> so
+<lb/><space extent="1" unit="words"/><add place="inspace" rend="gray small" hand="#U1">6</add> <space extent="1" unit="words"/><add place="inspace" rend="small">he made an addition of the large ones</add>
+<lb/>barrel of them <add place="below">^</add> <!--The text above this caret extends across the top of pages 6 and 7 -AA --><!-- OK as is. AW --> so
 <lb/>I think there can be
 <lb/>little doubt but that
 <lb/>they too are <add place="below">^</add> <add place="above">a</add>	purely
@@ -215,13 +221,14 @@
 <lb/>in the <term type="tribe"><choice><orig>Batoka</orig><reg>Tonga</reg></choice></term> iron
 
 	<pb facs="liv_000971_0007" n="0007"/>
-<lb/><add place="margintop" rend="right gray small" hand="#U1">7</add> as I have seen its
+<lb/><space extent="4" unit="words"/><space extent="2" unit="chars"/><add place="inspace" rend="gray small" hand="#U1">7</add> 
+<lb/>as I have seen its
 <lb/>great toughness when
 <lb/>an assegai or spear
 <lb/>of it lighted on the 
 <lb/>cranium of a <term type="animal"><w>hippo-
 <lb break="no"/>potamus</w></term> it curled
-<lb/>up. <figure/> instead
+<lb/>up. <figure><figDesc>Illustration of curled up Batoka iron.</figDesc></figure> instead
 <lb/>of breaking and the
 <lb/>owner straightened
 <lb/>it again <hi rend="underline">cold</hi> with
@@ -232,7 +239,8 @@
 <lb/>its power. I should
 	
 	<pb facs="liv_000971_0008" n="0008"/>
-<lb/><add place="margintop" rend="left gray small" hand="#U1">8</add> be glad to be able to
+<lb/><add place="inspace" rend="gray small" hand="#U1">8</add> 
+<lb/>be glad to be able to
 <lb/>refer to your friends
 <lb/>opinion of the iron
 <lb/>in my work</p>
@@ -249,7 +257,8 @@
 <lb/><persName>Sekeletu</persName> sent to purchase
 	
 	<pb facs="liv_000971_0009" n="0009"/>	
-<lb/><add place="margintop" rend="left gray small" hand="#U1">9</add> his at <placeName><settlement type="town"><choice><orig><w>Quilim<subst><del>e</del><add place="over-text">a</add></subst>ne</w></orig><reg>Quelimane</reg></choice></settlement></placeName><!-- placename before word? MB --><!-- OK as is. AW --> <add place="margintop" rend="right gray small" hand="#U1">MS 21</add>
+<lb/><space extent="3" unit="chars"/><add place="inspace" rend="gray small" hand="#U1">9</add> <space extent="4" unit="words"/><add place="inspace" rend="gray small" hand="#U1">MS 21</add>
+<lb/>his at <placeName><settlement type="town"><choice><orig><w>Quilim<subst><del>e</del><add place="over-text">a</add></subst>ne</w></orig><reg>Quelimane</reg></choice></settlement></placeName><!-- placename before word? MB --><!-- OK as is. AW -->
 <lb/>but will pay with
 <lb/>my won money
 <lb/>here.</p>
@@ -264,7 +273,8 @@
 <lb/>are enhanced by
 
 	<pb facs="liv_000971_0010" n="0010"/>
-<lb/><add place="margintop" rend="left gray small" hand="#U1">10</add>the high finish. that
+<lb/><space extent="2" unit="chars"/><add place="inspace" rend="gray small" hand="#U1">10</add>
+<lb/>the high finish. that
 <lb/>I care little about
 <lb/>and only want
 <lb/>the weapon made
@@ -279,7 +289,8 @@
 <lb/>to be a man on
 	
 	<pb facs="liv_000971_0011" n="0011"/>	
-<lb/><add place="margintop" rend="left gray small" hand="#U1">11</add> whose honour one
+<lb/><add place="inspace" rend="gray small" hand="#U1">11</add> 
+<lb/>whose honour one
 <lb/>can depend I shall
 <lb/>feel obliged if
 <lb/>you give me his
@@ -291,10 +302,11 @@
 <lb/>apply to him myself</p>
 <lb/><p>I want also
 <lb/>to send a gun for repairs
-<lb/>will you oblige me
+<lb/>will you oblige me <space extent="1" unit="chars"/>
 
 	<pb facs="liv_000971_0012" n="0012"/>
-<lb/><add place="margintop" rend="left gray small" hand="#U1">12</add> by letting me know
+<lb/><space extent="2" unit="chars"/><add place="inspace" rend="gray small" hand="#U1">12</add> 
+<lb/>by letting me know
 <lb/>also the place of
 <lb/>business of the gun
 <lb/>smith. I have been
@@ -305,14 +317,13 @@
 <lb/>anywhere. Please
 <lb/>do not trouble yourself
 <lb/>to write a long note
-<lb/>about this offer
-</p>
+<lb/>about this offer</p>
 
 <!-- If there is a letter or similar with a closer with content such as salute or signed -->
-<closer>
-<lb/><salute>Believe me yours &amp;C</salute><!-- Change as appropriate -->
-<lb/><signed><persName>David Livingstone</persName></signed><!-- Change as appropriate --> 
-</closer>
+
+<lb/><p>Believe me yours &amp;C<!-- Change as appropriate -->
+<lb/><space extent="2" unit="words"/><persName>David Livingstone</persName></p><!-- Change as appropriate --> 
+
 
             </div>
         </body>
