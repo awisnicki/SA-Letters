@@ -94,10 +94,12 @@
             <div>
                
 	<pb facs="liv_000538_0001" n="0001"/><!-- Change both @facs and @n -->
-<lb/><dateline><placeName><settlement type="village">Kuruman</settlement></placeName> <date when="1843-07-17">17<hi rend="sup underline">th</hi> July 1843</date> <add place="above marginright" rend="gray" hand="#U0">MS 8/2</add></dateline>
+<opener>
+<lb/><space extent="13" unit="words"/><add place="inspace" rend="small gray" hand="#U0">MS 8/2</add>
+<lb/><dateline><space extent="7" unit="words"/><placeName><settlement type="village">Kuruman</settlement></placeName> <date when="1843-07-17">17<hi rend="sup underline">th</hi> July 1843</date></dateline>
 <lb/>    
-<lb/><salute>My Dear <persName>Hayward</persName></salute><!-- Change line info as appropriate -->
-<lb/><p>Your kind and excellent <bibl>letter</bibl> afforded me quite a 
+<lb/><space extent="2" unit="chars"/><salute>My Dear <persName>Hayward</persName></salute></opener><!-- Change line info as appropriate -->
+<lb/><p><space extent="2" unit="words"/>Your kind and excellent <bibl>letter</bibl> afforded me quite a 
 <lb/>treat and I feel it merited sincere thanks and a more prompt
 <lb/>acknowledgement But having been during most of the time
 <lb/>that has intervened far away from the region of postage
@@ -130,12 +132,11 @@
 <lb/>names of different nations living on its banks as of the <placeName><geogName type="river"><choice><orig>Botletli</orig><reg>Boteti</reg></choice></geogName></placeName> <add place="below">&amp;c</add>
 
 	<pb facs="liv_000538_0002" n="0002"/>
-<lb/><unclear cert="high">The</unclear> great drawback to travelling in the country is the slowness
+<lb/>The great drawback to travelling in the country is the slowness
 <lb/>of our locomotives. The heavy lumbering <term type="nationality">Dutch</term> waggon
 <lb/><subst><del>a</del><add place="over-text">&amp;</add></subst> the riding ox are the only conveyances unless we choose
 <lb/>to try our own lower extremities, I have been as far
-<lb/>north as <measure><choice><abbr>Lat.</abbr><expan>Latitude</expan></choice> 22º <choice><abbr>S.</abbr><expan>South</expan></choice></measure>
-<lb/>and then is beyond every other <orgName>European</orgName>
+<lb/>north as <measure><choice><abbr>Lat.</abbr><expan>Latitude</expan></choice> 22º <choice><abbr>S.</abbr><expan>South</expan></choice></measure> and then is beyond every other <orgName>European</orgName>
 <lb/>During my last journey I should probably have seen the lake
 <lb/>had my people not been deterred from following me by
 <lb/>a dread of <persName><choice><orig>Mosilikatze</orig><reg>Mzilikazi</reg></choice></persName>. I saw some women who had been
@@ -146,7 +147,7 @@
 <lb/>food by day &amp; climbing a high rock for protection by night
 <lb/>The sight of these poor creatures was enough for my people
 <lb/>near very weak hearts seemed to die within them, indeed they
-<lb/>buried their noses in the sand as if the <unclear cert="medium"><orgName>Arabian</orgName></unclear> <seg type="weather">simoon</seg>
+<lb/>buried their noses in the sand as if the <orgName>Arabian</orgName> <seg type="weather">simoon</seg>
 <lb/>had been passing &amp; declared it was madness to go a step
 <lb/>near the tyrant. I was then obliged to leave them &amp;
 <lb/>go forward on <term type="animal_foodstuff">ox</term> back with only the wild <term type="tribe"><choice><orig>Bakwains</orig><reg>Bakwena</reg><reg>Kwena</reg></choice></term> as
@@ -194,10 +195,10 @@
 <lb/><orgName>antidiluvians</orgName>, yet they manage to make pretty neat
 <lb/>work of it. The ore is found in great abundance &amp; nor
 <lb/>covered by any soil which will be an advantage to our new
-<lb rend="right"/>settlement</p>
+<lb/><space extent="9" unit="words"/><space extent="2" unit="chars"/>settlement</p>
 	
 	<pb facs="liv_000538_0004" n="0004"/>
-<lb/><p>I may mention here that all the notions of these people concerning
+<lb/><p rend="no-indent">I may mention here that all the notions of these people concerning
 <lb/>medicine are connected with the suggestion that witchcraft is
 <lb/>extremely practiced <space extent="4" unit="chars"/>Indeed they seem to behave that no one
 <lb/>would ever die unless he were bewitched, their <term type="occupation">doctors</term> suck
@@ -230,7 +231,8 @@
 <lb/>to the future all to them is darkness</p>
 
 	<pb facs="liv_000538_0005" n="0005"/>
-<lb/><p>The impurities they practice I cannot mention, They follow out<add place="above marginright" rend="gray" hand="#U0">MS /8/2</add>
+<lb/><p rend="no-indent"><space extent="14" unit="words"/><add place="inspace" rend="small gray" hand="#U0">MS /8/2</add></p>
+<lb/><p>The impurities they practice I cannot mention, They follow out
 <lb/>the principles of <persName>Owen</persName> the socialist as far as they will go &amp;
 <lb/>though each woman has her husband who fathers her
 <lb/>children promiscuous intercourse is almost universal. Those
@@ -315,7 +317,7 @@
 <lb/>informing themselves &amp; have been the dupes of a set
 <lb/>of unprincipled men in the <placeName><region>Colony</region></placeName>. I cannot go into
 <lb/>the subject at <unclear cert="high"><w>pre<gap extent="1" unit="chars" agent="blot"/><supplied>s</supplied>ent</w></unclear> but I believe they are <unclear cert="medium"><gap extent="1" unit="chars" agent="blot"/><supplied>m</supplied>ore</unclear> to be
-<lb/>pitied than blamed. The <orgName>Colonial <choice><sic>government</sic><orig>Government</orig></choice></orgName> has as large
+<lb/>pitied than blamed. The <orgName>Colonial <choice><orig>government</orig><reg>Government</reg></choice></orgName> has as large
 <lb/>a share in their misdemeanour as any one else.
 <lb/>They are generally such as respect religion But the frequent
 <lb/>commission of the grossest immoralities by them makes
@@ -329,38 +331,34 @@
 <lb/>rebellions <gap extent="1" unit="words" agent="illegible"/> or of the imbecile dealings of the <orgName>Colonial
 <lb/>government</orgName> as I am persuaded you will have heard of all by
 <lb/>means of public papers</p>
-<lb/><space extent="5" unit="lines" dim="vertical"/>
 
 	<cb rend="vertical"/>
 	<ab>
 	<address>
 <addrLine><del type="strikethrough">Care of <persName><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice> D<hi rend="sup underline">r</hi> <choice><orig><w><gap extent="1" unit="chars" agent="hole"/><supplied>P</supplied>hillip</w></orig><reg>Philip</reg></choice></persName>, <placeName><settlement type="town"><hi rend="underline">Cape <unclear cert="low">Town</unclear></hi></settlement></placeName></del></addrLine>
-<addrLine><persName><choice><abbr>R.</abbr><expan>Robert</expan></choice> Hayward <add place="above" hand="#U2"><hi rend="large"><metamark/></hi></add> Esq<hi rend="sup underline">uire</hi></persName> <add place="above" rend="vertical large brown" hand="#U1"><del type="cancelled">Mr</del></add></addrLine>
-<addrLine rend="right"><del type="cancelled"><placeName>Victoria Cresent</placeName></del></addrLine>
-<addrLine rend="right"><del type="cancelled"><placeName>Ramsgate</placeName></del></addrLine>
-<addrLine rend="right"><placeName><country><hi rend="underline">England</hi></country></placeName></addrLine>
+<lb/>
+<lb/>
+<addrLine><persName><choice><abbr>R.</abbr><expan>Robert</expan></choice> Hayward <add place="above" hand="#U2"><hi rend="large"><metamark/></hi></add> Esq<hi rend="sup underline">uire</hi></persName> <add place="inspace" rend="vertical large brown" hand="#U1"><del type="cancelled">Mr</del></add></addrLine>
+<addrLine><space extent="1" unit="words"/><space extent="2" unit="chars"/><del type="cancelled"><placeName>Victoria Cresent</placeName></del></addrLine>
+<addrLine><space extent="2" unit="words"/><space extent="2" unit="chars"/><del type="cancelled"><placeName>Ramsgate</placeName></del></addrLine>
+<addrLine><space extent="3" unit="words"/><space extent="2" unit="chars"/><placeName><country><hi rend="underline">England</hi></country></placeName></addrLine>
 	</address>
 	</ab>
 
-	<ab rend="upside-down">
-	<addSpan spanTo="#add1" hand="#U3" rend="large"/><add place="over-text" rend="diagonal red" hand="#U4">6/1</add><address>
+	<ab rend="upside-down"><addSpan spanTo="#add1" hand="#U3"/><add place="over-text" rend="diagonal red large" hand="#U4">6/1</add><address>
 <addrLine><placeName>11 Church St</placeName></addrLine>
 <addrLine><placeName>Paddington Green</placeName></addrLine>
-<addrLine><placeName><settlement type="city">London</settlement></placeName></addrLine>
-	</address>
-	<anchor xml:id="add1"/>
-	</ab>
+<addrLine><space extent="2" unit="words"/><placeName><settlement type="city">London</settlement></placeName></addrLine>
+	</address><anchor xml:id="add1"/></ab>
 
 <!-- There are various postage stamps, and some red marks scattered through the page.-->
 
-<lb/><p>I hope you will find time &amp; inclination to give me a long <bibl>letter</bibl>
+<lb/><p rend="no-indent">I hope you will find time &amp; inclination to give me a long <bibl>letter</bibl>
 <lb/>I should like to write <persName>Houlton</persName> but <choice><sic>dont</sic><corr>don't</corr></choice> know his address
 <lb/>I am happy to hear that you have passed the college and
 <lb/>beg leave to congratulate you on the event. But perhaps
 <lb/>long ere this reaches you.  The pains &amp; fears of the examination
-<lb/>will all be forgotten.</p> <closer> <salute>Believe me yours sincerely</salute> <signed><persName><choice><abbr>D.</abbr><expan>David Livingstone</expan></choice></persName></signed> 
-</closer>
-
+<lb/>will all be forgotten. Believe me yours sincerely <persName><choice><abbr>D.</abbr><expan>David Livingstone</expan></choice></persName></p>
 
             </div>
         </body>
