@@ -89,13 +89,14 @@
                
 	<pb facs="liv_001070_0001" n="0001"/>
 <opener>
-<lb/><dateline rend="right"><date when="1857-07-31"><subst><del>29<hi rend="sup">th</hi></del><add place="over-text">July 31<hi rend="sup">st</hi> </add></subst>
+<lb/><dateline><space extent="1" unit="words"/><date when="1857-07-31"><subst><del>29<hi rend="sup">th</hi></del><add place="over-text">July 31<hi rend="sup">st</hi> </add></subst>
 </date></dateline>
 <lb/>    
 <lb/><salute>My Dear Sir</salute>
 </opener>
 
-<lb/><p>I shall be
+<lb/><p><space extent="1" unit="words"/>I shall be
+<lb/>extremely obliged
 <lb/>by your giving
 <lb/><persName>M<hi rend="sup">r</hi> Ford</persName> instructions
 <lb/>to draw the <term type="insect">Tsetse</term>	
@@ -130,7 +131,7 @@
 
 	<pb facs="liv_001070_0004" n="0004"/>
 <lb/>natural position
-<lb/><figure><figDesc>A tiny sketch of the tsetse's natural position</figDesc></figure></p>
+<lb/><figure><figDesc>Small sketch of the tsetse's natural position</figDesc></figure></p>
 <lb/><p>Please send it
 <lb/>to <persName>M<hi rend="sup">r</hi> Cooke</persName> <persName>M<hi rend="sup">r</hi>
 <lb/>Murray</persName>'s cousin	
@@ -140,13 +141,10 @@
 <lb/>I thank you most
 <lb/>heartily for your
 <lb/>prompt attention
-<lb/>to my request
-</p>
+<lb/>to my request</p>
+<lb/><p>I am to you obliged
+<lb/><persName>David Livingstone</persName></p>
 
-<closer>
-<lb/><salute>I am to you obliged</salute>
-<lb/><signed><persName>David Livingstone</persName></signed>
-</closer>
 
             </div>
         </body>
