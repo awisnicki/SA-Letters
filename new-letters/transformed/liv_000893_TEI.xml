@@ -113,17 +113,17 @@
 
 <!-- If this is a letter or similar with an opener (with content such as dateline and/or salute) add it. For example: -->
 <opener>
-<lb/><dateline rend="right"><placeName><settlement type="town">Tete</settlement></placeName>, or <placeName><settlement type="village">Nyungué</settlement></placeName> <add place="above" rend="gray" hand="#U">36</add>
-<lb/>on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>, <placeName><bloc>Africa</bloc></placeName>
-<lb/><date when="1856-03-26">26<hi rend="sup underline">th</hi> March 1856</date></dateline> 
+<lb/><space extent="8" unit="words"/><space extent="2" unit="chars"/><add place="inspace" rend="gray" hand="#U">36</add>
+<lb/><dateline><space extent="5" unit="words"/><placeName><settlement type="town">Tete</settlement></placeName>, or <placeName><settlement type="village">Nyungué</settlement></placeName>
+<lb/><add place="inspace" rend="gray" hand="#U">7</add> <space extent="4" unit="words"/>on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>, <placeName><bloc>Africa</bloc></placeName>
+<lb/><space extent="5" unit="words"/><space extent="2" unit="chars"/><date when="1856-03-26">26<hi rend="sup underline">th</hi> March 1856</date></dateline> 
 <lb/><persName>Alfred Duprat, Esquire</persName>
 <!-- Change line info as appropriate -->
 <!-- Begin each line with <lb/> as here -->
-<lb/>    
-<lb/><salute rend="center">My Dear Sir</salute><!-- Change line info as appropriate -->
+<lb/><space extent="3" unit="words"/><salute>My Dear Sir</salute><!-- Change line info as appropriate -->
 </opener>
 
-<lb/><p rend="right">I begin another
+<lb/><p><space extent="5" unit="words"/>I begin another
 <lb/>note for you without any intention of
 <lb/>finishing it till I am farther down
 <lb/>the river, but the subject being still<!-- geog: Zambesi -->
@@ -209,17 +209,17 @@
 <lb/>this when an opportunity of sending a 
 <lb/>packet happens I shall now conclude
 <lb/>begging to be excused for again troubling
-<lb/>you and</p> <closer><salute>presenting my cordial salutatio<gap extent="1" unit="chars"/><supplied cert="high">n</supplied></salute>
-<lb rend="right"/><signed><persName>David <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></signed></closer>
-<lb/><postscript><p><seg rend="left">P.S.</seg> I shall either bring or send the seeds.</p></postscript>
+<lb/>you and presenting my cordial salutatio<gap extent="1" unit="chars"/><supplied cert="high">n</supplied></p>
+<lb/><p rend="no-indent"><space extent="6" unit="words"/><persName>David <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></p>
+<lb/><postscript><p rend="no-indent"><seg rend="left">P.S.</seg> I shall either bring or send the seeds.</p></postscript>
 		</div>
 
 		<div>
 	<cb rend="vertical"/>
-	<ab><address rend="right">
-<lb/><addrLine><persName>Alfred Duprat, Esquire</persName></addrLine>
-<lb/><addrLine>H. F. M's Commissioner</addrLine>
-<lb/><addrLine rend="underline"/><placeName><region>Cape of Good Hope</region></placeName><!-- fixed hi rend issue to make this a valid TEI document. MB -->
+	<ab><address>
+<addrLine><persName>Alfred Duprat, Esquire</persName></addrLine>
+<addrLine><space extent="1" unit="words"/>H. F. M's Commissioner</addrLine>
+<addrLine><space extent="2" unit="words"/><hi rend="double-underline"><placeName><region>Cape of Good Hope</region></placeName></hi></addrLine><!-- fixed hi rend issue to make this a valid TEI document. MB -->
 <!-- wax seal -->
 	</address></ab>
 
