@@ -121,12 +121,12 @@
 	<pb facs="liv_000908_0001" n="0001"/>
 <!-- If this is a letter or similar with an opener (with content such as dateline and/or salute) add it. For example: -->
 <opener>
-<lb/><dateline rend="right"><placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName> <date when="1856-06-27">27<hi rend="sup underline">th</hi> June<!-- Change line info as appropriate --><!-- Begin each line with <lb/> as here --> 
-<lb/>1856</date></dateline><!-- Change line info as appropriate -->
+<lb/><dateline><space extent="4" unit="words"/><placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName> <date when="1856-06-27">27<hi rend="sup underline">th</hi> June<!-- Change line info as appropriate --><!-- Begin each line with <lb/> as here --> 
+<lb/><space extent="2" unit="words"/><add place="inspace" rend="gray" hand="#U"><metamark/>7</add> <space extent="5" unit="words"/><space extent="2" unit="chars"/>1856</date></dateline><!-- Change line info as appropriate -->
 <lb/>    
-<lb/><salute>My Dear <persName>M<hi rend="sup underline">r</hi> Gabriel</persName>,</salute><!-- Change line info as appropriate -->
+<lb/><space extent="2" unit="chars"/><salute>My Dear <persName>M<hi rend="sup underline">r</hi> Gabriel</persName>,</salute><!-- Change line info as appropriate -->
 </opener> 	
-<lb/><p><space extent="3" unit="words"/>Having by the Divine
+<lb/><p><space extent="4" unit="words"/>Having by the Divine
 <lb/>goodness reached this on the <date when="1856-05-20">20<hi rend="sup underline">th</hi> of May</date>
 <lb/>last I felt very greatly disappointed
 <lb/>in not finding a single line from you
@@ -146,13 +146,13 @@
 <lb/>commander tried to come ashore when
 <lb/>it was very rough - Unfortunately the</p>
 	<cb rend="vertical left"/><ab>
-<lb/>Don't forget the champagne Particularly if
+<lb/>Don't forget the champagne <space extent="1" unit="chars"/>Particularly if
 <lb/>any of my old acquaintances are with you at the time</ab> <!--tweet -AA-->
 
 	<pb facs="liv_000908_0002" n="0002"/>
-<lb/><p>boat was upset on the bar and the
+<lb/><p rend="no-indent">boat was upset on the bar and the
 <lb/>commander - with a fine young man
-<lb/><persName><term type="occupation"><choice><abbr>Lieut <hi rend="sup">t</hi></abbr><expan>Lieutenant</expan></choice></term> Woodruff</persName> &amp; 5 sailors were
+<lb/><persName><term type="occupation"><choice><abbr>Lieut<hi rend="sup">t</hi></abbr><expan>Lieutenant</expan></choice></term> Woodruff</persName> &amp; 5 sailors were
 <lb/>lost. This sad event embittered all
 <lb/>my joy on reaching <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName>
 <lb/>I would have died for them rather
@@ -188,7 +188,7 @@
 <lb/>an interest in the enterprise I have
 <lb/>undertaken. I sometimes fear I will
 <lb/>tire you with my yarns. As friend
-<lb/><persName>Arsenio</persName> did. It seems I <unclear cert="medium">have S</unclear> of
+<lb/><persName>Arsenio</persName> did. It seems I have got
 <lb/>the Queens gold medal from the <choice><abbr>R G.</abbr><expan>Royal Geographical</expan></choice>
 <lb/><choice><abbr>Soc.</abbr><expan>Society</expan></choice> and an honorary degree from
 <lb/>our old <orgName>Alma mater</orgName> <placeName><settlement type="city">Glasgow</settlement></placeName>. The <orgName><placeName><settlement type="city">London</settlement></placeName>
@@ -244,7 +244,7 @@
 <lb/>here. There being a famine at <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName>
 
    	<pb facs="liv_000908_0006" n="0006"/>            	
-<lb/>they cannot remain except at <placeName><settlement type="town">Tete</settlement></placeName>
+<lb/>They cannot remain except at <placeName><settlement type="town">Tete</settlement></placeName>
 <lb/>where provisions are abundant
 <lb/>some are employed as boatmen some
 <lb/>as carriers &amp; some bring wood for
@@ -255,7 +255,7 @@
 <lb/>enter &amp; depart but twice a month
 <lb/>The <term type="occupation">Governor</term> asked my opinion
 <lb/>in writing about the salubrity of
-<lb/><settlement type="village"><unclear cert="low">Senna</unclear></settlement>. I pointed out a mountain
+<lb/><settlement type="village">Senna</settlement>. I pointed out a mountain
 <lb/>called <placeName><geogName type="mountain">Morumbala</geogName></placeName> close by as likely
 <lb/>to be more salubrious but its entire
 <lb/>decay from want of trade cannot
@@ -290,11 +290,11 @@
 <lb/>our <persName>Burns</persName> has it. 	
 
 	<pb facs="liv_000908_0008" n="0008"/> 
-<lb/>"Then let us pray that come it may
-<lb/>For come it will for a'that--
-<lb/>When man and man the world o'er
-<lb/>Shall brothers be for a'that."</p>
-<lb/><p>I have looked over the letter enclosed
+<lb/><space extent="1" unit="words"/>"Then let us pray that come it may
+<lb/><space extent="1" unit="words"/>For come it will for a'that -
+<lb/><space extent="1" unit="words"/>When man and man the world o'er
+<lb/><space extent="1" unit="words"/>Shall brothers be for a'that."</p>
+<lb/><p rend="no-indent">I have looked over the letter enclosed
 <lb/>in this and felt inclined to destroy it
 <lb/>but you will make allowances for
 <lb/>my unburdening my feelings. I send
@@ -309,17 +309,12 @@
 <lb/><term type="nationality">French</term> vessel is there which will tour
 <lb/>at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>. They seem to be reviving
 <lb/>a sort of <orgName>slave</orgName> trade between this coast
-<lb/>and the <placeName><geogName type="island">Isle of Bourbon</geogName></placeName>. </p>  
-
-<closer>
-<lb/><salute>Accept my
+<lb/>and the <placeName><geogName type="island">Isle of Bourbon</geogName></placeName>. Accept my
 <lb/>heartiest salutations and the heart's
-<lb/>love of your ever affectionate</salute><!-- Change as appropriate -->
-<lb/><signed><persName>David <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></signed><!-- Change as appropriate --> 
-</closer>
-
+<lb/>love of your ever affectionate</p><!-- Change as appropriate -->
+<lb/><p rend="no-indent"><space extent="3" unit="words"/><persName>David <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></p><!-- Change as appropriate --> 
 <!-- I cannot get the postscript code to work. -AA --><!-- Needs to have a <p> inside. AW -->
-<postscript><p>Remember me to <persName>Captain Neves</persName>. please.</p></postscript>
+<lb/><postscript><p rend="no-indent">Remember me to <persName>Captain Neves</persName>. please.</p></postscript>
 
             </div>
         </body>
