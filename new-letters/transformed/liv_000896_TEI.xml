@@ -86,7 +86,8 @@
             <div>
                
 	<pb facs="liv_000896_0001" n="0001"/><!-- Change both @facs and @n -->
-<lb/><p><add place="margintop" rend="gray" hand="#U">5</add>I make a few addenda as they occur to
+<lb/><p rend="no-indent"><space extent="3" unit="words"/><add place="inspace" rend="gray" hand="#U"><metamark/>5</add>
+<lb/>I make a few addenda as they occur to
 <lb/>me in the hope that you may be induced
 <lb/>by <unclear cert="low">insnoozy</unclear> ability some evening to glance
 <lb/>over them. <space extent="3" unit="chars"/>Though I make an offer
@@ -196,11 +197,9 @@
 <lb/>you in all your future life and
 <lb/>lead you to his heavenly kingdom is
 <lb/>the hearts' desire of yours Ever</p>
+<lb/><p rend="no-indent"><space extent="3" unit="words"/>affectionately &amp; Truly</p><!-- Change as appropriate -->
+<lb/><p rend="no-indent"><space extent="5" unit="words"/><persName>David Livingstone</persName></p><!-- Change as appropriate --> 
 
-<closer>
-<lb/><salute>affectionately &amp; Truly</salute><!-- Change as appropriate -->
-<lb/><signed><persName>David Livingstone</persName></signed><!-- Change as appropriate --> 
-</closer>
 
 
             </div>
