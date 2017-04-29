@@ -84,10 +84,11 @@
                
 	<pb facs="liv_000898_0001" n="0001"/><!-- Change both @facs and @n -->
 <!-- missionaries an orgName or an occupation? Check throughout. MB --><!-- All reviewed. AW -->
-<lb/><dateline><add rend="gray" hand="#U">6</add><placeName><settlement type="town">Tete</settlement></placeName> <date when="1856-04-04">4<hi rend="sup underline">th</hi> April 1856</date></dateline>
+<opener>
+<lb/><space extent="4" unit="words"/><add place="inspace" rend="gray" hand="#U"><metamark/>6</add> <space extent="1" unit="words"/><dateline><placeName><settlement type="town">Tete</settlement></placeName> <date when="1856-04-04">4<hi rend="sup underline">th</hi> April 1856</date></dateline>
 <lb/>    
-<lb/><salute>My Dear M<hi rend="sup underline">r</hi> Gabriel</salute><!-- Change line info as appropriate -->
-<lb/><p rend="center">Herewith I send a <bibl>letter</bibl> to the
+<lb/><salute>My Dear M<hi rend="sup underline">r</hi> Gabriel</salute></opener><!-- Change line info as appropriate -->
+<lb/><p><space extent="3" unit="words"/>Herewith I send a <bibl>letter</bibl> to the
 <lb/><term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> - a mere repitition of that
 <lb/>sent from the <placeName><settlement type="village">town of <persName>Sekeletu</persName></settlement></placeName>, and another for
 <lb/>the merchants though addressed to <persName>M<hi rend="sup">r</hi> Schut</persName>, and
@@ -101,7 +102,7 @@
 <lb/>for good <persName>Laurenco Marques</persName> &amp; others and I beg
 <lb/>to salute most kindly <persName>M<hi rend="sup underline">r</hi> Demony</persName> through
 <lb/>you.</p>
-<lb/><p>accompanying this also, you will see
+<lb/><p><choice><sic>accompanying</sic><corr>Accompanying</corr></choice> this also, you will see
 <lb/>a rough copy of a <bibl>letter</bibl> to the <persName>Earl of Clarendon</persName>,
 <lb/>you will perhaps get some information in it
 <lb/>not included in your <bibl>letter</bibl> written above
@@ -168,13 +169,13 @@
 <lb/>do some good in <placeName><bloc>Africa</bloc></placeName> before I die. Sometimes I
 <lb/>imagine a more extended mode of operation would</p>
 
-<cb rend="vertical"/>
-<ab>
+	<cb rend="vertical"/>
+	<ab>
 <lb/>I shall never forget them and our friend <persName>Laurenco Marques</persName>
-</ab>
+	</ab>
 
 	<pb facs="liv_000898_0003" n="0003"/>
-<lb/><p>be preferrible to that of a <orgName>mission station</orgName><!-- orgName or occupation? MB -->, the <orgName>Jesuits</orgName>
+<lb/><p rend="no-indent">be preferrible to that of a <orgName>mission station</orgName><!-- orgName or occupation? MB -->, the <orgName>Jesuits</orgName>
 <lb/>did a great deal in their way but were always rich.
 <lb/>Can we learn nothing good from them? The <orgName>European 
 <lb/>monasteries</orgName> were, previous to becoming corrupt, good
@@ -218,8 +219,7 @@
 <lb/>I was sufficiently irate, but in revenge took <term type="plant_foodstuff">curry
 <lb/>powder</term> when I got a <term type="animal_foodstuff">fowl</term> and that did as well-
 <lb/>Query. Would going up the centre of the continent
-<lb/><add place="above">East of <placeName><settlement type="village"><persName><choice><orig>Matiamwo</orig><reg>Mwant Yav</reg><reg>Mwata Yamvo</reg></choice></persName></settlement></placeName></add><!-- Not sure what this is -EM --><!-- Fixed. AW -->
-<lb/>and besides preaching good will to man 
+<lb/><add place="above">East of <placeName><settlement type="village"><persName><choice><orig>Matiamwo</orig><reg>Mwant Yav</reg><reg>Mwata Yamvo</reg></choice></persName></settlement></placeName></add><!-- Not sure what this is -EM --><!-- Fixed. AW --> and besides preaching good will to man 
 <lb/>inducing the tribes to trade to the coast be feasible
 <lb/>in your estimation. I intend first of all to
 <lb/>establish a <orgName>mission</orgName> with the <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> &amp;
@@ -249,11 +249,9 @@
 <lb/>does acceptable service and will not be forgotten
 <lb/>when the Almighty Lord has brought to a glorious
 <lb/>consummation all His dealing with man.</p>
+<lb/><p rend="no-indent">Believe me Ever Yours Very Affectionate</p><!-- Change as appropriate -->
+<lb/><p rend="no-indent"><space extent="9" unit="words"/><persName>David Livingstone</persName></p><!-- Change as appropriate --> 
 
-<closer>
-<lb/><salute>Believe me Ever Yours Very Affectionate</salute><!-- Change as appropriate -->
-<lb rend="right"/><signed><persName>David Livingstone</persName></signed><!-- Change as appropriate --> 
-</closer>
 
 
             </div>
