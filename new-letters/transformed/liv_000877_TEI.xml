@@ -92,17 +92,16 @@
 	<pb facs="liv_000877_0001" n="0001"/>
 
 <opener>
-<lb/><add place="inline" rend="gray" hand="#U">5) -</add> <add place="inline" rend="right gray" hand="#U">33.1</add>
-<lb/><dateline rend="right"><placeName>Near <placeName><settlement type="town">Tete</settlement></placeName> or <placeName>Nyunkwe</placeName></placeName> on
-<lb/>the river <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> <date when="1856-02-15">15<hi rend="sup underline">th</hi> <choice><abbr>Feby</abbr><expan>February</expan></choice> 1856</date></dateline>
+<lb/><add place="inline" rend="gray" hand="#U">5) -</add> <space extent="12" unit="words"/><add place="inline" rend="gray" hand="#U">33.1</add>
+<lb/><dateline><space extent="8" unit="words"/><placeName>Near <placeName><settlement type="town">Tete</settlement></placeName> or <placeName>Nyunkwe</placeName></placeName> on
+<lb/><space extent="7" unit="words"/>the river <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> <date when="1856-02-15">15<hi rend="sup underline">th</hi> <choice><abbr>Feby</abbr><expan>February</expan></choice> 1856</date></dateline>
 <lb/>    
-<lb/><salute rend="center"><persName>Thomas Maclear, Esquire</persName>
+<lb/><space extent="2" unit="chars"/><persName>Thomas Maclear, Esquire</persName>
 <lb/>
-<lb/>My Dear Sir</salute>
+<lb/><space extent="6" unit="words"/><space extent="2" unit="chars"/>My Dear Sir
 </opener>
 
-
-<lb/><p><space extent="7" unit="words"/>If a note sent by way of
+<lb/><p><space extent="9" unit="words"/>If a note sent by way of
 <lb/><placeName><country>Angola</country></placeName> reached its destination you will be aware of my having
 <lb/>returned again to <placeName><settlement type="village">Linyanti</settlement></placeName> - so little time was allowed by
 <lb/>my <orgName>Arab</orgName> <term type="occupation">postman</term> for writing I could not send all the
@@ -273,8 +272,7 @@
 <lb/>said his progress had been stopped here" In
 <lb/>which wise conclusion I most heartily
 <lb/>coincided - The river generally is densely
-<lb/>peopled by a strong muscular <orgName>race of
-
+<lb/>peopled by a strong muscular <orgName>race of <space extent="1" unit="chars"/>
 
 	<pb facs="liv_000877_0005" n="0005"/>
 <lb/><fw n="heading_2"><hi rend="underline"><choice><abbr>2<hi rend="sup">d</hi></abbr><expan>second</expan></choice> sheet</hi></fw>
@@ -320,7 +318,6 @@
 <lb/>and tusks. This law and others equally stringent
 <lb/>apply to both <orgName>natives</orgName> and <orgName>Europeans</orgName> -</p>
 
-
 	<pb facs="liv_000877_0006" n="0006"/>
 <lb/><p>I must now give you a sketch of the physical
 <lb/>geography of the region which has come under my
@@ -363,7 +360,6 @@
 <lb/><term type="occupation">Antiquarian</term> would, if he expected to meet
 <lb/>a <bibl>manuscript history of the world</bibl> by <persName>Methusaleh</persName>
 
-
 	<pb facs="liv_000877_0007" n="0007"/>
 <lb/>with an appendix containing an account of the Flood
 <lb/>by <persName>Ham</persName> one of the survivors - you will not think
@@ -405,7 +401,6 @@
 <lb/>of water - Being disappointed by the <term type="occupation">autocrat</term> of
 <lb/>all the <placeName><bloc>Russias</bloc></placeName> requiring the presence of my friend
 
-
 	<pb facs="liv_000877_0008" n="0008"/>
 <lb/>I was obliged to trust to the Thermometer and as I
 <lb/>tried to use it always at the same hour of the day
@@ -423,27 +418,29 @@
 <lb/>which unite and form the  <placeName><geogName type="river">Chobe</geogName></placeName> - the <placeName><geogName type="river">Embarral</geogName></placeName>
 <lb/>or <placeName><geogName type="river">River of Loebe</geogName></placeName> on the <placeName><region>South West</region></placeName> - &amp; the
 <lb/><placeName><geogName type="river"><choice><orig>Casai</orig><reg>Kasai</reg></choice></geogName></placeName> and its many feeders on <placeName><region>the East</region></placeName></p>
-<lb/><p rend="right">Brisk <choice><abbr>Ebull</abbr><expan cert="medium">Ebullition</expan></choice></p>
+<lb/><p rend="no-indent"><space extent="10" unit="words"/>Brisk <choice><abbr>Ebull</abbr><expan cert="medium">Ebullition</expan></choice></p>
 
-<lb/><list><item><space extent="6" unit="chars"/>Top of Rocks of <placeName><settlement type="village">Pungo Andongo</settlement></placeName> <seg rend="right"><metamark/><hi rend="underline gray">4210</hi><!-- number encircled AM --><hi rend="sup gray">H</hi></seg><seg rend="right">204</seg></item>
+<lb/><list><space extent="1" unit="words"/><item>Top of Rocks of <placeName><settlement type="village">Pungo Andongo</settlement></placeName> <space extent="8" unit="chars"/><metamark/><hi rend="underline gray">4210</hi><!-- number encircled AM --> <space extent="4" unit="chars"/><hi rend="sup gray">H</hi>204</item>
 
-<lb/><item><space extent="6" unit="chars"/>Top of <placeName>Tala Mungongo</placeName> ------<!-- horizontal line of about 6 characters AM --><seg rend="right"><hi rend="gray">(3151)</hi></seg><seg rend="right">206</seg></item>
+<lb/><space extent="1" unit="words"/><item>Top of <placeName>Tala Mungongo</placeName> ------<!-- horizontal line of about 6 characters AM --><space extent="14" unit="chars"/><hi rend="gray">(3151)</hi> <space extent="4" unit="chars"/>206</item>
 
-<lb/><item><space extent="6" unit="chars"/>Bottom of descent of ditto ------<!-- horizontal line of about 6 characters AM --><seg rend="right"><hi rend="gray">(2097)</hi></seg><seg rend="right"><w>20<gap extent="1" unit="chars" agent="illegible"/></w></seg></item>
+<lb/><space extent="1" unit="words"/><item>Bottom of descent of ditto ------<!-- horizontal line of about 6 characters AM --> <space extent="9" unit="chars"/><hi rend="gray">(2097)</hi> <space extent="4" unit="chars"/><w>20<gap extent="1" unit="chars" agent="illegible"/></w></item>
 
-<lb/><item><space extent="6" unit="chars"/>Bottom of Eastern ascent <seg rend="right"><hi rend="gray">(<hi rend="underline">3680</hi>)</hi></seg><seg rend="right"><w>20<gap extent="1" unit="chars" agent="illegible"/></w></seg></item>
+<lb/><space extent="1" unit="words"/><item>Bottom of Eastern ascent <space extent="15" unit="chars"/><hi rend="gray">(<hi rend="underline">3680</hi>)</hi> <space extent="4" unit="chars"/><w>20<gap extent="1" unit="chars" agent="illegible"/></w></item>
 
-<lb/><item><space extent="6" unit="chars"/>Top of ditto --------------------<!-- horizontal line of about 20 characters AM --><seg rend="right"><hi rend="gray">(5278)</hi></seg><seg rend="right"><w>20<gap extent="1" unit="chars" agent="illegible"/></w></seg></item>
+<lb/><space extent="1" unit="words"/><item>Top of ditto --------------------<!-- horizontal line of about 20 characters AM --> <space extent="14" unit="chars"/><hi rend="gray">(5278)</hi><space extent="4" unit="chars"/><w>20<gap extent="1" unit="chars" agent="illegible"/></w></item>
 
-<lb/><item><space extent="6" unit="chars"/><placeName>Dilolo</placeName> ----------------------<!-- horizontal line of about 22 characters AM --><seg rend="right"><hi rend="gray">(4741)</hi></seg><seg rend="right"><w>20<gap extent="1" unit="chars" agent="illegible"/></w></seg></item>
+<lb/><space extent="1" unit="words"/><item><placeName>Dilolo</placeName> ----------------------<!-- horizontal line of about 22 characters AM --> <space extent="18" unit="chars"/><hi rend="gray">(4741)</hi> <space extent="4" unit="chars"/><w>20<gap extent="1" unit="chars" agent="illegible"/></w></item>
 
-<lb/><item><space extent="6" unit="chars"/>Confluence of <placeName><geogName type="river">Leeba</geogName></placeName> &amp; <placeName><geogName type="river">Leeambye</geogName></placeName> ------<!-- horizontal line of about 6 characters AM --><seg rend="right"><hi rend="gray">(4741)</hi></seg><seg rend="right"><w>20<gap extent="1" unit="chars" agent="illegible"/></w></seg></item>
+<lb/><space extent="1" unit="words"/><item>Confluence of <placeName><geogName type="river">Leeba</geogName></placeName> &amp; <placeName><geogName type="river">Leeambye</geogName></placeName> ------<!-- horizontal line of about 6 characters AM --> <space extent="3" unit="chars"/><hi rend="gray">(4741)</hi> <space extent="3" unit="chars"/><w>20<gap extent="1" unit="chars" agent="illegible"/></w></item>
 
-<lb/><item><space extent="6" unit="chars"/>Average of many <choice><abbr>obs<hi rend="sup">ns</hi></abbr><expan>observations</expan></choice> at <placeName><settlement type="village">Linyanti</settlement></placeName> <seg rend="right"><hi rend="gray">(<subst><del>3839<hi rend="sup">3571</hi></del><add place="below"><hi rend="underline">4051</hi></add></subst>)</hi></seg><seg rend="right"><w>20<gap extent="1" unit="chars" agent="illegible"/></w></seg></item>
+<lb/><space extent="1" unit="words"/><item>Average of many <choice><abbr>obs<hi rend="sup">ns</hi></abbr><expan>observations</expan></choice> at <placeName><settlement type="village">Linyanti</settlement></placeName> <space extent="0" unit="chars"/><hi rend="gray">(<subst><del>3839<hi rend="sup">3571</hi></del><add place="below"><hi rend="underline">4051</hi></add></subst>)</hi> <space extent="3" unit="chars"/><w>20<gap extent="1" unit="chars" agent="illegible"/></w></item>
 
-<lb/><item><note>Quoted from <lb/>memory <lb/><hi rend="underline">doubtful</hi></note><metamark/><!-- start of curly bracket linking the next 2 lines AM --><placeName><geogName type="lake">Lake Ngami</geogName></placeName> ------<!-- horizontal line of about 6 characters AM --><seg rend="right"><hi rend="gray">(2624)</hi></seg><seg rend="right">- 207°</seg><space extent="3" unit="chars"/><seg rend="right"><hi rend="gray">(?)<add place="below">3151</add></hi></seg><seg rend="right"><w>20<gap extent="1" unit="chars" agent="illegible"/></w></seg></item>
+<lb/><space extent="1" unit="words"/><item><note rend="small">Quoted from</note><metamark/><!-- start of curly bracket linking the next 2 lines AM --><space extent="2" unit="chars"/><placeName><geogName type="lake">Lake Ngami</geogName></placeName> ------<!-- horizontal line of about 6 characters AM --> <space extent="0" unit="chars"/><hi rend="gray">(2624)</hi> -207°<space extent="0" unit="chars"/><hi rend="gray">(?)<add place="below">3151</add></hi> <space extent="1" unit="chars"/><w>20<gap extent="1" unit="chars" agent="illegible"/></w></item>
 
-<lb/><item><space extent="6" unit="chars"/><!-- continuation of curly bracket starting on previous line AM --><placeName><settlement type="village">Kolobeng</settlement></placeName> --------<!-- horizontal line of about 8 characters AM --><seg rend="right"><hi rend="gray">(3945)</hi></seg><seg rend="right">204<choice><orig>½</orig><reg>1/2</reg></choice></seg><space extent="2" unit="chars"/><seg rend="right"><hi rend="gray">(?)<add place="below">3680</add></hi></seg><seg rend="right"><w>20<gap extent="1" unit="chars" agent="illegible"/></w></seg></item></list>
+<lb/><space extent="1" unit="words"/><item><note rend="small">memory</note><!-- continuation of curly bracket starting on previous line AM --><space extent="6" unit="chars"/><placeName><settlement type="village">Kolobeng</settlement></placeName> --------<!-- horizontal line of about 8 characters AM --> <space extent="0" unit="chars"/><hi rend="gray">(3945)</hi> 204<choice><orig>½</orig><reg>1/2</reg></choice><space extent="1" unit="chars"/><hi rend="gray">(?)<add place="below">3680</add></hi> <space extent="1" unit="chars"/><w>20<gap extent="1" unit="chars" agent="illegible"/></w></item>
+
+<lb/><space extent="1" unit="words"/><item><note rend="small"><hi rend="underline">doubtful</hi></note></item></list>
 
 <lb/><p>If you do not reject my instrument in <w>tota<supplied>l</supplied></w>
 <lb/>the ascent of <placeName>Tala Mungongo</placeName> which to the eye
@@ -457,7 +454,6 @@
 <lb/>forms a sort of partition in the valley which
 <lb/>exists between this the <placeName><region>Western</region></placeName> and a similar
 <lb/>ridge which we have found <measure>about 10° Eastward</measure>
-
 
 	<pb facs="liv_000877_0009" n="0009"/>
 <lb/><fw n="heading_3"><hi rend="underline"><choice><abbr>3<hi rend="sup">d</hi></abbr><expan>third</expan></choice> sheet</hi></fw>
@@ -492,29 +488,28 @@
 <lb/>or South. I give the observations on the <placeName><region>Eastern ridge</region></placeName>
 <lb/>here</p>
 
-<lb/><list><item>Bed of the <placeName><geogName type="rivulet">Lekoné</geogName></placeName> near the falls - Brisk Ebullition <seg rend="right"><add place="above" rend="gray">(3945)</add></seg><seg rend="right">204°<choice><orig>½</orig><reg>1/2</reg></choice></seg></item>
+<lb/><list><item>Bed of the <placeName><geogName type="rivulet">Lekoné</geogName></placeName> near the falls - Brisk Ebullition <space extent="1" unit="chars"/><add place="above" rend="gray">(3945)</add> 204°<choice><orig>½</orig><reg>1/2</reg></choice></item>
 
-<lb/><item><placeName><settlement type="village"><persName>Marimba</persName>'s</settlement></placeName> after leaving <placeName><geogName type="rivulet">Lekoné</geogName></placeName> ------ <seg rend="right"><hi rend="gray">4608</hi></seg><seg rend="right">203<choice><orig>¼</orig><reg>1/4</reg></choice></seg></item>
+<lb/><item><placeName><settlement type="village"><persName>Marimba</persName>'s</settlement></placeName> after leaving <placeName><geogName type="rivulet">Lekoné</geogName></placeName> ------ <space extent="14" unit="chars"/><hi rend="gray">4608</hi> 203<choice><orig>¼</orig><reg>1/4</reg></choice></item>
 
-<lb/><item>Near source of <placeName><geogName type="river">Unguesi</geogName></placeName> ------------<!-- horizontal line about 12 characters--><seg rend="right"><hi rend="gray">5009</hi></seg><seg rend="right">202<choice><orig>½</orig><reg>1/2</reg></choice></seg></item>
+<lb/><item>Near source of <placeName><geogName type="river">Unguesi</geogName></placeName> ------------<!-- horizontal line about 12 characters--><space extent="18" unit="chars"/><hi rend="gray">5009</hi> 202<choice><orig>½</orig><reg>1/2</reg></choice></item>
 
-<lb/><item>Banks of the <placeName><geogName type="river">Kalomo</geogName></placeName> - (top of ridge) <seg rend="right"><hi rend="gray">5278</hi></seg><seg rend="right">202°</seg></item>
+<lb/><item>Banks of the <placeName><geogName type="river">Kalomo</geogName></placeName> - (top of ridge) <space extent="15" unit="chars"/><hi rend="gray">5278</hi> 202°</item>
 
-<lb/><item><placeName>Naka Ahanto</placeName> on Eastern descent from Ridge <seg rend="right"><hi rend="gray">(4210)</hi></seg><seg rend="right">204°</seg></item>
+<lb/><item><placeName>Naka Ahanto</placeName> on Eastern descent from Ridge <space extent="5" unit="chars"/><hi rend="gray">(4210)</hi> 204°</item>
 
-<lb/><item>Banks of the <placeName><geogName type="river">Kafué</geogName></placeName> or <placeName><geogName type="river">Bashukulompo <choice><abbr>R.</abbr><expan>River</expan></choice></geogName></placeName> <seg rend="right"><hi rend="gray">(3415)</hi></seg><seg rend="right">205<choice><orig>½</orig><reg>1/2</reg></choice></seg></item>
+<lb/><item>Banks of the <placeName><geogName type="river">Kafué</geogName></placeName> or <placeName><geogName type="river">Bashukulompo <choice><abbr>R.</abbr><expan>River</expan></choice></geogName></placeName> <space extent="10" unit="chars"/><hi rend="gray">(3415)</hi> 205<choice><orig>½</orig><reg>1/2</reg></choice></item>
 
-<lb/><item>Top of the hills at <placeName><persName>Semalembue</persName>'s</placeName> <seg rend="right"><hi rend="gray">(4078)</hi></seg><seg rend="right">204<choice><orig>¼</orig><reg>1/4</reg></choice></seg></item>
+<lb/><item>Top of the hills at <placeName><persName>Semalembue</persName>'s</placeName> <space extent="17" unit="chars"/><hi rend="gray">(4078)</hi> 204<choice><orig>¼</orig><reg>1/4</reg></choice></item>
 
-<lb/><item>Bottom of <choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice> <seg rend="right"><hi rend="gray">(3288)</hi></seg><seg rend="right">205<choice><orig>¾</orig><reg>3/4</reg></choice></seg></item>
+<lb/><item>Bottom of <choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice> <space extent="37" unit="chars"/><hi rend="gray">(3288)</hi> 205<choice><orig>¾</orig><reg>3/4</reg></choice></item>
 
-<lb/><item>Banks of <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> near <choice><abbr>conf<hi rend="sup underline">ce</hi></abbr><expan>confluence</expan></choice> of <placeName><geogName type="river">Kafué</geogName></placeName> <seg rend="right"><hi rend="gray">(1571)</hi></seg><seg rend="right">209°</seg></item>
+<lb/><item>Banks of <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> near <choice><abbr>conf<hi rend="sup underline">ce</hi></abbr><expan>confluence</expan></choice> of <placeName><geogName type="river">Kafué</geogName></placeName> <space extent="11" unit="chars"/><hi rend="gray">(1571)</hi> 209°</item>
 
-<lb/><item>----- <space extent="4" unit="chars"/>------- <space extent="5" unit="chars"/><!-- horizontal lines indicating repetition of "Banks of Zambesi" from previous line AM --> at <space extent="3" unit="chars"/>--- <space extent="3" unit="chars"/><!-- horizontal lines indicating repetition of "confluence"  from previous line AM --> of <placeName><geogName type="river"><choice><orig><orig>Loangwa</orig><reg>Loangua</reg></orig><reg>Luangwa</reg></choice></geogName></placeName> <seg rend="right"><hi rend="gray">(1440)</hi></seg><seg rend="right">209<choice><orig>¼</orig><reg>1/4</reg></choice></seg></item></list>
-
+<lb/><item>----- <space extent="4" unit="chars"/>------- <space extent="5" unit="chars"/><!-- horizontal lines indicating repetition of "Banks of Zambesi" from previous line AM --> at <space extent="3" unit="chars"/>--- <space extent="2" unit="chars"/><!-- horizontal lines indicating repetition of "confluence"  from previous line AM --> of <placeName><geogName type="river"><choice><orig><orig>Loangwa</orig><reg>Loangua</reg></orig><reg>Luangwa</reg></choice></geogName></placeName> <space extent="8" unit="chars"/><hi rend="gray">(1440)</hi> 209<choice><orig>¼</orig><reg>1/4</reg></choice></item></list>
 
 	<pb facs="liv_000877_0010" n="0010"/>
-<lb/><p>Here it may be remarked that the <placeName><geogName type="rivulet">Lekoné</geogName></placeName> flows in the
+<lb/><p rend="no-indent">Here it may be remarked that the <placeName><geogName type="rivulet">Lekoné</geogName></placeName> flows in the
 <lb/>contrary direction to the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> or <placeName><geogName type="river"><choice><orig>Leeamby</orig><reg>Leeambye</reg></choice></geogName></placeName> and so <w>d<supplied>oes</supplied></w>
 <lb/>the <placeName><geogName type="river">Unguesi</geogName></placeName> which indeed joins that river above
 <lb/>the commencement of the rapids at which we left
@@ -642,10 +637,9 @@
 <lb/><p>Reached <placeName><settlement type="town"><choice><orig>Tette</orig><reg>Tete</reg></choice></settlement></placeName> <date when="1856-03-02">2<hi rend="sup">d</hi> March</date> pretty well tired from
 <lb/>marching through a rough stoney country without path
 <lb/><term type="people">Portuguese</term> very very kind, thanks to <persName>M<hi rend="sup">r</hi> Duprat</persName> -</p>
-<closer>
-<lb/><salute>Kind remembrance to <persName>M<hi rend="sup underline">rs</hi> <choice><abbr>M.</abbr><expan>Maclear</expan></choice></persName> &amp; family, Mann Morton &amp;c</salute>
-<lb/><signed><persName>David <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></signed>
-</closer>
+<lb/><p rend="no-indent">Kind remembrance to <persName>M<hi rend="sup underline">rs</hi> <choice><abbr>M.</abbr><expan>Maclear</expan></choice></persName> &amp; family, Mann Morton &amp;c</p>
+<lb/><p rend="no-indent"><space extent="8" unit="words"/><persName>David <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></p>
+
 
 
             </div>
