@@ -86,14 +86,13 @@
 <!-- Portuguese tagged as orgName througout. Changed to term type="nationality" or "people." MB--><!-- OK. AW -->
 <!-- Check encoding of Cape throughout. MB --><!-- OK. AW -->
 <!-- Is town a settlement type? If so, check Cape Town and Naliele MB--><!-- OK. AW -->
-<lb/><dateline><hi rend="underline"><persName><choice><abbr>Ed<hi rend="sup">m</hi></abbr><expan>Edmund</expan></choice> Gabriel Esqui<hi rend="sup underline">re</hi></persName></hi> <add place="margintop" rend="gray" hand="#U">4</add> <placeName><settlement type="village">Town of <persName>Sekeletu</persName></settlement></placeName>, on 
-<lb/>the <placeName><geogName type="river">River Chobe</geogName></placeName> 
-<lb/><date when="1855-09-12">12<hi rend="sup underline">th</hi> <choice><abbr>Sep<hi rend="sup underline">r</hi></abbr><expan>September</expan></choice> 1855</date></dateline>
-<lb/>    
+<lb/><dateline><space extent="4" unit="words"/><space extent="2" unit="chars"/><add place="inspace" rend="gray" hand="#U"><metamark/>4</add> <space extent="1" unit="words"/> <placeName><settlement type="village">Town of <persName>Sekeletu</persName></settlement></placeName>, on 
+<lb/><space extent="2" unit="chars"/><hi rend="underline"><persName><choice><abbr>Ed<hi rend="sup">m</hi></abbr><expan>Edmund</expan></choice> Gabriel Esqui<hi rend="sup underline">re</hi></persName></hi> <space extent="3" unit="chars"/>the <placeName><geogName type="river">River Chobe</geogName></placeName> 
+<lb/><space extent="2" unit="chars"/><space extent="6" unit="words"/><date when="1855-09-12">12<hi rend="sup underline">th</hi> <choice><abbr>Sep<hi rend="sup underline">r</hi></abbr><expan>September</expan></choice> 1855</date></dateline>
 <lb/><salute>My Dear Friend</salute><!-- Change line info as appropriate -->
-<lb/><p rend="center">A <orgName>Moor</orgName> of <placeName><geogName type="island">Zanzibar</geogName></placeName> called <persName>Rya 
+<lb/><p rend="no-indent"><space extent="4" unit="words"/>A <orgName>Moor</orgName> of <placeName><geogName type="island">Zanzibar</geogName></placeName> called <persName>Rya 
 <lb/><choice><orig>Syde ben</orig><reg>Said bin</reg></choice> Habib</persName> and a <term type="nationality">Portuguese</term> subject of 
-<lb/><placeName><settlement type="village">Bihé</settlement></placeName> leave this <date when="1855-09-13">tomorrow</date> for <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement>, and
+<lb/><placeName><settlement type="village">Bihé</settlement></placeName> leave this <date when="1855-09-13">tomorrow</date> for <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>, and
 <lb/>I am glad of the opportunity to send a few
 <lb/>lines to inform you of our progress and
 <lb/>welfare. We reached the <placeName><term type="tribe"><choice><orig>Barotse</orig><reg>Lozi</reg></choice></term> country</placeName> about
@@ -104,7 +103,7 @@
 <lb/>by the tribe called <term type="tribe"><choice><orig><choice><orig>Matibele</orig><reg>Matebele</reg></choice></orig><reg>Ndebele</reg></choice></term> - the mortal
 <lb/>enemies of <orgName><persName>Sekeletu</persName>'s people</orgName> and as the <!-- orgName for Sekeletu's people? MB --><!-- OK. AW -->
 <lb/>latter refused to go near them, they were
-<lb/>left on a rock in the </placeName><unclear>Leeamby</unclear>. After due
+<lb/>left on a rock in the <placeName><geogName type="river">Leeamby</geogName></placeName>. After due
 <lb/>deliberation and divination my goods were
 <lb/>taken to an island and a hut built over
 <lb/>them. <space extent="1" unit="chars"/>I waited at <placeName><settlement type="village">Lesheke</settlement></placeName> for them and
@@ -119,8 +118,8 @@
 
 	<cb rend="vertical"/>
 	<ab>
-<persName>M<hi rend="sup">r</hi> Moffat</persName> sent them while on a visit to their <term type="occupation">chief</term> who
-<lb/>lives south of <placeName><unclear cert="low"><choice><orig>Mosioatingu</orig><reg>Mosioatunya</reg></choice></unclear></placeName> <!-- perhaps this is the Mosioatunya? MB --><!-- Yes. AW -->(your last packet did not <add place="below">come)</add>
+<lb/><persName>M<hi rend="sup">r</hi> Moffat</persName> sent them while on a visit to their <term type="occupation">chief</term> who
+<lb/>lives south of <placeName><choice><orig>Mosioatungu</orig><reg>Mosioatunya</reg></choice></placeName> <!-- perhaps this is the Mosioatunya? MB --><!-- Yes. AW -->(your last packet did not <add place="below">come)</add>
 	</ab>
 
 	<pb facs="liv_000862_0002" n="0002"/>
@@ -158,7 +157,7 @@
 	<ab>
 <lb/>I go down the river<placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> at the beg<hi rend="underline">inning</hi>
 <lb/>of next month - October - I am your most affectionate
-<lb rend="right"/>friend <persName>David Livingstone</persName> <!-- Not sure how to correct the <Closer> error here -EM --><!-- We can't use closer, so removed. AW -->
+<lb/><space extent="7" unit="words"/>friend <persName>David Livingstone</persName> <!-- Not sure how to correct the <Closer> error here -EM --><!-- We can't use closer, so removed. AW -->
 	</ab>
 
 	<pb facs="liv_000862_0003" n="0003"/>
@@ -222,12 +221,12 @@
 
 	<cb rend="vertical"/>
 	<ab>
-<lb/>Look at the enclosures I have not time
+<lb/><space extent="3" unit="chars"/>Look at the enclosures I have not time
 <lb/>to write more the man <persName>Rya <choice><orig>Syde</orig><reg>Said</reg></choice></persName> goes off <date when="1855-09-13">tomorrow</date> <add place="below">morning</add>
 	</ab>
 
 	<pb facs="liv_000862_0005" n="0005"/>
-<lb/><p>I enclose too a slip containing information
+<lb/><p rend="no-indent">I enclose too a slip containing information
 <lb/>about the <term type="foodstuff">vegetable wax</term><!-- plant matter? foodstuff? MB--><!-- Fixed. AW --> at the <placeName><region>Cape</region></placeName> <!-- region? MB --><!-- OK. AW -->- It
 <lb/>has been investigated by the <orgName><placeName><settlement type="town">Cape Town</settlement></placeName>
 <lb/><choice><sic>agricultural</sic><corr>Agricultural</corr></choice> <choice><sic>society</sic><corr>Society</corr></choice></orgName> and you will see
@@ -264,7 +263,7 @@
 	</ab>
 
 	<pb facs="liv_000862_0006" n="0006"/>
-<lb/><p>any <term type="nationality">Portuguese</term> ship of war coming round
+<lb/><p rend="no-indent">any <term type="nationality">Portuguese</term> ship of war coming round
 <lb/>to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> from <placeName><country><choice><sic>Mosambique</sic><corr>Mozambique</corr></choice></country></placeName> would
 <lb/>touch at the <placeName><region><choice><orig>cape</orig><reg>Cape</reg></choice></region></placeName> <persName>M<hi rend="sup">r</hi> Duprat</persName> would
 <lb/>I believe gladly send a bushel or two
@@ -326,7 +325,7 @@
 <lb/>going there</p>
 
 	<pb facs="liv_000862_0008" n="0008"/>
-<lb/><p>the <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> (<orgName><persName>Sekeletu</persName>'s people</orgName>) are
+<lb/><p rend="no-indent">The <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> (<orgName><persName>Sekeletu</persName>'s people</orgName>) are
 <lb/>really delighted with the prospect of returning
 <lb/>they want words to express their thanks
 <lb/>for the prospective benefit of trade to the
@@ -354,7 +353,7 @@
 
 	<cb rend="vertical"/>
 	<ab>
-<lb/>You will find <persName>Rya <choice><orig>Syde Ben</orig><reg>Said bin</reg></choice> Habib</persName> intelligent
+<lb/><space extent="1" unit="words"/>You will find <persName>Rya <choice><orig>Syde Ben</orig><reg>Said bin</reg></choice> Habib</persName> intelligent
 <lb/>He is in connection with <persName>Carvalho Bastos</persName> -<!-- I'm unsure about this name too. MB --><!-- Fixed. AW -->
 	</ab>
 
