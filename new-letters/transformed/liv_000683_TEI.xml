@@ -108,9 +108,10 @@
 
 <!-- If this is a letter or similar with an opener (with content such as dateline and/or salute) add it. For example: -->          	
 <opener>
-<lb/><dateline rend="right"><placeName><settlement type="village">Kolobeng</settlement></placeName> <date when="1849-10-15">15 October 1849<!-- Change line info as appropriate --><!-- Begin each line with <lb/> as here --></date></dateline><add place="margintop" rend="right gray small" hand="#U1">MS 8/3</add><!-- Change line info as appropriate -->
+<lb/><space extent="10" unit="words"/><add place="inspace" rend="gray small" hand="#U1">MS 8/3</add><!-- Change line info as appropriate -->
+<lb/><dateline><space extent="4" unit="words"/><space extent="2" unit="chars"/><placeName><settlement type="village">Kolobeng</settlement></placeName> <date when="1849-10-15">15 October 1849<!-- Change line info as appropriate --><!-- Begin each line with <lb/> as here --></date></dateline>
 <lb/>    
-<lb/><salute>My very dear Friends</salute><!-- Change line info as appropriate -->
+<lb/><space extent="2" unit="chars"/><salute>My very dear Friends</salute><!-- Change line info as appropriate -->
 </opener>
 
 <lb/><p><space extent="4" unit="words"/>I believe I told you in my 
@@ -120,7 +121,8 @@
 <lb/>permitted to return in safety having seen
 <lb/>the Lake and a people speaking a different
 <lb/>language from the <term type="tribe"><choice><orig>Bechuana</orig><reg>Batswana</reg></choice></term>- After
-<lb/>travelling <measure>300 miles</measure> we struck the beautiful river <placeName><geogName type="river">Zouga</geogName></placeName> and then by winding along
+<lb/>travelling <measure>300 miles</measure> we struck the beautiful 
+<lb/>river <placeName><geogName type="river">Zouga</geogName></placeName> and then by winding along
 <lb/>its banks about <measure>300 more</measure> to the westward
 <lb/>we came to the <placeName><geogName type="lake">Lake Ngami</geogName></placeName>. The river
 <lb/>is very beautiful indeed - it is subject
@@ -178,40 +180,32 @@
 <lb/>my last that we had another son. <persName>M<hi rend="sup">rs.</hi> <choice><abbr>L.</abbr><expan>Livingstone</expan></choice></persName>
 <lb/>united with me in very kind salutations
 <lb/>to you and your family - May you
-<lb/>enjoy every <unclear cert="medium">needed</unclear> blessing -
-</p>
-
-<!-- If there is a letter or similar with a closer with content such as salute or signed -->
-<closer>
-<lb rend="center"/><salute>affectionately yours</salute><!-- Change as appropriate -->
-<lb rend="right"/><signed><persName><choice><abbr>D</abbr><expan>David</expan></choice> Livingstone</persName></signed><!-- Change as appropriate --> 
-</closer>
+<lb/>enjoy every needed blessing -</p>
+<lb/><p rend="no-indent"><space extent="4" unit="words"/>affectionately yours</p><!-- Change as appropriate -->
+<lb/><p rend="no-indent"><space extent="6" unit="words"/><persName><choice><abbr>D</abbr><expan>David</expan></choice> Livingstone</persName></p><!-- Change as appropriate --> 
 <lb/>
-<postscript>
-<lb/><p>We expect <persName>M<hi rend="sup">r</hi> Freeman</persName> soon</p>
-</postscript>
+<lb/><p rend="no-indent"><space extent="2" unit="chars"/>We expect <persName>M<hi rend="sup">r</hi> Freeman</persName> soon</p>
 
-    </div>
-	<div><!-- New <div> as the address is really a different entity from the letter proper. AW -->           
- 	
+      
 	<pb facs="liv_000683_0004" n="0004"/>
-<ab><add rend="right gray" hand="#U2"><placeName><geogName type="river">River Za<gap extent="5" unit="chars"/></geogName></placeName></add></ab>
 
-<ab><add place="inspace" rend="right gray" hand="#U3">9<hi rend="sup">00</hi></add></ab>
+<lb/><ab><space extent="5" unit="words"/><add rend="gray" hand="#U2"><placeName><geogName type="river">River Za<gap extent="5" unit="chars"/></geogName></placeName></add></ab>
+	
+	<cb rend="left vertical"/>
+	<ab><address>
+<addrLine><del type="cancelled">Care of <unclear cert="low">Rio W. Blaly's</unclear> <placeName><settlement type="town">Cape Town</settlement></placeName></del></addrLine>
+<lb/>
+<addrLine><space extent="1" unit="words"/><persName>Benjamin Pyne <choice><abbr>Esqe</abbr><expan>Esquire</expan></choice></persName></addrLine>
+<addrLine><space extent="3" unit="words"/><placeName>Wildingtree</placeName></addrLine>
+<addrLine><space extent="5" unit="words"/><space extent="2" unit="chars"/><placeName>Ongar</placeName></addrLine>
+<addrLine><space extent="5" unit="words"/><space extent="2" unit="chars"/><placeName>Essex</placeName></addrLine>
+	</address></ab>
+
+<cb rend="right vertical upside-down"/>
+<lb/><ab>you must excuse this short letter - <choice><abbr>Do</abbr><expan>Ditto</expan></choice></ab>
+	
+<lb/><ab><space extent="7" unit="words"/><add place="inspace" rend="gray" hand="#U3">9<hi rend="sup">00</hi> <space extent="1" unit="words"/><gap extent="1" unit="words"/></add></ab>
 <!-- For the U1 and U2 in the @hands above, Angela, see also the change I've made in the physDesc section of the header. AW -->
-
-<cb rend="right vertical upside-down"/><ab><lb/>you must excuse this short letter - <choice><abbr>Do</abbr><expan>Ditto</expan></choice></ab>
-
-<cb rend="left vertical"/>
-<p rend="no-indent"><!-- I've used <p> here as I'm treating the main function of this page being to provide the address, so <p> is the "normal" thing to contain it and so DL's other text above above gets <ab> and upside-down, as I'm deciding that that's a bit of text of unclear purpose on this page since the page is for the address. Does that make sense? AW -->
-<address>
-<addrLine><del type="cancelled">leave of <unclear cert="low">Rio W. Blaly's</unclear> <placeName><settlement type="town">Cape Town</settlement></placeName></del></addrLine>
-<addrLine>Benjamin Pyne <unclear cert="low">Asepil</unclear></addrLine>
-<addrLine>Wildingtree</addrLine>
-<addrLine>Ongas</addrLine>
-<addrLine>Essex</addrLine>
-</address>
-</p>
 
 <!-- Several postmarks are scattered on this page, including a large circled 57 in brown ink, an orange postmark that seems to include the year 1850, a black postmark possibly marked Ja 31 1850, two green postmarks with incomplete lettering, and a circular red mark. -AA  -->
 <!--Since this is our first time trying to describe the markings on a page, anyone should feel free to revise the way I did this. You may even be able to read it better than I can. -AA --><!-- We could use one general <figure><figDesc> for postmarks. AW -->
