@@ -195,10 +195,10 @@
 <p rend="no-indent">
 <address>
 <addrLine rend="center"><del type="strikethrough">Care of <persName>Rev<hi rend="sup underline">d</hi> D<hi rend="sup underline">r</hi> Philip</persName> <placeName><settlement type="town">Cape Town</settlement></placeName></del></addrLine>
-<addrLine rend="center"/><addrLine><persName>Henry Denny <choice><abbr>Esq<hi rend="underline">u</hi></abbr><expan>Esquire</expan></choice></persName> <choice><abbr>A.L.S.</abbr><expan cert="medium">Associate of the Linnean Society</expan></choice></addrLine><!--Not sure what this abbreviation means. -Also, based on the previous test letter, I assume we don't format people and place names in addresses. AA --><!-- Whoops, no that's not correct. We do! I've fixed. AW --><!-- Also addrLine or lb, not both. I've fixed. AW --><!-- I think that ALS is Associate of the Linnean Society, so have thus coded. Thanks OED! AW -->
-<addrLine rend="center"/><addrLine><placeName>Philosophical Hall</placeName></addrLine>
-<addrLine rend="center"/><addrLine><placeName><settlement type="city">Leeds</settlement></placeName>.</addrLine>
-<addrLine rend="right"/><addrLine><hi rend="underline"><placeName><region>Yorkshire</region></placeName></hi></addrLine>
+<addrLine><persName>Henry Denny <choice><abbr>Esq<hi rend="underline">u</hi></abbr><expan>Esquire</expan></choice></persName> <choice><abbr>A.L.S.</abbr><expan cert="medium">Associate of the Linnean Society</expan></choice></addrLine><!--Not sure what this abbreviation means. -Also, based on the previous test letter, I assume we don't format people and place names in addresses. AA --><!-- Whoops, no that's not correct. We do! I've fixed. AW --><!-- Also addrLine or lb, not both. I've fixed. AW --><!-- I think that ALS is Associate of the Linnean Society, so have thus coded. Thanks OED! AW -->
+<addrLine><placeName>Philosophical Hall</placeName></addrLine>
+<addrLine><placeName><settlement type="city">Leeds</settlement></placeName>.</addrLine>
+<addrLine><hi rend="underline"><placeName><region>Yorkshire</region></placeName></hi></addrLine>
 </address><!-- Anglea, Jared, please review how I've done the address. AW -->
 </p>
 <!-- Several postmarks are scattered on this page, including a large circled 57 in brown ink, an orange postmark that includes 2 JY 2 1850, a black postmark for the General Post Office Cape Town, a blue postmark for Leeds JY 2 1850, and a red scribble. -AA  -->

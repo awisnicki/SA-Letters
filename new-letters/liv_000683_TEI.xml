@@ -206,10 +206,10 @@
 <p rend="no-indent"><!-- I've used <p> here as I'm treating the main function of this page being to provide the address, so <p> is the "normal" thing to contain it and so DL's other text above above gets <ab> and upside-down, as I'm deciding that that's a bit of text of unclear purpose on this page since the page is for the address. Does that make sense? AW -->
 <address>
 <addrLine><del type="cancelled">leave of <unclear cert="low">Rio W. Blaly's</unclear> <placeName><settlement type="town">Cape Town</settlement></placeName></del></addrLine>
-<addrLine rend="center"/><addrLine>Benjamin Pyne <unclear cert="low">Asepil</unclear></addrLine>
-<addrLine rend="center"/><addrLine>Wildingtree</addrLine>
-<addrLine rend="right"/><addrLine>Ongas</addrLine>
-<addrLine rend="right"/><addrLine>Essex</addrLine>
+<addrLine>Benjamin Pyne <unclear cert="low">Asepil</unclear></addrLine>
+<addrLine>Wildingtree</addrLine>
+<addrLine>Ongas</addrLine>
+<addrLine>Essex</addrLine>
 </address>
 </p>
 
