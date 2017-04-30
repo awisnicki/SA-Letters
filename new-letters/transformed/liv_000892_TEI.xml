@@ -90,14 +90,16 @@
                
 	<pb facs="liv_000892_0001" n="0001"/>
     <opener>
-<lb/><dateline rend="right"><placeName><settlement type="town">Tete</settlement></placeName>, on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
-<lb rend="right"/><placeName><region>East <bloc>Africa</bloc></region></placeName>
-<lb rend="right"/>His Excellency <persName>Jose R. <choice><abbr>C.</abbr><expan>Coelho</expan></choice> do Amaral</persName>, <date when="1856-03-25"/>25<hi rend="sup underline">th</hi> March 1856</dateline>
-<lb rend="right"/>The <term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> and its Dependencies
-<lb rend="right"/><salute>May it please your excellency</salute>
+<lb/><space extent="9" unit="words"/><add place="inspace" rend="gray small" hand="#U">MS 22</add>
+<lb/><space extent="6" unit="words"/><dateline><placeName><settlement type="town">Tete</settlement></placeName>, on the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
+<lb/><space extent="6" unit="words"/><space extent="1" unit="chars"/><placeName><region>East <bloc>Africa</bloc></region></placeName>
+<lb/><space extent="6" unit="words"/><space extent="3" unit="chars"/><date when="1856-03-25"/>25<hi rend="sup underline">th</hi> March 1856</dateline>
+<lb/>His Excellency <persName>Jose R. <choice><abbr>C.</abbr><expan>Coelho</expan></choice> do Amaral</persName>, 
+<lb/><space extent="1" unit="words"/>The <term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName> and its Dependencies
+<lb/><space extent="2" unit="words"/><salute>May it please your excellency</salute>
     </opener>
                 
-<lb rend="right"/><p>I was entrusted
+<lb/><p rend="no-indent"><space extent="6" unit="words"/>As I was entrusted
 <lb/>with certain presents and a letter from the
 <lb/><orgName>Government of <placeName><country>Angola</country></placeName></orgName> for <persName>Sekeletu</persName> the
 <lb/><term type="occupation">chief</term> of the people called <term type="tribe"><choice><orig>Makololo</orig><reg>Kololo</reg></choice></term> living on the
@@ -183,8 +185,8 @@
 <lb/>between the interior and the coast.</p>
 <lb/><p>In coming Eastwards lately I found
 <lb/>the navigation of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> obstructed
-<lb/>by a large <unclear cert="medium">rent</unclear> from bank to
-<lb/>bank of the rocky bottom. This <unclear cert="medium">rent</unclear>
+<lb/>by a large rent from bank to
+<lb/>bank of the rocky bottom. This rent
 <lb/>is <measure>one hundred feet down</measure> and its
 <lb/>lips are from <measure>60 to 80 feet apart</measure>. It is
 <lb/>made first from bank to bank 
@@ -205,11 +207,12 @@
 <lb/>and the sound heard, <measure>ten or twelve
 <lb/>miles off</measure>.</p> <!-- tweet -JM--><!-- Livingstone's description of Victoria Falls evokes the local name: Mosi oa Tunya, the Smoke that Thunders. JM -->
 <lb/><p>It is evident that this remarkable
-<lb/><unclear cert="medium">rent</unclear> must always have been a barrier
+<lb/>rent must always have been a barrier
 <lb/>to canoe navigation up the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
     
     <pb facs="liv_000892_0005" n="0005"/>
-<lb/>But something else <add place="above margintop" hand="#U">5</add> must have prevented <add place="above margintop" hand="#U">ms 22</add>
+<lb/><space extent="4" unit="words"/><add place="inspace" rend="gray small" hand="#U">5</add><space extent="5" unit="words"/><add place="inspace" rend="gray small" hand="#U">MS 22</add>
+<lb/>But something else must have prevented
 <lb/><orgName>European</orgName> commerce from entering the
 <lb/>great valley in which <persName>Sekeletu</persName> lives. 
 <lb/>The settlement of <unclear cert="medium"><placeName><settlement type="village">Zumbo</settlement></placeName></unclear> is not far
@@ -249,10 +252,6 @@
 <lb/>Western and Eastern possessions
 <lb/>of the <term type="people">Portuguese</term><!-- Or OrgName? EM--><!-- OK as is. AW -->. This has I understand
 <lb/>been the wish of different <term type="occupation">governor</term>s <hi rend="large">*</hi> <!-- There is a star symbol drawn in the right-hand margin here that directs the reader to the vertical note in the left-hand margin of the page JM -->
-
-<add place="marginleft" rend="vertical"><note><!-- The corresponding star symbol is found in the bottom left-hand corner of the page and designates the beginning of the vertical note mentioned above. JM --><hi rend="large">*</hi> <space extent="2" unit="chars"/>The want of such a path may now not be so apparent as in former
-<lb/>times when there was no communication by the <placeName><geogName type="sea">Red Sea</geogName></placeName> and <placeName><country>Egypt</country></placeName></note></add>
-
 <lb/>and if it still appears desirable I may
 <lb/>suggest the way from <placeName><settlement type="village">Pungo Andongo</settlement></placeName>
 <lb/>to <placeName><settlement type="village">Bihe</settlement></placeName>. From <placeName><settlement type="village">Bihe</settlement></placeName> to the nearest
@@ -268,9 +267,14 @@
 <lb/>communication with <placeName><settlement type="town">Tete</settlement></placeName>, this
 <lb/>would complete the only difficult
 <lb/>part of the continent. It is only
+
+<cb rend="vertical"/>
+<lb/><add><!-- The corresponding star symbol is found in the bottom left-hand corner of the page and designates the beginning of the vertical note mentioned above. JM --><hi rend="large">*</hi> <space extent="1" unit="chars"/>The want of such a path may now not be so apparent as in former
+<lb/>times when there was no communication by the <placeName><geogName type="sea">Red Sea</geogName></placeName> and <placeName><country>Egypt</country></placeName></add>
     
     <pb facs="liv_000892_0007" n="0007"/>
-<lb/>a suggestion at present.<add place="above margintop" hand="#U">7</add> And I mention <add place="above margintop" hand="#U">ms 22</add>
+<lb/><space extent="4" unit="words"/><add place="inspace" rend="gray small" hand="#U">7</add><space extent="4" unit="words"/><add place="inspace" rend="gray small" hand="#U">MS 22</add>
+<lb/>a suggestion at present. And I mention
 <lb/><placeName><settlement type="village">Pungo Andongo</settlement></placeName> and <placeName><settlement type="village">Bihe</settlement></placeName> because of
 <lb/>the well known public spirit of <persName><choice><abbr>S<hi rend="underline">t</hi></abbr><expan>Saint</expan></choice>
 <lb/>Pires</persName> who has trade relations with all that
@@ -295,36 +299,32 @@
 <lb/>some how or other, I had imbibed a
 <lb/>sort of prejudice against the <term type="people">Portuguese</term>
 <lb/>probably on account of some few
-<lb/>sticking most <unclear cert="high">pertinaceously</unclear> to the <orgName>slave trade</orgName>. But the uniform kind
+<lb/>sticking most pertinaceously to the 
+<lb/><orgName>slave trade</orgName>. But the uniform kind
     
     <pb facs="liv_000892_0008" n="0008"/>
 <lb/>treatment and politeness completely removed
 <lb/>all prejudice and now when I make
 <lb/>use of expressions of gratitude they are
-<lb/>really those of the heart.</p><space extent="5" unit="chars"/> <closer> <salute>Believe me 
-<lb rend="right"/>Your Excellency's most 
-<lb rend="right"/>obedient servant</salute>
-<lb/><signed><persName>David <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></signed></closer>
-            </div>
+<lb/>really those of the heart <space extent="4" unit="chars"/>Believe me 
+<lb/><space extent="3" unit="words"/><space extent="1" unit="chars"/>Your Excellency's most 
+<lb/><space extent="4" unit="words"/><space extent="3" unit="chars"/>obedient servant
+<lb/><space extent="5" unit="words"/><space extent="4" unit="chars"/><persName>David <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></p>
 
-			<div>
     <cb rend="vertical"/>
     <ab>
     <address>
-<addrLine>To His Excellency <persName>Jose R. <choice><abbr>C.</abbr><expan>Coelho</expan></choice> do Amaral</persName></addrLine>
-<addrLine>the <term type="occupation">Governor General</term></addrLine>
-<addrLine>of <placeName><country>Angola</country></placeName> &amp;c. &amp;c. &amp;c.</addrLine>
-<addrLine><placeName><region>West Coast</region></placeName></addrLine>
-<addrLine><hi rend="double-underline">of</hi> <placeName><bloc>Africa</bloc></placeName> <seg rend="center"><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></seg></addrLine>
+<addrLine><space extent="2" unit="words"/>To His Excellency <persName>Jose R. <choice><abbr>C.</abbr><expan>Coelho</expan></choice> do Amaral</persName></addrLine>
+<addrLine><space extent="4" unit="words"/>The <term type="occupation">Governor General</term></addrLine>
+<addrLine><placeName><region>West Coast</region></placeName> <space extent="2" unit="words"/>of <placeName><country>Angola</country></placeName> &amp;c. &amp;c. &amp;c.</addrLine>
+<addrLine><hi rend="double-underline">of <placeName><bloc>Africa</bloc></placeName></hi> <space extent="3" unit="words"/><space extent="2" unit="chars"/><hi rend="double-underline"><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></hi></addrLine>
     </address>
     </ab>
-			</div>
 
-			<div>
 <lb/><p>Reached <placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName> on the <date when="1856-05-20"/>20<hi rend="sup">th</hi> May 1856
 <lb/>and forwarded this letter to the <term type="occupation">Governor General</term>
 <lb/>of <placeName><country><choice><sic>Mosambique</sic><corr>Mozambique</corr></choice></country></placeName> His Excellency <persName>Vasco Guedes
-<lb/>Carvalho e Menezes</persName> on <date when="1856-06-25"/>25<hi rend="sup">th</hi> June. <persName><choice><abbr>D.</abbr><expan>David</expan></choice> <choice><abbr>L.</abbr><expan>Livingstone</expan></choice></persName></p><!-- Postscript. AW -->
+<lb/>Carvalho e Menezes</persName> on <date when="1856-06-25"/>25<hi rend="sup">th</hi> June. <space extent="2" unit="chars"/><persName><choice><abbr>D.</abbr><expan>David</expan></choice> <choice><abbr>L.</abbr><expan>Livingstone</expan></choice></persName></p><!-- Postscript. AW -->
 
             </div>
         </body>
