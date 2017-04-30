@@ -113,12 +113,13 @@
 
 <!-- If this is a letter or similar with an opener (with content such as dateline and/or salute) add it. For example: -->
 <opener>
-<lb/><add place="above" rend="gray diagonal" hand="#U1">5-6-9</add> <dateline rend="right"><placeName><settlement type="village">Mabotsa</settlement></placeName> <date when="1845-04-28">28 April 1845</date> <add place="above" rend="gray" hand="#U1">MS 8/1</add></dateline><!-- Change line info as appropriate --><!-- Begin each line with <lb/> as here --> 
+<lb/><space extent="11" unit="words"/><add place="inspace" rend="gray small" hand="#U1">MS 8/1</add>
+<lb/><add place="inspace" rend="gray small diagonal" hand="#U1">5-6-9</add> <dateline><space extent="6" unit="words"/><space extent="2" unit="chars"/> <placeName><settlement type="village">Mabotsa</settlement></placeName> <date when="1845-04-28">28 April 1845</date></dateline><!-- Change line info as appropriate --><!-- Begin each line with <lb/> as here --> 
 <lb/>    
-<lb/><salute>My Dear Brother in the Lord,</salute><!-- Change line info as appropriate -->
+<lb/><space extent="2" unit="chars"/><salute>My Dear Brother in the Lord</salute><!-- Change line info as appropriate -->
 </opener>
 
-<lb/><p rend="right">Your welcome <bibl>notes</bibl>
+<lb/><p><space extent="6" unit="words"/><space extent="4" unit="chars"/>Your welcome <bibl>notes</bibl>
 <lb/>came safely to hand and like everything from home
 <lb/>partook of the nature of cold water to a thirsty
 <lb/>soul, they were really very good (but shall
@@ -190,21 +191,21 @@
 <lb/>his name O my soul &amp; all that is within me &amp;c.</p>
 <lb/><p>I have recently built a large good house 
 <lb/>though my arm gave me <term type="ailment">pain</term> all the time
-<lb/>We cannot delay here, we have no <gap agent="hole"/>
-<lb/>hands. <subst><del><gap extent="1" unit="words"/></del><add place="over-text">But</add></subst> few <term type="occupation">porters</term> &amp; <add place="below">^</add> <add place="above">we</add> must be p<gap agent="hole"/>
-<lb/>at the head tail &amp; middle of every oper<gap agent="hole"/>
-<lb/>if something goes wrong. We must <gap agent="hole"/> 
-<lb/>from preaching the gospel to mending <gap agent="hole"/>
-<lb/>or giving an <term type="medicament">emetic</term>. But we shall<gap agent="hole"/>
-<lb/><w>ple<gap extent="3" unit="chars"/><supplied cert="medium">nt</supplied>y</w> of time to rest. <space extent="2" unit="chars"/>In that re<gap agent="hole"/>
-<lb/>glorious rest may we meet together.<gap agent="hole"/>
-<lb/>hope for everything though him th<gap agent="hole"/>
-<lb/>us and gave himself for us. that<gap agent="hole"/> 
-<lb/>warms your hearts at home. It re<gap agent="hole"/>
-<lb/>ours here. It never grows old. It<gap agent="hole"/>
-<lb/>find its way into the hearts of the Bakh<gap agent="hole"/>
+<lb/>We cannot delay here, we have no <gap extent="1" unit="words" agent="hole"/>
+<lb/>hands. <subst><del><gap extent="1" unit="words"/></del><add place="over-text">But</add></subst> few <term type="occupation">porters</term> &amp; <add place="below">^</add> <add place="above">we</add> must be p<gap extent="1" unit="words" agent="hole"/>
+<lb/>at the head tail &amp; middle of every oper<gap extent="1" unit="words" agent="hole"/>
+<lb/>if something goes wrong. We must <gap extent="1" unit="words" agent="hole"/> 
+<lb/>from preaching the gospel to mending <gap extent="1" unit="words" agent="hole"/>
+<lb/>or giving an <term type="medicament">emetic</term>. But we shall <gap extent="1" unit="words" agent="hole"/>
+<lb/><w>ple<gap extent="3" unit="chars"/><supplied cert="medium">nt</supplied>y</w> of time to rest. <space extent="2" unit="chars"/>In that re<gap extent="1" unit="words" agent="hole"/>
+<lb/>glorious rest may we meet together. <gap extent="1" unit="words" agent="hole"/>
+<lb/>hope for everything though him th<gap extent="1" unit="words" agent="hole"/>
+<lb/>us and gave himself for us. that <gap extent="1" unit="words" agent="hole"/> 
+<lb/>warms your hearts at home. It re<gap extent="1" unit="words" agent="hole"/>
+<lb/>ours here. It never grows old. It <gap extent="1" unit="words" agent="hole"/>
+<lb/>find its way into the hearts of the Bakh<gap extent="1" unit="words" agent="hole"/>
 <lb/>it will it must.</p>
-<lb/><p>I have written to you very hurriedly<gap agent="hole"/>
+<lb/><p>I have written to you very hurriedly <gap extent="1" unit="words" agent="hole"/>
 <lb/>understand it is strictly private. I do not 
 <lb/>like notoriety. it creates envy. Will you
 <lb/>kindly jog <persName>Mr Arundel</persName>'s memory for me
@@ -223,42 +224,36 @@
 <lb/>medicines will suffice. A good watch is very 
 <lb/>valuable however. We must try &amp; make something <add place="below">of it</add></p>
 
-	<cb rend="right vertical"/>
-	<ab>
-<lb/>I have written <persName>Mr <choice><sic>Arundell</sic><corr>Arundel</corr></choice></persName> by same opportunity
-	</ab>
-        </div>
-		
-		<div>
-	<cb rend="left vertical upside-down"/>
-	<ab>
-<lb/><gap agent="hole"/>
-	<address>
+
+	<cb rend="left vertical"/>
+	<ab><address>
 <addrLine>Care of <persName><choice><abbr>Rev.</abbr><expan>Reverend</expan></choice> D<hi rend="sup underline">r</hi> Philip</persName>. <placeName><settlement type="town"><hi rend="underline">Cape Town</hi></settlement></placeName></addrLine>
 	</address>
 	<addSpan hand="#U2" spanTo="#paste-on"/>
-<lb/>An Original letter of <persName>Dr. <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName>'s
-<lb rend="center"/><milestone unit="section" rend="quarter-line"/>
-<lb/>Presented by
-<lb/><persName>Mr <choice><abbr>Rev<hi rend="sup">d</hi></abbr><expan>Reverend</expan></choice> <unclear cert="low">J.</unclear> H. Bateman</persName>
-<lb/><gap extent="1" unit="words" agent="overwriting"/>
-<lb/><gap extent="1" unit="words" agent="overwriting"/>
+<lb/><seg rend="brown"><space extent="2" unit="words"/>An Original letter of <persName>Dr. <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName>'s</seg>
+<lb/><space extent="2" unit="words"/><milestone unit="section" rend="right brown quarter-line"/>
+<lb/><seg rend="brown"><space extent="2" unit="words"/>Presented by
+<lb/><space extent="3" unit="words"/><persName>Mr <choice><abbr>Rev<hi rend="sup">d</hi></abbr><expan>Reverend</expan></choice> <unclear cert="low">J.</unclear> H. Bateman</persName>
+<lb/><space extent="4" unit="words"/><gap extent="1" unit="words" agent="overwriting"/>
+<lb/><space extent="5" unit="words"/><gap extent="1" unit="words" agent="overwriting"/></seg>
 	<anchor xml:id="paste-on"/>
 	<address>
-<addrLine rend="center"><placeName>Mission House</placeName></addrLine>
-<addrLine rend="center"><space extent="1" unit="words"/><placeName>Bloomfield St</placeName></addrLine>
-<addrLine rend="right"><add place="marginleft"><hi rend="underline">single</hi></add><placeName>London</placeName></addrLine>
-	</address>
-	</ab>
+<addrLine><space extent="4" unit="words"/><placeName>Mission House</placeName></addrLine>
+<addrLine><space extent="5" unit="words"/><space extent="1" unit="words"/><placeName>Bloomfield St</placeName></addrLine>
+<addrLine><add rend="small"><hi rend="underline">single</hi></add> <space extent="6" unit="words"/><placeName>London</placeName></addrLine>
+	</address></ab>
 
 <!-- circular stamp
 KK
 22N022
 1845 -->
-		</div>
 
-		<div>
-<lb/><p>If you find time to write again write a long one
+	<cb rend="vertical upside-down"/>
+	<ab>
+<lb/>I have written <persName>Mr <choice><sic>Arundell</sic><corr>Arundel</corr></choice></persName> by same opportunity
+	</ab>
+
+<lb/><p rend="no-indent">If you find time to write again write a long one
 <lb/>and it will be all the more acceptable to.</p> 
 <lb/><closer><space extent="1" unit="words"/>your affectionate brother in the faith
 <lb/><space extent="2" unit="words"/>&amp; hope of the gospel <signed><persName><choice><abbr>D</abbr><expan>David</expan></choice> Livingstone</persName></signed></closer>
