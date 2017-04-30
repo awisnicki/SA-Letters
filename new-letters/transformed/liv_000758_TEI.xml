@@ -90,7 +90,7 @@
                
 	<pb facs="liv_000758_0001" n="0001"/>
 <opener>
-<lb/><dateline rend="center"><choice><abbr>No</abbr><expan>Number</expan></choice>4 <placeName><settlement type="town">Cape Town</settlement></placeName> <date when="1852-05-28">28 <hi rend="sup">th</hi> May 1852</date></dateline></opener>
+<lb/><space extent="4" unit="words"/><choice><abbr>No</abbr><expan>Number</expan></choice> 4 <space extent="1" unit="words"/><dateline><placeName><settlement type="town">Cape Town</settlement></placeName> <date when="1852-05-28">28 <hi rend="sup">th</hi> May 1852</date></dateline></opener>
 <lb/>
 <lb/><salute>My ever dear <persName>Mary</persName></salute>
 <lb/><p><space extent="16" unit="chars"/>This is the last note I can write
@@ -171,18 +171,18 @@
 <lb/>us in the event of anyone of our children going to college
 <lb/><choice><sic>Dont</sic><corr>Don't</corr></choice> let the children speak Scotch, nor aspirate the words
 <lb/>as the <term type="people">English</term> do. The hegg of a 'enn</p> <!--Does this phrase need to be coded in any way? Also, possibly an interesting tweet? -AA --><!-- the egg of a hen. EM -->
-<lb/><p><space extent="18" unit="chars"/><bibl>2 letters</bibl> in another envelope by
+<lb/><p rend="no-indent"><space extent="16" unit="chars"/><bibl>2 letters</bibl> in another envelope by
 <lb/><space extent="18" unit="chars"/>same mail</p>
 
 <cb rend="vertical"/>
 <ab>
 <address>
 <addrLine><hi rend="underline">Prepaid</hi></addrLine>
-<addrLine rend="center"><persName>M<hi rend="sup underline">rs</hi> <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></addrLine>
-<addrLine rend="center">Care of <persName><term type="occupation"><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice></term> Dr. Tidman </persName></addrLine>
-<addrLine rend="right"><placeName>Mission House</placeName></addrLine>
-<addrLine rend="right"><placeName>Blomfield <choice><abbr>St.</abbr><expan>Street</expan></choice></placeName></addrLine>
-<addrLine rend="right"><placeName><settlement type="city">London</settlement></placeName></addrLine>
+<addrLine><space extent="2" unit="words"/><persName>M<hi rend="sup underline">rs</hi> <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></addrLine>
+<addrLine><space extent="1" unit="words"/>Care of <persName><term type="occupation"><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice></term> Dr. Tidman </persName></addrLine>
+<addrLine><space extent="3" unit="words"/><placeName>Mission House</placeName></addrLine>
+<addrLine><space extent="3" unit="words"/><space extent="2" unit="chars"/><placeName>Blomfield <choice><abbr>St.</abbr><expan>Street</expan></choice></placeName></addrLine>
+<addrLine><space extent="4" unit="words"/><space extent="1" unit="chars"/><placeName><settlement type="city">London</settlement></placeName></addrLine>
 </address><!-- 4 Postal Marks and red squiggles EM-->
 </ab> 
 
@@ -190,8 +190,8 @@
 <lb/><p>Farewell my dearest my own sweet love
 <lb/>When shall I see you again. I shall write
 <lb/>you from <placeName><geogName type="waterfall">Victoria</geogName></placeName> perhaps or certainly
-<lb/>from <placeName><settlement type="village">Kuruman</settlement></placeName>.</p> <closer>God bless &amp; comfort
-<lb/>you love to the children. <signed><persName><choice><abbr>D</abbr><expan>David</expan></choice> <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></signed></closer>
+<lb/><space extent="2" unit="chars"/>from <placeName><settlement type="village">Kuruman</settlement></placeName>. God bless &amp; comfort
+<lb/><space extent="2" unit="chars"/>you love to the children. <space extent="1" unit="chars"/><persName><choice><abbr>D</abbr><expan>David</expan></choice> <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName></p>
 
                 
             </div>
