@@ -81,13 +81,13 @@
 	<pb facs="liv_000860_0001" n="0001"/><!-- Change both @facs and @n -->
 	
 <opener>
-<lb/><dateline rend="right"><add place="above marginleft" rend="gray" hand="#U">G.13.b.45(47.1)</add> <placeName><geogName type="bank">Banks of <placeName><geogName type="river"><choice><abbr>R.</abbr><expan>River</expan></choice> Chobe</geogName></placeName></geogName></placeName> 
-<lb/><date when="1855-09-12">12 <choice><abbr>Sep<hi rend="sup">t</hi></abbr><expan>September</expan></choice> <choice><abbr>/55</abbr><expan>1855</expan></choice></date></dateline>
+<lb/><dateline><add place="above marginleft" rend="gray" hand="#U">G.13.b.45(47.1)</add> <placeName><geogName type="bank">Banks of <placeName><geogName type="river"><choice><abbr>R.</abbr><expan>River</expan></choice> Chobe</geogName></placeName></geogName></placeName> 
+<lb/><space extent="5" unit="words"/><date when="1855-09-12">12 <choice><abbr>Sep<hi rend="sup">t</hi></abbr><expan>September</expan></choice> <choice><abbr>/55</abbr><expan>1855</expan></choice></date></dateline>
 <lb/><persName>Alfred Duprat Esquire</persName>    
-<lb rend="center"/><salute>My Dear Sir</salute><!-- Change line info as appropriate -->
+<lb/><space extent="2" unit="words"/><salute>My Dear Sir</salute><!-- Change line info as appropriate -->
 </opener>
 
-<lb/><p rend="right">I have an
+<lb/><p><space extent="3" unit="words"/>I have an
 <lb/>unexpected opportunity
 <lb/>of sending <bibl>notes</bibl> to
 <lb/><placeName><country>Angola</country></placeName> and having
@@ -103,7 +103,7 @@
 <cb rend="vertical"/>
 <ab>
 <lb/>I go down the <geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName> next month, cannot
-<lb/>possibly add more <persName>David Livingstone</persName>
+<lb/><space extent="2" unit="chars"/>possibly add more <persName>David Livingstone</persName>
 </ab><!-- Closer. AW -->
 
 	<pb facs="liv_000860_0002" n="0002"/>
@@ -118,13 +118,16 @@
 <lb/><orgName><region>Cape</region> <choice><abbr>Agr<hi rend="sup">l</hi></abbr><expan>Agricultural</expan></choice> Society</orgName> will
 <lb/>be published in the
 <lb/><bibl>Bulletin</bibl>.  <space extent="1" unit="chars"/>and as
-<lb/>more <add place="inspace">x</add> <add place="marginleft" rend="vertical">x more than double</add> is given for<!-- DL uses the inline x to mark an addition in the margin. AW -->
+<lb/>more <add place="inspace">x</add> is given for<!-- DL uses the inline x to mark an addition in the margin. AW -->
 <lb/>the <choice><abbr>lb</abbr><expan>pound</expan></choice> of common
 <lb/>wax on the banks of
 <lb/>the <placeName><geogName type="river"><choice><orig>Quango</orig><reg>Kwango</reg></choice></geogName></placeName> upwards
 <lb/>of <measure>300 miles</measure> from the
 <lb/>coast than suffices
 <lb/>for raising a <choice><abbr>lb</abbr><expan>pound</expan></choice> of <choice><sic>of</sic><corr/></choice>
+
+<cb/>
+<lb/><add place="marginleft" rend="vertical">x more than double</add>
 
 	<pb facs="liv_000860_0003" n="0003"/>
 <lb/>berry wax. Its introduction
@@ -139,12 +142,6 @@
 <lb/>for redistribution.  The first
 <lb/>of the <term type="plant_foodstuff"><placeName><country>Angola</country></placeName> seeds</term> were
 <lb/>a few <term type="plant_foodstuff">Mocha berries</term> <add place="inspace">x</add>
-<add place="marginleft" rend="vertical"><note>
-<lb/>the <term type="occupation">missionaries</term> introduced <del type="strikethrough">introduced</del>
-<lb/>many delicious <term type="plant_foodstuff"><placeName><bloc>South America</bloc></placeName>n fruits</term>
-<lb/>what would you give for miles of 
-<lb/><term type="plant_foodstuff"><choice><sic>pine apple</sic><corr>pineapple</corr></choice></term> <unclear cert="high">road edging</unclear> at the <placeName><region>Cape</region></placeName>
-</note></add>
 <lb/>brought by a <term type="occupation">missionary</term>
 <lb/>The <term type="occupation">missionaries</term> are
 <lb/>all dead but the
@@ -153,24 +150,34 @@
 <lb/>plantations of it are
 <lb/>discovered daily and
 
+<cb/>
+<lb/><add place="marginleft" rend="vertical">the <term type="occupation">missionaries</term> introduced <del type="strikethrough">introduced</del>
+<lb/>many delicious <term type="plant_foodstuff"><placeName><bloc>South America</bloc></placeName>n fruits</term>
+<lb/>what would you give for miles of 
+<lb/><term type="plant_foodstuff"><choice><sic>pine apple</sic><corr>pineapple</corr></choice></term> <unclear cert="high">road edging</unclear> at the <placeName><region>Cape</region></placeName></add>
+
+
 	<pb facs="liv_000860_0004" n="0004"/>
 <lb/>the <term type="foodstuff">coffee</term> is really the best I 
-<lb/>ever tasted. It is of great importance to have the best
+<lb/>ever tasted. It is of great 
+<lb/>importance to have the best
 <lb/>seed when commencing it,
 <lb/>cultivation as at <placeName><region>Natal</region></placeName>
 <lb/>I brought a lot here
 <lb/>but cannot send it.</p>
             </div>
 
+<lb/>
+<lb/>
 <!-- 2 Postal Marks EM-->
 
 			<div rend="upside-down">
 <ab>
 <address>
-<addrLine rend="center"><hi rend="underline">via <placeName><geogName type="island">St Helena</geogName></placeName></hi></addrLine>
-<addrLine rend="center"><persName>Alfred Duprat Esquire</persName></addrLine>
-<addrLine rend="right"><placeName><settlement type="town">Cape Town</settlement></placeName></addrLine>
-<addrLine rend="right"><placeName><region>Cape of Good Hope</region></placeName></addrLine>
+<addrLine><space extent="1" unit="words"/><hi rend="underline">via <placeName><geogName type="island">St Helena</geogName></placeName></hi></addrLine>
+<addrLine><persName>Alfred Duprat Esquire</persName></addrLine>
+<addrLine><space extent="2" unit="words"/><placeName><settlement type="town">Cape Town</settlement></placeName></addrLine>
+<addrLine><space extent="1" unit="words"/><placeName><region>Cape of Good Hope</region></placeName></addrLine>
 </address>
 </ab>
 			</div>
