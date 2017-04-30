@@ -106,10 +106,10 @@
             <div>
                
 	<pb facs="liv_000640_0001" n="0001"/><!-- term type="language"? check throughout. MB --><!-- Done. AW -->
-<lb/><opener><dateline><placeName><settlement type="village">Kolobeng</settlement></placeName>, <placeName><region><term type="tribe"><choice><orig>Bakwain</orig><reg>Bakwena</reg><reg>Kwena</reg></choice></term> Country</region></placeName><!-- Did I handle this correctly? EM --><!-- Fixed. AW --> <date when="1847-08-13">13 August <lb/>1847</date></dateline>
-<lb/>    
-<lb/><salute>My Dear Brother</salute></opener><!-- Change line info as appropriate -->
-<lb/><p>We <choice><sic>recieved</sic><corr>received</corr></choice> your favour dated <date when="1846-08"><choice><abbr>Aug<hi rend="sup">t</hi></abbr><expan>August</expan></choice> /46</date> while at <placeName><settlement type="village">Kuruman</settlement></placeName> and returned at least in
+<lb/><opener><dateline><space extent="16" unit="words"/><placeName><settlement type="village">Kolobeng</settlement></placeName>, <placeName><region><term type="tribe"><choice><orig>Bakwain</orig><reg>Bakwena</reg><reg>Kwena</reg></choice></term> Country</region></placeName><!-- Did I handle this correctly? EM --><!-- Fixed. AW --> <date when="1847-08-13">13 August 
+<lb/><space extent="24" unit="words"/>1847</date></dateline>
+<lb/><space extent="2" unit="chars"/><salute>My Dear Brother</salute></opener><!-- Change line info as appropriate -->
+<lb/><p><space extent="4" unit="words"/>We <choice><sic>recieved</sic><corr>received</corr></choice> your favour dated <date when="1846-08"><choice><abbr>Aug<hi rend="sup">t</hi></abbr><expan>August</expan></choice> /46</date> while at <placeName><settlement type="village">Kuruman</settlement></placeName> and returned at least in
 <lb/>quantity an equivalent. Let this <bibl>large sheet</bibl><!-- Correct Identifier? EM--><!-- Yes. AW --> be added to the <bibl>former</bibl> and leave quality out of the question
 <lb/>and you will never again be able to utter your complaint about "return letters" The circumstances
 <lb/>in which I am at present placed and the object I have in view in writing at present are the following
@@ -157,17 +157,17 @@
 <lb/>Ō as in broad sought broth. <space extent="1" unit="chars"/><foreign xml:lang="tn">Tlōtla</foreign> strain (a liquid) <foreign xml:lang="tn">Lōpa</foreign> to ask
 <lb/>U as in <w>c<hi rend="underline">u</hi>shion</w>. cuck<hi rend="underline">oo</hi> soothe <space extent="1" unit="chars"/><foreign xml:lang="tn">Lekuka</foreign> a milk sack - <unclear cert="medium"><foreign xml:lang="tn">Phupu'</foreign></unclear>
 <lb/>a grave - <foreign xml:lang="tn">ruta</foreign> <choice><abbr>v.</abbr><expan>verb</expan></choice> teach <foreign xml:lang="tn">pula</foreign> rain.</p>
-<lb/><p>ae - dipthong as English I - in <w>h<hi rend="underline">i</hi>gh</w> <w>l<hi rend="underline">i</hi>e</w> <w>al<hi rend="underline">i</hi>ke</w> <space extent="1" unit="chars"/><foreign xml:lang="tn"><w>Tsam<hi rend="underline">ae</hi>a</w></foreign><!-- unsure since there is no J listed in the alphabet. MB --> <choice><abbr>v</abbr><expan>verb</expan></choice> go <w>r<hi rend="underline">ae</hi>a</w> say <unclear cert="medium"><foreign xml:lang="tn"><w>Tlatlatl<hi rend="underline">ai</hi>a</w></foreign></unclear>
-<lb/><choice><abbr>v.</abbr><expan>verb</expan></choice> load a gun - put one thing into <add place="above">or on</add> another - as putting a kettle on the fire &amp;c <foreign xml:lang="tn">Caēa</foreign> <choice><abbr>v</abbr><expan>verb</expan></choice> place or put<add place="below">as <foreign xml:lang="tn">pono</foreign></add>
+<lb/><p rend="no-indent">ae - dipthong as English I - in <w>h<hi rend="underline">i</hi>gh</w> <w>l<hi rend="underline">i</hi>e</w> <w>al<hi rend="underline">i</hi>ke</w> <space extent="1" unit="chars"/><foreign xml:lang="tn"><w>Tsam<hi rend="underline">ae</hi>a</w></foreign><!-- unsure since there is no J listed in the alphabet. MB --> <choice><abbr>v</abbr><expan>verb</expan></choice> go <w>r<hi rend="underline">ae</hi>a</w> say <unclear cert="medium"><foreign xml:lang="tn"><w>Tlatlatl<hi rend="underline">ai</hi>a</w></foreign></unclear>
+<lb/><choice><abbr>v.</abbr><expan>verb</expan></choice> load a gun - put one thing into <add place="above">or on</add> another - as putting a kettle on the fire &amp;c <foreign xml:lang="tn">Caēa</foreign> <choice><abbr>v</abbr><expan>verb</expan></choice> place or put <add place="below">as <foreign xml:lang="tn">pono</foreign></add></p>
 
 	<pb facs="liv_000640_0002" n="0002"/>
-<lb/>Oe dipthong as in -que or <w><hi rend="underline">wi</hi>g</w> <unclear cert="low">we</unclear> is nearly the same in sound but scarcely so full
+<lb/><p rend="no-indent">Oe dipthong as in -que or <w><hi rend="underline">wi</hi>g</w> <unclear cert="low">we</unclear> is nearly the same in sound but scarcely so full
 <lb/>in sound as <unclear cert="low">be</unclear>. <term type="tribe"><choice><orig>Bakwena</orig><reg>Kwena</reg></choice></term> can be spelled so or <term type="tribe"><choice><orig>Bakoena</orig><reg>Bakwena</reg><reg>Kwena</reg></choice></term> or <term type="tribe"><choice><orig>Bakwaina</orig><reg>Bakwena</reg><reg>Kwena</reg></choice></term> or
 <lb/><term type="tribe"><choice><orig>Baquana</orig><reg>Bakwena</reg><reg>Kwena</reg></choice></term><!-- Should these be coded differently? EM --><!-- Done. AW --> - <space extent="1" unit="chars"/><foreign xml:lang="tn">gague</foreign> is pronounced as if spelled <del type="strikethrough">with</del> <foreign xml:lang="tn">gagure</foreign> (his) <foreign xml:lang="tn">Leshue</foreign> filthy, <foreign xml:lang="tn">Sebegoe</foreign>
 <lb/>a thing found in the field</p>
-<lb/><p>Sh. as in <w>di<hi rend="underline">sh</hi></w> <w>fi<hi rend="underline">sh</hi></w> <w><hi rend="underline">sh</hi>all</w> <del type="strikethrough"><unclear cert="low"><persName><term type="occupation"><choice><abbr>Fr.</abbr><expan>Father</expan></choice></term> J.</persName> in <placeName>Jour</placeName></unclear></del><!-- deleted persName? MB --><!-- Fixed. AW --> <foreign xml:lang="tn"><w>ma<hi rend="underline">sh</hi>i</w></foreign> milk <foreign xml:lang="tn">sesheshe</foreign> a blossom or flower
-<lb/><foreign xml:lang="tn">Leshashe</foreign> a coward. <foreign xml:lang="tn">Shoñkoe</foreign> a plant (asclepias?)
-<lb/>C as in Italian <foreign xml:lang="it">vocce</foreign><!-- Does this need Italian language identifier? EM--><!-- No. Aw -->, or as ch in <w><hi rend="underline">c</hi>hurch</w> <w>lun<hi rend="underline">c</hi>h</w> <unclear cert="high">ç</unclear><!-- unsure. MB --><!-- I think this is it. AW --> <foreign xml:lang="tn"><w><hi rend="underline">c</hi>aka</w></foreign> a battle axe
+<lb/><p rend=" no-indent">Sh. as in <w>di<hi rend="underline">sh</hi></w> <w>fi<hi rend="underline">sh</hi></w> <w><hi rend="underline">sh</hi>all</w> <del type="strikethrough"><unclear cert="low"><persName><term type="occupation"><choice><abbr>Fr.</abbr><expan>Father</expan></choice></term> J.</persName> in <placeName>Jour</placeName></unclear></del><!-- deleted persName? MB --><!-- Fixed. AW --> <foreign xml:lang="tn"><w>ma<hi rend="underline">sh</hi>i</w></foreign> milk <foreign xml:lang="tn">sesheshe</foreign> a blossom or flower
+<lb/><foreign xml:lang="tn">Leshashe</foreign> a coward. <foreign xml:lang="tn">Shoñkoe</foreign> a plant (asclepias?)</p>
+<lb/><p rend="no-indent">C as in Italian <foreign xml:lang="it">vocce</foreign><!-- Does this need Italian language identifier? EM--><!-- No. AW -->, or as ch in <w><hi rend="underline">c</hi>hurch</w> <w>lun<hi rend="underline">c</hi>h</w> <unclear cert="high">ç</unclear><!-- unsure. MB --><!-- I think this is it. AW --> <foreign xml:lang="tn"><w><hi rend="underline">c</hi>aka</w></foreign> a battle axe
 <lb/><foreign xml:lang="tn">coga rise cukūru</foreign> a <term type="animal">rhinoceros</term> all pronounced as if spelled with ch. the last
 <lb/>in <term type="nationality">English</term> orthography would be <foreign xml:lang="tn">Chåskooroo</foreign></p>
 <lb/><p rend="no-indent">Ñ with the circumflex over it is the same as the Spanish ñ or English ing in
@@ -218,7 +218,8 @@
 <lb/><item><foreign xml:lang="tn">Tsétla</foreign> yellow </item>
 <lb/><item><foreign xml:lang="tn">Tsetla</foreign> the bladder</item>
 <lb/><item><foreign xml:lang="tn">Tséga</foreign> laugh</item>
-<lb/><item><foreign xml:lang="tn">Tsega</foreign> the covering of the <add place="below">genitals (now descriptuned<!-- unsure of this word. MB --><!-- Some kind of grammar term. AW -->)</add></item>
+<lb/><item><foreign xml:lang="tn">Tsega</foreign> the covering of the 
+<lb/><space extent="1" unit="words"/><space extent="2" unit="chars"/><add place="inspace" rend="small">genitals (now descriptuned<!-- unsure of this word. MB --><!-- Some kind of grammar term. AW -->)</add></item>
 </list>
 
 <cb rend="right vertical upside-down"/> 
@@ -229,25 +230,25 @@
 <lb/>temporary huts finished<!-- or finished? MB --><!-- I am sure this is finished. JM --> - school
 <lb/>nearly so - Will begin watercourse
 <lb/>in a day or two - <persName>Mary</persName> salutes you
-<lb/>&amp; <persName>Helen</persName> kindly, &amp; you may</ab>
-<lb/><closer><salute>believe us yours affectionately</salute>
-<lb/><signed><space extent="15" unit="chars"/><persName><choice><abbr>D.</abbr><expan>David</expan></choice> <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName> -</signed>
+<lb/>&amp; <persName>Helen</persName> kindly, &amp; you may 
+<lb/><space extent="2" unit="chars"/>believe us yours affectionately
+<lb/><space extent="17" unit="chars"/><persName><choice><abbr>D.</abbr><expan>David</expan></choice> <choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName> -
 <lb/><unclear cert="low">If <persName>Sechele</persName></unclear> knew I was writing you he would
 <lb/>send many salutations I shall tell him I have sent
-<lb/>them for him tomorrow.
+<lb/><space extent="2" unit="chars"/>them for him tomorrow.
 <lb/>
-<lb/><unclear>He</unclear> goes early -</closer>
+<lb/><space extent="4" unit="words"/><unclear>He</unclear> goes early -</ab>
             </div>
 
 			<div>
 
 	<pb facs="liv_000640_0003" n="0003"/>
-<lb/><p>The foregoing are what occur to me at the moment - Had I <choice><orig>leizure</orig><reg>leisure</reg></choice> it would be easy to <choice><orig>shew</orig><reg>show</reg></choice> you that
+<lb/><p rend="no-indent">The foregoing are what occur to me at the moment - Had I <choice><orig>leizure</orig><reg>leisure</reg></choice> it would be easy to <choice><orig>shew</orig><reg>show</reg></choice> you that
 <lb/>the most egregious blunders may be committed by the <choice><sic>ommission</sic><corr>omission</corr></choice> of the aspirate or by substituting
 <lb/>the long for the short O - the é for its neighbour e. In <bibl><persName>M<hi rend="sup">r</hi> Lemure</persName>'s Proverbs</bibl> there are no lack of
 <lb/>errors of the sort. <unclear cert="medium"><foreign xml:lang="tn">Matlo advents</foreign></unclear> is the word invariably used for maitlo eyes. A <orgName>native</orgName> will know
-<lb/>what you mean if you make the a in <foreign xml:lang="tn">Mātlo</foreign> very long but never if pronounced matlo
-<lb/><space extent="2" unit="chars"/><foreign xml:lang="tn">Alaga</foreign> <choice><abbr>v</abbr><expan>verb</expan></choice> charm or heal, is printed halaha which has no meaning whatever - I once heard
+<lb/>what you mean if you make the a in <foreign xml:lang="tn">Mātlo</foreign> very long but never if pronounced matlo</p>
+<lb/><p><foreign xml:lang="tn">Alaga</foreign> <choice><abbr>v</abbr><expan>verb</expan></choice> charm or heal, is printed halaha which has no meaning whatever - I once heard
 <lb/>in a <foreign xml:lang="tn">pico</foreign> (peetsho) called for the purpose of proposing a <term type="occupation">missionary</term> settlement in the tribe the
 <lb/>following statement &amp; it was reiterated on subsequent occasions although I pointed it out to the
 <lb/>individual by asking the meaning of the word of a <orgName>native</orgName> in his presence - "<persName>Jesus</persName> <hi rend="underline">cleaved</hi> to our
@@ -255,7 +256,7 @@
 <lb/>adhere to or refuse to give up. As a man to his wife who having left him he follows and perserveres
 <lb/>in attempting to bring back. He meant to say "died for." I mention this for your own instruction
 <lb/>I often think of it as a spur to myself to attain a better knowledge of the language</p>
-<lb/><p>After the orthography which I <choice><sic>concieve</sic><corr>conceive</corr></choice> to be nearly perfect as a means of reducing
+<lb/><p><space extent="2" unit="chars"/>After the orthography which I <choice><sic>concieve</sic><corr>conceive</corr></choice> to be nearly perfect as a means of reducing
 <lb/>the language - It will be well to direct to your attention to the system of <hi rend="underline">signs</hi> the
 <lb/>frequent repetition of which forms a remarkable feature in all the dialects - Probably that
 <lb/>and the changes effected by prefixes <w>form<gap extent="1" unit="chars" agent="blot"/></w> its distiguishing characteristics as a tongue <space extent="1" unit="chars"/><persName>D<hi rend="sup underline">r</hi>
@@ -269,21 +270,21 @@
 <lb/>cannot be translated into English except in some cases and then it is by - "That which"
 <lb/>or "the" or "it" Any attempt to arrange them as pronouns would be a failure for
 <lb/>there are true pronouns besides. Indeed I believe if a perfect grammar is ever made
-<lb/>it will be by thinking as little as possible of the grammars of the <unclear cert="medium">Japetian</unclear> <!-- Could refer to the titan Japetus or biblical Japeth. MB --> tongues
+<lb/>it will be by thinking as little as possible of the grammars of the Japetian <!-- Could refer to the titan Japetus or biblical Japeth. MB --> tongues
 <lb/>Before attempting to arrange them in classes I shall give you an example of common repetition</p>
 
 	<cb n="1" rend="left"/>
-<lb/><p>The sign of <foreign xml:lang="tn">motse</foreign> a town is o
-<lb/><foreign xml:lang="tn">Ga re na motse mo hatsiñ
-<lb/>Re batla moñue kna gerini
-<lb/>Kua jesu o agañ goñā
-<lb/>Ko ona o re o batlañ
-<lb/>Ki motse o o tlotlegañ
-<lb/><space extent="3" unit="chars"/>Ki motse oa rona</foreign><metamark/></p><!-- Livingstone draws a brackets around this section, would this be the correct way to transcribe this? Or should I use <cb>? EM --><!-- Yes, cb. AW -->
-
+<lb/><p rend="no-indent">The sign of <foreign xml:lang="tn">motse</foreign> a town is o
+<lb/><space extent="1" unit="words"/><foreign xml:lang="tn">Ga re na motse mo hatsiñ
+<lb/><space extent="1" unit="words"/>Re batla moñue kna gerini
+<lb/><space extent="1" unit="words"/>Kua jesu o agañ goñā
+<lb/><space extent="1" unit="words"/>Ko ona o re o batlañ
+<lb/><space extent="1" unit="words"/>Ki motse o o tlotlegañ
+<lb/><space extent="1" unit="words"/><space extent="3" unit="chars"/>Ki motse oa rona</foreign><metamark/></p><!-- Livingstone draws a brackets around this section, would this be the correct way to transcribe this? Or should I use <cb>? EM --><!-- Yes, cb. AW -->
+<lb/>
 
 	<cb n="2" rend="right"/>
-<lb/><p>The sign of <foreign xml:lang="tn">motse</foreign> is in <foreign xml:lang="tn">moñue</foreign> in the second line
+<lb/><p rend="no-indent"><metamark/>The sign of <foreign xml:lang="tn">motse</foreign> is in <foreign xml:lang="tn">moñue</foreign> in the second line
 <lb/>Again three times over in the fourth &amp; in the fifth
 <lb/>the word with its sign twice over - Examples might
 <lb/>easily be cited in which it is much more fequently
@@ -302,7 +303,7 @@
 <lb/>wingless insect of domestic habits yet not respected <foreign xml:lang="tn">Uñkoe</foreign> <term type="animal">tiger</term> - you may make the above
 <lb/>into a <unclear cert="high">rule</unclear> to assist memory. <space extent="2" unit="chars"/>Initial <foreign xml:lang="tn">Cektipu</foreign> hath e. or any other cabalistic word
 <lb/>you like to manufacture</p>
-<lb/><p rend="no-indent">Before proceeding to another lot you may remember that intial <foreign xml:lang="tn">Cektipu</foreign> forms the
+<lb/><p rend="no-indent"><metamark/>Before proceeding to another lot you may remember that intial <foreign xml:lang="tn">Cektipu</foreign> forms the
 <lb/>plural by the prefix "li" <foreign xml:lang="tn">Licaka liñkho likañkashi litolo lipitse linta <del type="strikethrough"><gap extent="6" unit="chars" agent="illegible"/></del>
 <lb/>liñkoe</foreign> (there is a slight u sound in the latter &amp; perhaps it ought to be spelled linũkoe
 <lb/>the plural signs of this class are "<foreign xml:lang="tn">li tse ri tsa</foreign>" according to their position in the
@@ -335,9 +336,37 @@
 <lb/><persName>Paul</persName> <persName>Isaac</persName> &amp; our man <persName>Friday</persName> (<persName>Morukanelo</persName>) have for the first time - in their lives got up square
 <lb/>huts of poles &amp; reed - the <term type="occupation">chief</term> without any suggestion from me - determined to erect the
 <lb/>school. I desire said he that you be at no expense whatever, I wish to build a house for God
-<lb/>who is the defence of my town, I shall call upon all the people to <add place="below">^</add> <add place="above">cut</add> wood &amp;c it <del type="strikethrough"><unclear cert="medium">must</unclear></del> <add place="above">will</add>  be my work
+<lb/>who is the defence of my town, I shall call upon all the people to <add place="below">^</add> <add place="above">cut</add> wood &amp;c it <del type="strikethrough"><unclear cert="medium">must</unclear></del> <add place="above">will</add>  be my work</p>
 
-<lb/>He proposed likewise that after the school was built we should have an interchange of works
+	<cb rend="vertical"/>
+	<ab><address>
+<addrLine><hi rend="underline">Care of <persName>T. J. Mathew <choice><abbr>Esq<hi rend="sup">re</hi></abbr><expan>Esquire</expan></choice></persName> <placeName><settlement type="town">Cape Town</settlement></placeName></hi></addrLine>
+<lb/>
+<lb/> 
+<addrLine><space extent="2" unit="words"/><persName>M<hi rend="sup">r</hi> Robert Moffat</persName></addrLine>
+<addrLine><space extent="2" unit="words"/>Care of <persName><unclear>Miss</unclear> Eisdell</persName></addrLine>
+<addrLine><space extent="3" unit="words"/><placeName>7 Walworth Place</placeName></addrLine>
+<addrLine><space extent="4" unit="words"/><placeName><region>Walworth</region></placeName></addrLine>
+<addrLine><space extent="3" unit="words"/><hi rend="underline large"><placeName><settlement type="city">London</settlement></placeName></hi></addrLine>
+<addrLine><persName><hi rend="underline small"><choice><orig>Livingston</orig><reg>Livingstone</reg></choice></hi></persName></addrLine>
+	</address></ab>
+<lb/>
+
+
+	<cb rend="right vertical upside-down"/> 
+	<ab>
+<lb/>You must go still farther <choice><abbr>N.</abbr><expan>North</expan></choice> or <choice><abbr>N.E.</abbr><expan>North East</expan></choice> &amp; try for yourself, there is plenty of room
+<lb/><hi rend="underline"><unclear cert="medium"><app><rdg>itinerary</rdg><rdg>itineracy</rdg></app></unclear> is good if you have a permanent sphere -</hi> a focus
+	</ab>
+
+	<addSpan spanTo="#add-1" hand="#RM"/>
+<lb/><ab><placeName><settlement type="village">Kuruman</settlement></placeName> <date>26<hi rend="sup">th</hi></date><!-- month and year of this date are unknown AM -->. My <unclear cert="low">Dear</unclear> <persName>Robert</persName>, I forward this
+<lb/>as <choice><abbr>rec<hi rend="sup underline">d</hi></abbr><expan>received</expan></choice>? I have not a moment for <unclear cert="medium">remark</unclear> - My
+<lb/>goal so <unclear cert="medium">far</unclear> as it goes <persName><choice><abbr>R.M.</abbr><expan>Robert Moffat</expan></choice></persName>
+	</ab><anchor xml:id="add-1"/>
+
+	<cb/>
+<lb/><p rend="no-indent">He proposed likewise that after the school was built we should have an interchange of works
 <lb/>he doing some work for us which required a <orgName>number of men</orgName> &amp; we leaving that to him
 <lb/>should put a square house together for his use. We were glad of the proposition for
 <lb/>the making of a water course must be our first effort &amp; will require aid - as the season
@@ -354,34 +383,6 @@
 <lb/>should dispel the clouds of darkness &amp; death which cover the earth. But the longer one lives the
 <lb/>more one learns, All the success in <placeName><region><term type="tribe"><choice><orig>Bechuana</orig><reg>Batswana</reg></choice></term> land</region></placeName> belongs through the Divine favour to those
 <lb/>who preceded us in the field, We are beyond their line of things to have <add place="below">^</add> <add place="above">as</add> yet seen none</p>
-
-	<cb rend="vertical"/>
-	<ab>
-	<address>
-<addrLine><hi rend="underline">Care of <persName>T. J. Mathew <choice><abbr>Esq<hi rend="sup">re</hi></abbr><expan>Esquire</expan></choice></persName> <placeName><settlement type="town">Cape Town</settlement></placeName></hi></addrLine>
-<space dim="vertical" extent="5" unit="lines"/> 
-<addrLine><persName>M<hi rend="sup">r</hi> Robert Moffat</persName></addrLine>
-<addrLine>Care of <persName><unclear>Miss</unclear> Eisdell</persName></addrLine>
-<addrLine><placeName>Walworth Place</placeName></addrLine>
-<addrLine><placeName><region>Walworth</region></placeName></addrLine>
-<addrLine><hi rend="underline"><placeName><settlement type="city">London</settlement></placeName></hi></addrLine>
-<addrLine><persName><hi rend="underline"><choice><orig>Livingston</orig><reg>Livingstone</reg></choice></hi></persName></addrLine>
-	</address>	
-	</ab>
-
-<cb rend="right vertical upside-down"/> 
-	<ab>
-<lb/>You must go still farther <choice><abbr>N.</abbr><expan>North</expan></choice> or <choice><abbr>N.E.</abbr><expan>North East</expan></choice> &amp; try for yourself, there is plenty of room
-<lb/><hi rend="underline"><unclear cert="medium"><app><rdg>itinerary</rdg><rdg>itineracy</rdg></app></unclear> is good if you have a permanent sphere -</hi> a focus
-	</ab>
-
-	<addSpan spanTo="#add-1" hand="#RM"/><ab>
-<lb/><placeName><settlement type="village">Kuruman</settlement></placeName> <date>26<hi rend="sup">th</hi></date><!-- month and year of this date are unknown AM -->. My <unclear cert="low">Dear</unclear> <persName>Robert</persName>, I forward this
-<lb/>as <choice><abbr>rec<hi rend="sup underline">d</hi></abbr><expan>received</expan></choice>? I have not a moment for <unclear cert="medium">remark</unclear> - My
-<lb/>goal so <unclear cert="medium">far</unclear> as it goes <persName><choice><abbr>R.M.</abbr><expan>Robert Moffat</expan></choice></persName>
-	</ab><anchor xml:id="add-1"/>
-
-
 
             </div>
         </body>
