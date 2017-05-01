@@ -44,9 +44,9 @@
                         <country>South Africa</country>
                         <settlement>Johannesburg</settlement>
                         <repository>Brethurst Library</repository><!-- This may change with each volume of the MS. -->
-                        <idno type="shelfmark"></idno><!-- This may change with each volume of the MS. -->
+                        <idno type="shelfmark">MS. 023</idno><!-- This may change with each volume of the MS. -->
                         <altIdentifier>
-                            <idno type="ccnumber"></idno><!-- This may change with each volume of the MS. -->
+                            <idno type="ccnumber">Books, 01</idno><!-- This may change with each volume of the MS. -->
                         </altIdentifier>
                     </msIdentifier>
                     <physDesc>
@@ -244,7 +244,7 @@
 <!-- Text written perpendicular to the lines on page, between folds in the paper, sh  -->
 <!-- handwritting unidentified, sh -->
 <lb/><space dim="vertical" extent="9" unit="lines"/>
-<lb/><cb rend="vertical"/><p><add rend="black" hand="#U4">Leaves from <w>Manu<supplied>-</supplied>
+<lb/><cb rend="vertical"/><p rend="no-indent"><add rend="black" hand="#U4">Leaves from <w>Manu<supplied>-</supplied>
 <lb break="no"/>script</w> of <persName>D<hi rend="sup">r</hi> <w>Living-
 <lb break="no"/>stone</w></persName>'s <bibl>Travels in
 <lb/><placeName><bloc>Africa</bloc></placeName></bibl> given by the
